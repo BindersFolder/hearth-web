@@ -35,6 +35,7 @@ jobs:
         env:
           FEED_TOKEN: ${{ secrets.FEED_TOKEN }}
           HEARTH_PASSPHRASE: ${{ secrets.HEARTH_PASSPHRASE }}
+          FRIENDS_KEY: ${{ secrets.FRIENDS_KEY }}
         run: python scripts/publish.py
 
       - name: Commit and push

@@ -163,6 +163,7 @@ button { cursor: pointer; }
 .form-error { color: var(--down); font-weight: 600; }
 .form-error:empty { display: none; }
 .hl-footer { display: flex; justify-content: flex-end; }
+.list + .lock-card { margin-top: 12px; }
 
 /* Markets */
 .marquee {

@@ -5,7 +5,9 @@
 (() => {
   const FEED_URL = 'data/feed.json';
   const PRIVATE_URL = 'data/private.json';
-  const KEY_STORE = 'hearth.highlightsKey.v1';
+  const FRIENDS_URL = 'data/friends.json';
+  const PERSONAL_STORE = 'hearth.highlightsKey.v1';
+  const FRIENDS_STORE = 'hearth.friendsKey.v1';
   const PBKDF2_ITERATIONS = 200000;
   const STALE_MS = 3 * 60 * 60 * 1000;
   const WIDE = window.matchMedia('(min-width: 900px)');
@@ -13,11 +15,15 @@
 
   const state = {
     feed: null,
-    priv: null,
-    highlights: null,      // decrypted array, memory only
-    media: null,           // decrypted media object, memory only
-    key: null,             // CryptoKey for the current salt, memory only
+    priv: null,            // data/private.json (personal tier blob)
+    friends: null,         // data/friends.json (friends tier blob)
+    personal: null,        // decrypted {highlights, media}, memory only
+    key: null,             // personal CryptoKey for the current salt, memory only
     keySalt: null,
+    friendsMedia: null,    // decrypted media, memory only
+    friendsKey: null,
+    friendsSalt: null,
+    friendsSecret: null,   // from #f=KEY, held only until the first decrypt attempt
     lockNote: '',
     lastError: null,
     loading: false,
@@ -220,79 +226,132 @@
   }
   const cryptoReady = () => !!(window.crypto && crypto.subtle && window.isSecureContext);
 
-  async function deriveRawKey(passphrase, salt) {
-    const base = await crypto.subtle.importKey('raw', new TextEncoder().encode(passphrase), 'PBKDF2', false, ['deriveBits']);
+  async function deriveRawKey(secret, salt) {
+    const base = await crypto.subtle.importKey('raw', new TextEncoder().encode(secret), 'PBKDF2', false, ['deriveBits']);
     const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', hash: 'SHA-256', salt, iterations: PBKDF2_ITERATIONS }, base, 256);
     return new Uint8Array(bits);
   }
   const importAesKey = (raw) => crypto.subtle.importKey('raw', raw, { name: 'AES-GCM' }, false, ['decrypt']);
 
-  async function decryptPrivate(key, priv) {
+  async function decryptBlob(key, blob) {
     // WebCrypto expects ciphertext || 16-byte tag, which is what AESGCM.encrypt produces.
-    const pt = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64ToBytes(priv.iv), tagLength: 128 }, key, b64ToBytes(priv.ciphertext));
-    const data = JSON.parse(new TextDecoder().decode(pt));
-    // Older files hold a bare highlights array; newer ones {highlights, media}.
-    if (Array.isArray(data)) return { highlights: data, media: null };
-    const o = obj(data) || {};
-    return { highlights: arr(o.highlights), media: obj(o.media) };
+    const pt = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64ToBytes(blob.iv), tagLength: 128 }, key, b64ToBytes(blob.ciphertext));
+    return JSON.parse(new TextDecoder().decode(pt));
   }
-  function applyPrivate(p) { state.highlights = p.highlights; state.media = p.media; }
-  function clearPrivate() { state.highlights = null; state.media = null; }
-
   const isEncrypted = (p) => !!(p && !p.disabled && typeof p.salt === 'string' && typeof p.iv === 'string' && typeof p.ciphertext === 'string');
 
-  function readStoredKey() {
+  // Payload shapes, current and older.
+  function personalFrom(data) {
+    if (Array.isArray(data)) return { highlights: data, media: null };   // oldest: bare highlights array
+    const o = obj(data) || {};
+    return { highlights: arr(o.highlights), media: obj(o.media) };       // media here = pre-friends blob
+  }
+  function friendsFrom(data) {
+    const o = obj(data);
+    if (!o) return null;
+    if ('media' in o) return obj(o.media);
+    return o.breakingPoints ? o : null;                                  // bare media object
+  }
+
+  // Stored key material: {salt, key} where key is the PBKDF2 output (never the secret).
+  function readStore(name) {
     try {
-      const v = JSON.parse(localStorage.getItem(KEY_STORE) || 'null');
+      const v = JSON.parse(localStorage.getItem(name) || 'null');
       return v && typeof v.salt === 'string' && typeof v.key === 'string' ? v : null;
     } catch (_) { return null; }
   }
-  function forgetStoredKey() { try { localStorage.removeItem(KEY_STORE); } catch (_) { /* ignore */ } }
+  function writeStore(name, salt, raw) {
+    try { localStorage.setItem(name, JSON.stringify({ salt, key: bytesToB64(raw) })); } catch (_) { /* ignore */ }
+  }
+  function clearStore(name) { try { localStorage.removeItem(name); } catch (_) { /* ignore */ } }
 
-  async function autoUnlock() {
-    const priv = state.priv;
-    if (!isEncrypted(priv) || !cryptoReady()) { clearPrivate(); return; }
-    // Key already in memory for this salt?
-    if (state.key && state.keySalt === priv.salt) {
-      try { applyPrivate(await decryptPrivate(state.key, priv)); return; }
+  /* Personal tier: typed passphrase. */
+  async function autoUnlockPersonal() {
+    const blob = state.priv;
+    if (!isEncrypted(blob) || !cryptoReady()) { state.personal = null; return; }
+    if (state.key && state.keySalt === blob.salt) {
+      try { state.personal = personalFrom(await decryptBlob(state.key, blob)); return; }
       catch (_) { state.key = null; state.keySalt = null; }
     }
-    clearPrivate();
-    const stored = readStoredKey();
+    state.personal = null;
+    const stored = readStore(PERSONAL_STORE);
     if (!stored) return;
-    if (stored.salt !== priv.salt) {
-      forgetStoredKey();
+    if (stored.salt !== blob.salt) {
+      clearStore(PERSONAL_STORE);
       state.lockNote = 'The saved key no longer matches. Enter the passphrase again.';
       return;
     }
     try {
       const key = await importAesKey(b64ToBytes(stored.key));
-      applyPrivate(await decryptPrivate(key, priv));
-      state.key = key; state.keySalt = priv.salt;
+      state.personal = personalFrom(await decryptBlob(key, blob));
+      state.key = key; state.keySalt = blob.salt;
     } catch (_) {
-      forgetStoredKey();
+      clearStore(PERSONAL_STORE);
       state.lockNote = 'The saved key no longer works. Enter the passphrase again.';
     }
   }
 
   async function unlockWithPassphrase(passphrase, remember) {
-    const priv = state.priv;
-    const salt = b64ToBytes(priv.salt);
-    const raw = await deriveRawKey(passphrase, salt);
+    const blob = state.priv;
+    const raw = await deriveRawKey(passphrase, b64ToBytes(blob.salt));
     const key = await importAesKey(raw);
-    const data = await decryptPrivate(key, priv); // throws on wrong passphrase
-    state.key = key; state.keySalt = priv.salt; applyPrivate(data); state.lockNote = '';
-    if (remember) {
-      try { localStorage.setItem(KEY_STORE, JSON.stringify({ salt: priv.salt, key: bytesToB64(raw) })); } catch (_) { /* ignore */ }
-    }
+    const data = personalFrom(await decryptBlob(key, blob)); // throws on wrong passphrase
+    state.key = key; state.keySalt = blob.salt; state.personal = data; state.lockNote = '';
+    if (remember) writeStore(PERSONAL_STORE, blob.salt, raw);
     raw.fill(0);
   }
 
-  function lock() {
-    forgetStoredKey();
-    state.key = null; state.keySalt = null; clearPrivate(); state.lockNote = '';
+  function lockPersonal() {
+    // Personal tier only; the friends key stays.
+    clearStore(PERSONAL_STORE);
+    state.key = null; state.keySalt = null; state.personal = null; state.lockNote = '';
     renderToday();
+    const target = document.querySelector('.lock-card input[type="password"]');
+    if (target) target.focus({ preventScroll: true });
   }
+
+  /* Friends tier: key arrives once as #f=KEY, then lives in localStorage. No UI. */
+  function takeFriendsSecretFromUrl() {
+    const m = /^#f=(.+)$/.exec(location.hash);
+    if (!m) return false;
+    let secret = m[1];
+    try { secret = decodeURIComponent(secret); } catch (_) { /* use as-is */ }
+    state.friendsSecret = secret;
+    try { history.replaceState(null, '', location.pathname + location.search); } catch (_) { /* ignore */ }
+    return true;
+  }
+
+  async function unlockFriends() {
+    const blob = state.friends;
+    state.friendsMedia = null;
+    if (!isEncrypted(blob) || !cryptoReady()) return;
+    if (state.friendsSecret) {
+      const secret = state.friendsSecret;
+      state.friendsSecret = null;
+      try {
+        const raw = await deriveRawKey(secret, b64ToBytes(blob.salt));
+        const key = await importAesKey(raw);
+        state.friendsMedia = friendsFrom(await decryptBlob(key, blob));
+        writeStore(FRIENDS_STORE, blob.salt, raw);
+        state.friendsKey = key; state.friendsSalt = blob.salt;
+        raw.fill(0);
+        return;
+      } catch (_) { /* wrong link key: fall back to any saved key */ }
+    }
+    if (state.friendsKey && state.friendsSalt === blob.salt) {
+      try { state.friendsMedia = friendsFrom(await decryptBlob(state.friendsKey, blob)); return; }
+      catch (_) { state.friendsKey = null; state.friendsSalt = null; }
+    }
+    const stored = readStore(FRIENDS_STORE);
+    if (!stored || stored.salt !== blob.salt) return; // kept; only clearing storage removes it
+    try {
+      const key = await importAesKey(b64ToBytes(stored.key));
+      state.friendsMedia = friendsFrom(await decryptBlob(key, blob));
+      state.friendsKey = key; state.friendsSalt = blob.salt;
+    } catch (_) { /* leave it */ }
+  }
+
+  const currentMedia = () => state.friendsMedia || (state.personal && state.personal.media) || null;
 
   /* ---------- Today ---------- */
   function renderToday() {
@@ -332,11 +391,12 @@
       kids.push(card);
     }
 
+    kids.push(...watchCard(currentMedia()));
     kids.push(...renderHighlights());
     body.replaceChildren(...kids);
   }
 
-  // Private media link (decrypted only). Nothing renders before unlock.
+  // Media link: only from a decrypted blob. Without a key nothing renders, not even a placeholder.
   function watchCard(media) {
     const bp = obj(media && media.breakingPoints);
     const url = bp && safeUrl(bp.url);
@@ -353,50 +413,63 @@
     return [el('h3', { class: 'section-label', text: 'Watch' }), link];
   }
 
-  function renderHighlights() {
-    const priv = state.priv;
-    if (!isEncrypted(priv)) return []; // disabled, missing, or failed to load: show nothing
-    const label = el('h3', { class: 'section-label', text: 'Highlights' });
-
-    if (Array.isArray(state.highlights)) {
-      const watch = watchCard(state.media);
-      const items = state.highlights.map(obj).filter(Boolean);
-      const list = el('div', { class: 'list' });
-      if (!items.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
-      items.forEach((h, i) => {
-        const kind = str(h.kind);
-        const icon = el('span', { class: 'hl-icon' }, svg(KIND[kind] || KIND.other));
-        const main = el('div', { class: 'exp-main' },
-          el('div', { class: 'hl-title', text: str(h.title) || 'Untitled' }),
-          str(h.detail) ? el('div', { class: 'hl-detail', text: str(h.detail) }) : null);
-        if (str(h.body)) {
-          const ex = expander(`hl:${i}:${str(h.title)}`, {
-            header: [icon, main],
-            detail: () => [el('p', { class: 'hl-body', text: str(h.body) })],
-          });
-          list.append(ex);
-        } else {
-          list.append(el('div', { class: 'card hl-item' }, icon, main));
-        }
+  function highlightItem(h, id) {
+    const kind = str(h.kind).toLowerCase();
+    const icon = el('span', { class: 'hl-icon' }, svg(KIND[kind] || KIND.other));
+    const main = el('div', { class: 'exp-main' },
+      el('div', { class: 'hl-title', text: str(h.title) || 'Untitled' }),
+      str(h.detail) ? el('div', { class: 'hl-detail', text: str(h.detail) }) : null);
+    if (str(h.body)) {
+      return expander(`hl:${id}:${str(h.title)}`, {
+        header: [icon, main],
+        detail: () => [el('p', { class: 'hl-body', text: str(h.body) })],
       });
-      const lockBtn = el('button', { type: 'button', class: 'btn-text', text: 'Lock personal items' });
-      lockBtn.addEventListener('click', lock);
-      return [...watch, label, list, el('div', { class: 'hl-footer' }, lockBtn)];
     }
+    return el('div', { class: 'card hl-item', 'data-hl': id }, icon, main);
+  }
 
-    // Locked card.
+  function renderHighlights() {
+    const publicItems = arr(state.feed && state.feed.highlights).map(obj).filter(Boolean);
+    const hasPersonal = isEncrypted(state.priv);
+    const unlocked = !!state.personal;
+    if (!publicItems.length && !hasPersonal) return [];
+
+    // Older private blobs may repeat items that are now public; skip exact repeats.
+    const seen = new Set(publicItems.map((h) => `${str(h.kind)}|${str(h.title)}`));
+    const personalItems = unlocked
+      ? state.personal.highlights.map(obj).filter((h) => h && !seen.has(`${str(h.kind)}|${str(h.title)}`))
+      : [];
+
+    const out = [el('h3', { class: 'section-label', text: 'Highlights' })];
+    const list = el('div', { class: 'list' });
+    publicItems.forEach((h, i) => list.append(highlightItem(h, 'pub' + i)));
+    personalItems.forEach((h, i) => list.append(highlightItem(h, 'me' + i)));
+    if (unlocked && !list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
+    if (list.childNodes.length) out.push(list);
+
+    if (unlocked) {
+      const lockBtn = el('button', { type: 'button', class: 'btn-text', 'aria-label': 'Lock my items', text: 'Lock' });
+      lockBtn.addEventListener('click', lockPersonal);
+      out.push(el('div', { class: 'hl-footer' }, lockBtn));
+    } else if (hasPersonal) {
+      out.push(lockCard());
+    }
+    return out;
+  }
+
+  function lockCard() {
     const card = el('div', { class: 'card lock-card' });
-    card.append(el('h3', null, svg(UI.lock), 'Personal items are locked'));
+    card.append(el('h3', null, svg(UI.lock), 'Unlock my items'));
     if (!cryptoReady()) {
       card.append(el('p', { class: 'muted', text: 'Unlocking needs a secure (https) connection.' }));
-      return [label, card];
+      return card;
     }
     const inputId = uid('pass');
     const errId = uid('err');
     const input = el('input', { id: inputId, type: 'password', name: 'passphrase', autocomplete: 'current-password', autocapitalize: 'off', spellcheck: 'false', required: true, 'aria-describedby': errId });
     const remember = el('input', { type: 'checkbox', name: 'remember' });
     const err = el('p', { class: 'form-error', id: errId, role: 'alert' });
-    const submit = el('button', { type: 'submit', class: 'btn', text: 'Unlock personal items' });
+    const submit = el('button', { type: 'submit', class: 'btn', text: 'Unlock' });
     const form = el('form', { novalidate: true },
       // Hidden username helps password managers file the passphrase under "Hearth".
       el('input', { type: 'text', name: 'username', autocomplete: 'username', value: 'Hearth', hidden: true, 'aria-hidden': 'true', tabindex: '-1' }),
@@ -413,15 +486,15 @@
         input.value = '';
         renderToday();
       } catch (_) {
-        submit.disabled = false; submit.textContent = 'Unlock personal items';
+        submit.disabled = false; submit.textContent = 'Unlock';
         err.textContent = 'That passphrase didn’t work. Try again.';
         input.setAttribute('aria-invalid', 'true');
         input.select();
         input.focus();
       }
     });
-    card.append(el('p', { class: 'muted small', text: state.lockNote || 'Enter the passphrase to show today’s personal highlights. Decryption happens on this device.' }), form);
-    return [label, card];
+    card.append(el('p', { class: 'muted small', text: state.lockNote || 'Enter your passphrase to show your personal items. Decryption happens on this device.' }), form);
+    return card;
   }
 
   /* ---------- Markets ---------- */
@@ -843,12 +916,17 @@
     const btn = document.getElementById('refresh');
     btn.setAttribute('aria-busy', 'true');
     btn.disabled = true;
-    const [feed, priv] = await Promise.allSettled([getJSON(FEED_URL), getJSON(PRIVATE_URL)]);
+    const [feed, priv, friends] = await Promise.allSettled([getJSON(FEED_URL), getJSON(PRIVATE_URL), getJSON(FRIENDS_URL)]);
     if (feed.status === 'fulfilled' && obj(feed.value)) { state.feed = feed.value; state.lastError = null; }
     else state.lastError = feed.reason || new Error('bad feed');
+    // A failed fetch keeps the previous blob (and whatever it decrypted to).
     if (priv.status === 'fulfilled' && obj(priv.value)) {
       state.priv = priv.value;
-      try { await autoUnlock(); } catch (_) { clearPrivate(); }
+      try { await autoUnlockPersonal(); } catch (_) { state.personal = null; }
+    }
+    if (friends.status === 'fulfilled' && obj(friends.value)) {
+      state.friends = friends.value;
+      try { await unlockFriends(); } catch (_) { state.friendsMedia = null; }
     }
     state.loading = false;
     btn.removeAttribute('aria-busy');
@@ -857,7 +935,13 @@
   }
 
   function init() {
+    takeFriendsSecretFromUrl(); // before initTabs reads the hash
     initTabs();
+    window.addEventListener('hashchange', () => {
+      if (!takeFriendsSecretFromUrl()) return;
+      if (state.friends && !state.loading) unlockFriends().then(renderToday);
+      else load();
+    });
     renderAll();
     document.getElementById('refresh').addEventListener('click', load);
     load();
