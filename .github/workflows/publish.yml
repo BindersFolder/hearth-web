@@ -21,7 +21,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Check out the branch tip, not the triggering SHA: a queued run may start
+      # after another run has already committed newer data.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -31,28 +35,30 @@ jobs:
       - name: Install
         run: pip install -r requirements.txt
 
-      - name: Build data/
+      # data/ is generated, so a rejected push is resolved by rebuilding on the
+      # latest main rather than rebasing generated files (which can conflict).
+      - name: Build data/, commit, push
         env:
           FEED_TOKEN: ${{ secrets.FEED_TOKEN }}
           HEARTH_PASSPHRASE: ${{ secrets.HEARTH_PASSPHRASE }}
           FRIENDS_KEY: ${{ secrets.FRIENDS_KEY }}
-        run: python scripts/publish.py
-
-      - name: Commit and push
         run: |
           git config user.name "hearth-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if git diff --cached --quiet; then
-            echo "data/ unchanged"
-            exit 0
-          fi
-          git commit -m "Update data"
           for attempt in 1 2 3; do
-            if git pull --rebase origin main && git push origin HEAD:main; then
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            python scripts/publish.py
+            git add data/
+            if git diff --cached --quiet; then
+              echo "data/ unchanged"
               exit 0
             fi
-            echo "push failed (attempt $attempt), retrying"
+            git commit --quiet -m "Update data"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt); rebuilding on latest main"
             sleep $((attempt * 5))
           done
           exit 1
