@@ -1,0 +1,737 @@
+{
+ "updatedAt": "2026-10-27T18:57:40Z",
+ "ticker": [
+  {
+   "symbol": "SPY",
+   "name": "S&P 500",
+   "group": "Indexes",
+   "price": 769.3901,
+   "changePct": 0.39,
+   "prevClose": 766.3971,
+   "high52": 781.62,
+   "low52": 629.28
+  },
+  {
+   "symbol": "QQQ",
+   "name": "Nasdaq 100",
+   "group": "Indexes",
+   "price": 721.04,
+   "changePct": 0.92,
+   "prevClose": 714.44,
+   "high52": 762.86,
+   "low52": 555.6
+  },
+  {
+   "symbol": "DIA",
+   "name": "Dow Jones",
+   "group": "Indexes",
+   "price": 523.06,
+   "changePct": 0.01,
+   "prevClose": 523.005,
+   "high52": 546.75,
+   "low52": 450.44
+  },
+  {
+   "symbol": "IWM",
+   "name": "Russell 2000",
+   "group": "Indexes",
+   "price": 279.97,
+   "changePct": 1.08,
+   "prevClose": 276.97,
+   "high52": 305.18,
+   "low52": 228.9
+  },
+  {
+   "symbol": "BTC-USD",
+   "name": "Bitcoin",
+   "group": "Crypto",
+   "price": 80540.6484,
+   "changePct": 0.66,
+   "prevClose": 80008.7891,
+   "high52": 116078.98,
+   "low52": 57747.77
+  },
+  {
+   "symbol": "ETH-USD",
+   "name": "Ethereum",
+   "group": "Crypto",
+   "price": 2342.29,
+   "changePct": 0.95,
+   "prevClose": 2320.3401,
+   "high52": 4173.51,
+   "low52": 1506.51
+  },
+  {
+   "symbol": "WTI",
+   "name": "WTI crude",
+   "group": "Energy",
+   "unit": "$/bbl",
+   "price": 99.98,
+   "changePct": -0.8,
+   "prevClose": 100.79,
+   "high52": 119.48,
+   "low52": 54.98
+  },
+  {
+   "symbol": "BRENT",
+   "name": "Brent crude",
+   "group": "Energy",
+   "unit": "$/bbl",
+   "price": 109.5,
+   "changePct": -0.19,
+   "prevClose": 109.71,
+   "high52": 126.1,
+   "low52": 58.72
+  },
+  {
+   "symbol": "NATGAS",
+   "name": "Henry Hub nat gas",
+   "group": "Energy",
+   "unit": "$/MMBtu",
+   "decimals": 3,
+   "price": 2.991,
+   "changePct": -1.51,
+   "prevClose": 3.037,
+   "high52": 7.83,
+   "low52": 2.48
+  },
+  {
+   "symbol": "RBOB",
+   "name": "Gasoline futures",
+   "group": "Fuel",
+   "unit": "$/gal",
+   "decimals": 3,
+   "price": 3.0619,
+   "changePct": -1.75,
+   "prevClose": 3.1165,
+   "high52": 3.82,
+   "low52": 1.67
+  },
+  {
+   "symbol": "ULSD",
+   "name": "Heating oil / ULSD",
+   "group": "Fuel",
+   "unit": "$/gal",
+   "decimals": 3,
+   "price": 4.6048,
+   "changePct": -2.11,
+   "prevClose": 4.704,
+   "high52": 5.43,
+   "low52": 2.05
+  },
+  {
+   "symbol": "US-REG",
+   "name": "US regular, AAA",
+   "group": "Pump",
+   "unit": "$/gal",
+   "decimals": 3,
+   "price": 4.2661,
+   "changePct": -0.46,
+   "note": "Week ago 4.2786 · Year ago 3.052"
+  },
+  {
+   "symbol": "NY-REG",
+   "name": "NY regular, AAA",
+   "group": "Pump",
+   "unit": "$/gal",
+   "decimals": 3,
+   "price": 4.3771,
+   "changePct": -0.1,
+   "note": "Week ago 4.4134 · Year ago 3.1093"
+  },
+  {
+   "symbol": "US-DSL",
+   "name": "US diesel, AAA",
+   "group": "Pump",
+   "unit": "$/gal",
+   "decimals": 3,
+   "price": 6.3521,
+   "changePct": 0.05,
+   "note": "Week ago 6.3199 · Year ago 3.6619"
+  },
+  {
+   "symbol": "NY-DSL",
+   "name": "NY diesel, AAA",
+   "group": "Pump",
+   "unit": "$/gal",
+   "decimals": 3,
+   "price": 6.4958,
+   "changePct": 0.02,
+   "note": "Week ago 6.5069 · Year ago 3.8703"
+  },
+  {
+   "symbol": "GOLD",
+   "name": "Gold",
+   "group": "Metals",
+   "unit": "$/oz",
+   "price": 4069.0,
+   "changePct": 0.97,
+   "prevClose": 4029.8999,
+   "high52": 5586.2,
+   "low52": 3901.3
+  },
+  {
+   "symbol": "SILVER",
+   "name": "Silver",
+   "group": "Metals",
+   "unit": "$/oz",
+   "price": 54.29,
+   "changePct": 1.0,
+   "prevClose": 53.75,
+   "high52": 121.3,
+   "low52": 46.33
+  },
+  {
+   "symbol": "COPPER",
+   "name": "Copper",
+   "group": "Metals",
+   "unit": "$/lb",
+   "price": 6.6535,
+   "changePct": 1.12,
+   "prevClose": 6.58,
+   "high52": 6.83,
+   "low52": 4.92
+  },
+  {
+   "symbol": "US10Y",
+   "name": "10-year yield",
+   "group": "Macro",
+   "unit": "%",
+   "price": 4.995,
+   "changePct": 0.18,
+   "prevClose": 4.986,
+   "high52": 5.36,
+   "low52": 3.96
+  },
+  {
+   "symbol": "DXY",
+   "name": "Dollar index",
+   "group": "Macro",
+   "unit": "pts",
+   "price": 102.307,
+   "changePct": 0.27,
+   "prevClose": 102.034,
+   "high52": 102.95,
+   "low52": 95.55
+  },
+  {
+   "symbol": "VIX",
+   "name": "Volatility",
+   "group": "Macro",
+   "price": 17.76,
+   "changePct": null,
+   "prevClose": 18.39,
+   "high52": 35.3,
+   "low52": 13.38
+  },
+  {
+   "symbol": "FEAR_GREED",
+   "name": "Fear & Greed",
+   "group": "Macro",
+   "price": 33.1,
+   "changePct": null,
+   "note": "Fear"
+  }
+ ],
+ "weather": {
+  "location": "Cornwall-on-Hudson, NY",
+  "condition": "sun",
+  "conditionText": "Sunny",
+  "temp": 58,
+  "high": 59,
+  "low": 35,
+  "humidity": 36,
+  "wind": 6,
+  "summary": "Sunny, with a high near 59. North wind around 6 mph. Areas of frost after 1am. Partly cloudy, with a low around 35. Northeast wind around 3 mph. Areas of frost before 10am. Partly sunny, with a high near 62. Southeast wind 1 to 5 mph.",
+  "alerts": [],
+  "hourly": [
+   {
+    "time": "2026-10-27T14:00:00-04:00",
+    "temp": 58,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 6,
+    "humidity": 36
+   },
+   {
+    "time": "2026-10-27T15:00:00-04:00",
+    "temp": 59,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 34
+   },
+   {
+    "time": "2026-10-27T16:00:00-04:00",
+    "temp": 59,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 33
+   },
+   {
+    "time": "2026-10-27T17:00:00-04:00",
+    "temp": 58,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 34
+   },
+   {
+    "time": "2026-10-27T18:00:00-04:00",
+    "temp": 54,
+    "condition": "clearNight",
+    "conditionText": "Clear",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 38
+   },
+   {
+    "time": "2026-10-27T19:00:00-04:00",
+    "temp": 50,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 46
+   },
+   {
+    "time": "2026-10-27T20:00:00-04:00",
+    "temp": 47,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 53
+   },
+   {
+    "time": "2026-10-27T21:00:00-04:00",
+    "temp": 46,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 58
+   },
+   {
+    "time": "2026-10-27T22:00:00-04:00",
+    "temp": 44,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 65
+   },
+   {
+    "time": "2026-10-27T23:00:00-04:00",
+    "temp": 43,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 67
+   },
+   {
+    "time": "2026-10-28T00:00:00-04:00",
+    "temp": 42,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 67
+   },
+   {
+    "time": "2026-10-28T01:00:00-04:00",
+    "temp": 40,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 73
+   },
+   {
+    "time": "2026-10-28T02:00:00-04:00",
+    "temp": 40,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 73
+   },
+   {
+    "time": "2026-10-28T03:00:00-04:00",
+    "temp": 39,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 73
+   },
+   {
+    "time": "2026-10-28T04:00:00-04:00",
+    "temp": 37,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 79
+   },
+   {
+    "time": "2026-10-28T05:00:00-04:00",
+    "temp": 36,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 82
+   },
+   {
+    "time": "2026-10-28T06:00:00-04:00",
+    "temp": 35,
+    "condition": "sun",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 85
+   },
+   {
+    "time": "2026-10-28T07:00:00-04:00",
+    "temp": 35,
+    "condition": "sun",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 89
+   },
+   {
+    "time": "2026-10-28T08:00:00-04:00",
+    "temp": 36,
+    "condition": "sun",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 89
+   },
+   {
+    "time": "2026-10-28T09:00:00-04:00",
+    "temp": 40,
+    "condition": "sun",
+    "conditionText": "Patchy Frost",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 82
+   },
+   {
+    "time": "2026-10-28T10:00:00-04:00",
+    "temp": 45,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 70
+   },
+   {
+    "time": "2026-10-28T11:00:00-04:00",
+    "temp": 50,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 61
+   },
+   {
+    "time": "2026-10-28T12:00:00-04:00",
+    "temp": 54,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 55
+   },
+   {
+    "time": "2026-10-28T13:00:00-04:00",
+    "temp": 58,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 49
+   }
+  ],
+  "daily": [
+   {
+    "date": "2026-10-27",
+    "high": 59,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 6,
+    "windText": "N 6 mph",
+    "summary": "Sunny, with a high near 59. North wind around 6 mph.",
+    "low": 35,
+    "night": {
+     "low": 35,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy then Areas Of Frost",
+     "summary": "Areas of frost after 1am. Partly cloudy, with a low around 35. Northeast wind around 3 mph.",
+     "precipPct": 0
+    }
+   },
+   {
+    "date": "2026-10-28",
+    "high": 62,
+    "condition": "cloud",
+    "conditionText": "Areas Of Frost then Partly Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "windText": "SE 1 to 5 mph",
+    "summary": "Areas of frost before 10am. Partly sunny, with a high near 62. Southeast wind 1 to 5 mph.",
+    "low": 41,
+    "night": {
+     "low": 41,
+     "condition": "clearNight",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 41. South wind around 5 mph.",
+     "precipPct": 0
+    }
+   },
+   {
+    "date": "2026-10-29",
+    "high": 70,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 8,
+    "windText": "SW 2 to 8 mph",
+    "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 2 to 8 mph.",
+    "low": 52,
+    "night": {
+     "low": 52,
+     "condition": "clearNight",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 52.",
+     "precipPct": 0
+    }
+   },
+   {
+    "date": "2026-10-30",
+    "high": 70,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 9,
+    "windText": "W 3 to 9 mph",
+    "summary": "Sunny, with a high near 70.",
+    "low": 40,
+    "night": {
+     "low": 40,
+     "condition": "clearNight",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 40.",
+     "precipPct": 0
+    }
+   },
+   {
+    "date": "2026-10-31",
+    "high": 63,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "windText": "NW 2 mph",
+    "summary": "Sunny, with a high near 63.",
+    "low": 40,
+    "night": {
+     "low": 40,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 40.",
+     "precipPct": 1
+    }
+   },
+   {
+    "date": "2026-11-01",
+    "high": 65,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 4,
+    "wind": 3,
+    "windText": "SW 0 to 3 mph",
+    "summary": "Partly sunny, with a high near 65.",
+    "low": 48,
+    "night": {
+     "low": 48,
+     "condition": "rain",
+     "conditionText": "Mostly Cloudy then Chance Rain Showers",
+     "summary": "A chance of rain showers after 1am. Mostly cloudy, with a low around 48. Chance of precipitation is 30%.",
+     "precipPct": 28
+    }
+   },
+   {
+    "date": "2026-11-02",
+    "high": 66,
+    "condition": "rain",
+    "conditionText": "Chance Rain Showers",
+    "precipPct": 38,
+    "wind": 5,
+    "windText": "SW 5 mph",
+    "summary": "A chance of rain showers. Partly sunny, with a high near 66. Chance of precipitation is 40%.",
+    "low": 49,
+    "night": {
+     "low": 49,
+     "condition": "rain",
+     "conditionText": "Chance Rain Showers",
+     "summary": "A chance of rain showers. Mostly cloudy, with a low around 49.",
+     "precipPct": 35
+    }
+   }
+  ]
+ },
+ "news": [
+  {
+   "title": "Harry Kane wins the 2026 Gerd Müller Trophy",
+   "source": "The Athletic, BBC",
+   "summary": "Bayern Munich and England forward Harry Kane received the Gerd Müller Trophy, which recognizes the season's top scorer.",
+   "body": "Bayern Munich and England forward Harry Kane received the Gerd Müller Trophy, which recognizes the season's top scorer. He scored 73 goals for club and country in the 2025–26 season, earning the award for the second time after 2024.",
+   "sources": [
+    "https://www.nytimes.com/athletic/7728871/2026/10/27/ballon-dor-winner-harry-kane-analysis-bayern-england",
+    "https://www.bbc.com/newsround/articles/c574p3jkdp8xo"
+   ],
+   "publishedAt": "2026-10-27T16:53:55Z",
+   "topic": "Sports",
+   "newsrooms": 558
+  },
+  {
+   "title": "Trump offers $1 million for tips leading to election fraud convictions",
+   "source": "The Guardian, Reuters, CNN",
+   "summary": "Trump said the reward would apply to reports concerning past elections as well as the 2026 midterm elections.",
+   "body": "Trump said the reward would apply to reports concerning past elections as well as the 2026 midterm elections. He announced the offer on Truth Social, with payment contingent on the reported information leading to an arrest and conviction.",
+   "sources": [
+    "https://www.theguardian.com/us-news/2026/oct/27/first-thing-trump-targets-midterm-legitimacy-with-lawsuits-and-a-cash-bounty",
+    "https://www.reuters.com/pt/mundo/WLQJJZBK4RJGPJAZ2HVH2CGR5Y-2026-10-27"
+   ],
+   "publishedAt": "2026-10-27T17:16:13Z",
+   "topic": "Politics",
+   "newsrooms": 380
+  },
+  {
+   "title": "Chinese broadcaster suspends La Liga coverage after Mbappé controversy",
+   "source": "BBC, USA Today",
+   "summary": "The controversy prompted Chinese brands including Dongpeng Beverage Group and Mengniu Dairy to end their partnerships with Kylian Mbappé.",
+   "body": "The controversy prompted Chinese brands including Dongpeng Beverage Group and Mengniu Dairy to end their partnerships with Kylian Mbappé. China Central Television also halted La Liga and Mbappé-related broadcasts and removed associated advertisements. Reports said some social media content about the footballer was also restricted or taken down.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+    "https://www.usatoday.com/story/sports/soccer/2026/10/27/kylian-mbappe-china-apology-mao-zedong-controversy/92457911007"
+   ],
+   "publishedAt": "2026-10-27T16:27:57Z",
+   "topic": "Media",
+   "newsrooms": 362
+  },
+  {
+   "title": "Jordanian Air Force strikes militant sites in southern Syria",
+   "source": "The Guardian, Reuters, CNN",
+   "summary": "Jordan said the operation targeted terrorist organizations in southern Syria and was carried out in response to an attack on a church in Karak.",
+   "body": "Jordan said the operation targeted terrorist organizations in southern Syria and was carried out in response to an attack on a church in Karak. Reports said the strikes killed and wounded dozens and destroyed vehicles, though accounts differed on the details.",
+   "sources": [
+    "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+    "https://www.reuters.com/business/media-telecom/jordan-strikes-southern-syria-after-linking-church-attackers-terrorist-groups-2026-10-26"
+   ],
+   "publishedAt": "2026-10-27T12:00:13Z",
+   "topic": "World",
+   "newsrooms": 349
+  },
+  {
+   "title": "Walter Koenig, Star Trek actor, dies at 90",
+   "source": "NYT, Forbes, The Guardian",
+   "summary": "Walter Koenig died at his home in North Hollywood at age 90.",
+   "body": "Walter Koenig died at his home in North Hollywood at age 90. He was widely known for portraying Pavel Chekov in the original Star Trek series and films, and also appeared in Babylon 5 and other television productions.",
+   "sources": [
+    "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
+    "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies"
+   ],
+   "publishedAt": "2026-10-27T16:41:42Z",
+   "topic": "Culture",
+   "newsrooms": 319
+  },
+  {
+   "title": "Anthropic IPO filing helps lift U.S. stocks as oil prices ease",
+   "source": "NYT, Forbes, The Guardian",
+   "summary": "Major U.S.",
+   "body": "Major U.S. stock indexes moved higher on Monday, with technology and semiconductor shares among the gainers after Anthropic submitted paperwork for an initial public offering. Falling oil prices also supported investor sentiment, while markets looked ahead to corporate earnings and the Federal Reserve's upcoming interest-rate decision.",
+   "sources": [
+    "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+    "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+   ],
+   "publishedAt": "2026-10-27T12:06:26Z",
+   "topic": "Markets",
+   "newsrooms": 311
+  },
+  {
+   "title": "James Comey faces new federal charges over alleged 2016 disclosure",
+   "source": "NYT, Forbes, The Guardian",
+   "summary": "Federal prosecutors charged James Comey with transmitting national defense information and conspiring to transmit it, alleging that the disclosure occurred in October 2016.",
+   "body": "Federal prosecutors charged James Comey with transmitting national defense information and conspiring to transmit it, alleging that the disclosure occurred in October 2016. The case is the third federal criminal case brought against Comey. He has denied wrongdoing and said he would fight the charges.",
+   "sources": [
+    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+    "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj"
+   ],
+   "publishedAt": "2026-10-27T15:58:11Z",
+   "topic": "Justice",
+   "newsrooms": 259
+  },
+  {
+   "title": "Jordan says Syria airstrikes killed more than 20 Islamic State fighters",
+   "source": "BBC, Washington Post",
+   "summary": "Jordan said the strikes were retaliation for a deadly attack on a Greek Orthodox church in Jordan.",
+   "body": "Jordan said the strikes were retaliation for a deadly attack on a Greek Orthodox church in Jordan. Syria condemned the operation as a violation of its sovereignty and reported deaths, including civilians; accounts differed on the casualty toll.",
+   "sources": [
+    "https://www.washingtonpost.com/world/2026/10/26/syria-says-five-killed-after-jordan-retaliates-church-attack-with-airstrikes"
+   ],
+   "publishedAt": "2026-10-27T13:33:43Z",
+   "topic": "World",
+   "newsrooms": 251
+  },
+  {
+   "title": "Romanian authorities link Carfil-area fire to alleged Russia-directed sabotage",
+   "source": "Reuters, AP, The Independent",
+   "summary": "The Romanian Intelligence Service says it identified a sabotage network allegedly coordinated from Russia and involved in a fire near Carfil in Brașov on September 14, 2026.",
+   "body": "The Romanian Intelligence Service says it identified a sabotage network allegedly coordinated from Russia and involved in a fire near Carfil in Brașov on September 14, 2026. DIICOT is investigating three foreign suspects, two Belarusian citizens and one Ukrainian citizen, with reports saying two were detained in Germany and the third was sought in Poland. Romanian authorities say the network had other targets in Romania and the region.",
+   "sources": [
+    "https://www.reuters.com/world/europe/russian-sabotage-network-believed-have-caused-romanian-fire-prosecutors-say-2026-10-26",
+    "https://apnews.com/article/russia-europe-sabotage-plot-ukraine-romania-9720d347eaada0dd42eac520921dc285"
+   ],
+   "publishedAt": "2026-10-27T15:26:15Z",
+   "topic": "World",
+   "newsrooms": 219
+  },
+  {
+   "title": "Car hits crowd in northern Germany; occupants flee after police fire",
+   "source": "Reuters, The Independent",
+   "summary": "A car drove into a group of people in Neustadt am Rübenberge, in Lower Saxony, late Monday.",
+   "body": "A car drove into a group of people in Neustadt am Rübenberge, in Lower Saxony, late Monday. Four or five people were injured, some seriously, but none were reported to be in life-threatening condition. Police fired shots at the car, whose occupants escaped and remained at large.",
+   "sources": [
+    "https://www.reuters.com/world/several-injured-car-ramming-northern-germany-suspects-large-2026-10-27"
+   ],
+   "publishedAt": "2026-10-27T16:57:35Z",
+   "topic": "World",
+   "newsrooms": 217
+  },
+  {
+   "title": "Brazilian Supreme Court restricts Flávio Bolsonaro's travel",
+   "source": "NYT, Reuters, Time",
+   "summary": "The order, issued by Brazil's Supreme Federal Court, also prohibits Bolsonaro from contacting lawyer Willer Tomaz.",
+   "body": "The order, issued by Brazil's Supreme Federal Court, also prohibits Bolsonaro from contacting lawyer Willer Tomaz. It is linked to an investigation into suspected money laundering involving betting businesses. Bolsonaro said he was notified by Federal Police agents.",
+   "sources": [
+    "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+    "https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula"
+   ],
+   "publishedAt": "2026-10-27T15:17:45Z",
+   "topic": "World",
+   "newsrooms": 208
+  }
+ ]
+}

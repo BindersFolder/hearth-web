@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; worker-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0b0d18">
+  <meta name="color-scheme" content="dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Hearth">
+  <title>Hearth</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="brand">
+      <img src="icons/icon-192.png" alt="" width="28" height="28">
+      <span>Hearth</span>
+    </div>
+    <p class="header-date" id="header-date"></p>
+    <button type="button" class="icon-button" id="refresh" aria-label="Refresh data">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M20 12a8 8 0 1 1-2.34-5.66M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+  </header>
+
+  <main id="main" class="layout" tabindex="-1">
+    <section id="panel-today" class="panel panel-today" role="tabpanel" aria-labelledby="tab-today">
+      <h2 class="panel-title">Today</h2>
+      <div id="today-body"></div>
+    </section>
+
+    <section id="panel-markets" class="panel panel-markets" role="tabpanel" aria-labelledby="tab-markets">
+      <h2 class="panel-title">Markets</h2>
+      <div id="markets-body"></div>
+    </section>
+
+    <section id="panel-weather" class="panel panel-weather" role="tabpanel" aria-labelledby="tab-weather">
+      <h2 class="panel-title">Weather</h2>
+      <div id="weather-body"></div>
+    </section>
+
+    <section id="panel-news" class="panel panel-news" role="tabpanel" aria-labelledby="tab-news">
+      <h2 class="panel-title">News</h2>
+      <div id="news-body"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p id="status" role="status" aria-live="polite"></p>
+  </footer>
+
+  <nav class="tab-bar" aria-label="Sections">
+    <div role="tablist" aria-label="Sections">
+      <button type="button" role="tab" id="tab-today" aria-controls="panel-today" aria-selected="true" data-tab="today">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3c1 3 4 4.5 4 8.5a4 4 0 0 1-8 0c0-1.6.7-2.7 1.6-3.6.2 1.4.9 2.2 1.9 2.6C11 8 11 5.5 12 3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M6 20h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <span>Today</span>
+      </button>
+      <button type="button" role="tab" id="tab-markets" aria-controls="panel-markets" aria-selected="false" tabindex="-1" data-tab="markets">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 17l5-5 4 3 7-8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 20h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <span>Markets</span>
+      </button>
+      <button type="button" role="tab" id="tab-weather" aria-controls="panel-weather" aria-selected="false" tabindex="-1" data-tab="weather">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 18h10a4 4 0 0 0 .4-7.98A5.5 5.5 0 0 0 6.6 9.5 4.25 4.25 0 0 0 7 18z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+        <span>Weather</span>
+      </button>
+      <button type="button" role="tab" id="tab-news" aria-controls="panel-news" aria-selected="false" tabindex="-1" data-tab="news">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 9h8M8 12.5h8M8 16h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <span>News</span>
+      </button>
+    </div>
+  </nav>
+
+  <noscript><p class="noscript">Hearth needs JavaScript to load its data.</p></noscript>
+</body>
+</html>
