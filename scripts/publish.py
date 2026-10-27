@@ -2,8 +2,10 @@
 """Publish the Hearth feed for the static site.
 
 Fetches highlights.json from the private hearth-feed repo, then writes:
-  data/feed.json     everything except `highlights` (public)
-  data/private.json  `highlights` encrypted with AES-256-GCM, key from
+  data/feed.json     everything except the private keys `highlights` and
+                     `media` (public)
+  data/private.json  {"highlights": [...], "media": {...}} (either may be
+                     missing) encrypted with AES-256-GCM, key from
                      PBKDF2-SHA256 (200,000 iterations) over HEARTH_PASSPHRASE,
                      or {"disabled": true} when no passphrase is set.
 
@@ -38,6 +40,7 @@ FEED_URL = os.environ.get(
     "https://api.github.com/repos/BindersFolder/hearth-feed/contents/highlights.json",
 )
 ITERATIONS = 200_000
+PRIVATE_KEYS = ("highlights", "media")  # never written to feed.json
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 FEED_PATH = os.path.join(DATA, "feed.json")
@@ -76,7 +79,7 @@ def fetch_feed(token):
     data = json.loads(raw.decode("utf-8"))
     if not isinstance(data, dict):
         raise ValueError("feed is not a JSON object")
-    if not any(k in data for k in ("updatedAt", "ticker", "weather", "news", "highlights")):
+    if not any(k in data for k in ("updatedAt", "ticker", "weather", "news") + PRIVATE_KEYS):
         raise ValueError("feed has none of the expected sections")
     return data
 
@@ -106,10 +109,10 @@ def write_json(path, obj):
     return True
 
 
-def build_private(highlights, passphrase, updated_at):
+def build_private(payload, passphrase, updated_at):
     if not passphrase:
         return {"disabled": True}
-    plaintext = json.dumps(highlights, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    plaintext = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
 
     # Reuse the existing salt (and, if the plaintext is identical, the existing
     # IV/ciphertext) only when the existing file decrypts with this passphrase.
@@ -149,19 +152,22 @@ def main():
         log(f"fetch failed ({type(e).__name__}: {e}); leaving data/ unchanged")
         return 0
 
-    highlights = feed.get("highlights")
-    if not isinstance(highlights, list):
-        highlights = []
-    public = {k: v for k, v in feed.items() if k != "highlights"}
+    payload = {}
+    if isinstance(feed.get("highlights"), list):
+        payload["highlights"] = feed["highlights"]
+    if isinstance(feed.get("media"), dict):
+        payload["media"] = feed["media"]
+    public = {k: v for k, v in feed.items() if k not in PRIVATE_KEYS}
     passphrase = os.environ.get("HEARTH_PASSPHRASE", "")
 
     os.makedirs(DATA, exist_ok=True)
-    private = build_private(highlights, passphrase, public.get("updatedAt"))
+    private = build_private(payload, passphrase, public.get("updatedAt"))
     changed_feed = write_json(FEED_PATH, public)
     changed_priv = write_json(PRIVATE_PATH, private)
     log(f"feed.json {'updated' if changed_feed else 'unchanged'}, "
         f"private.json {'updated' if changed_priv else 'unchanged'} "
-        f"({'encrypted' if passphrase else 'disabled'}, {len(highlights)} highlights)")
+        f"({'encrypted' if passphrase else 'disabled'}, "
+        f"{len(payload.get('highlights', []))} highlights, media {'yes' if 'media' in payload else 'no'})")
     return 0
 
 

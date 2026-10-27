@@ -15,6 +15,7 @@
     feed: null,
     priv: null,
     highlights: null,      // decrypted array, memory only
+    media: null,           // decrypted media object, memory only
     key: null,             // CryptoKey for the current salt, memory only
     keySalt: null,
     lockNote: '',
@@ -39,6 +40,7 @@
   const UI = {
     chevron: '<svg class="chev" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
     alert: '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M12 3.5L2.8 19.5h18.4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M12 10v4.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="17" r="1.2" fill="currentColor"/></svg>',
+    play: '<svg class="play" viewBox="0 0 48 34" aria-hidden="true" focusable="false"><rect width="48" height="34" rx="9" fill="#ff1f1f"/><path d="M19 10l13 7-13 7z" fill="#fff"/></svg>',
     lock: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><rect x="5" y="10.5" width="14" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V8a4 4 0 0 1 8 0v2.5" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
   };
   const KIND = {
@@ -225,12 +227,17 @@
   }
   const importAesKey = (raw) => crypto.subtle.importKey('raw', raw, { name: 'AES-GCM' }, false, ['decrypt']);
 
-  async function decryptHighlights(key, priv) {
+  async function decryptPrivate(key, priv) {
     // WebCrypto expects ciphertext || 16-byte tag, which is what AESGCM.encrypt produces.
     const pt = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64ToBytes(priv.iv), tagLength: 128 }, key, b64ToBytes(priv.ciphertext));
     const data = JSON.parse(new TextDecoder().decode(pt));
-    return Array.isArray(data) ? data : [];
+    // Older files hold a bare highlights array; newer ones {highlights, media}.
+    if (Array.isArray(data)) return { highlights: data, media: null };
+    const o = obj(data) || {};
+    return { highlights: arr(o.highlights), media: obj(o.media) };
   }
+  function applyPrivate(p) { state.highlights = p.highlights; state.media = p.media; }
+  function clearPrivate() { state.highlights = null; state.media = null; }
 
   const isEncrypted = (p) => !!(p && !p.disabled && typeof p.salt === 'string' && typeof p.iv === 'string' && typeof p.ciphertext === 'string');
 
@@ -244,13 +251,13 @@
 
   async function autoUnlock() {
     const priv = state.priv;
-    if (!isEncrypted(priv) || !cryptoReady()) { state.highlights = null; return; }
+    if (!isEncrypted(priv) || !cryptoReady()) { clearPrivate(); return; }
     // Key already in memory for this salt?
     if (state.key && state.keySalt === priv.salt) {
-      try { state.highlights = await decryptHighlights(state.key, priv); return; }
+      try { applyPrivate(await decryptPrivate(state.key, priv)); return; }
       catch (_) { state.key = null; state.keySalt = null; }
     }
-    state.highlights = null;
+    clearPrivate();
     const stored = readStoredKey();
     if (!stored) return;
     if (stored.salt !== priv.salt) {
@@ -260,7 +267,7 @@
     }
     try {
       const key = await importAesKey(b64ToBytes(stored.key));
-      state.highlights = await decryptHighlights(key, priv);
+      applyPrivate(await decryptPrivate(key, priv));
       state.key = key; state.keySalt = priv.salt;
     } catch (_) {
       forgetStoredKey();
@@ -273,8 +280,8 @@
     const salt = b64ToBytes(priv.salt);
     const raw = await deriveRawKey(passphrase, salt);
     const key = await importAesKey(raw);
-    const items = await decryptHighlights(key, priv); // throws on wrong passphrase
-    state.key = key; state.keySalt = priv.salt; state.highlights = items; state.lockNote = '';
+    const data = await decryptPrivate(key, priv); // throws on wrong passphrase
+    state.key = key; state.keySalt = priv.salt; applyPrivate(data); state.lockNote = '';
     if (remember) {
       try { localStorage.setItem(KEY_STORE, JSON.stringify({ salt: priv.salt, key: bytesToB64(raw) })); } catch (_) { /* ignore */ }
     }
@@ -283,7 +290,7 @@
 
   function lock() {
     forgetStoredKey();
-    state.key = null; state.keySalt = null; state.highlights = null; state.lockNote = '';
+    state.key = null; state.keySalt = null; clearPrivate(); state.lockNote = '';
     renderToday();
   }
 
@@ -329,12 +336,30 @@
     body.replaceChildren(...kids);
   }
 
+  // Private media link (decrypted only). Nothing renders before unlock.
+  function watchCard(media) {
+    const bp = obj(media && media.breakingPoints);
+    const url = bp && safeUrl(bp.url);
+    if (!url) return [];
+    const when = parseDate(bp.publishedAt);
+    const live = str(bp.kind).toLowerCase() === 'live';
+    const link = el('a', { class: 'watch-card', href: url.href, target: '_blank', rel: 'noopener' },
+      svg(UI.play),
+      el('span', { class: 'watch-main' },
+        el('span', { class: 'watch-caption' }, 'Breaking Points', live ? el('span', { class: 'live-pill', text: 'LIVE' }) : null),
+        el('span', { class: 'watch-title', text: str(bp.title) || 'New episode' }),
+        when ? el('span', { class: 'watch-time', text: relTime(when), 'data-when': when.toISOString(), 'data-base': '' }) : null,
+        el('span', { class: 'visually-hidden', text: ' (opens YouTube)' })));
+    return [el('h3', { class: 'section-label', text: 'Watch' }), link];
+  }
+
   function renderHighlights() {
     const priv = state.priv;
     if (!isEncrypted(priv)) return []; // disabled, missing, or failed to load: show nothing
     const label = el('h3', { class: 'section-label', text: 'Highlights' });
 
     if (Array.isArray(state.highlights)) {
+      const watch = watchCard(state.media);
       const items = state.highlights.map(obj).filter(Boolean);
       const list = el('div', { class: 'list' });
       if (!items.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
@@ -356,7 +381,7 @@
       });
       const lockBtn = el('button', { type: 'button', class: 'btn-text', text: 'Lock personal items' });
       lockBtn.addEventListener('click', lock);
-      return [label, list, el('div', { class: 'hl-footer' }, lockBtn)];
+      return [...watch, label, list, el('div', { class: 'hl-footer' }, lockBtn)];
     }
 
     // Locked card.
@@ -772,7 +797,7 @@
   }
 
   function refreshRelativeTimes() {
-    for (const m of document.querySelectorAll('.news-meta[data-when]')) {
+    for (const m of document.querySelectorAll('[data-when]')) {
       const d = parseDate(m.getAttribute('data-when'));
       if (d) m.textContent = [m.getAttribute('data-base'), relTime(d)].filter(Boolean).join(' · ');
     }
@@ -823,7 +848,7 @@
     else state.lastError = feed.reason || new Error('bad feed');
     if (priv.status === 'fulfilled' && obj(priv.value)) {
       state.priv = priv.value;
-      try { await autoUnlock(); } catch (_) { state.highlights = null; }
+      try { await autoUnlock(); } catch (_) { clearPrivate(); }
     }
     state.loading = false;
     btn.removeAttribute('aria-busy');
