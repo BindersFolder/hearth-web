@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T21:15:11Z",
+ "updatedAt": "2026-10-28T21:38:34Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 81291.6484,
-   "changePct": 0.61,
+   "price": 81093.6562,
+   "changePct": 0.36,
    "prevClose": 80799.5078,
    "high52": 113642.73,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2359.3401,
-   "changePct": 0.53,
+   "price": 2355.5901,
+   "changePct": 0.37,
    "prevClose": 2347.01,
    "high52": 4036.35,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 49.66,
    "note": "Gasoline 28.52 · Diesel 92.78",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.45,
    "note": "Week ago 4.2644 · Year ago 3.0437",
    "source": "AAA",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.13,
    "note": "Week ago 4.4075 · Year ago 3.1092",
    "source": "AAA",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.3174 · Year ago 3.6743",
    "source": "AAA",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": 0.0,
    "note": "Week ago 6.5058 · Year ago 3.8755",
    "source": "AAA",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.124,
+   "price": 102.126,
    "changePct": -0.27,
    "prevClose": 102.402,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T21:15:11Z"
+   "asOf": "2026-10-28T21:38:34Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,96 +344,96 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "cloud",
-  "conditionText": "Mostly Cloudy",
-  "temp": 61,
-  "high": 62,
+  "condition": "sun",
+  "conditionText": "Mostly Sunny",
+  "temp": 58,
+  "high": 61,
   "low": 43,
-  "humidity": 48,
-  "wind": 3,
-  "summary": "Mostly cloudy, with a high near 62. South wind around 3 mph. Partly cloudy. Low around 43, with temperatures rising to around 45 overnight. South wind 0 to 3 mph. Sunny, with a high near 70. South wind 1 to 8 mph.",
+  "humidity": 44,
+  "wind": 7,
+  "summary": "Mostly sunny. High near 61, with temperatures falling to around 58 in the afternoon. South wind around 7 mph. Mostly clear, with a low around 43. South wind 2 to 6 mph. Sunny, with a high near 70. South wind 1 to 8 mph.",
   "alerts": [],
   "hourly": [
    {
     "time": "2026-10-28T17:00:00-04:00",
-    "temp": 61,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
+    "temp": 58,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
     "precipPct": 1,
-    "wind": 3,
-    "humidity": 48
+    "wind": 7,
+    "humidity": 44
    },
    {
     "time": "2026-10-28T18:00:00-04:00",
-    "temp": 58,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 1,
-    "wind": 3,
-    "humidity": 55
-   },
-   {
-    "time": "2026-10-28T19:00:00-04:00",
-    "temp": 55,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 1,
-    "wind": 2,
-    "humidity": 64
-   },
-   {
-    "time": "2026-10-28T20:00:00-04:00",
-    "temp": 49,
+    "temp": 54,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 1,
+    "wind": 6,
+    "humidity": 53
+   },
+   {
+    "time": "2026-10-28T19:00:00-04:00",
+    "temp": 51,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 3,
+    "humidity": 61
+   },
+   {
+    "time": "2026-10-28T20:00:00-04:00",
+    "temp": 50,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
     "wind": 2,
-    "humidity": 80
+    "humidity": 65
    },
    {
     "time": "2026-10-28T21:00:00-04:00",
+    "temp": 49,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 73
+   },
+   {
+    "time": "2026-10-28T22:00:00-04:00",
     "temp": 48,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
     "wind": 2,
-    "humidity": 86
+    "humidity": 82
    },
    {
-    "time": "2026-10-28T22:00:00-04:00",
-    "temp": 47,
+    "time": "2026-10-28T23:00:00-04:00",
+    "temp": 48,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
     "wind": 2,
-    "humidity": 93
+    "humidity": 87
    },
    {
-    "time": "2026-10-28T23:00:00-04:00",
+    "time": "2026-10-29T00:00:00-04:00",
     "temp": 46,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
     "wind": 2,
-    "humidity": 100
-   },
-   {
-    "time": "2026-10-29T00:00:00-04:00",
-    "temp": 45,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 100
+    "humidity": 97
    },
    {
     "time": "2026-10-29T01:00:00-04:00",
-    "temp": 45,
+    "temp": 46,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
-    "wind": 1,
-    "humidity": 100
+    "wind": 2,
+    "humidity": 97
    },
    {
     "time": "2026-10-29T02:00:00-04:00",
@@ -441,7 +441,7 @@
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 2,
     "humidity": 100
    },
    {
@@ -450,7 +450,7 @@
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 2,
     "humidity": 100
    },
    {
@@ -459,21 +459,21 @@
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 0,
-    "wind": 0,
+    "wind": 2,
     "humidity": 100
    },
    {
     "time": "2026-10-29T05:00:00-04:00",
-    "temp": 45,
+    "temp": 44,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 2,
     "humidity": 100
    },
    {
     "time": "2026-10-29T06:00:00-04:00",
-    "temp": 44,
+    "temp": 43,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
@@ -482,30 +482,30 @@
    },
    {
     "time": "2026-10-29T07:00:00-04:00",
-    "temp": 44,
+    "temp": 45,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 100
+    "humidity": 96
    },
    {
     "time": "2026-10-29T08:00:00-04:00",
-    "temp": 44,
+    "temp": 45,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 100
+    "humidity": 97
    },
    {
     "time": "2026-10-29T09:00:00-04:00",
-    "temp": 49,
+    "temp": 50,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 2,
-    "humidity": 93
+    "humidity": 91
    },
    {
     "time": "2026-10-29T10:00:00-04:00",
@@ -574,19 +574,19 @@
   "daily": [
    {
     "date": "2026-10-28",
-    "high": 62,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
+    "high": 61,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
     "precipPct": 1,
-    "wind": 3,
-    "windText": "S 3 mph",
-    "summary": "Mostly cloudy, with a high near 62. South wind around 3 mph.",
+    "wind": 7,
+    "windText": "S 7 mph",
+    "summary": "Mostly sunny. High near 61, with temperatures falling to around 58 in the afternoon. South wind around 7 mph.",
     "low": 43,
     "night": {
      "low": 43,
      "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy. Low around 43, with temperatures rising to around 45 overnight. South wind 0 to 3 mph.",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 43. South wind 2 to 6 mph.",
      "precipPct": 1
     }
    },
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+   "source": "BBC",
+   "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs..",
+   "body": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-28T21:16:30Z",
+   "topic": "World"
+  },
+  {
    "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
    "source": "BBC",
    "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports..",
@@ -722,6 +733,17 @@
    ],
    "publishedAt": "2026-10-28T20:24:39Z",
    "topic": "World"
+  },
+  {
+   "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+   "source": "NPR",
+   "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry..",
+   "body": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
+   "sources": [
+    "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane"
+   ],
+   "publishedAt": "2026-10-28T17:15:09Z",
+   "topic": "News"
   },
   {
    "title": "How could Israel break election deadlock? Here are four scenarios",
@@ -809,28 +831,6 @@
     "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability"
    ],
    "publishedAt": "2026-10-28T09:05:33Z",
-   "topic": "News"
-  },
-  {
-   "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-   "source": "BBC",
-   "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says..",
-   "body": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-28T08:28:39Z",
-   "topic": "World"
-  },
-  {
-   "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-   "source": "NPR",
-   "summary": "Israeli voters turned out in record numbers, and the results remain too close to call.",
-   "body": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
-   "sources": [
-    "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
-   ],
-   "publishedAt": "2026-10-28T07:28:55Z",
    "topic": "News"
   }
  ],
