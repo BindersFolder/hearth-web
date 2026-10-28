@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-10-28T19:11:51Z",
+ "updatedAt": "2026-10-28T19:15:14Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 770.12,
-   "changePct": 0.02,
+   "price": 770.7599,
+   "changePct": 0.11,
    "prevClose": 769.95,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 721.97,
-   "changePct": -0.04,
+   "price": 723.04,
+   "changePct": 0.11,
    "prevClose": 722.26,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 523.17,
-   "changePct": -0.07,
+   "price": 523.48,
+   "changePct": -0.01,
    "prevClose": 523.52,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.31,
-   "changePct": -0.3,
+   "price": 279.59,
+   "changePct": -0.2,
    "prevClose": 280.16,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80955.7891,
-   "changePct": 0.19,
+   "price": 81040.7109,
+   "changePct": 0.3,
    "prevClose": 80799.5078,
    "high52": 113642.73,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2353.27,
-   "changePct": 0.26,
-   "prevClose": 2347.1101,
+   "price": 2355.26,
+   "changePct": 0.35,
+   "prevClose": 2347.01,
    "high52": 4036.35,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 102.89,
-   "changePct": 1.53,
+   "price": 102.42,
+   "changePct": 1.07,
    "prevClose": 101.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 111.73,
-   "changePct": 0.8,
+   "price": 111.32,
+   "changePct": 0.43,
    "prevClose": 110.84,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.86,
-   "changePct": 0.4,
+   "price": 49.91,
+   "changePct": 0.5,
    "prevClose": 49.66,
-   "note": "Gasoline 28.10 · Diesel 93.40",
+   "note": "Gasoline 28.22 · Diesel 93.30",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.1187,
-   "changePct": 0.88,
+   "price": 3.1104,
+   "changePct": 0.61,
    "prevClose": 3.0915,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.6735,
-   "changePct": 1.53,
+   "price": 4.6599,
+   "changePct": 1.24,
    "prevClose": 4.603,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.45,
    "note": "Week ago 4.2644 · Year ago 3.0437",
    "source": "AAA",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.13,
    "note": "Week ago 4.4075 · Year ago 3.1092",
    "source": "AAA",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.3174 · Year ago 3.6743",
    "source": "AAA",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": 0.0,
    "note": "Week ago 6.5058 · Year ago 3.8755",
    "source": "AAA",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4050.3,
-   "changePct": -0.15,
+   "price": 4058.8999,
+   "changePct": 0.06,
    "prevClose": 4056.3,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 53.64,
-   "changePct": -0.87,
+   "price": 53.765,
+   "changePct": -0.64,
    "prevClose": 54.11,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.674,
-   "changePct": 0.31,
+   "price": 6.6885,
+   "changePct": 0.53,
    "prevClose": 6.6535,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.047,
-   "changePct": 1.08,
+   "price": 5.045,
+   "changePct": 1.04,
    "prevClose": 4.993,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.151,
+   "price": 102.146,
    "changePct": -0.25,
    "prevClose": 102.402,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.41,
+   "price": 17.23,
    "changePct": null,
    "prevClose": 17.51,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T19:11:51Z"
+   "asOf": "2026-10-28T19:15:14Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,145 +702,136 @@
  },
  "news": [
   {
-   "title": "Harry Kane wins the 2026 Gerd Müller Trophy",
-   "source": "The Athletic, BBC",
-   "summary": "Bayern Munich and England forward Harry Kane received the Gerd Müller Trophy, which recognizes the season's top scorer.",
-   "body": "Bayern Munich and England forward Harry Kane received the Gerd Müller Trophy, which recognizes the season's top scorer. He scored 73 goals for club and country in the 2025–26 season, earning the award for the second time after 2024.",
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "source": "BBC",
+   "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset..",
+   "body": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
    "sources": [
-    "https://www.nytimes.com/athletic/7728871/2026/10/27/ballon-dor-winner-harry-kane-analysis-bayern-england",
-    "https://www.bbc.com/newsround/articles/c574p3jkdp8xo"
+    "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-27T16:53:55Z",
-   "topic": "Sports",
-   "newsrooms": 558
+   "publishedAt": "2026-10-28T16:59:47Z",
+   "topic": "World"
   },
   {
-   "title": "Trump offers $1 million for tips leading to election fraud convictions",
-   "source": "The Guardian, Reuters, CNN",
-   "summary": "Trump said the reward would apply to reports concerning past elections as well as the 2026 midterm elections.",
-   "body": "Trump said the reward would apply to reports concerning past elections as well as the 2026 midterm elections. He announced the offer on Truth Social, with payment contingent on the reported information leading to an arrest and conviction.",
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "source": "BBC",
+   "summary": "With 85% of votes counted, all signs point to an impasse.",
+   "body": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
    "sources": [
-    "https://www.theguardian.com/us-news/2026/oct/27/first-thing-trump-targets-midterm-legitimacy-with-lawsuits-and-a-cash-bounty",
-    "https://www.reuters.com/pt/mundo/WLQJJZBK4RJGPJAZ2HVH2CGR5Y-2026-10-27"
+    "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-27T17:16:13Z",
-   "topic": "Politics",
-   "newsrooms": 380
+   "publishedAt": "2026-10-28T14:30:31Z",
+   "topic": "World"
   },
   {
-   "title": "Chinese broadcaster suspends La Liga coverage after Mbappé controversy",
-   "source": "BBC, USA Today",
-   "summary": "The controversy prompted Chinese brands including Dongpeng Beverage Group and Mengniu Dairy to end their partnerships with Kylian Mbappé.",
-   "body": "The controversy prompted Chinese brands including Dongpeng Beverage Group and Mengniu Dairy to end their partnerships with Kylian Mbappé. China Central Television also halted La Liga and Mbappé-related broadcasts and removed associated advertisements. Reports said some social media content about the footballer was also restricted or taken down.",
+   "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+   "source": "NPR",
+   "summary": "Jordan Neely was frightening fellow passengers.",
+   "body": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-    "https://www.usatoday.com/story/sports/soccer/2026/10/27/kylian-mbappe-china-apology-mao-zedong-controversy/92457911007"
+    "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror"
    ],
-   "publishedAt": "2026-10-27T16:27:57Z",
-   "topic": "Media",
-   "newsrooms": 362
+   "publishedAt": "2026-10-28T14:07:33Z",
+   "topic": "News"
   },
   {
-   "title": "Jordanian Air Force strikes militant sites in southern Syria",
-   "source": "The Guardian, Reuters, CNN",
-   "summary": "Jordan said the operation targeted terrorist organizations in southern Syria and was carried out in response to an attack on a church in Karak.",
-   "body": "Jordan said the operation targeted terrorist organizations in southern Syria and was carried out in response to an attack on a church in Karak. Reports said the strikes killed and wounded dozens and destroyed vehicles, though accounts differed on the details.",
+   "title": "Fed holds interest rates steady even as inflation remains stubborn",
+   "source": "NPR",
+   "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged  — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation..",
+   "body": "The Federal Reserve opted to leave its benchmark interest rate unchanged  — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
    "sources": [
-    "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-    "https://www.reuters.com/business/media-telecom/jordan-strikes-southern-syria-after-linking-church-attackers-terrorist-groups-2026-10-26"
+    "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
    ],
-   "publishedAt": "2026-10-27T12:00:13Z",
-   "topic": "World",
-   "newsrooms": 349
+   "publishedAt": "2026-10-28T14:04:42Z",
+   "topic": "News"
   },
   {
-   "title": "Walter Koenig, Star Trek actor, dies at 90",
-   "source": "NYT, Forbes, The Guardian",
-   "summary": "Walter Koenig died at his home in North Hollywood at age 90.",
-   "body": "Walter Koenig died at his home in North Hollywood at age 90. He was widely known for portraying Pavel Chekov in the original Star Trek series and films, and also appeared in Babylon 5 and other television productions.",
+   "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+   "source": "NPR",
+   "summary": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry..",
+   "body": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
    "sources": [
-    "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
-    "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies"
+    "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies"
    ],
-   "publishedAt": "2026-10-27T16:41:42Z",
-   "topic": "Culture",
-   "newsrooms": 319
+   "publishedAt": "2026-10-28T12:10:43Z",
+   "topic": "News"
   },
   {
-   "title": "Anthropic IPO filing helps lift U.S. stocks as oil prices ease",
-   "source": "NYT, Forbes, The Guardian",
-   "summary": "Major U.S.",
-   "body": "Major U.S. stock indexes moved higher on Monday, with technology and semiconductor shares among the gainers after Anthropic submitted paperwork for an initial public offering. Falling oil prices also supported investor sentiment, while markets looked ahead to corporate earnings and the Federal Reserve's upcoming interest-rate decision.",
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "source": "BBC",
+   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"..",
+   "body": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
    "sources": [
-    "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-    "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+    "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-27T12:06:26Z",
-   "topic": "Markets",
-   "newsrooms": 311
+   "publishedAt": "2026-10-28T10:31:22Z",
+   "topic": "World"
   },
   {
-   "title": "James Comey faces new federal charges over alleged 2016 disclosure",
-   "source": "NYT, Forbes, The Guardian",
-   "summary": "Federal prosecutors charged James Comey with transmitting national defense information and conspiring to transmit it, alleging that the disclosure occurred in October 2016.",
-   "body": "Federal prosecutors charged James Comey with transmitting national defense information and conspiring to transmit it, alleging that the disclosure occurred in October 2016. The case is the third federal criminal case brought against Comey. He has denied wrongdoing and said he would fight the charges.",
+   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+   "source": "BBC",
+   "summary": "The energy minister described it as a \"major milestone\" for the East African nation..",
+   "body": "The energy minister described it as a \"major milestone\" for the East African nation.",
    "sources": [
-    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-    "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj"
+    "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-27T15:58:11Z",
-   "topic": "Justice",
-   "newsrooms": 259
+   "publishedAt": "2026-10-28T10:18:40Z",
+   "topic": "World"
   },
   {
-   "title": "Jordan says Syria airstrikes killed more than 20 Islamic State fighters",
-   "source": "BBC, Washington Post",
-   "summary": "Jordan said the strikes were retaliation for a deadly attack on a Greek Orthodox church in Jordan.",
-   "body": "Jordan said the strikes were retaliation for a deadly attack on a Greek Orthodox church in Jordan. Syria condemned the operation as a violation of its sovereignty and reported deaths, including civilians; accounts differed on the casualty toll.",
+   "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+   "source": "BBC",
+   "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services..",
+   "body": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
    "sources": [
-    "https://www.washingtonpost.com/world/2026/10/26/syria-says-five-killed-after-jordan-retaliates-church-attack-with-airstrikes"
+    "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-27T13:33:43Z",
-   "topic": "World",
-   "newsrooms": 251
+   "publishedAt": "2026-10-28T10:17:54Z",
+   "topic": "World"
   },
   {
-   "title": "Romanian authorities link Carfil-area fire to alleged Russia-directed sabotage",
-   "source": "Reuters, AP, The Independent",
-   "summary": "The Romanian Intelligence Service says it identified a sabotage network allegedly coordinated from Russia and involved in a fire near Carfil in Brașov on September 14, 2026.",
-   "body": "The Romanian Intelligence Service says it identified a sabotage network allegedly coordinated from Russia and involved in a fire near Carfil in Brașov on September 14, 2026. DIICOT is investigating three foreign suspects, two Belarusian citizens and one Ukrainian citizen, with reports saying two were detained in Germany and the third was sought in Poland. Romanian authorities say the network had other targets in Romania and the region.",
+   "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+   "source": "NPR",
+   "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years..",
+   "body": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
    "sources": [
-    "https://www.reuters.com/world/europe/russian-sabotage-network-believed-have-caused-romanian-fire-prosecutors-say-2026-10-26",
-    "https://apnews.com/article/russia-europe-sabotage-plot-ukraine-romania-9720d347eaada0dd42eac520921dc285"
+    "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability"
    ],
-   "publishedAt": "2026-10-27T15:26:15Z",
-   "topic": "World",
-   "newsrooms": 219
+   "publishedAt": "2026-10-28T09:05:33Z",
+   "topic": "News"
   },
   {
-   "title": "Car hits crowd in northern Germany; occupants flee after police fire",
-   "source": "Reuters, The Independent",
-   "summary": "A car drove into a group of people in Neustadt am Rübenberge, in Lower Saxony, late Monday.",
-   "body": "A car drove into a group of people in Neustadt am Rübenberge, in Lower Saxony, late Monday. Four or five people were injured, some seriously, but none were reported to be in life-threatening condition. Police fired shots at the car, whose occupants escaped and remained at large.",
+   "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+   "source": "BBC",
+   "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says..",
+   "body": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
    "sources": [
-    "https://www.reuters.com/world/several-injured-car-ramming-northern-germany-suspects-large-2026-10-27"
+    "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-27T16:57:35Z",
-   "topic": "World",
-   "newsrooms": 217
+   "publishedAt": "2026-10-28T08:28:39Z",
+   "topic": "World"
   },
   {
-   "title": "Brazilian Supreme Court restricts Flávio Bolsonaro's travel",
-   "source": "NYT, Reuters, Time",
-   "summary": "The order, issued by Brazil's Supreme Federal Court, also prohibits Bolsonaro from contacting lawyer Willer Tomaz.",
-   "body": "The order, issued by Brazil's Supreme Federal Court, also prohibits Bolsonaro from contacting lawyer Willer Tomaz. It is linked to an investigation into suspected money laundering involving betting businesses. Bolsonaro said he was notified by Federal Police agents.",
+   "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+   "source": "NPR",
+   "summary": "Israeli voters turned out in record numbers, and the results remain too close to call.",
+   "body": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
    "sources": [
-    "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
-    "https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula"
+    "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
    ],
-   "publishedAt": "2026-10-27T15:17:45Z",
-   "topic": "World",
-   "newsrooms": 208
+   "publishedAt": "2026-10-28T07:28:55Z",
+   "topic": "News"
+  },
+  {
+   "title": "Dozens are dead in a high-speed train crash in Spain",
+   "source": "NPR",
+   "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars.",
+   "body": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+   "sources": [
+    "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+   ],
+   "publishedAt": "2026-10-28T06:09:46Z",
+   "topic": "News"
   }
  ],
  "highlights": []
