@@ -5,8 +5,9 @@ Fetches highlights.json from the private hearth-feed repo, then writes:
   data/feed.json     public: everything except `media`, with `highlights`
                      filtered to the public kinds (weather, news)
   data/friends.json  {"media": ...} encrypted with FRIENDS_KEY
-  data/private.json  {"highlights": [every non-public item]} encrypted with
-                     HEARTH_PASSPHRASE
+  data/private.json  {"highlights": [every non-public item], "media": ...}
+                     encrypted with HEARTH_PASSPHRASE (the passphrase sees
+                     everything the friends link does)
 
 Encryption (both blobs): AES-256-GCM, key = PBKDF2-SHA256(secret, salt,
 200,000 iterations, 32 bytes), random 16-byte salt, random 12-byte IV. The GCM
@@ -172,7 +173,7 @@ def main():
     passphrase = os.environ.get("HEARTH_PASSPHRASE", "")
     os.makedirs(DATA, exist_ok=True)
     friends = build_blob(FRIENDS_PATH, {"media": media}, friends_key, updated_at)
-    private = build_blob(PRIVATE_PATH, {"highlights": personal_items}, passphrase, updated_at)
+    private = build_blob(PRIVATE_PATH, {"highlights": personal_items, "media": media}, passphrase, updated_at)
 
     changed = [name for name, path, obj in (("feed.json", FEED_PATH, public),
                                              ("friends.json", FRIENDS_PATH, friends),
