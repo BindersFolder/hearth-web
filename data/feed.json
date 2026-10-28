@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T22:13:32Z",
+ "updatedAt": "2026-10-28T23:12:38Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 81224.8594,
-   "changePct": 0.53,
+   "price": 81221.5,
+   "changePct": 0.52,
    "prevClose": 80799.5078,
    "high52": 113642.73,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2358.5901,
-   "changePct": 0.49,
+   "price": 2358.2,
+   "changePct": 0.48,
    "prevClose": 2347.01,
    "high52": 4036.35,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 101.93,
-   "changePct": 0.58,
+   "price": 101.96,
+   "changePct": 0.61,
    "prevClose": 101.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 110.36,
-   "changePct": -0.43,
+   "price": 110.56,
+   "changePct": -0.25,
    "prevClose": 110.84,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.79,
-   "changePct": 0.26,
+   "price": 50.15,
+   "changePct": 0.99,
    "prevClose": 49.66,
-   "note": "Gasoline 28.53 · Diesel 92.33",
+   "note": "Gasoline 28.92 · Diesel 92.61",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.027,
-   "changePct": -1.21,
+   "price": 3.017,
+   "changePct": -1.53,
    "prevClose": 3.064,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.1061,
-   "changePct": 0.47,
+   "price": 3.1163,
+   "changePct": 0.8,
    "prevClose": 3.0915,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.6252,
-   "changePct": 0.48,
+   "price": 4.6327,
+   "changePct": 0.65,
    "prevClose": 4.603,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.45,
    "note": "Week ago 4.2644 · Year ago 3.0437",
    "source": "AAA",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.13,
    "note": "Week ago 4.4075 · Year ago 3.1092",
    "source": "AAA",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.3174 · Year ago 3.6743",
    "source": "AAA",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": 0.0,
    "note": "Week ago 6.5058 · Year ago 3.8755",
    "source": "AAA",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4076.7,
-   "changePct": 0.5,
+   "price": 4064.6001,
+   "changePct": 0.2,
    "prevClose": 4056.3,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 54.105,
-   "changePct": -0.01,
+   "price": 53.935,
+   "changePct": -0.32,
    "prevClose": 54.11,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.677,
-   "changePct": 0.35,
+   "price": 6.679,
+   "changePct": 0.38,
    "prevClose": 6.6535,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.159,
+   "price": 102.155,
    "changePct": -0.24,
    "prevClose": 102.402,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-28T22:13:32Z"
+   "asOf": "2026-10-28T23:12:38Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,101 +339,92 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-10-28T22:13:05Z"
+   "asOf": "2026-10-28T23:12:09Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "cloud",
-  "conditionText": "Mostly Cloudy",
-  "temp": 61,
-  "high": 62,
+  "condition": "clearNight",
+  "conditionText": "Partly Cloudy",
+  "temp": 54,
+  "high": 54,
   "low": 43,
-  "humidity": 48,
-  "wind": 3,
-  "summary": "Mostly cloudy, with a high near 62. South wind around 3 mph. Partly cloudy. Low around 43, with temperatures rising to around 45 overnight. South wind 0 to 3 mph. Sunny, with a high near 70. South wind 1 to 8 mph.",
+  "humidity": 53,
+  "wind": 6,
+  "summary": "Mostly clear, with a low around 43. South wind 2 to 6 mph. Mostly clear, with a low around 43. South wind 2 to 6 mph. Sunny, with a high near 70. South wind 1 to 8 mph.",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-10-28T17:00:00-04:00",
-    "temp": 61,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 1,
-    "wind": 3,
-    "humidity": 48
-   },
-   {
     "time": "2026-10-28T18:00:00-04:00",
-    "temp": 58,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 1,
-    "wind": 3,
-    "humidity": 55
-   },
-   {
-    "time": "2026-10-28T19:00:00-04:00",
-    "temp": 55,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 1,
-    "wind": 2,
-    "humidity": 64
-   },
-   {
-    "time": "2026-10-28T20:00:00-04:00",
-    "temp": 49,
+    "temp": 54,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 1,
+    "wind": 6,
+    "humidity": 53
+   },
+   {
+    "time": "2026-10-28T19:00:00-04:00",
+    "temp": 51,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 3,
+    "humidity": 61
+   },
+   {
+    "time": "2026-10-28T20:00:00-04:00",
+    "temp": 50,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
     "wind": 2,
-    "humidity": 80
+    "humidity": 65
    },
    {
     "time": "2026-10-28T21:00:00-04:00",
+    "temp": 49,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 73
+   },
+   {
+    "time": "2026-10-28T22:00:00-04:00",
     "temp": 48,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
     "wind": 2,
-    "humidity": 86
+    "humidity": 82
    },
    {
-    "time": "2026-10-28T22:00:00-04:00",
-    "temp": 47,
+    "time": "2026-10-28T23:00:00-04:00",
+    "temp": 48,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
     "wind": 2,
-    "humidity": 93
+    "humidity": 87
    },
    {
-    "time": "2026-10-28T23:00:00-04:00",
+    "time": "2026-10-29T00:00:00-04:00",
     "temp": 46,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
     "wind": 2,
-    "humidity": 100
-   },
-   {
-    "time": "2026-10-29T00:00:00-04:00",
-    "temp": 45,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 100
+    "humidity": 97
    },
    {
     "time": "2026-10-29T01:00:00-04:00",
-    "temp": 45,
+    "temp": 46,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 1,
-    "wind": 1,
-    "humidity": 100
+    "wind": 2,
+    "humidity": 97
    },
    {
     "time": "2026-10-29T02:00:00-04:00",
@@ -441,7 +432,7 @@
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 2,
     "humidity": 100
    },
    {
@@ -450,7 +441,7 @@
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 2,
     "humidity": 100
    },
    {
@@ -459,21 +450,21 @@
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 0,
-    "wind": 0,
+    "wind": 2,
     "humidity": 100
    },
    {
     "time": "2026-10-29T05:00:00-04:00",
-    "temp": 45,
+    "temp": 44,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 2,
     "humidity": 100
    },
    {
     "time": "2026-10-29T06:00:00-04:00",
-    "temp": 44,
+    "temp": 43,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
@@ -482,30 +473,30 @@
    },
    {
     "time": "2026-10-29T07:00:00-04:00",
-    "temp": 44,
+    "temp": 45,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 100
+    "humidity": 96
    },
    {
     "time": "2026-10-29T08:00:00-04:00",
-    "temp": 44,
+    "temp": 45,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 100
+    "humidity": 97
    },
    {
     "time": "2026-10-29T09:00:00-04:00",
-    "temp": 49,
+    "temp": 50,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 2,
-    "humidity": 93
+    "humidity": 91
    },
    {
     "time": "2026-10-29T10:00:00-04:00",
@@ -569,26 +560,33 @@
     "precipPct": 0,
     "wind": 8,
     "humidity": 55
+   },
+   {
+    "time": "2026-10-29T17:00:00-04:00",
+    "temp": 69,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 7,
+    "humidity": 59
    }
   ],
   "daily": [
    {
     "date": "2026-10-28",
-    "high": 62,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 1,
-    "wind": 3,
-    "windText": "S 3 mph",
-    "summary": "Mostly cloudy, with a high near 62. South wind around 3 mph.",
     "low": 43,
     "night": {
      "low": 43,
      "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy. Low around 43, with temperatures rising to around 45 overnight. South wind 0 to 3 mph.",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 43. South wind 2 to 6 mph.",
      "precipPct": 1
-    }
+    },
+    "high": 54,
+    "conditionText": "Mostly Clear",
+    "condition": "clearNight",
+    "summary": "Mostly clear, with a low around 43. South wind 2 to 6 mph.",
+    "precipPct": 1
    },
    {
     "date": "2026-10-29",
@@ -622,7 +620,7 @@
      "low": 37,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear. Low around 37, with temperatures rising to around 40 overnight.",
+     "summary": "Mostly clear. Low around 37, with temperatures rising to around 40 overnight. Northwest wind 1 to 8 mph.",
      "precipPct": 0
     }
    },
@@ -702,6 +700,17 @@
  },
  "news": [
   {
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "source": "BBC",
+   "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”..",
+   "body": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-28T22:13:35Z",
+   "topic": "World"
+  },
+  {
    "title": "Girl seriously injured in wolf attack at German wildlife park",
    "source": "BBC",
    "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked..",
@@ -746,17 +755,6 @@
    "topic": "World"
   },
   {
-   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-   "source": "BBC",
-   "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports..",
-   "body": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-28T21:07:06Z",
-   "topic": "World"
-  },
-  {
    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
    "source": "BBC",
    "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset..",
@@ -766,6 +764,17 @@
    ],
    "publishedAt": "2026-10-28T20:24:39Z",
    "topic": "World"
+  },
+  {
+   "title": "Trump administration will allow pharmacies to make popular peptides",
+   "source": "NPR",
+   "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration.",
+   "body": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+   "sources": [
+    "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement"
+   ],
+   "publishedAt": "2026-10-28T18:26:48Z",
+   "topic": "News"
   },
   {
    "title": "Trump administration wants to remove regulations on a super planet-heating gas",
@@ -821,17 +830,6 @@
    ],
    "publishedAt": "2026-10-28T12:10:43Z",
    "topic": "News"
-  },
-  {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "source": "BBC",
-   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"..",
-   "body": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-28T10:31:22Z",
-   "topic": "World"
   }
  ],
  "highlights": []
