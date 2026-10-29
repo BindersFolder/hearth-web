@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T13:02:01Z",
+ "updatedAt": "2026-10-29T13:17:01Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80096.5,
-   "changePct": -1.42,
+   "price": 80178.5938,
+   "changePct": -1.31,
    "prevClose": 81246.9688,
    "high52": 111612.35,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2325.01,
-   "changePct": -1.35,
+   "price": 2327.5801,
+   "changePct": -1.24,
    "prevClose": 2356.8899,
    "high52": 3948.22,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 101.32,
-   "changePct": -0.1,
+   "price": 100.65,
+   "changePct": -0.76,
    "prevClose": 101.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 110.36,
-   "changePct": 0.14,
+   "price": 109.68,
+   "changePct": -0.48,
    "prevClose": 110.21,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.25,
-   "changePct": -3.79,
+   "price": 48.09,
+   "changePct": -4.11,
    "prevClose": 50.15,
-   "note": "Gasoline 27.50 · Diesel 89.74",
+   "note": "Gasoline 27.65 · Diesel 88.97",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.932,
-   "changePct": -3.17,
+   "price": 2.927,
+   "changePct": -3.34,
    "prevClose": 3.028,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.0672,
-   "changePct": -1.09,
+   "price": 3.0547,
+   "changePct": -1.49,
    "prevClose": 3.1009,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5491,
-   "changePct": -1.63,
+   "price": 4.5147,
+   "changePct": -2.38,
    "prevClose": 4.6247,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4031.5,
-   "changePct": -0.48,
+   "price": 4036.8,
+   "changePct": -0.35,
    "prevClose": 4051.1001,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.5,
-   "changePct": -1.46,
+   "price": 52.56,
+   "changePct": -1.35,
    "prevClose": 53.28,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.588,
-   "changePct": -0.94,
+   "price": 6.5885,
+   "changePct": -0.93,
    "prevClose": 6.6505,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.007,
-   "changePct": -0.75,
+   "price": 5.003,
+   "changePct": -0.83,
    "prevClose": 5.045,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.203,
-   "changePct": 0.04,
+   "price": 102.281,
+   "changePct": 0.11,
    "prevClose": 102.166,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.08,
+   "price": 16.9,
    "changePct": null,
    "prevClose": 16.89,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:02:01Z"
+   "asOf": "2026-10-29T13:17:01Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,14 +346,23 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Mostly Sunny",
-  "temp": 50,
+  "temp": 45,
   "high": 70,
   "low": 52,
-  "humidity": 89,
-  "wind": 2,
+  "humidity": 96,
+  "wind": 1,
   "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South wind 1 to 8 mph. Partly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind around 6 mph. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind 2 to 15 mph.",
   "alerts": [],
   "hourly": [
+   {
+    "time": "2026-10-29T08:00:00-04:00",
+    "temp": 45,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 96
+   },
    {
     "time": "2026-10-29T09:00:00-04:00",
     "temp": 50,
@@ -560,15 +569,6 @@
     "precipPct": 3,
     "wind": 2,
     "humidity": 96
-   },
-   {
-    "time": "2026-10-30T08:00:00-04:00",
-    "temp": 53,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 96
    }
   ],
   "daily": [
@@ -757,6 +757,17 @@
    "topic": "World"
   },
   {
+   "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+   "source": "NPR",
+   "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability..",
+   "body": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+   "sources": [
+    "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability"
+   ],
+   "publishedAt": "2026-10-29T09:05:03Z",
+   "topic": "News"
+  },
+  {
    "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
    "source": "NPR",
    "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged..",
@@ -818,17 +829,6 @@
    "body": "Learning about money is becoming a growing part of the high school curriculum.",
    "sources": [
     "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school"
-   ],
-   "publishedAt": "2026-10-29T05:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Ahead of midterms, Missourians defend transgender healthcare",
-   "source": "NPR",
-   "summary": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban..",
-   "body": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender"
    ],
    "publishedAt": "2026-10-29T05:00:00Z",
    "topic": "News"
