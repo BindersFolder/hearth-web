@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T21:47:01Z",
+ "updatedAt": "2026-10-29T22:02:01Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78952.7969,
-   "changePct": -2.82,
+   "price": 78897.3438,
+   "changePct": -2.89,
    "prevClose": 81246.9688,
    "high52": 111612.35,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2267.54,
-   "changePct": -3.79,
+   "price": 2264.8501,
+   "changePct": -3.91,
    "prevClose": 2356.8899,
    "high52": 3948.22,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 50.15,
    "note": "Gasoline 27.39 · Diesel 89.67",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.93,
-   "changePct": -0.23,
+   "price": 101.915,
+   "changePct": -0.25,
    "prevClose": 102.166,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T21:47:01Z"
+   "asOf": "2026-10-29T22:02:01Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,14 +344,14 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "sun",
-  "conditionText": "Sunny",
-  "temp": 68,
-  "high": 70,
+  "condition": "clearNight",
+  "conditionText": "Mostly Clear",
+  "temp": 65,
+  "high": 65,
   "low": 54,
-  "humidity": 61,
-  "wind": 7,
-  "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind around 8 mph. Partly cloudy, with a low around 54. South wind around 6 mph. Sunny. High near 67, with temperatures falling to around 60 in the afternoon. West wind 3 to 12 mph, with gusts as high as 24 mph.",
+  "humidity": 65,
+  "wind": 6,
+  "summary": "Partly cloudy, with a low around 54. South wind around 6 mph. Partly cloudy, with a low around 54. South wind around 6 mph. Sunny. High near 67, with temperatures falling to around 60 in the afternoon. West wind 3 to 12 mph, with gusts as high as 24 mph.",
   "alerts": [
    {
     "title": "Special Weather Statement",
@@ -372,15 +372,6 @@
    }
   ],
   "hourly": [
-   {
-    "time": "2026-10-29T17:00:00-04:00",
-    "temp": 68,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 61
-   },
    {
     "time": "2026-10-29T18:00:00-04:00",
     "temp": 65,
@@ -587,18 +578,20 @@
     "precipPct": 0,
     "wind": 12,
     "humidity": 46
+   },
+   {
+    "time": "2026-10-30T17:00:00-04:00",
+    "temp": 60,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 10,
+    "humidity": 47
    }
   ],
   "daily": [
    {
     "date": "2026-10-29",
-    "high": 70,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 8,
-    "windText": "SW 8 mph",
-    "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind around 8 mph.",
     "low": 54,
     "night": {
      "low": 54,
@@ -606,7 +599,12 @@
      "conditionText": "Partly Cloudy",
      "summary": "Partly cloudy, with a low around 54. South wind around 6 mph.",
      "precipPct": 4
-    }
+    },
+    "high": 65,
+    "conditionText": "Partly Cloudy",
+    "condition": "clearNight",
+    "summary": "Partly cloudy, with a low around 54. South wind around 6 mph.",
+    "precipPct": 4
    },
    {
     "date": "2026-10-30",
@@ -640,7 +638,7 @@
      "low": 35,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 35.",
+     "summary": "Partly cloudy, with a low around 35. North wind around 1 mph.",
      "precipPct": 0
     }
    },
@@ -652,7 +650,7 @@
     "precipPct": 0,
     "wind": 2,
     "windText": "W 2 mph",
-    "summary": "Mostly sunny, with a high near 63.",
+    "summary": "Mostly sunny. High near 63, with temperatures falling to around 58 in the afternoon.",
     "low": 40,
     "night": {
      "low": 40,
