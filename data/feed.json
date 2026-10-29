@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-10-29T19:17:03Z",
+ "updatedAt": "2026-10-29T19:32:02Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 767.38,
-   "changePct": -0.25,
+   "price": 768.5,
+   "changePct": -0.1,
    "prevClose": 769.27,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 712.45,
-   "changePct": -0.77,
+   "price": 714.11,
+   "changePct": -0.54,
    "prevClose": 718.0,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 521.49,
-   "changePct": -0.62,
+   "price": 522.26,
+   "changePct": -0.47,
    "prevClose": 524.75,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 283.105,
-   "changePct": 0.32,
+   "price": 283.72,
+   "changePct": 0.54,
    "prevClose": 282.21,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80681.3984,
-   "changePct": -0.7,
+   "price": 80770.2578,
+   "changePct": -0.59,
    "prevClose": 81246.9688,
    "high52": 111612.35,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2324.6799,
-   "changePct": -1.37,
+   "price": 2331.72,
+   "changePct": -1.07,
    "prevClose": 2356.8899,
    "high52": 3948.22,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 102.18,
-   "changePct": 0.75,
+   "price": 102.32,
+   "changePct": 0.89,
    "prevClose": 101.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 110.93,
-   "changePct": 0.65,
+   "price": 111.04,
+   "changePct": 0.75,
    "prevClose": 110.21,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.21,
-   "changePct": -3.87,
+   "price": 48.13,
+   "changePct": -4.03,
    "prevClose": 50.15,
-   "note": "Gasoline 27.39 · Diesel 89.85",
+   "note": "Gasoline 27.36 · Diesel 89.67",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.926,
-   "changePct": -3.37,
+   "price": 2.923,
+   "changePct": -3.47,
    "prevClose": 3.028,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.085,
-   "changePct": -0.51,
+   "price": 3.0877,
+   "changePct": -0.43,
    "prevClose": 3.1009,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5721,
-   "changePct": -1.14,
+   "price": 4.5713,
+   "changePct": -1.15,
    "prevClose": 4.6247,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4024.3999,
+   "price": 4024.2,
    "changePct": -0.66,
    "prevClose": 4051.1001,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.135,
-   "changePct": -2.15,
+   "price": 52.155,
+   "changePct": -2.11,
    "prevClose": 53.28,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.603,
+   "price": 6.6035,
    "changePct": -0.71,
    "prevClose": 6.6505,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.031,
-   "changePct": -0.13,
+   "price": 102.025,
+   "changePct": -0.14,
    "prevClose": 102.166,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.95,
+   "price": 16.89,
    "changePct": null,
    "prevClose": 16.89,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T19:17:03Z"
+   "asOf": "2026-10-29T19:32:02Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -742,6 +742,17 @@
    "topic": "World"
   },
   {
+   "title": "Senate Election Results 2026 Live",
+   "source": "NPR",
+   "summary": "View live results for the 2026 United States Senate elections..",
+   "body": "View live results for the 2026 United States Senate elections.",
+   "sources": [
+    "https://www.npr.org/2026/10/29/g-s1-148801/senate-election-results-2026"
+   ],
+   "publishedAt": "2026-10-29T15:19:49Z",
+   "topic": "News"
+  },
+  {
    "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
    "source": "BBC",
    "summary": "The defeated presidential candidate says he will lead the opposition from the US..",
@@ -838,17 +849,6 @@
     "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline"
    ],
    "publishedAt": "2026-10-29T11:53:46Z",
-   "topic": "News"
-  },
-  {
-   "title": "Who benefits when massive AI data centers come to town?",
-   "source": "NPR",
-   "summary": "The battle over data centers is hitting the ballot box.",
-   "body": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town"
-   ],
-   "publishedAt": "2026-10-29T11:41:59Z",
    "topic": "News"
   }
  ],
