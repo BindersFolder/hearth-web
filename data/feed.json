@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-10-29T13:32:02Z",
+ "updatedAt": "2026-10-29T13:47:02Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 768.8001,
-   "changePct": -0.06,
+   "price": 769.3399,
+   "changePct": 0.01,
    "prevClose": 769.27,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 715.32,
-   "changePct": -0.37,
+   "price": 714.91,
+   "changePct": -0.43,
    "prevClose": 718.0,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 522.1,
-   "changePct": -0.51,
+   "price": 523.07,
+   "changePct": -0.32,
    "prevClose": 524.75,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 282.875,
-   "changePct": 0.24,
+   "price": 283.92,
+   "changePct": 0.61,
    "prevClose": 282.21,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 79965.9531,
-   "changePct": -1.58,
+   "price": 79974.2969,
+   "changePct": -1.57,
    "prevClose": 81246.9688,
    "high52": 111612.35,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2321.4099,
-   "changePct": -1.51,
+   "price": 2317.1899,
+   "changePct": -1.68,
    "prevClose": 2356.8899,
    "high52": 3948.22,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.35,
-   "changePct": -1.06,
+   "price": 100.17,
+   "changePct": -1.23,
    "prevClose": 101.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 109.38,
-   "changePct": -0.75,
+   "price": 109.36,
+   "changePct": -0.77,
    "prevClose": 110.21,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.8,
-   "changePct": -4.69,
+   "price": 47.94,
+   "changePct": -4.41,
    "prevClose": 50.15,
-   "note": "Gasoline 27.21 · Diesel 88.97",
+   "note": "Gasoline 27.48 · Diesel 88.85",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.952,
-   "changePct": -2.51,
+   "price": 2.943,
+   "changePct": -2.81,
    "prevClose": 3.028,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.0372,
-   "changePct": -2.05,
+   "price": 3.0393,
+   "changePct": -1.99,
    "prevClose": 3.1009,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5075,
-   "changePct": -2.53,
+   "price": 4.5004,
+   "changePct": -2.69,
    "prevClose": 4.6247,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4037.3,
-   "changePct": -0.34,
+   "price": 4043.7,
+   "changePct": -0.18,
    "prevClose": 4051.1001,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.545,
-   "changePct": -1.38,
+   "price": 52.42,
+   "changePct": -1.61,
    "prevClose": 53.28,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.5935,
-   "changePct": -0.86,
+   "price": 6.563,
+   "changePct": -1.32,
    "prevClose": 6.6505,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.001,
-   "changePct": -0.87,
+   "price": 4.982,
+   "changePct": -1.25,
    "prevClose": 5.045,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.362,
-   "changePct": 0.19,
+   "price": 102.261,
+   "changePct": 0.09,
    "prevClose": 102.166,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.94,
+   "price": 17.12,
    "changePct": null,
    "prevClose": 16.89,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T13:32:02Z"
+   "asOf": "2026-10-29T13:47:02Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-10-29T12:15:26Z"
+   "asOf": "2026-10-29T13:39:44Z"
   }
  ],
  "weather": {
@@ -351,7 +351,7 @@
   "low": 52,
   "humidity": 89,
   "wind": 2,
-  "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 2 to 8 mph. Partly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind around 6 mph. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind 2 to 15 mph.",
+  "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South wind 1 to 8 mph. Partly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind around 6 mph. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind 2 to 15 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -579,8 +579,8 @@
     "conditionText": "Sunny",
     "precipPct": 1,
     "wind": 8,
-    "windText": "SW 2 to 8 mph",
-    "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 2 to 8 mph.",
+    "windText": "S 1 to 8 mph",
+    "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South wind 1 to 8 mph.",
     "low": 52,
     "night": {
      "low": 52,
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+   "source": "BBC",
+   "summary": "Images of child sexual abuse allegedly belonging to Meghan Markle's father had reportedly been found in his former home in the Philippines..",
+   "body": "Images of child sexual abuse allegedly belonging to Meghan Markle's father had reportedly been found in his former home in the Philippines.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-29T13:25:07Z",
+   "topic": "World"
+  },
+  {
    "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
    "source": "BBC",
    "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say..",
@@ -713,6 +724,17 @@
    "topic": "World"
   },
   {
+   "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
+   "source": "BBC",
+   "summary": "Dnipro regional head Oleksandr Hanzha said at least 10 others were wounded in the attack, including an 11-year-old boy..",
+   "body": "Dnipro regional head Oleksandr Hanzha said at least 10 others were wounded in the attack, including an 11-year-old boy.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-29T12:38:40Z",
+   "topic": "World"
+  },
+  {
    "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
    "source": "BBC",
    "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties..",
@@ -721,17 +743,6 @@
     "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-10-29T12:27:31Z",
-   "topic": "World"
-  },
-  {
-   "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-   "source": "BBC",
-   "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan..",
-   "body": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-29T11:27:05Z",
    "topic": "World"
   },
   {
@@ -790,12 +801,12 @@
    "topic": "News"
   },
   {
-   "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+   "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
    "source": "NPR",
-   "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products..",
-   "body": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+   "summary": "Missouri voters could ban abortion - after they just removed a ban two years ago.",
+   "body": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
    "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings"
+    "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes"
    ],
    "publishedAt": "2026-10-29T05:00:00Z",
    "topic": "News"
@@ -812,23 +823,12 @@
    "topic": "News"
   },
   {
-   "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+   "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
    "source": "NPR",
-   "summary": "Missouri voters could ban abortion - after they just removed a ban two years ago.",
-   "body": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+   "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products..",
+   "body": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
    "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes"
-   ],
-   "publishedAt": "2026-10-29T05:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Business as a liberal art? Some high schools say yes",
-   "source": "NPR",
-   "summary": "Learning about money is becoming a growing part of the high school curriculum..",
-   "body": "Learning about money is becoming a growing part of the high school curriculum.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school"
+    "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings"
    ],
    "publishedAt": "2026-10-29T05:00:00Z",
    "topic": "News"
