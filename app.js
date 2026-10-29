@@ -939,6 +939,25 @@
     renderAll();
   }
 
+  // The refresh button reloads everything: fresh app files (drops the cached
+  // shell, checks for a new service worker) and fresh data. Saved keys stay.
+  async function reloadEverything() {
+    const btn = document.getElementById('refresh');
+    btn.setAttribute('aria-busy', 'true');
+    btn.disabled = true;
+    try {
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.filter((k) => k !== 'hearth-data').map((k) => caches.delete(k)));
+      }
+      if ('serviceWorker' in navigator) {
+        const reg = await navigator.serviceWorker.getRegistration();
+        if (reg) await reg.update();
+      }
+    } catch (_) { /* reload anyway */ }
+    location.reload();
+  }
+
   function init() {
     takeFriendsSecretFromUrl(); // before initTabs reads the hash
     initTabs();
@@ -948,7 +967,7 @@
       else load();
     });
     renderAll();
-    document.getElementById('refresh').addEventListener('click', load);
+    document.getElementById('refresh').addEventListener('click', reloadEverything);
     load();
     // Keep relative times and the stale marker honest; refetch when returning to the app.
     setInterval(() => { renderStatus(); refreshRelativeTimes(); }, KIOSK ? 15e3 : 60e3);

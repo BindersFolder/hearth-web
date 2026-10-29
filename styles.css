@@ -312,11 +312,11 @@ button { cursor: pointer; }
 }
 
 /* Kiosk (?kiosk): wide wall screen, no mouse, nothing below the fold. */
-html.kiosk, html.kiosk body { height: 100vh; overflow: hidden; cursor: none; }
+html.kiosk, html.kiosk body { height: 100vh; overflow: hidden; }
 html.kiosk body { font-size: 19px; display: flex; flex-direction: column; }
 html.kiosk .site-header { position: static; flex: none; }
-html.kiosk .header-date { display: block; font-size: 1.15rem; color: var(--text); font-variant-numeric: tabular-nums; }
-html.kiosk #refresh, html.kiosk .markets-toggle, html.kiosk .market-groups, html.kiosk .tab-bar, html.kiosk .skip-link, html.kiosk .chev { display: none !important; }
+html.kiosk .header-date { display: block; flex: 1; font-size: 1.15rem; color: var(--text); font-variant-numeric: tabular-nums; }
+html.kiosk .markets-toggle, html.kiosk .market-groups, html.kiosk .tab-bar, html.kiosk .skip-link, html.kiosk .chev { display: none !important; }
 html.kiosk .layout {
   flex: 1; min-height: 0; width: 100%; max-width: none; margin: 0; padding: 14px 24px 0;
   display: grid; gap: 14px 28px; align-items: stretch;
