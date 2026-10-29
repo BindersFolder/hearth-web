@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-10-29T15:47:02Z",
+ "updatedAt": "2026-10-29T16:02:02Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 769.57,
-   "changePct": 0.04,
+   "price": 770.025,
+   "changePct": 0.1,
    "prevClose": 769.27,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 716.5999,
-   "changePct": -0.19,
+   "price": 717.225,
+   "changePct": -0.11,
    "prevClose": 718.0,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 522.45,
-   "changePct": -0.44,
+   "price": 522.66,
+   "changePct": -0.4,
    "prevClose": 524.75,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 284.81,
-   "changePct": 0.92,
+   "price": 284.79,
+   "changePct": 0.91,
    "prevClose": 282.21,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 81733.8984,
-   "changePct": 0.6,
+   "price": 81659.1562,
+   "changePct": 0.51,
    "prevClose": 81246.9688,
    "high52": 111612.35,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2367.76,
-   "changePct": 0.46,
+   "price": 2364.6699,
+   "changePct": 0.33,
    "prevClose": 2356.8899,
    "high52": 3948.22,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.32,
-   "changePct": -1.08,
+   "price": 100.63,
+   "changePct": -0.78,
    "prevClose": 101.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 109.59,
-   "changePct": -0.56,
+   "price": 109.76,
+   "changePct": -0.41,
    "prevClose": 110.21,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.35,
-   "changePct": -3.59,
+   "price": 48.72,
+   "changePct": -2.85,
    "prevClose": 50.15,
-   "note": "Gasoline 27.80 · Diesel 89.46",
+   "note": "Gasoline 27.84 · Diesel 90.46",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.954,
-   "changePct": -2.44,
+   "price": 2.957,
+   "changePct": -2.34,
    "prevClose": 3.028,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.0504,
-   "changePct": -1.63,
+   "price": 3.0589,
+   "changePct": -1.35,
    "prevClose": 3.1009,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5186,
-   "changePct": -2.29,
+   "price": 4.5497,
+   "changePct": -1.62,
    "prevClose": 4.6247,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4037.8,
-   "changePct": -0.33,
+   "price": 4033.8,
+   "changePct": -0.43,
    "prevClose": 4051.1001,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.55,
-   "changePct": -1.37,
+   "price": 52.465,
+   "changePct": -1.53,
    "prevClose": 53.28,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.5855,
+   "price": 6.585,
    "changePct": -0.98,
    "prevClose": 6.6505,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.978,
-   "changePct": -1.33,
+   "price": 4.991,
+   "changePct": -1.07,
    "prevClose": 5.045,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.036,
-   "changePct": -0.13,
+   "price": 102.013,
+   "changePct": -0.15,
    "prevClose": 102.166,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.33,
+   "price": 16.45,
    "changePct": null,
    "prevClose": 16.89,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T15:47:02Z"
+   "asOf": "2026-10-29T16:02:02Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,32 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 55,
+  "temp": 64,
   "high": 70,
   "low": 52,
-  "humidity": 83,
-  "wind": 3,
-  "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South wind 1 to 8 mph. Partly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind around 6 mph. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind 2 to 15 mph.",
+  "humidity": 73,
+  "wind": 6,
+  "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 2 to 8 mph. Partly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind around 6 mph. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind 2 to 15 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-10-29T10:00:00-04:00",
-    "temp": 55,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 83
-   },
-   {
-    "time": "2026-10-29T11:00:00-04:00",
-    "temp": 60,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 5,
-    "humidity": 81
-   },
    {
     "time": "2026-10-29T12:00:00-04:00",
     "temp": 64,
@@ -569,6 +551,24 @@
     "precipPct": 0,
     "wind": 7,
     "humidity": 86
+   },
+   {
+    "time": "2026-10-30T10:00:00-04:00",
+    "temp": 61,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 10,
+    "humidity": 70
+   },
+   {
+    "time": "2026-10-30T11:00:00-04:00",
+    "temp": 64,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 14,
+    "humidity": 60
    }
   ],
   "daily": [
@@ -579,8 +579,8 @@
     "conditionText": "Sunny",
     "precipPct": 1,
     "wind": 8,
-    "windText": "S 1 to 8 mph",
-    "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South wind 1 to 8 mph.",
+    "windText": "SW 2 to 8 mph",
+    "summary": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 2 to 8 mph.",
     "low": 52,
     "night": {
      "low": 52,
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "source": "BBC",
+   "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset..",
+   "body": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-29T15:47:20Z",
+   "topic": "World"
+  },
+  {
    "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
    "source": "BBC",
    "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany..",
@@ -732,17 +743,6 @@
     "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-10-29T14:17:35Z",
-   "topic": "World"
-  },
-  {
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "source": "BBC",
-   "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset..",
-   "body": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-29T13:49:04Z",
    "topic": "World"
   },
   {
@@ -779,6 +779,39 @@
    "topic": "World"
   },
   {
+   "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+   "source": "NPR",
+   "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia..",
+   "body": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+   "sources": [
+    "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production"
+   ],
+   "publishedAt": "2026-10-29T11:58:27Z",
+   "topic": "News"
+  },
+  {
+   "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+   "source": "NPR",
+   "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term..",
+   "body": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
+   "sources": [
+    "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline"
+   ],
+   "publishedAt": "2026-10-29T11:53:46Z",
+   "topic": "News"
+  },
+  {
+   "title": "Who benefits when massive AI data centers come to town?",
+   "source": "NPR",
+   "summary": "The battle over data centers is hitting the ballot box.",
+   "body": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+   "sources": [
+    "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town"
+   ],
+   "publishedAt": "2026-10-29T11:41:59Z",
+   "topic": "News"
+  },
+  {
    "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
    "source": "BBC",
    "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled..",
@@ -798,39 +831,6 @@
     "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home"
    ],
    "publishedAt": "2026-10-29T10:52:11Z",
-   "topic": "News"
-  },
-  {
-   "title": "A stress-free guide to organizing important paperwork and documents",
-   "source": "NPR",
-   "summary": "Got piles of mail stacking up in the kitchen? Not sure where your Social Security card is? It might be time to sort through your paperwork.",
-   "body": "Got piles of mail stacking up in the kitchen? Not sure where your Social Security card is? It might be time to sort through your paperwork. Don't let it overwhelm you with this simple guide.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6020623/a-stress-free-guide-to-organizing-important-paperwork-and-documents"
-   ],
-   "publishedAt": "2026-10-29T10:38:32Z",
-   "topic": "News"
-  },
-  {
-   "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-   "source": "NPR",
-   "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability..",
-   "body": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability"
-   ],
-   "publishedAt": "2026-10-29T09:05:03Z",
-   "topic": "News"
-  },
-  {
-   "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-   "source": "NPR",
-   "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged..",
-   "body": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit"
-   ],
-   "publishedAt": "2026-10-29T07:34:30Z",
    "topic": "News"
   }
  ],
