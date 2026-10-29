@@ -12,6 +12,9 @@
   const STALE_MS = 3 * 60 * 60 * 1000;
   const WIDE = window.matchMedia('(min-width: 900px)');
   const TABS = ['today', 'markets', 'weather', 'news'];
+  // ?kiosk: always-on wall screen (no mouse): one screen, clock, self-refreshing.
+  const KIOSK = new URLSearchParams(location.search).has('kiosk');
+  if (KIOSK) document.documentElement.classList.add('kiosk');
 
   const state = {
     feed: null,
@@ -880,7 +883,9 @@
   function renderStatus() {
     const status = document.getElementById('status');
     const header = document.getElementById('header-date');
-    header.textContent = new Date().toLocaleDateString([], { weekday: 'long', month: 'long', day: 'numeric' });
+    const now = new Date();
+    header.textContent = now.toLocaleDateString([], { weekday: 'long', month: 'long', day: 'numeric' })
+      + (KIOSK ? ' · ' + now.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }) : '');
     const kids = [];
     const updated = parseDate(state.feed && state.feed.updatedAt);
     if (updated) {
@@ -946,7 +951,14 @@
     document.getElementById('refresh').addEventListener('click', load);
     load();
     // Keep relative times and the stale marker honest; refetch when returning to the app.
-    setInterval(() => { renderStatus(); refreshRelativeTimes(); }, 60e3);
+    setInterval(() => { renderStatus(); refreshRelativeTimes(); }, KIOSK ? 15e3 : 60e3);
+    // Open and visible (a desktop tab, the wall screen): refetch every 15 minutes.
+    setInterval(() => { if (!document.hidden) load(); }, 15 * 60e3);
+    if (KIOSK) {
+      // Reload the whole page around 4 AM so the wall screen picks up app updates.
+      const at4 = new Date(); at4.setHours(28, 0, 0, 0);
+      setTimeout(() => location.reload(), at4 - Date.now());
+    }
     let hiddenAt = Date.now();
     document.addEventListener('visibilitychange', () => {
       if (document.hidden) hiddenAt = Date.now();

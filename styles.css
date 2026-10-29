@@ -310,3 +310,21 @@ button { cursor: pointer; }
 @media (min-width: 1280px) {
   body { font-size: 17px; }
 }
+
+/* Kiosk (?kiosk): wide wall screen, no mouse, nothing below the fold. */
+html.kiosk, html.kiosk body { height: 100vh; overflow: hidden; cursor: none; }
+html.kiosk body { font-size: 19px; display: flex; flex-direction: column; }
+html.kiosk .site-header { position: static; flex: none; }
+html.kiosk .header-date { display: block; font-size: 1.15rem; color: var(--text); font-variant-numeric: tabular-nums; }
+html.kiosk #refresh, html.kiosk .markets-toggle, html.kiosk .market-groups, html.kiosk .tab-bar, html.kiosk .skip-link, html.kiosk .chev { display: none !important; }
+html.kiosk .layout {
+  flex: 1; min-height: 0; width: 100%; max-width: none; margin: 0; padding: 14px 24px 0;
+  display: grid; gap: 14px 28px; align-items: stretch;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr) minmax(0, 1.25fr);
+  grid-template-rows: auto minmax(0, 1fr);
+  grid-template-areas: "markets markets markets" "weather today news";
+}
+html.kiosk .panel { min-height: 0; overflow: hidden; }
+html.kiosk .panel:not(.active) { display: block; }
+html.kiosk .marquee { margin: 0; }
+html.kiosk .site-footer { flex: none; max-width: none; margin: 0; padding: 6px 24px 10px; }
