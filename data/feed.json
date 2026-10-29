@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T11:47:02Z",
+ "updatedAt": "2026-10-29T12:02:02Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80084.9531,
-   "changePct": -1.43,
+   "price": 80021.7266,
+   "changePct": -1.51,
    "prevClose": 81246.9688,
    "high52": 111612.35,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2322.4199,
-   "changePct": -1.46,
+   "price": 2319.28,
+   "changePct": -1.6,
    "prevClose": 2356.8899,
    "high52": 3948.22,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 101.44,
-   "changePct": 0.02,
+   "price": 101.92,
+   "changePct": 0.49,
    "prevClose": 101.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 110.09,
-   "changePct": -0.11,
+   "price": 110.57,
+   "changePct": 0.33,
    "prevClose": 110.21,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.07,
-   "changePct": -4.15,
+   "price": 48.26,
+   "changePct": -3.77,
    "prevClose": 50.15,
-   "note": "Gasoline 27.16 · Diesel 89.91",
+   "note": "Gasoline 27.24 · Diesel 90.29",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.045,
-   "changePct": 0.56,
+   "price": 3.031,
+   "changePct": 0.1,
    "prevClose": 3.028,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.0618,
-   "changePct": -1.26,
+   "price": 3.0752,
+   "changePct": -0.83,
    "prevClose": 3.1009,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.556,
-   "changePct": -1.49,
+   "price": 4.5764,
+   "changePct": -1.04,
    "prevClose": 4.6247,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4043.1001,
-   "changePct": -0.2,
+   "price": 4039.3,
+   "changePct": -0.29,
    "prevClose": 4051.1001,
    "high52": 5586.2,
    "low52": 3925.1,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.81,
-   "changePct": -0.88,
+   "price": 52.625,
+   "changePct": -1.23,
    "prevClose": 53.28,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.5935,
-   "changePct": -0.86,
+   "price": 6.588,
+   "changePct": -0.94,
    "prevClose": 6.6505,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.156,
-   "changePct": -0.01,
+   "price": 102.162,
+   "changePct": -0.0,
    "prevClose": 102.166,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.05,
+   "price": 17.11,
    "changePct": null,
    "prevClose": 16.89,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-29T11:47:02Z"
+   "asOf": "2026-10-29T12:02:02Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+   "source": "BBC",
+   "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say..",
+   "body": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-29T11:34:03Z",
+   "topic": "World"
+  },
+  {
    "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
    "source": "BBC",
    "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan..",
@@ -818,17 +829,6 @@
    "body": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
    "sources": [
     "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender"
-   ],
-   "publishedAt": "2026-10-29T05:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
-   "source": "NPR",
-   "summary": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly.",
-   "body": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden"
    ],
    "publishedAt": "2026-10-29T05:00:00Z",
    "topic": "News"
