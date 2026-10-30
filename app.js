@@ -58,6 +58,7 @@
     event: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5.5" width="16" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M4 10h16M8.5 3.5v4M15.5 3.5v4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
     bill: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 3h12v18l-3-2-3 2-3-2-3 2z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 8h6M9 12h6M9 16h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
     news: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 9h8M8 12.5h8M8 16h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+    mail: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3.5" y="5.5" width="17" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>',
     other: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.5" fill="currentColor"/></svg>',
   };
 
@@ -245,9 +246,9 @@
 
   // Payload shapes, current and older.
   function personalFrom(data) {
-    if (Array.isArray(data)) return { highlights: data, media: null };   // oldest: bare highlights array
+    if (Array.isArray(data)) return { highlights: data, media: null, packages: null };   // oldest: bare highlights array
     const o = obj(data) || {};
-    return { highlights: arr(o.highlights), media: obj(o.media) };       // media here = pre-friends blob
+    return { highlights: arr(o.highlights), media: obj(o.media), packages: obj(o.packages) };  // media here = pre-friends blob
   }
   function friendsFrom(data) {
     const o = obj(data);
@@ -449,6 +450,7 @@
     personalItems.forEach((h, i) => list.append(highlightItem(h, 'me' + i)));
     if (unlocked && !list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
     if (list.childNodes.length) out.push(list);
+    if (unlocked) out.push(...renderPackages());
 
     if (unlocked) {
       const lockBtn = el('button', { type: 'button', class: 'btn-text', 'aria-label': 'Lock my items', text: 'Lock' });
@@ -458,6 +460,50 @@
       out.push(lockCard());
     }
     return out;
+  }
+
+  // Packages (passphrase tier only): what's arriving, from shipping emails, plus today's
+  // USPS Informed Delivery count. Day words are worked out here so they stay right past midnight.
+  function localISO(d) {
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  }
+  function packageWhen(p) {
+    const status = str(p.status);
+    if (status === 'delivered') return 'Delivered today';
+    const eta = /^\d{4}-\d{2}-\d{2}$/.test(str(p.eta)) ? new Date(str(p.eta) + 'T12:00:00') : null;
+    if (!eta) return str(p.etaText) || 'On the way';
+    const today = new Date(); today.setHours(12, 0, 0, 0);
+    const days = Math.round((eta - today) / 864e5);
+    const word = days === 0 ? 'Today' : days === 1 ? 'Tomorrow' : days < 0 ? 'Was due ' + eta.toLocaleDateString([], { weekday: 'short', month: 'short', day: 'numeric' })
+      : eta.toLocaleDateString([], { weekday: days < 7 ? 'long' : 'short', month: days < 7 ? undefined : 'short', day: days < 7 ? undefined : 'numeric' });
+    return (status === 'out' ? 'Out for delivery · ' : '') + word + (str(p.window) ? ' · ' + str(p.window) : '');
+  }
+  function renderPackages() {
+    const pk = state.personal && obj(state.personal.packages);
+    if (!pk) return [];
+    const todayISO = localISO(new Date());
+    const items = arr(pk.items).map(obj).filter((p) => p && str(p.title));
+    const mail = obj(pk.mail);
+    const list = el('div', { class: 'list' });
+    if (mail && str(mail.date) === todayISO) {
+      const n = Number(mail.mailpieces) || 0;
+      const m = Number(mail.packages) || 0;
+      list.append(el('div', { class: 'card hl-item' },
+        el('span', { class: 'hl-icon' }, svg(KIND.mail)),
+        el('div', { class: 'exp-main' },
+          el('div', { class: 'hl-title', text: `${n} piece${n === 1 ? '' : 's'} of mail today` }),
+          el('div', { class: 'hl-detail', text: `USPS Informed Delivery${m ? ` · ${m} package${m === 1 ? '' : 's'} on the way` : ''}` }))));
+    }
+    for (const p of items) {
+      const soon = str(p.status) === 'out' || str(p.eta) === todayISO;
+      list.append(el('div', { class: 'card hl-item' + (soon ? ' pk-soon' : '') + (str(p.status) === 'delivered' ? ' pk-done' : '') },
+        el('span', { class: 'hl-icon' }, svg(KIND.package)),
+        el('div', { class: 'exp-main' },
+          el('div', { class: 'hl-title', text: str(p.title) }),
+          el('div', { class: 'hl-detail', text: packageWhen(p) }))));
+    }
+    if (!list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing on the way.' }));
+    return [el('h3', { class: 'section-label', text: 'Packages' }), list];
   }
 
   function lockCard() {

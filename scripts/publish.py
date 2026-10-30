@@ -2,10 +2,12 @@
 """Publish the Hearth feed for the static site, in three privacy tiers.
 
 Fetches highlights.json from the private hearth-feed repo, then writes:
-  data/feed.json     public: everything except `media`, with `highlights`
-                     filtered to the public kinds (weather, news)
+  data/feed.json     public: only the PUBLIC_FIELDS (an allowlist, so a new
+                     personal field can't leak), with `highlights` filtered to
+                     the public kinds (weather, news)
   data/friends.json  {"media": ...} encrypted with FRIENDS_KEY
-  data/private.json  {"highlights": [every non-public item], "media": ...}
+  data/private.json  {"highlights": [every non-public item], "media": ...,
+                      "packages": ...}
                      encrypted with HEARTH_PASSPHRASE (the passphrase sees
                      everything the friends link does)
 
@@ -44,6 +46,7 @@ FEED_URL = os.environ.get(
 )
 ITERATIONS = 200_000
 PUBLIC_KINDS = {"weather", "news"}  # highlight kinds safe to publish in plaintext
+PUBLIC_FIELDS = ("updatedAt", "ticker", "weather", "news", "highlights")  # all else stays encrypted
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 FEED_PATH = os.path.join(DATA, "feed.json")
@@ -164,7 +167,9 @@ def main():
     personal_items = [h for h in highlights if not is_public(h)]
     media = feed.get("media") if isinstance(feed.get("media"), dict) else None
 
-    public = {k: v for k, v in feed.items() if k not in ("media", "highlights")}
+    packages = feed.get("packages") if isinstance(feed.get("packages"), dict) else None
+
+    public = {k: v for k, v in feed.items() if k in PUBLIC_FIELDS and k != "highlights"}
     if "highlights" in feed:
         public["highlights"] = public_items
     updated_at = public.get("updatedAt")
@@ -173,7 +178,7 @@ def main():
     passphrase = os.environ.get("HEARTH_PASSPHRASE", "")
     os.makedirs(DATA, exist_ok=True)
     friends = build_blob(FRIENDS_PATH, {"media": media}, friends_key, updated_at)
-    private = build_blob(PRIVATE_PATH, {"highlights": personal_items, "media": media}, passphrase, updated_at)
+    private = build_blob(PRIVATE_PATH, {"highlights": personal_items, "media": media, "packages": packages}, passphrase, updated_at)
 
     changed = [name for name, path, obj in (("feed.json", FEED_PATH, public),
                                              ("friends.json", FRIENDS_PATH, friends),
@@ -181,7 +186,8 @@ def main():
                if write_json(path, obj)]
     log(f"updated: {', '.join(changed) or 'nothing'}; "
         f"{len(public_items)} public + {len(personal_items)} personal highlights, "
-        f"media {'yes' if media else 'no'}; "
+        f"media {'yes' if media else 'no'}, "
+        f"packages {len(packages.get('items') or []) if packages else 'none'}; "
         f"friends {'encrypted' if friends_key else 'disabled'}, "
         f"private {'encrypted' if passphrase else 'disabled'}")
     return 0

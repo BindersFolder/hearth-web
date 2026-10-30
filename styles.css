@@ -143,6 +143,9 @@ button { cursor: pointer; }
 .hl-icon svg { width: 20px; height: 20px; }
 .hl-title { font-weight: 600; }
 .hl-detail { color: var(--text-2); font-size: 0.94rem; }
+.pk-soon .hl-detail { color: var(--accent); font-weight: 600; }
+.pk-done { opacity: 0.6; }
+.list > .card + .card { margin-top: 0; }
 .hl-body { color: var(--text-2); white-space: pre-line; }
 .lock-card h3 { font-size: 1.05rem; margin-bottom: 4px; display: flex; gap: 8px; align-items: center; }
 .lock-card form { margin-top: 12px; display: flex; flex-direction: column; gap: 12px; }
