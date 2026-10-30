@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-10-30T13:32:04Z",
+ "updatedAt": "2026-10-30T13:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 760.77,
-   "changePct": -0.52,
+   "price": 760.45,
+   "changePct": -0.56,
    "prevClose": 764.73,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 695.73,
-   "changePct": -1.22,
+   "price": 696.37,
+   "changePct": -1.13,
    "prevClose": 704.3,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 521.22,
-   "changePct": -0.33,
+   "price": 521.46,
+   "changePct": -0.28,
    "prevClose": 522.92,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 282.32,
-   "changePct": -0.53,
+   "price": 281.598,
+   "changePct": -0.79,
    "prevClose": 283.83,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76967.8828,
-   "changePct": -1.05,
+   "price": 76786.3281,
+   "changePct": -1.29,
    "prevClose": 77788.1094,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2220.99,
-   "changePct": -1.24,
+   "price": 2216.95,
+   "changePct": -1.42,
    "prevClose": 2248.8999,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 103.85,
-   "changePct": 0.66,
+   "price": 103.97,
+   "changePct": 0.78,
    "prevClose": 103.17,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 113.01,
-   "changePct": 0.84,
+   "price": 113.19,
+   "changePct": 1.0,
    "prevClose": 112.07,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.33,
-   "changePct": 1.88,
+   "price": 49.9,
+   "changePct": 3.06,
    "prevClose": 48.42,
-   "note": "Gasoline 27.49 · Diesel 93.00",
+   "note": "Gasoline 28.20 · Diesel 93.31",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.853,
-   "changePct": -1.52,
+   "price": 2.847,
+   "changePct": -1.73,
    "prevClose": 2.897,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.1272,
-   "changePct": 0.63,
+   "price": 3.1469,
+   "changePct": 1.26,
    "prevClose": 3.1077,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.687,
-   "changePct": 1.61,
+   "price": 4.6972,
+   "changePct": 1.83,
    "prevClose": 4.6127,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2926 · Year ago 3.0377",
    "source": "AAA",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.2,
    "note": "Week ago 4.3967 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.23,
    "note": "Week ago 6.3172 · Year ago 3.6889",
    "source": "AAA",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.06,
    "note": "Week ago 6.5015 · Year ago 3.8819",
    "source": "AAA",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3955.8,
-   "changePct": -1.2,
+   "price": 3938.8999,
+   "changePct": -1.63,
    "prevClose": 4004.0,
    "high52": 5586.2,
    "low52": 3935.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.82,
-   "changePct": -2.95,
+   "price": 49.735,
+   "changePct": -3.12,
    "prevClose": 51.335,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.5175,
-   "changePct": -0.43,
+   "price": 6.513,
+   "changePct": -0.5,
    "prevClose": 6.5455,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.929,
-   "changePct": -1.2,
+   "price": 4.917,
+   "changePct": -1.44,
    "prevClose": 4.989,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.899,
-   "changePct": 0.13,
+   "price": 101.886,
+   "changePct": 0.12,
    "prevClose": 101.766,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.69,
+   "price": 18.9,
    "changePct": null,
    "prevClose": 17.21,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T13:32:04Z"
+   "asOf": "2026-10-30T13:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-10-30T12:19:05Z"
+   "asOf": "2026-10-30T13:41:11Z"
   }
  ],
  "weather": {
@@ -737,6 +737,17 @@
  },
  "news": [
   {
+   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "source": "BBC",
+   "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September..",
+   "body": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T13:41:57Z",
+   "topic": "World"
+  },
+  {
    "title": "Spain transport minister says he won't resign over high-speed rail disaster",
    "source": "BBC",
    "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people..",
@@ -812,17 +823,6 @@
    ],
    "publishedAt": "2026-10-30T08:00:31Z",
    "topic": "News"
-  },
-  {
-   "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-   "source": "BBC",
-   "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan..",
-   "body": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T07:53:38Z",
-   "topic": "World"
   },
   {
    "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
