@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-10-30T17:47:03Z",
+ "updatedAt": "2026-10-30T18:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 755.44,
-   "changePct": -1.21,
+   "price": 755.185,
+   "changePct": -1.25,
    "prevClose": 764.73,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 688.72,
-   "changePct": -2.21,
+   "price": 686.535,
+   "changePct": -2.52,
    "prevClose": 704.3,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 517.7101,
-   "changePct": -1.0,
+   "price": 516.97,
+   "changePct": -1.14,
    "prevClose": 522.92,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 278.34,
-   "changePct": -1.93,
+   "price": 277.97,
+   "changePct": -2.06,
    "prevClose": 283.83,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77115.3594,
-   "changePct": -0.86,
+   "price": 76922.8984,
+   "changePct": -1.11,
    "prevClose": 77788.1094,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2239.95,
-   "changePct": -0.4,
+   "price": 2238.8999,
+   "changePct": -0.44,
    "prevClose": 2248.8999,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 104.92,
-   "changePct": 1.7,
+   "price": 104.82,
+   "changePct": 1.6,
    "prevClose": 103.17,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 114.09,
-   "changePct": 1.8,
+   "price": 113.8,
+   "changePct": 1.54,
    "prevClose": 112.07,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.72,
-   "changePct": 2.68,
+   "price": 49.48,
+   "changePct": 2.19,
    "prevClose": 48.42,
-   "note": "Gasoline 28.33 · Diesel 92.50",
+   "note": "Gasoline 28.20 · Diesel 92.03",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.901,
-   "changePct": 0.14,
+   "price": 2.899,
+   "changePct": 0.07,
    "prevClose": 2.897,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.1727,
-   "changePct": 2.09,
+   "price": 3.1672,
+   "changePct": 1.91,
    "prevClose": 3.1077,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.7005,
-   "changePct": 1.9,
+   "price": 4.6869,
+   "changePct": 1.61,
    "prevClose": 4.6127,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2926 · Year ago 3.0377",
    "source": "AAA",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.2,
    "note": "Week ago 4.3967 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.23,
    "note": "Week ago 6.3172 · Year ago 3.6889",
    "source": "AAA",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.06,
    "note": "Week ago 6.5015 · Year ago 3.8819",
    "source": "AAA",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3894.8999,
-   "changePct": -2.72,
+   "price": 3889.6001,
+   "changePct": -2.86,
    "prevClose": 4004.0,
    "high52": 5586.2,
    "low52": 3935.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.2,
-   "changePct": -4.16,
+   "price": 49.18,
+   "changePct": -4.2,
    "prevClose": 51.335,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.462,
-   "changePct": -1.28,
+   "price": 6.454,
+   "changePct": -1.4,
    "prevClose": 6.5455,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.939,
-   "changePct": -1.0,
+   "price": 4.941,
+   "changePct": -0.96,
    "prevClose": 4.989,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.964,
-   "changePct": 0.19,
+   "price": 101.979,
+   "changePct": 0.21,
    "prevClose": 101.766,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.02,
+   "price": 21.33,
    "changePct": null,
    "prevClose": 17.21,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T17:47:03Z"
+   "asOf": "2026-10-30T18:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 39,
   "humidity": 50,
   "wind": 14,
-  "summary": "Sunny. High near 68, with temperatures falling to around 60 in the afternoon. Northwest wind 9 to 16 mph. Mostly clear. Low around 39, with temperatures rising to around 41 overnight. Northwest wind 5 to 14 mph. Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northwest wind 3 to 8 mph.",
+  "summary": "Sunny. High near 68, with temperatures falling to around 60 in the afternoon. Northwest wind around 16 mph. Mostly clear. Low around 39, with temperatures rising to around 41 overnight. Northwest wind 5 to 14 mph. Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northwest wind 3 to 8 mph.",
   "alerts": [
    {
     "title": "Special Weather Statement",
@@ -614,8 +614,8 @@
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 16,
-    "windText": "NW 9 to 16 mph",
-    "summary": "Sunny. High near 68, with temperatures falling to around 60 in the afternoon. Northwest wind 9 to 16 mph.",
+    "windText": "NW 16 mph",
+    "summary": "Sunny. High near 68, with temperatures falling to around 60 in the afternoon. Northwest wind around 16 mph.",
     "low": 39,
     "night": {
      "low": 39,
@@ -737,6 +737,17 @@
  },
  "news": [
   {
+   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "source": "BBC",
+   "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months..",
+   "body": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T17:47:01Z",
+   "topic": "World"
+  },
+  {
    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "source": "BBC",
    "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind..",
@@ -778,17 +789,6 @@
     "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-10-30T16:26:11Z",
-   "topic": "World"
-  },
-  {
-   "title": "US tech stocks see sharp falls over AI cost fears",
-   "source": "BBC",
-   "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months..",
-   "body": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T15:46:28Z",
    "topic": "World"
   },
   {
