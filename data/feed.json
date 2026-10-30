@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T05:32:04Z",
+ "updatedAt": "2026-10-30T05:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78445.8594,
-   "changePct": 0.85,
+   "price": 78564.4766,
+   "changePct": 1.0,
    "prevClose": 77788.1094,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2243.1001,
-   "changePct": -0.26,
+   "price": 2244.8999,
+   "changePct": -0.18,
    "prevClose": 2248.8999,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 102.94,
-   "changePct": 0.19,
+   "price": 103.22,
+   "changePct": 0.47,
    "prevClose": 102.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 111.89,
-   "changePct": 0.21,
+   "price": 112.14,
+   "changePct": 0.44,
    "prevClose": 111.65,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.54,
-   "changePct": 0.6,
+   "price": 48.28,
+   "changePct": 0.06,
    "prevClose": 48.25,
-   "note": "Gasoline 27.58 · Diesel 90.44",
+   "note": "Gasoline 27.42 · Diesel 89.99",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.897,
-   "changePct": -0.1,
+   "price": 2.898,
+   "changePct": -0.07,
    "prevClose": 2.9,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.1077,
-   "changePct": 0.31,
+   "price": 3.1105,
+   "changePct": 0.4,
    "prevClose": 3.0981,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.6043,
-   "changePct": 0.34,
+   "price": 4.6003,
+   "changePct": 0.25,
    "prevClose": 4.5888,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2701 · Year ago 3.0384",
    "source": "AAA",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.18,
    "note": "Week ago 4.4041 · Year ago 3.1099",
    "source": "AAA",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.309 · Year ago 3.6826",
    "source": "AAA",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.0,
    "note": "Week ago 6.5049 · Year ago 3.8799",
    "source": "AAA",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4009.3,
-   "changePct": 0.04,
+   "price": 4015.2,
+   "changePct": 0.19,
    "prevClose": 4007.5,
    "high52": 5586.2,
    "low52": 3935.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.47,
-   "changePct": 0.06,
+   "price": 51.635,
+   "changePct": 0.38,
    "prevClose": 51.44,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.549,
-   "changePct": -0.19,
+   "price": 6.5675,
+   "changePct": 0.09,
    "prevClose": 6.5615,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.83,
-   "changePct": 0.21,
+   "price": 101.843,
+   "changePct": 0.22,
    "prevClose": 101.62,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T05:32:04Z"
+   "asOf": "2026-10-30T05:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -347,11 +347,11 @@
   "condition": "clearNight",
   "conditionText": "Clear",
   "temp": 57,
-  "high": 54,
-  "low": 54,
+  "high": 67,
+  "low": 40,
   "humidity": 86,
   "wind": 3,
-  "summary": "Partly cloudy, with a low around 54. Southwest wind around 3 mph. Partly cloudy, with a low around 54. Southwest wind around 3 mph. Mostly sunny. High near 67, with temperatures falling to around 60 in the afternoon. Northwest wind 3 to 17 mph, with gusts as high as 28 mph.",
+  "summary": "Mostly sunny. High near 67, with temperatures falling to around 60 in the afternoon. Northwest wind 3 to 17 mph, with gusts as high as 28 mph. Mostly clear. Low around 40, with temperatures rising to around 42 overnight. Northwest wind 2 to 14 mph. Sunny. High near 60, with temperatures falling to around 58 in the afternoon.…",
   "alerts": [
    {
     "title": "Special Weather Statement",
@@ -591,30 +591,7 @@
   ],
   "daily": [
    {
-    "date": "2026-10-29",
-    "low": 54,
-    "night": {
-     "low": 54,
-     "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 54. Southwest wind around 3 mph.",
-     "precipPct": 4
-    },
-    "high": 54,
-    "conditionText": "Partly Cloudy",
-    "condition": "clearNight",
-    "summary": "Partly cloudy, with a low around 54. Southwest wind around 3 mph.",
-    "precipPct": 4
-   },
-   {
     "date": "2026-10-30",
-    "high": 67,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 4,
-    "wind": 17,
-    "windText": "NW 3 to 17 mph",
-    "summary": "Mostly sunny. High near 67, with temperatures falling to around 60 in the afternoon. Northwest wind 3 to 17 mph, with gusts as high as 28 mph.",
     "low": 40,
     "night": {
      "low": 40,
@@ -622,7 +599,14 @@
      "conditionText": "Mostly Clear",
      "summary": "Mostly clear. Low around 40, with temperatures rising to around 42 overnight. Northwest wind 2 to 14 mph.",
      "precipPct": 0
-    }
+    },
+    "high": 67,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 4,
+    "wind": 17,
+    "windText": "NW 3 to 17 mph",
+    "summary": "Mostly sunny. High near 67, with temperatures falling to around 60 in the afternoon. Northwest wind 3 to 17 mph, with gusts as high as 28 mph."
    },
    {
     "date": "2026-10-31",
@@ -713,10 +697,65 @@
      "summary": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 51.",
      "precipPct": 23
     }
+   },
+   {
+    "date": "2026-11-05",
+    "high": 69,
+    "condition": "rain",
+    "conditionText": "Chance Rain Showers",
+    "precipPct": 45,
+    "wind": 8,
+    "windText": "SE 3 to 8 mph",
+    "summary": "A chance of rain showers. Partly sunny, with a high near 69.",
+    "low": null
    }
   ]
  },
  "news": [
+  {
+   "title": "Crypto giant Binance hit by 'largest hack in history'",
+   "source": "BBC",
+   "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor..",
+   "body": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T05:15:16Z",
+   "topic": "World"
+  },
+  {
+   "title": "Three dead after two helicopters collide midair near Oregon airport",
+   "source": "BBC",
+   "summary": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway..",
+   "body": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T03:05:17Z",
+   "topic": "World"
+  },
+  {
+   "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+   "source": "BBC",
+   "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all..",
+   "body": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T01:35:40Z",
+   "topic": "World"
+  },
+  {
+   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "source": "BBC",
+   "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue..",
+   "body": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-29T22:17:52Z",
+   "topic": "World"
+  },
   {
    "title": "Justice Department issues subpoenas to California election workers",
    "source": "NPR",
@@ -762,17 +801,6 @@
    "topic": "News"
   },
   {
-   "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-   "source": "BBC",
-   "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany..",
-   "body": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-29T17:02:59Z",
-   "topic": "World"
-  },
-  {
    "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
    "source": "NPR",
    "summary": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits..",
@@ -814,39 +842,6 @@
     "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression"
    ],
    "publishedAt": "2026-10-29T16:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "source": "BBC",
-   "summary": "The defeated presidential candidate says he will lead the opposition from the US..",
-   "body": "The defeated presidential candidate says he will lead the opposition from the US.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-29T14:58:28Z",
-   "topic": "World"
-  },
-  {
-   "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-   "source": "BBC",
-   "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy..",
-   "body": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-29T14:17:35Z",
-   "topic": "World"
-  },
-  {
-   "title": "Even birds get jet lagged, study shows",
-   "source": "NPR",
-   "summary": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones..",
-   "body": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
-   "sources": [
-    "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
-   ],
-   "publishedAt": "2026-10-29T14:00:00Z",
    "topic": "News"
   }
  ],
