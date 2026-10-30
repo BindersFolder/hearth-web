@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T21:47:03Z",
+ "updatedAt": "2026-10-30T22:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76705.8125,
-   "changePct": -1.39,
+   "price": 76637.8906,
+   "changePct": -1.48,
    "prevClose": 77788.1094,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2237.8301,
-   "changePct": -0.49,
+   "price": 2237.75,
+   "changePct": -0.5,
    "prevClose": 2248.8999,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 27.85 · Diesel 92.56",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2926 · Year ago 3.0377",
    "source": "AAA",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.2,
    "note": "Week ago 4.3967 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.23,
    "note": "Week ago 6.3172 · Year ago 3.6889",
    "source": "AAA",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.06,
    "note": "Week ago 6.5015 · Year ago 3.8819",
    "source": "AAA",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3935.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T21:47:03Z"
+   "asOf": "2026-10-30T22:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 38,
   "humidity": 46,
   "wind": 15,
-  "summary": "Sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph. Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph. Patchy frost before 10am.…",
+  "summary": "Sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 15 mph, with gusts as high as 26 mph. Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph. Patchy frost before 10am.…",
   "alerts": [
    {
     "title": "Special Weather Statement",
@@ -384,23 +384,6 @@
     ],
     "starts": "2026-10-30T09:15:00-04:00",
     "ends": "2026-10-30T19:00:00-04:00",
-    "source": "NWS Upton NY",
-    "emergency": false
-   },
-   {
-    "title": "Special Weather Statement",
-    "severity": "Moderate",
-    "detail": "Special Weather Statement issued October 29 at 3:13PM EDT by NWS Upton NY",
-    "body": "The combination of dry fuels, gusty northwest winds 20 to 30 mph,\nand minimum relative humidity values near 40 percent will lead to\nan elevated risk of fire spread across the Lower Hudson Valley\nduring the late morning and afternoon on Friday.\n\nUse extra caution if handling any potential ignition sources such\nas machinery or matches, and ensure to properly extinguish or\ndispose of cigarette butts. Any fires that ignite will have the\npotential to spread quickly.\n\nThis forecast considers meteorological, fuel, and land conditions\nand has been developed in coordination with state fire and land\nmanagement officials.\n\nFor more information about wildfire danger and wildfire\nprevention, please visit the New York Department of Environmental\nConservation website at...\nhttps://dec.ny.gov/environmental-protection/wildfires.",
-    "areas": [
-     "Orange",
-     "Putnam",
-     "Rockland",
-     "Northern Westchester",
-     "Southern Westchester"
-    ],
-    "starts": "2026-10-29T15:13:00-04:00",
-    "ends": "2026-10-30T18:00:00-04:00",
     "source": "NWS Upton NY",
     "emergency": false
    }
@@ -632,7 +615,7 @@
     "precipPct": 0,
     "wind": 15,
     "windText": "NW 15 mph",
-    "summary": "Sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph.",
+    "summary": "Sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 15 mph, with gusts as high as 26 mph.",
     "low": 38,
     "night": {
      "low": 38,
@@ -765,10 +748,10 @@
    "topic": "World"
   },
   {
-   "title": "Police deployed during stand-off over control of Poland's top court",
+   "title": "Police deployed during stand-off over control of top Poland court",
    "source": "BBC",
-   "summary": "It comes after the government suspended two senior justices and moved to bring criminal charges against them..",
-   "body": "It comes after the government suspended two senior justices and moved to bring criminal charges against them.",
+   "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them..",
+   "body": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
    ],
@@ -796,6 +779,17 @@
    ],
    "publishedAt": "2026-10-30T20:34:46Z",
    "topic": "World"
+  },
+  {
+   "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+   "source": "NPR",
+   "summary": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course..",
+   "body": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
+   "sources": [
+    "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj"
+   ],
+   "publishedAt": "2026-10-30T17:56:52Z",
+   "topic": "News"
   },
   {
    "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -872,17 +866,6 @@
     "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
    ],
    "publishedAt": "2026-10-30T09:01:22Z",
-   "topic": "News"
-  },
-  {
-   "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
-   "source": "NPR",
-   "summary": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections..",
-   "body": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
-   "sources": [
-    "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama"
-   ],
-   "publishedAt": "2026-10-30T08:00:31Z",
    "topic": "News"
   }
  ],
