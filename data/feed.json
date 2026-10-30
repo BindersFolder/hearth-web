@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T22:17:04Z",
+ "updatedAt": "2026-10-30T22:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76704.3828,
-   "changePct": -1.39,
+   "price": 76725.7422,
+   "changePct": -1.37,
    "prevClose": 77788.1094,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2236.02,
-   "changePct": -0.57,
+   "price": 2232.3501,
+   "changePct": -0.74,
    "prevClose": 2248.8999,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 27.85 · Diesel 92.56",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2926 · Year ago 3.0377",
    "source": "AAA",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.2,
    "note": "Week ago 4.3967 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.23,
    "note": "Week ago 6.3172 · Year ago 3.6889",
    "source": "AAA",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.06,
    "note": "Week ago 6.5015 · Year ago 3.8819",
    "source": "AAA",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3935.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-30T22:17:04Z"
+   "asOf": "2026-10-30T22:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -347,11 +347,11 @@
   "condition": "sun",
   "conditionText": "Sunny",
   "temp": 62,
-  "high": 68,
+  "high": 62,
   "low": 38,
   "humidity": 46,
   "wind": 15,
-  "summary": "Sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph. Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph. Patchy frost before 10am.…",
+  "summary": "Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph. Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph. Patchy…",
   "alerts": [
    {
     "title": "Special Weather Statement",
@@ -609,13 +609,6 @@
   "daily": [
    {
     "date": "2026-10-30",
-    "high": 68,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 15,
-    "windText": "NW 15 mph",
-    "summary": "Sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph.",
     "low": 38,
     "night": {
      "low": 38,
@@ -623,7 +616,12 @@
      "conditionText": "Mostly Clear then Patchy Frost",
      "summary": "Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph.",
      "precipPct": 0
-    }
+    },
+    "high": 62,
+    "conditionText": "Mostly Clear then Patchy Frost",
+    "condition": "clearNight",
+    "summary": "Patchy frost after 5am. Mostly clear. Low around 38, with temperatures rising to around 40 overnight. Northwest wind 6 to 14 mph, with gusts as high as 24 mph.",
+    "precipPct": 0
    },
    {
     "date": "2026-10-31",
@@ -657,7 +655,7 @@
      "low": 42,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 42.",
+     "summary": "Mostly clear, with a low around 42. Southwest wind around 2 mph.",
      "precipPct": 0
     }
    },
@@ -669,7 +667,7 @@
     "precipPct": 0,
     "wind": 3,
     "windText": "SW 3 mph",
-    "summary": "Mostly sunny, with a high near 66.",
+    "summary": "Mostly sunny. High near 66, with temperatures falling to around 61 in the afternoon.",
     "low": 45,
     "night": {
      "low": 45,
@@ -729,13 +727,24 @@
      "low": 57,
      "condition": "rain",
      "conditionText": "Rain Showers Likely",
-     "summary": "Rain showers likely. Mostly cloudy, with a low around 57.",
+     "summary": "Rain showers likely. Mostly cloudy, with a low around 57. Chance of precipitation is 60%.",
      "precipPct": 58
     }
    }
   ]
  },
  "news": [
+  {
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "source": "BBC",
+   "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles..",
+   "body": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T22:20:52Z",
+   "topic": "World"
+  },
   {
    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "source": "BBC",
@@ -767,17 +776,6 @@
     "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-10-30T20:41:51Z",
-   "topic": "World"
-  },
-  {
-   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "source": "BBC",
-   "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months..",
-   "body": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T20:34:46Z",
    "topic": "World"
   },
   {
