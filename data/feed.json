@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T08:47:04Z",
+ "updatedAt": "2026-10-31T09:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77175.8906,
-   "changePct": -0.01,
+   "price": 77253.2188,
+   "changePct": 0.09,
    "prevClose": 77180.4219,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2238.3799,
-   "changePct": -0.12,
+   "price": 2239.8401,
+   "changePct": -0.05,
    "prevClose": 2240.98,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 34.98 · Diesel 97.08",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2957 · Year ago 3.0403",
    "source": "AAA",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3879 · Year ago 3.1052",
    "source": "AAA",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.16,
    "note": "Week ago 6.3374 · Year ago 3.6876",
    "source": "AAA",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.4978 · Year ago 3.8813",
    "source": "AAA",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T08:47:04Z"
+   "asOf": "2026-10-31T09:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Clear",
-  "temp": 41,
+  "temp": 39,
   "high": 58,
   "low": 33,
-  "humidity": 82,
+  "humidity": 89,
   "wind": 5,
   "summary": "Areas of frost between 7am and 9am. Sunny, with a high near 58. Northwest wind 1 to 5 mph. Areas of frost after 1am. Partly cloudy, with a low around 33. North wind around 1 mph. Widespread frost before 9am. Sunny. High near 62, with temperatures falling to around 57 in the afternoon. Southwest wind around 2 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-10-31T04:00:00-04:00",
-    "temp": 41,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 5,
-    "humidity": 82
-   },
    {
     "time": "2026-10-31T05:00:00-04:00",
     "temp": 39,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 92
+   },
+   {
+    "time": "2026-11-01T03:00:00-05:00",
+    "temp": 34,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
    }
   ],
   "daily": [
@@ -695,6 +695,17 @@
  },
  "news": [
   {
+   "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "source": "BBC",
+   "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers..",
+   "body": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-31T08:49:35Z",
+   "topic": "World"
+  },
+  {
    "title": "Spain train disaster clouds Sánchez chances of re-election",
    "source": "BBC",
    "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election..",
@@ -750,6 +761,17 @@
    "topic": "World"
   },
   {
+   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+   "source": "BBC",
+   "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine..",
+   "body": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-30T22:11:52Z",
+   "topic": "World"
+  },
+  {
    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "source": "BBC",
    "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind..",
@@ -758,17 +780,6 @@
     "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-10-30T21:13:14Z",
-   "topic": "World"
-  },
-  {
-   "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-   "source": "BBC",
-   "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades..",
-   "body": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T20:41:51Z",
    "topic": "World"
   },
   {
@@ -792,17 +803,6 @@
    ],
    "publishedAt": "2026-10-30T17:56:52Z",
    "topic": "News"
-  },
-  {
-   "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-   "source": "BBC",
-   "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers..",
-   "body": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T16:26:11Z",
-   "topic": "World"
   },
   {
    "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
