@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T09:25:25Z",
+ "updatedAt": "2026-10-31T09:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77299.9062,
-   "changePct": 0.15,
-   "prevClose": 77180.4297,
+   "price": 77317.2109,
+   "changePct": 0.18,
+   "prevClose": 77180.4219,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2242.0801,
-   "changePct": 0.05,
+   "price": 2242.54,
+   "changePct": 0.07,
    "prevClose": 2240.98,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 34.98 · Diesel 97.08",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2957 · Year ago 3.0403",
    "source": "AAA",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3879 · Year ago 3.1052",
    "source": "AAA",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.16,
    "note": "Week ago 6.3374 · Year ago 3.6876",
    "source": "AAA",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.4978 · Year ago 3.8813",
    "source": "AAA",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "COPPER",
@@ -286,12 +286,12 @@
    "group": "Metals",
    "unit": "$/lb",
    "price": 6.4585,
-   "changePct": -1.34,
-   "prevClose": 6.5465,
+   "changePct": -1.33,
+   "prevClose": 6.5455,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:25:25Z"
+   "asOf": "2026-10-31T09:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -728,17 +728,6 @@
    "topic": "News"
   },
   {
-   "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-   "source": "NPR",
-   "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites..",
-   "body": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies"
-   ],
-   "publishedAt": "2026-10-31T05:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
    "source": "NPR",
    "summary": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species.",
@@ -750,12 +739,23 @@
    "topic": "News"
   },
   {
-   "title": "100 years later, Harry Houdini's death still haunts Detroit",
+   "title": "Your writing was flagged as AI. What does that actually mean?",
    "source": "NPR",
-   "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there.",
-   "body": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
+   "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result..",
+   "body": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
    "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit"
+    "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+   "source": "NPR",
+   "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites..",
+   "body": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies"
    ],
    "publishedAt": "2026-10-31T05:00:00Z",
    "topic": "News"
@@ -794,12 +794,12 @@
    "topic": "News"
   },
   {
-   "title": "Your writing was flagged as AI. What does that actually mean?",
+   "title": "100 years later, Harry Houdini's death still haunts Detroit",
    "source": "NPR",
-   "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result..",
-   "body": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+   "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there.",
+   "body": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
    "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
+    "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit"
    ],
    "publishedAt": "2026-10-31T05:00:00Z",
    "topic": "News"
