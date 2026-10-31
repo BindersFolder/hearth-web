@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T09:47:04Z",
+ "updatedAt": "2026-10-31T10:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77276.5391,
+   "price": 77272.5391,
    "changePct": 0.12,
    "prevClose": 77180.4219,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2241.2,
-   "changePct": 0.01,
+   "price": 2240.8601,
+   "changePct": -0.01,
    "prevClose": 2240.98,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 34.98 · Diesel 97.08",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2957 · Year ago 3.0403",
    "source": "AAA",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3879 · Year ago 3.1052",
    "source": "AAA",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.16,
    "note": "Week ago 6.3374 · Year ago 3.6876",
    "source": "AAA",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.4978 · Year ago 3.8813",
    "source": "AAA",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:47:04Z"
+   "asOf": "2026-10-31T10:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,25 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "clearNight",
-  "conditionText": "Clear",
+  "condition": "sun",
+  "conditionText": "Sunny",
   "temp": 39,
   "high": 58,
   "low": 33,
-  "humidity": 89,
+  "humidity": 85,
   "wind": 5,
   "summary": "Areas of frost between 7am and 9am. Sunny, with a high near 58. Northwest wind 1 to 5 mph. Areas of frost after 1am. Partly cloudy, with a low around 33. North wind around 1 mph. Widespread frost before 9am. Sunny. High near 62, with temperatures falling to around 57 in the afternoon. Southwest wind around 2 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-10-31T05:00:00-04:00",
-    "temp": 39,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 5,
-    "humidity": 89
-   },
    {
     "time": "2026-10-31T06:00:00-04:00",
     "temp": 39,
@@ -569,11 +560,27 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 96
+   },
+   {
+    "time": "2026-11-01T04:00:00-05:00",
+    "temp": 34,
+    "condition": "clearNight",
+    "conditionText": "Areas Of Frost",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
    }
   ],
   "daily": [
    {
     "date": "2026-10-31",
+    "high": 58,
+    "condition": "sun",
+    "conditionText": "Areas Of Frost then Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "windText": "NW 1 to 5 mph",
+    "summary": "Areas of frost between 7am and 9am. Sunny, with a high near 58. Northwest wind 1 to 5 mph.",
     "low": 33,
     "night": {
      "low": 33,
@@ -581,14 +588,7 @@
      "conditionText": "Partly Cloudy then Areas Of Frost",
      "summary": "Areas of frost after 1am. Partly cloudy, with a low around 33. North wind around 1 mph.",
      "precipPct": 0
-    },
-    "high": 58,
-    "condition": "sun",
-    "conditionText": "Areas Of Frost then Sunny",
-    "precipPct": 0,
-    "wind": 5,
-    "windText": "NW 1 to 5 mph",
-    "summary": "Areas of frost between 7am and 9am. Sunny, with a high near 58. Northwest wind 1 to 5 mph."
+    }
    },
    {
     "date": "2026-11-01",
@@ -616,7 +616,7 @@
     "precipPct": 1,
     "wind": 3,
     "windText": "SW 3 mph",
-    "summary": "Mostly sunny. High near 66, with temperatures falling to around 61 in the afternoon.",
+    "summary": "Mostly sunny. High near 66, with temperatures falling to around 61 in the afternoon. Southwest wind around 3 mph.",
     "low": 44,
     "night": {
      "low": 44,
@@ -688,8 +688,15 @@
     "precipPct": 57,
     "wind": 5,
     "windText": "SW 5 mph",
-    "summary": "Showers and thunderstorms likely. Mostly cloudy, with a high near 67.",
-    "low": null
+    "summary": "Showers and thunderstorms likely. Mostly cloudy, with a high near 67. Chance of precipitation is 60%.",
+    "low": 49,
+    "night": {
+     "low": 49,
+     "condition": "rain",
+     "conditionText": "Rain Showers Likely",
+     "summary": "Rain showers likely. Mostly cloudy, with a low around 49.",
+     "precipPct": 56
+    }
    }
   ]
  },
@@ -728,6 +735,17 @@
    "topic": "News"
   },
   {
+   "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+   "source": "NPR",
+   "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites..",
+   "body": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
    "source": "NPR",
    "summary": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species.",
@@ -739,23 +757,12 @@
    "topic": "News"
   },
   {
-   "title": "Your writing was flagged as AI. What does that actually mean?",
+   "title": "100 years later, Harry Houdini's death still haunts Detroit",
    "source": "NPR",
-   "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result..",
-   "body": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+   "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there.",
+   "body": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
    "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
-   ],
-   "publishedAt": "2026-10-31T05:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-   "source": "NPR",
-   "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites..",
-   "body": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies"
+    "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit"
    ],
    "publishedAt": "2026-10-31T05:00:00Z",
    "topic": "News"
@@ -794,12 +801,12 @@
    "topic": "News"
   },
   {
-   "title": "100 years later, Harry Houdini's death still haunts Detroit",
+   "title": "Your writing was flagged as AI. What does that actually mean?",
    "source": "NPR",
-   "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there.",
-   "body": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
+   "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result..",
+   "body": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
    "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit"
+    "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
    ],
    "publishedAt": "2026-10-31T05:00:00Z",
    "topic": "News"
