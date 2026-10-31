@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T09:02:04Z",
+ "updatedAt": "2026-10-31T09:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77253.2188,
-   "changePct": 0.09,
+   "price": 77299.9922,
+   "changePct": 0.15,
    "prevClose": 77180.4219,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2239.8401,
-   "changePct": -0.05,
+   "price": 2241.3899,
+   "changePct": 0.02,
    "prevClose": 2240.98,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 34.98 · Diesel 97.08",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2957 · Year ago 3.0403",
    "source": "AAA",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3879 · Year ago 3.1052",
    "source": "AAA",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.16,
    "note": "Week ago 6.3374 · Year ago 3.6876",
    "source": "AAA",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.4978 · Year ago 3.8813",
    "source": "AAA",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T09:02:04Z"
+   "asOf": "2026-10-31T09:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -717,6 +717,94 @@
    "topic": "World"
   },
   {
+   "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+   "source": "NPR",
+   "summary": "The syndrome can make people feel like a \"hibernating bear,\" says Dr.",
+   "body": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to feel better.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it"
+   ],
+   "publishedAt": "2026-10-31T05:01:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+   "source": "NPR",
+   "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites..",
+   "body": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+   "source": "NPR",
+   "summary": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species.",
+   "body": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are finding creative ways to bring their numbers back up.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "100 years later, Harry Houdini's death still haunts Detroit",
+   "source": "NPR",
+   "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there.",
+   "body": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+   "source": "NPR",
+   "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress..",
+   "body": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+   "source": "NPR",
+   "summary": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state.",
+   "body": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still recovering.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Oil company earnings skyrocket — again",
+   "source": "NPR",
+   "summary": "Oil companies are reporting another quarter of sky-high profits as the war in Iran pushes up the price of oil — and prices at the pump..",
+   "body": "Oil companies are reporting another quarter of sky-high profits as the war in Iran pushes up the price of oil — and prices at the pump.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Your writing was flagged as AI. What does that actually mean?",
+   "source": "NPR",
+   "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result..",
+   "body": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
+   ],
+   "publishedAt": "2026-10-31T05:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
    "source": "BBC",
    "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become..",
@@ -737,94 +825,6 @@
    ],
    "publishedAt": "2026-10-31T01:27:05Z",
    "topic": "World"
-  },
-  {
-   "title": "Police deployed during stand-off over control of top Poland court",
-   "source": "BBC",
-   "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them..",
-   "body": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T01:11:43Z",
-   "topic": "World"
-  },
-  {
-   "title": "US approves sale of 500 Patriot missiles to Ukraine",
-   "source": "BBC",
-   "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles..",
-   "body": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T00:40:43Z",
-   "topic": "World"
-  },
-  {
-   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "source": "BBC",
-   "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine..",
-   "body": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T22:11:52Z",
-   "topic": "World"
-  },
-  {
-   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "source": "BBC",
-   "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind..",
-   "body": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-30T21:13:14Z",
-   "topic": "World"
-  },
-  {
-   "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
-   "source": "NPR",
-   "summary": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas..",
-   "body": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
-   "sources": [
-    "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump"
-   ],
-   "publishedAt": "2026-10-30T18:06:18Z",
-   "topic": "News"
-  },
-  {
-   "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
-   "source": "NPR",
-   "summary": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course..",
-   "body": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
-   "sources": [
-    "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj"
-   ],
-   "publishedAt": "2026-10-30T17:56:52Z",
-   "topic": "News"
-  },
-  {
-   "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-   "source": "NPR",
-   "summary": "Across the country, there are reports of heightened ICE activity.",
-   "body": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
-   "sources": [
-    "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms"
-   ],
-   "publishedAt": "2026-10-30T13:45:27Z",
-   "topic": "News"
-  },
-  {
-   "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-   "source": "NPR",
-   "summary": "Every election, there is a crucial sliver of voters who help determine which candidates win.",
-   "body": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.",
-   "sources": [
-    "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups"
-   ],
-   "publishedAt": "2026-10-30T11:00:00Z",
-   "topic": "News"
   }
  ],
  "highlights": []
