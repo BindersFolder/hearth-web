@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T21:27:19Z",
+ "updatedAt": "2026-11-01T01:03:28Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77364.8984,
-   "changePct": 0.24,
-   "prevClose": 77180.4219,
+   "price": 77560.75,
+   "changePct": 0.16,
+   "prevClose": 77436.6797,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2250.6799,
-   "changePct": 0.43,
-   "prevClose": 2240.98,
+   "price": 2259.0601,
+   "changePct": 0.28,
+   "prevClose": 2252.6599,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 34.98 · Diesel 97.08",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.5,
    "note": "Week ago 4.2957 · Year ago 3.0403",
    "source": "AAA",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3879 · Year ago 3.1052",
    "source": "AAA",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.16,
    "note": "Week ago 6.3374 · Year ago 3.6876",
    "source": "AAA",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.03,
    "note": "Week ago 6.4978 · Year ago 3.8813",
    "source": "AAA",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-10-31T21:27:19Z"
+   "asOf": "2026-11-01T01:03:28Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,52 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "sun",
-  "conditionText": "Sunny",
-  "temp": 56,
-  "high": 58,
+  "condition": "clearNight",
+  "conditionText": "Mostly Clear",
+  "temp": 48,
+  "high": 48,
   "low": 33,
-  "humidity": 42,
-  "wind": 7,
-  "summary": "Sunny. High near 58, with temperatures falling to around 56 in the afternoon. Northwest wind around 7 mph. Areas of frost after 11pm. Partly cloudy, with a low around 33. West wind 1 to 6 mph. Areas of frost before 9am. Sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 1 to 5 mph.",
+  "humidity": 58,
+  "wind": 2,
+  "summary": "Areas of frost after 11pm. Partly cloudy, with a low around 33. West wind around 2 mph. Areas of frost after 11pm. Partly cloudy, with a low around 33. West wind around 2 mph. Areas of frost before 9am. Sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 1 to 5 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-10-31T17:00:00-04:00",
-    "temp": 56,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 42
-   },
-   {
-    "time": "2026-10-31T18:00:00-04:00",
-    "temp": 55,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 6,
-    "humidity": 41
-   },
-   {
-    "time": "2026-10-31T19:00:00-04:00",
-    "temp": 53,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 5,
-    "humidity": 46
-   },
-   {
-    "time": "2026-10-31T20:00:00-04:00",
-    "temp": 51,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 2,
-    "humidity": 52
-   },
    {
     "time": "2026-10-31T21:00:00-04:00",
     "temp": 48,
@@ -569,26 +533,60 @@
     "precipPct": 1,
     "wind": 5,
     "humidity": 43
+   },
+   {
+    "time": "2026-11-01T16:00:00-05:00",
+    "temp": 61,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 1,
+    "wind": 5,
+    "humidity": 44
+   },
+   {
+    "time": "2026-11-01T17:00:00-05:00",
+    "temp": 58,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 1,
+    "wind": 3,
+    "humidity": 49
+   },
+   {
+    "time": "2026-11-01T18:00:00-05:00",
+    "temp": 53,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 59
+   },
+   {
+    "time": "2026-11-01T19:00:00-05:00",
+    "temp": 49,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 68
    }
   ],
   "daily": [
    {
     "date": "2026-10-31",
-    "high": 58,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "windText": "NW 7 mph",
-    "summary": "Sunny. High near 58, with temperatures falling to around 56 in the afternoon. Northwest wind around 7 mph.",
     "low": 33,
     "night": {
      "low": 33,
      "condition": "clearNight",
      "conditionText": "Areas Of Frost",
-     "summary": "Areas of frost after 11pm. Partly cloudy, with a low around 33. West wind 1 to 6 mph.",
+     "summary": "Areas of frost after 11pm. Partly cloudy, with a low around 33. West wind around 2 mph.",
      "precipPct": 0
-    }
+    },
+    "high": 48,
+    "conditionText": "Areas Of Frost",
+    "condition": "clearNight",
+    "summary": "Areas of frost after 11pm. Partly cloudy, with a low around 33. West wind around 2 mph.",
+    "precipPct": 0
    },
    {
     "date": "2026-11-01",
@@ -622,7 +620,7 @@
      "low": 44,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 44.",
+     "summary": "Partly cloudy, with a low around 44. West wind around 2 mph.",
      "precipPct": 0
     }
    },
@@ -634,7 +632,7 @@
     "precipPct": 1,
     "wind": 3,
     "windText": "SW 0 to 3 mph",
-    "summary": "Mostly sunny, with a high near 69.",
+    "summary": "Mostly sunny. High near 69, with temperatures falling to around 63 in the afternoon.",
     "low": 47,
     "night": {
      "low": 47,
@@ -694,7 +692,7 @@
      "low": 50,
      "condition": "rain",
      "conditionText": "Rain Showers Likely",
-     "summary": "Rain showers likely. Mostly cloudy, with a low around 50.",
+     "summary": "Rain showers likely. Mostly cloudy, with a low around 50. Chance of precipitation is 60%.",
      "precipPct": 57
     }
    }
@@ -702,14 +700,47 @@
  },
  "news": [
   {
-   "title": "Clashes erupt between police and protesters in Paris",
+   "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
    "source": "BBC",
-   "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services..",
-   "body": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+   "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary..",
+   "body": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-01T00:55:06Z",
+   "topic": "World"
+  },
+  {
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "source": "BBC",
+   "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls..",
+   "body": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-01T00:12:07Z",
+   "topic": "World"
+  },
+  {
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "source": "BBC",
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack..",
+   "body": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-10-31T22:11:45Z",
+   "topic": "World"
+  },
+  {
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "source": "BBC",
+   "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police..",
+   "body": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
    "sources": [
     "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-10-31T19:37:43Z",
+   "publishedAt": "2026-10-31T21:29:01Z",
    "topic": "World"
   },
   {
@@ -724,6 +755,17 @@
    "topic": "World"
   },
   {
+   "title": "Virginia and D.C. sue to block construction of Trump arch",
+   "source": "NPR",
+   "summary": "U.S.",
+   "body": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
+   "sources": [
+    "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch"
+   ],
+   "publishedAt": "2026-10-31T18:48:51Z",
+   "topic": "News"
+  },
+  {
    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
    "source": "BBC",
    "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive..",
@@ -735,15 +777,15 @@
    "topic": "World"
   },
   {
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "source": "BBC",
-   "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit..",
-   "body": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+   "title": "Mixed economic forecast weighs heavy ahead of midterms",
+   "source": "NPR",
+   "summary": "There was a mixed Halloween bag of economic news this week.",
+   "body": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices.  For now at least, interest rates are staying the same.  What does that mean for the midterm elections?",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms"
    ],
-   "publishedAt": "2026-10-31T16:32:08Z",
-   "topic": "World"
+   "publishedAt": "2026-10-31T17:14:35Z",
+   "topic": "News"
   },
   {
    "title": "France seethes again as youth-led protests sweep Europe",
@@ -788,50 +830,6 @@
    ],
    "publishedAt": "2026-10-31T14:28:15Z",
    "topic": "World"
-  },
-  {
-   "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-   "source": "NPR",
-   "summary": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector..",
-   "body": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
-   ],
-   "publishedAt": "2026-10-31T14:11:02Z",
-   "topic": "News"
-  },
-  {
-   "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-   "source": "NPR",
-   "summary": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S.",
-   "body": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate"
-   ],
-   "publishedAt": "2026-10-31T09:50:58Z",
-   "topic": "News"
-  },
-  {
-   "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-   "source": "NPR",
-   "summary": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House.",
-   "body": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory"
-   ],
-   "publishedAt": "2026-10-31T08:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-   "source": "NPR",
-   "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground..",
-   "body": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners"
-   ],
-   "publishedAt": "2026-10-31T07:56:10Z",
-   "topic": "News"
   }
  ],
  "highlights": []
