@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T07:28:24Z",
+ "updatedAt": "2026-11-01T15:00:22Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77730.6172,
-   "changePct": 0.38,
-   "prevClose": 77436.6797,
+   "price": 77924.6797,
+   "changePct": 0.65,
+   "prevClose": 77423.9922,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2264.4399,
-   "changePct": 0.52,
+   "price": 2268.1101,
+   "changePct": 0.69,
    "prevClose": 2252.6599,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.42,
    "note": "Gasoline 28.45 · Diesel 92.28",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "DIESEL",
@@ -212,11 +212,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1837,
-   "changePct": -0.5,
-   "note": "Week ago 4.2957 · Year ago 3.0403",
+   "price": 4.1732,
+   "changePct": -0.25,
+   "note": "Week ago 4.2892 · Year ago 3.038",
    "source": "AAA",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "NY-REG",
@@ -224,11 +224,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3487,
-   "changePct": -0.14,
-   "note": "Week ago 4.3879 · Year ago 3.1052",
+   "price": 4.3441,
+   "changePct": -0.11,
+   "note": "Week ago 4.3842 · Year ago 3.1033",
    "source": "AAA",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "US-DSL",
@@ -236,11 +236,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 6.3101,
-   "changePct": -0.16,
-   "note": "Week ago 6.3374 · Year ago 3.6876",
+   "price": 6.3039,
+   "changePct": -0.1,
+   "note": "Week ago 6.3474 · Year ago 3.6862",
    "source": "AAA",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "NY-DSL",
@@ -248,11 +248,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 6.4896,
-   "changePct": -0.03,
-   "note": "Week ago 6.4978 · Year ago 3.8813",
+   "price": 6.4902,
+   "changePct": 0.01,
+   "note": "Week ago 6.4968 · Year ago 3.8783",
    "source": "AAA",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "COPPER",
@@ -286,12 +286,12 @@
    "group": "Metals",
    "unit": "$/lb",
    "price": 6.482,
-   "changePct": -0.97,
-   "prevClose": 6.5455,
+   "changePct": -0.99,
+   "prevClose": 6.5465,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T07:28:24Z"
+   "asOf": "2026-11-01T15:00:22Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,95 +344,23 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "clearNight",
-  "conditionText": "Areas Of Frost",
-  "temp": 36,
+  "condition": "sun",
+  "conditionText": "Sunny",
+  "temp": 50,
   "high": 62,
   "low": 39,
-  "humidity": 92,
-  "wind": 0,
-  "summary": "Widespread frost before 9am. Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West wind around 2 mph. Mostly clear. Low around 39, with temperatures rising to around 41 overnight. Southwest wind around 2 mph. Mostly sunny. High near 67, with temperatures falling to around 62 in the afternoon.…",
+  "humidity": 71,
+  "wind": 3,
+  "summary": "Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West wind around 6 mph. Mostly clear. Low around 39, with temperatures rising to around 41 overnight. Southeast wind around 2 mph. Mostly sunny. High near 67, with temperatures falling to around 62 in the afternoon. South wind 2 to 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-01T02:00:00-05:00",
-    "temp": 36,
-    "condition": "clearNight",
-    "conditionText": "Areas Of Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 92
-   },
-   {
-    "time": "2026-11-01T03:00:00-05:00",
-    "temp": 35,
-    "condition": "clearNight",
-    "conditionText": "Areas Of Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 96
-   },
-   {
-    "time": "2026-11-01T04:00:00-05:00",
-    "temp": 34,
-    "condition": "clearNight",
-    "conditionText": "Areas Of Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 100
-   },
-   {
-    "time": "2026-11-01T05:00:00-05:00",
-    "temp": 34,
-    "condition": "clearNight",
-    "conditionText": "Areas Of Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 100
-   },
-   {
-    "time": "2026-11-01T06:00:00-05:00",
-    "temp": 33,
-    "condition": "sun",
-    "conditionText": "Widespread Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 100
-   },
-   {
-    "time": "2026-11-01T07:00:00-05:00",
-    "temp": 33,
-    "condition": "sun",
-    "conditionText": "Areas Of Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 100
-   },
-   {
-    "time": "2026-11-01T08:00:00-05:00",
-    "temp": 38,
-    "condition": "sun",
-    "conditionText": "Patchy Frost",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 96
-   },
-   {
-    "time": "2026-11-01T09:00:00-05:00",
-    "temp": 44,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 86
-   },
    {
     "time": "2026-11-01T10:00:00-05:00",
     "temp": 50,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 3,
     "humidity": 71
    },
    {
@@ -441,7 +369,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
+    "wind": 5,
     "humidity": 61
    },
    {
@@ -450,7 +378,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 5,
     "humidity": 51
    },
    {
@@ -459,7 +387,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 6,
     "humidity": 47
    },
    {
@@ -468,7 +396,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 6,
     "humidity": 46
    },
    {
@@ -477,7 +405,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 5,
     "humidity": 44
    },
    {
@@ -486,7 +414,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 5,
     "humidity": 48
    },
    {
@@ -495,7 +423,7 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 3,
     "humidity": 55
    },
    {
@@ -513,7 +441,7 @@
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 1,
     "humidity": 68
    },
    {
@@ -522,7 +450,7 @@
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
-    "wind": 2,
+    "wind": 1,
     "humidity": 74
    },
    {
@@ -569,26 +497,98 @@
     "precipPct": 1,
     "wind": 1,
     "humidity": 89
+   },
+   {
+    "time": "2026-11-02T02:00:00-05:00",
+    "temp": 41,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 1,
+    "humidity": 89
+   },
+   {
+    "time": "2026-11-02T03:00:00-05:00",
+    "temp": 40,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 1,
+    "humidity": 92
+   },
+   {
+    "time": "2026-11-02T04:00:00-05:00",
+    "temp": 41,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 1,
+    "humidity": 89
+   },
+   {
+    "time": "2026-11-02T05:00:00-05:00",
+    "temp": 41,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 1,
+    "humidity": 85
+   },
+   {
+    "time": "2026-11-02T06:00:00-05:00",
+    "temp": 40,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 89
+   },
+   {
+    "time": "2026-11-02T07:00:00-05:00",
+    "temp": 41,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 85
+   },
+   {
+    "time": "2026-11-02T08:00:00-05:00",
+    "temp": 46,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 79
+   },
+   {
+    "time": "2026-11-02T09:00:00-05:00",
+    "temp": 53,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 66
    }
   ],
   "daily": [
    {
     "date": "2026-11-01",
+    "high": 62,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 6,
+    "windText": "W 6 mph",
+    "summary": "Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West wind around 6 mph.",
     "low": 39,
     "night": {
      "low": 39,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear. Low around 39, with temperatures rising to around 41 overnight. Southwest wind around 2 mph.",
+     "summary": "Mostly clear. Low around 39, with temperatures rising to around 41 overnight. Southeast wind around 2 mph.",
      "precipPct": 1
-    },
-    "high": 62,
-    "condition": "sun",
-    "conditionText": "Widespread Frost then Sunny",
-    "precipPct": 0,
-    "wind": 2,
-    "windText": "W 2 mph",
-    "summary": "Widespread frost before 9am. Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West wind around 2 mph."
+    }
    },
    {
     "date": "2026-11-02",
@@ -597,8 +597,8 @@
     "conditionText": "Mostly Sunny",
     "precipPct": 1,
     "wind": 6,
-    "windText": "SW 1 to 6 mph",
-    "summary": "Mostly sunny. High near 67, with temperatures falling to around 62 in the afternoon. Southwest wind 1 to 6 mph.",
+    "windText": "S 2 to 6 mph",
+    "summary": "Mostly sunny. High near 67, with temperatures falling to around 62 in the afternoon. South wind 2 to 6 mph.",
     "low": 43,
     "night": {
      "low": 43,
@@ -616,7 +616,7 @@
     "precipPct": 0,
     "wind": 3,
     "windText": "SW 0 to 3 mph",
-    "summary": "Mostly sunny. High near 69, with temperatures falling to around 64 in the afternoon.",
+    "summary": "Mostly sunny. High near 69, with temperatures falling to around 64 in the afternoon. Southwest wind 0 to 3 mph.",
     "low": 47,
     "night": {
      "low": 47,
@@ -688,33 +688,139 @@
     "precipPct": 60,
     "wind": 8,
     "windText": "N 5 to 8 mph",
-    "summary": "Rain likely. Partly sunny, with a high near 65.",
-    "low": null
+    "summary": "Rain likely. Partly sunny, with a high near 65. Chance of precipitation is 60%.",
+    "low": 45,
+    "night": {
+     "low": 45,
+     "condition": "rain",
+     "conditionText": "Chance Light Rain",
+     "summary": "A chance of rain before 1am. Mostly cloudy, with a low around 45.",
+     "precipPct": 32
+    }
    }
   ]
  },
  "news": [
   {
-   "title": "Shops looted as German cost of living protests turn violent",
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "source": "BBC",
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack..",
+   "body": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-01T13:11:37Z",
+   "topic": "World"
+  },
+  {
+   "title": "Shops looted as German cost-of-living protests turn violent",
    "source": "BBC",
    "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France..",
    "body": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-01T07:05:50Z",
+   "publishedAt": "2026-11-01T11:57:48Z",
    "topic": "World"
   },
   {
-   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "title": "Living with high prices in Virginia's 1st Congressional District",
+   "source": "NPR",
+   "summary": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district.",
+   "body": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district"
+   ],
+   "publishedAt": "2026-11-01T08:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "India's opposition holds mega rally seeking election chief's resignation",
    "source": "BBC",
-   "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls..",
-   "body": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down..",
+   "body": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-01T07:00:55Z",
    "topic": "World"
+  },
+  {
+   "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+   "source": "NPR",
+   "summary": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov.",
+   "body": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+   ],
+   "publishedAt": "2026-11-01T07:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+   "source": "NPR",
+   "summary": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party's next chapter..",
+   "body": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party's next chapter.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans"
+   ],
+   "publishedAt": "2026-11-01T06:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "How one family gave a critical boost to gene therapy research",
+   "source": "NPR",
+   "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research.",
+   "body": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi"
+   ],
+   "publishedAt": "2026-11-01T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+   "source": "NPR",
+   "summary": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning..",
+   "body": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans"
+   ],
+   "publishedAt": "2026-11-01T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+   "source": "NPR",
+   "summary": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding..",
+   "body": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq"
+   ],
+   "publishedAt": "2026-11-01T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Here's how to watch election night as the polls close, hour-by-hour",
+   "source": "NPR",
+   "summary": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress..",
+   "body": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
+   ],
+   "publishedAt": "2026-11-01T05:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+   "source": "NPR",
+   "summary": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican.",
+   "body": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party face near impossible odds.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts"
+   ],
+   "publishedAt": "2026-11-01T05:00:00Z",
+   "topic": "News"
   },
   {
    "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
@@ -725,105 +831,6 @@
     "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-01T00:55:06Z",
-   "topic": "World"
-  },
-  {
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "source": "BBC",
-   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack..",
-   "body": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T22:11:45Z",
-   "topic": "World"
-  },
-  {
-   "title": "Thousands demonstrate in Paris as protests spread across Europe",
-   "source": "BBC",
-   "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police..",
-   "body": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-   "sources": [
-    "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T21:29:01Z",
-   "topic": "World"
-  },
-  {
-   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-   "source": "BBC",
-   "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food..",
-   "body": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T19:22:26Z",
-   "topic": "World"
-  },
-  {
-   "title": "Virginia and D.C. sue to block construction of Trump arch",
-   "source": "NPR",
-   "summary": "U.S.",
-   "body": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch"
-   ],
-   "publishedAt": "2026-10-31T18:48:51Z",
-   "topic": "News"
-  },
-  {
-   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-   "source": "BBC",
-   "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive..",
-   "body": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T17:53:35Z",
-   "topic": "World"
-  },
-  {
-   "title": "Mixed economic forecast weighs heavy ahead of midterms",
-   "source": "NPR",
-   "summary": "There was a mixed Halloween bag of economic news this week.",
-   "body": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices.  For now at least, interest rates are staying the same.  What does that mean for the midterm elections?",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms"
-   ],
-   "publishedAt": "2026-10-31T17:14:35Z",
-   "topic": "News"
-  },
-  {
-   "title": "France seethes again as youth-led protests sweep Europe",
-   "source": "NPR",
-   "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets..",
-   "body": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
-   ],
-   "publishedAt": "2026-10-31T15:30:19Z",
-   "topic": "News"
-  },
-  {
-   "title": "Key takeaways from this week's political meeting in Beijing",
-   "source": "NPR",
-   "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption.",
-   "body": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
-   "sources": [
-    "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways"
-   ],
-   "publishedAt": "2026-10-31T14:42:33Z",
-   "topic": "News"
-  },
-  {
-   "title": "Ethiopian PM puts ministers through military training",
-   "source": "BBC",
-   "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions..",
-   "body": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-10-31T14:28:15Z",
    "topic": "World"
   }
  ],
