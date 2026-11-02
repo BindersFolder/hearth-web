@@ -132,6 +132,7 @@ button { cursor: pointer; }
   background: var(--card); border-radius: var(--radius); color: var(--text); text-decoration: none;
 }
 .watch-card:hover { background: var(--card-hover); }
+.watch-card + .watch-card { margin-top: 8px; }
 .watch-card .play { flex: none; width: 48px; height: 34px; }
 .watch-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
 .watch-caption { display: flex; align-items: center; gap: 8px; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-3); }

@@ -254,7 +254,7 @@
     const o = obj(data);
     if (!o) return null;
     if ('media' in o) return obj(o.media);
-    return o.breakingPoints ? o : null;                                  // bare media object
+    return (o.breakingPoints || o.majorityReport) ? o : null;            // bare media object
   }
 
   // Stored key material: {salt, key} where key is the PBKDF2 output (never the secret).
@@ -400,21 +400,24 @@
     body.replaceChildren(...kids);
   }
 
-  // Media link: only from a decrypted blob. Without a key nothing renders, not even a placeholder.
+  // Media links: only from a decrypted blob. Without a key nothing renders, not even a placeholder.
+  const SHOWS = [['breakingPoints', 'Breaking Points'], ['majorityReport', 'Majority Report']];
   function watchCard(media) {
-    const bp = obj(media && media.breakingPoints);
-    const url = bp && safeUrl(bp.url);
-    if (!url) return [];
-    const when = parseDate(bp.publishedAt);
-    const live = str(bp.kind).toLowerCase() === 'live';
-    const link = el('a', { class: 'watch-card', href: url.href, target: '_blank', rel: 'noopener' },
-      svg(UI.play),
-      el('span', { class: 'watch-main' },
-        el('span', { class: 'watch-caption' }, 'Breaking Points', live ? el('span', { class: 'live-pill', text: 'LIVE' }) : null),
-        el('span', { class: 'watch-title', text: str(bp.title) || 'New episode' }),
-        when ? el('span', { class: 'watch-time', text: relTime(when), 'data-when': when.toISOString(), 'data-base': '' }) : null,
-        el('span', { class: 'visually-hidden', text: ' (opens YouTube)' })));
-    return [el('h3', { class: 'section-label', text: 'Watch' }), link];
+    const cards = SHOWS.map(([key, name]) => {
+      const ep = obj(media && media[key]);
+      const url = ep && safeUrl(ep.url);
+      if (!url) return null;
+      const when = parseDate(ep.publishedAt);
+      const live = str(ep.kind).toLowerCase() === 'live';
+      return el('a', { class: 'watch-card', href: url.href, target: '_blank', rel: 'noopener' },
+        svg(UI.play),
+        el('span', { class: 'watch-main' },
+          el('span', { class: 'watch-caption' }, name, live ? el('span', { class: 'live-pill', text: 'LIVE' }) : null),
+          el('span', { class: 'watch-title', text: str(ep.title) || 'New episode' }),
+          when ? el('span', { class: 'watch-time', text: relTime(when), 'data-when': when.toISOString(), 'data-base': '' }) : null,
+          el('span', { class: 'visually-hidden', text: ' (opens YouTube)' })));
+    }).filter(Boolean);
+    return cards.length ? [el('h3', { class: 'section-label', text: 'Watch' }), ...cards] : [];
   }
 
   function highlightItem(h, id) {
