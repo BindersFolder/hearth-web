@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T19:35:40Z",
+ "updatedAt": "2026-11-01T23:32:25Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77657.0234,
-   "changePct": 0.28,
+   "price": 78010.0,
+   "changePct": 0.74,
    "prevClose": 77436.6797,
    "high52": 111167.31,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2256.5,
-   "changePct": 0.17,
+   "price": 2265.05,
+   "changePct": 0.55,
    "prevClose": 2252.6599,
    "high52": 3914.88,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 104.12,
-   "changePct": 0.92,
-   "prevClose": 103.17,
+   "price": 102.45,
+   "changePct": -1.6,
+   "prevClose": 104.12,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 113.43,
-   "changePct": 1.21,
-   "prevClose": 112.07,
+   "price": 111.74,
+   "changePct": -1.49,
+   "prevClose": 113.43,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.73,
-   "changePct": 2.71,
-   "prevClose": 48.42,
-   "note": "Gasoline 28.45 · Diesel 92.28",
+   "price": 49.08,
+   "changePct": -1.31,
+   "prevClose": 49.73,
+   "note": "Gasoline 27.66 · Diesel 91.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.898,
-   "changePct": 0.03,
-   "prevClose": 2.897,
+   "price": 2.9,
+   "changePct": 0.07,
+   "prevClose": 2.898,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.1565,
-   "changePct": 1.57,
-   "prevClose": 3.1077,
+   "price": 3.0978,
+   "changePct": -1.86,
+   "prevClose": 3.1565,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.6761,
-   "changePct": 1.37,
-   "prevClose": 4.6127,
+   "price": 4.6281,
+   "changePct": -1.03,
+   "prevClose": 4.6761,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.25,
    "note": "Week ago 4.2892 · Year ago 3.038",
    "source": "AAA",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.3842 · Year ago 3.1033",
    "source": "AAA",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.1,
    "note": "Week ago 6.3474 · Year ago 3.6862",
    "source": "AAA",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": 0.01,
    "note": "Week ago 6.4968 · Year ago 3.8783",
    "source": "AAA",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3898.8999,
-   "changePct": -2.62,
-   "prevClose": 4004.0,
+   "price": 3903.3999,
+   "changePct": 0.12,
+   "prevClose": 3898.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.276,
-   "changePct": -4.01,
-   "prevClose": 51.335,
+   "price": 49.66,
+   "changePct": 0.78,
+   "prevClose": 49.276,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.482,
-   "changePct": -0.97,
-   "prevClose": 6.5455,
+   "price": 6.508,
+   "changePct": 0.4,
+   "prevClose": 6.482,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.964,
-   "changePct": 0.19,
-   "prevClose": 101.766,
+   "price": 101.965,
+   "changePct": 0.0,
+   "prevClose": 101.964,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-01T19:35:40Z"
+   "asOf": "2026-11-01T23:32:25Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,52 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "sun",
-  "conditionText": "Sunny",
-  "temp": 61,
-  "high": 62,
+  "condition": "clearNight",
+  "conditionText": "Mostly Clear",
+  "temp": 54,
+  "high": 54,
   "low": 40,
-  "humidity": 46,
-  "wind": 6,
-  "summary": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. Southwest wind around 6 mph. Patchy fog after 4am. Mostly clear, with a low around 40. East wind around 2 mph. Patchy fog before 7am. Mostly sunny. High near 68, with temperatures falling to around 62 in the afternoon. South wind 2 to 7 mph.",
+  "humidity": 61,
+  "wind": 2,
+  "summary": "Patchy fog after 4am. Mostly clear, with a low around 40. East wind around 2 mph. Patchy fog after 4am. Mostly clear, with a low around 40. East wind around 2 mph. Patchy fog before 7am. Mostly sunny. High near 68, with temperatures falling to around 62 in the afternoon. South wind 2 to 7 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-01T14:00:00-05:00",
-    "temp": 61,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 6,
-    "humidity": 46
-   },
-   {
-    "time": "2026-11-01T15:00:00-05:00",
-    "temp": 62,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 6,
-    "humidity": 44
-   },
-   {
-    "time": "2026-11-01T16:00:00-05:00",
-    "temp": 61,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 5,
-    "humidity": 48
-   },
-   {
-    "time": "2026-11-01T17:00:00-05:00",
-    "temp": 58,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 53
-   },
    {
     "time": "2026-11-01T18:00:00-05:00",
     "temp": 54,
@@ -569,18 +533,47 @@
     "precipPct": 2,
     "wind": 7,
     "humidity": 40
+   },
+   {
+    "time": "2026-11-02T14:00:00-05:00",
+    "temp": 67,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 2,
+    "wind": 6,
+    "humidity": 40
+   },
+   {
+    "time": "2026-11-02T15:00:00-05:00",
+    "temp": 67,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 2,
+    "wind": 6,
+    "humidity": 42
+   },
+   {
+    "time": "2026-11-02T16:00:00-05:00",
+    "temp": 65,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 2,
+    "wind": 5,
+    "humidity": 46
+   },
+   {
+    "time": "2026-11-02T17:00:00-05:00",
+    "temp": 62,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 2,
+    "wind": 5,
+    "humidity": 50
    }
   ],
   "daily": [
    {
     "date": "2026-11-01",
-    "high": 62,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 6,
-    "windText": "SW 6 mph",
-    "summary": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. Southwest wind around 6 mph.",
     "low": 40,
     "night": {
      "low": 40,
@@ -588,7 +581,12 @@
      "conditionText": "Mostly Clear then Patchy Fog",
      "summary": "Patchy fog after 4am. Mostly clear, with a low around 40. East wind around 2 mph.",
      "precipPct": 1
-    }
+    },
+    "high": 54,
+    "conditionText": "Mostly Clear then Patchy Fog",
+    "condition": "fog",
+    "summary": "Patchy fog after 4am. Mostly clear, with a low around 40. East wind around 2 mph.",
+    "precipPct": 1
    },
    {
     "date": "2026-11-02",
@@ -622,7 +620,7 @@
      "low": 48,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 48.",
+     "summary": "Partly cloudy, with a low around 48. Southwest wind around 2 mph.",
      "precipPct": 0
     }
    },
@@ -634,7 +632,7 @@
     "precipPct": 2,
     "wind": 7,
     "windText": "S 1 to 7 mph",
-    "summary": "Mostly sunny, with a high near 72.",
+    "summary": "Mostly sunny. High near 72, with temperatures falling to around 67 in the afternoon.",
     "low": 56,
     "night": {
      "low": 56,
@@ -702,14 +700,25 @@
  },
  "news": [
   {
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "source": "BBC",
+   "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky..",
+   "body": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-01T21:55:01Z",
+   "topic": "World"
+  },
+  {
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
    "source": "BBC",
    "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote..",
    "body": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-01T19:17:34Z",
+   "publishedAt": "2026-11-01T21:16:45Z",
    "topic": "World"
   },
   {
@@ -722,6 +731,17 @@
    ],
    "publishedAt": "2026-11-01T17:56:47Z",
    "topic": "World"
+  },
+  {
+   "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+   "source": "NPR",
+   "summary": "Sen.",
+   "body": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast"
+   ],
+   "publishedAt": "2026-11-01T17:22:12Z",
+   "topic": "News"
   },
   {
    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -744,6 +764,17 @@
    ],
    "publishedAt": "2026-11-01T17:05:18Z",
    "topic": "World"
+  },
+  {
+   "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+   "source": "NPR",
+   "summary": "Rep.",
+   "body": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+   "sources": [
+    "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers"
+   ],
+   "publishedAt": "2026-11-01T14:49:15Z",
+   "topic": "News"
   },
   {
    "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
@@ -798,39 +829,6 @@
     "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence"
    ],
    "publishedAt": "2026-11-01T12:57:58Z",
-   "topic": "News"
-  },
-  {
-   "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-   "source": "NPR",
-   "summary": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time..",
-   "body": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
-   "sources": [
-    "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win"
-   ],
-   "publishedAt": "2026-11-01T12:33:21Z",
-   "topic": "News"
-  },
-  {
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "source": "BBC",
-   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France..",
-   "body": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-01T11:57:48Z",
-   "topic": "World"
-  },
-  {
-   "title": "Living with high prices in Virginia's 1st Congressional District",
-   "source": "NPR",
-   "summary": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district.",
-   "body": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.",
-   "sources": [
-    "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district"
-   ],
-   "publishedAt": "2026-11-01T08:00:00Z",
    "topic": "News"
   }
  ],
