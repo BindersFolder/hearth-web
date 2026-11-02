@@ -1,135 +1,135 @@
 {
- "updatedAt": "2026-11-02T05:53:32Z",
+ "updatedAt": "2026-11-02T19:24:28Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 755.72,
-   "changePct": -1.18,
-   "prevClose": 764.73,
+   "price": 754.95,
+   "changePct": -0.29,
+   "prevClose": 757.12,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 690.49,
-   "changePct": -1.96,
-   "prevClose": 704.3,
+   "price": 685.745,
+   "changePct": -1.01,
+   "prevClose": 692.74,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 517.13,
-   "changePct": -1.11,
-   "prevClose": 522.92,
+   "price": 520.72,
+   "changePct": 0.59,
+   "prevClose": 517.65,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.33,
-   "changePct": -1.59,
-   "prevClose": 283.83,
+   "price": 280.01,
+   "changePct": 0.07,
+   "prevClose": 279.82,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78279.8828,
-   "changePct": 0.07,
+   "price": 76898.6719,
+   "changePct": -1.7,
    "prevClose": 78225.4219,
    "high52": 110764.91,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2289.4299,
-   "changePct": 0.76,
+   "price": 2248.1201,
+   "changePct": -1.06,
    "prevClose": 2272.23,
    "high52": 3912.63,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.29,
-   "changePct": -2.14,
-   "prevClose": 102.48,
+   "price": 96.07,
+   "changePct": -4.67,
+   "prevClose": 100.78,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "WTI-SPOT",
    "name": "WTI spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 107.89,
+   "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-10-28T16:20:21Z"
+   "asOf": "2026-11-02T19:24:00Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 109.52,
-   "changePct": -2.0,
-   "prevClose": 111.76,
+   "price": 104.56,
+   "changePct": -4.94,
+   "prevClose": 109.99,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "BRENT-SPOT",
    "name": "Brent spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 115.22,
+   "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-10-28T16:20:21Z"
+   "asOf": "2026-11-02T19:24:00Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.26,
-   "changePct": -1.47,
-   "prevClose": 48.98,
-   "note": "Gasoline 27.28 · Diesel 90.23",
+   "price": 46.74,
+   "changePct": -3.53,
+   "prevClose": 48.45,
+   "note": "Gasoline 25.46 · Diesel 89.28",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.92,
-   "changePct": -0.1,
-   "prevClose": 2.923,
+   "price": 2.867,
+   "changePct": -1.38,
+   "prevClose": 2.907,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.0373,
-   "changePct": -1.95,
-   "prevClose": 3.0976,
+   "price": 2.8936,
+   "changePct": -5.17,
+   "prevClose": 3.0515,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5361,
-   "changePct": -1.89,
-   "prevClose": 4.6237,
+   "price": 4.4132,
+   "changePct": -3.13,
+   "prevClose": 4.556,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.83,
-   "changePct": 0.0,
+   "price": 4.42,
+   "changePct": -4.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-10-28T16:20:21Z"
+   "asOf": "2026-11-02T19:24:00Z"
   },
   {
    "symbol": "JET",
@@ -190,10 +190,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.63,
+   "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-10-28T16:20:21Z"
+   "asOf": "2026-11-02T19:24:00Z"
   },
   {
    "symbol": "PROPANE",
@@ -201,10 +201,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 1.13,
+   "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-10-28T16:20:21Z"
+   "asOf": "2026-11-02T19:24:00Z"
   },
   {
    "symbol": "US-REG",
@@ -212,11 +212,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1732,
-   "changePct": -0.25,
-   "note": "Week ago 4.2892 · Year ago 3.038",
+   "price": 4.1694,
+   "changePct": -0.09,
+   "note": "Week ago 4.2858 · Year ago 3.0361",
    "source": "AAA",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "NY-REG",
@@ -224,11 +224,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3441,
-   "changePct": -0.11,
-   "note": "Week ago 4.3842 · Year ago 3.1033",
+   "price": 4.3409,
+   "changePct": -0.07,
+   "note": "Week ago 4.3816 · Year ago 3.1041",
    "source": "AAA",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "US-DSL",
@@ -236,11 +236,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 6.3039,
-   "changePct": -0.1,
-   "note": "Week ago 6.3474 · Year ago 3.6862",
+   "price": 6.2921,
+   "changePct": -0.19,
+   "note": "Week ago 6.3492 · Year ago 3.684",
    "source": "AAA",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "NY-DSL",
@@ -248,582 +248,589 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 6.4902,
-   "changePct": 0.01,
-   "note": "Week ago 6.4968 · Year ago 3.8783",
+   "price": 6.4892,
+   "changePct": -0.02,
+   "note": "Week ago 6.4942 · Year ago 3.8763",
    "source": "AAA",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3927.0,
-   "changePct": 0.34,
-   "prevClose": 3913.5,
+   "price": 3964.2,
+   "changePct": 1.39,
+   "prevClose": 3910.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.515,
-   "changePct": 1.38,
-   "prevClose": 49.825,
+   "price": 50.735,
+   "changePct": 1.3,
+   "prevClose": 50.085,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.528,
-   "changePct": 0.48,
-   "prevClose": 6.4965,
+   "price": 6.5515,
+   "changePct": 0.62,
+   "prevClose": 6.511,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.929,
-   "changePct": -1.2,
-   "prevClose": 4.989,
+   "price": 4.888,
+   "changePct": -0.83,
+   "prevClose": 4.929,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.838,
-   "changePct": -0.11,
-   "prevClose": 101.953,
+   "price": 101.686,
+   "changePct": -0.21,
+   "prevClose": 101.9,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 19.42,
+   "price": 20.4,
    "changePct": null,
-   "prevClose": 17.21,
+   "prevClose": 19.44,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T05:53:32Z"
+   "asOf": "2026-11-02T19:24:28Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 24.3,
+   "price": 25.3,
    "changePct": null,
-   "note": "Extreme fear",
+   "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-10-31T13:14:24Z"
+   "asOf": "2026-11-02T19:24:00Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "clearNight",
-  "conditionText": "Mostly Clear",
-  "temp": 46,
-  "high": 68,
+  "condition": "sun",
+  "conditionText": "Sunny",
+  "temp": 69,
+  "high": 70,
   "low": 45,
-  "humidity": 76,
-  "wind": 1,
-  "summary": "Patchy fog before 7am. Mostly sunny. High near 68, with temperatures falling to around 62 in the afternoon. South wind 2 to 7 mph. Partly cloudy, with a low around 45. East wind 0 to 3 mph. Mostly sunny. High near 70, with temperatures falling to around 64 in the afternoon. West wind around 3 mph.",
+  "humidity": 35,
+  "wind": 9,
+  "summary": "Sunny. High near 70, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 9 mph. Partly cloudy, with a low around 45. South wind around 5 mph. Mostly sunny. High near 71, with temperatures falling to around 65 in the afternoon. South wind 1 to 8 mph.",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-02T00:00:00-05:00",
-    "temp": 46,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 76
-   },
-   {
-    "time": "2026-11-02T01:00:00-05:00",
-    "temp": 45,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 79
-   },
-   {
-    "time": "2026-11-02T02:00:00-05:00",
-    "temp": 43,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 82
-   },
-   {
-    "time": "2026-11-02T03:00:00-05:00",
-    "temp": 42,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 86
-   },
-   {
-    "time": "2026-11-02T04:00:00-05:00",
-    "temp": 40,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 92
-   },
-   {
-    "time": "2026-11-02T05:00:00-05:00",
-    "temp": 40,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 89
-   },
-   {
-    "time": "2026-11-02T06:00:00-05:00",
-    "temp": 40,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 1,
-    "wind": 2,
-    "humidity": 89
-   },
-   {
-    "time": "2026-11-02T07:00:00-05:00",
-    "temp": 42,
+    "time": "2026-11-02T14:00:00-05:00",
+    "temp": 69,
     "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 2,
-    "wind": 2,
-    "humidity": 86
+    "conditionText": "Sunny",
+    "precipPct": 1,
+    "wind": 9,
+    "humidity": 35
    },
    {
-    "time": "2026-11-02T08:00:00-05:00",
-    "temp": 47,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 3,
-    "humidity": 74
+    "time": "2026-11-02T15:00:00-05:00",
+    "temp": 68,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 1,
+    "wind": 7,
+    "humidity": 36
    },
    {
-    "time": "2026-11-02T09:00:00-05:00",
-    "temp": 52,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 3,
-    "humidity": 66
-   },
-   {
-    "time": "2026-11-02T10:00:00-05:00",
-    "temp": 58,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 5,
-    "humidity": 55
-   },
-   {
-    "time": "2026-11-02T11:00:00-05:00",
-    "temp": 62,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
+    "time": "2026-11-02T16:00:00-05:00",
+    "temp": 66,
+    "condition": "sun",
+    "conditionText": "Sunny",
     "precipPct": 2,
     "wind": 6,
-    "humidity": 48
+    "humidity": 38
    },
    {
-    "time": "2026-11-02T12:00:00-05:00",
-    "temp": 65,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
+    "time": "2026-11-02T17:00:00-05:00",
+    "temp": 64,
+    "condition": "sun",
+    "conditionText": "Sunny",
     "precipPct": 2,
     "wind": 6,
     "humidity": 43
    },
    {
-    "time": "2026-11-02T13:00:00-05:00",
-    "temp": 67,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 7,
-    "humidity": 40
-   },
-   {
-    "time": "2026-11-02T14:00:00-05:00",
-    "temp": 67,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 6,
-    "humidity": 40
-   },
-   {
-    "time": "2026-11-02T15:00:00-05:00",
-    "temp": 67,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 2,
-    "wind": 6,
-    "humidity": 42
-   },
-   {
-    "time": "2026-11-02T16:00:00-05:00",
-    "temp": 65,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 2,
-    "wind": 5,
-    "humidity": 46
-   },
-   {
-    "time": "2026-11-02T17:00:00-05:00",
-    "temp": 62,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 2,
-    "wind": 5,
-    "humidity": 50
-   },
-   {
     "time": "2026-11-02T18:00:00-05:00",
-    "temp": 58,
+    "temp": 61,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 2,
-    "wind": 3,
-    "humidity": 57
+    "wind": 5,
+    "humidity": 48
    },
    {
     "time": "2026-11-02T19:00:00-05:00",
-    "temp": 55,
+    "temp": 56,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 5,
+    "humidity": 57
+   },
+   {
+    "time": "2026-11-02T20:00:00-05:00",
+    "temp": 54,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
-    "precipPct": 0,
+    "precipPct": 1,
     "wind": 3,
     "humidity": 61
    },
    {
-    "time": "2026-11-02T20:00:00-05:00",
+    "time": "2026-11-02T21:00:00-05:00",
     "temp": 53,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
-    "precipPct": 0,
+    "precipPct": 1,
+    "wind": 3,
+    "humidity": 64
+   },
+   {
+    "time": "2026-11-02T22:00:00-05:00",
+    "temp": 52,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 1,
     "wind": 2,
     "humidity": 66
    },
    {
-    "time": "2026-11-02T21:00:00-05:00",
+    "time": "2026-11-02T23:00:00-05:00",
     "temp": 51,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 1,
-    "humidity": 74
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 68
    },
    {
-    "time": "2026-11-02T22:00:00-05:00",
+    "time": "2026-11-03T00:00:00-05:00",
+    "temp": 51,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 68
+   },
+   {
+    "time": "2026-11-03T01:00:00-05:00",
     "temp": 50,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 77
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 74
    },
    {
-    "time": "2026-11-02T23:00:00-05:00",
+    "time": "2026-11-03T02:00:00-05:00",
     "temp": 49,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 0,
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 77
+   },
+   {
+    "time": "2026-11-03T03:00:00-05:00",
+    "temp": 47,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 83
+   },
+   {
+    "time": "2026-11-03T04:00:00-05:00",
+    "temp": 47,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 83
+   },
+   {
+    "time": "2026-11-03T05:00:00-05:00",
+    "temp": 46,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 1,
+    "wind": 2,
+    "humidity": 86
+   },
+   {
+    "time": "2026-11-03T06:00:00-05:00",
+    "temp": 45,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 1,
+    "wind": 1,
+    "humidity": 89
+   },
+   {
+    "time": "2026-11-03T07:00:00-05:00",
+    "temp": 45,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 3,
+    "wind": 1,
+    "humidity": 89
+   },
+   {
+    "time": "2026-11-03T08:00:00-05:00",
+    "temp": 49,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 3,
+    "wind": 2,
     "humidity": 80
+   },
+   {
+    "time": "2026-11-03T09:00:00-05:00",
+    "temp": 55,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 3,
+    "wind": 3,
+    "humidity": 66
+   },
+   {
+    "time": "2026-11-03T10:00:00-05:00",
+    "temp": 60,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 3,
+    "wind": 5,
+    "humidity": 58
+   },
+   {
+    "time": "2026-11-03T11:00:00-05:00",
+    "temp": 64,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 3,
+    "wind": 6,
+    "humidity": 48
+   },
+   {
+    "time": "2026-11-03T12:00:00-05:00",
+    "temp": 67,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 3,
+    "wind": 7,
+    "humidity": 43
+   },
+   {
+    "time": "2026-11-03T13:00:00-05:00",
+    "temp": 69,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 4,
+    "wind": 8,
+    "humidity": 39
    }
   ],
   "daily": [
    {
     "date": "2026-11-02",
+    "high": 70,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 2,
+    "wind": 9,
+    "windText": "SW 6 to 9 mph",
+    "summary": "Sunny. High near 70, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 9 mph.",
     "low": 45,
     "night": {
      "low": 45,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 45. East wind 0 to 3 mph.",
+     "summary": "Partly cloudy, with a low around 45. South wind around 5 mph.",
      "precipPct": 2
-    },
-    "high": 68,
-    "condition": "fog",
-    "conditionText": "Patchy Fog then Mostly Sunny",
-    "precipPct": 2,
-    "wind": 7,
-    "windText": "S 2 to 7 mph",
-    "summary": "Patchy fog before 7am. Mostly sunny. High near 68, with temperatures falling to around 62 in the afternoon. South wind 2 to 7 mph."
+    }
    },
    {
     "date": "2026-11-03",
-    "high": 70,
+    "high": 71,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "windText": "W 3 mph",
-    "summary": "Mostly sunny. High near 70, with temperatures falling to around 64 in the afternoon. West wind around 3 mph.",
-    "low": 48,
+    "precipPct": 4,
+    "wind": 8,
+    "windText": "S 1 to 8 mph",
+    "summary": "Mostly sunny. High near 71, with temperatures falling to around 65 in the afternoon. South wind 1 to 8 mph.",
+    "low": 49,
     "night": {
-     "low": 48,
+     "low": 49,
      "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 48. Southwest wind around 2 mph.",
-     "precipPct": 0
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 49. South wind around 3 mph.",
+     "precipPct": 4
     }
    },
    {
     "date": "2026-11-04",
-    "high": 72,
+    "high": 73,
     "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 2,
-    "wind": 7,
-    "windText": "S 1 to 7 mph",
-    "summary": "Mostly sunny. High near 72, with temperatures falling to around 67 in the afternoon.",
+    "conditionText": "Sunny",
+    "precipPct": 3,
+    "wind": 9,
+    "windText": "S 1 to 9 mph",
+    "summary": "Sunny. High near 73, with temperatures falling to around 68 in the afternoon. South wind 1 to 9 mph.",
     "low": 56,
     "night": {
      "low": 56,
-     "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 56.",
-     "precipPct": 7
+     "condition": "cloud",
+     "conditionText": "Mostly Cloudy",
+     "summary": "Mostly cloudy, with a low around 56.",
+     "precipPct": 3
     }
    },
    {
     "date": "2026-11-05",
     "high": 71,
     "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 53,
+    "conditionText": "Rain Showers Likely",
+    "precipPct": 66,
     "wind": 8,
-    "windText": "S 3 to 8 mph",
-    "summary": "A chance of rain after 7am. Mostly cloudy, with a high near 71. Chance of precipitation is 50%.",
+    "windText": "S 2 to 8 mph",
+    "summary": "Rain showers likely between 7am and 1pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 71. Chance of precipitation is 70%.",
     "low": 59,
     "night": {
      "low": 59,
-     "condition": "rain",
-     "conditionText": "Light Rain Likely",
-     "summary": "Rain likely. Mostly cloudy, with a low around 59. Chance of precipitation is 70%.",
-     "precipPct": 67
+     "condition": "storm",
+     "conditionText": "Showers And Thunderstorms Likely then Light Rain Likely",
+     "summary": "Showers and thunderstorms likely before 7pm, then rain likely and a slight chance of thunderstorms. Mostly cloudy, with a low around 59. Chance of precipitation is 70%.",
+     "precipPct": 70
     }
    },
    {
     "date": "2026-11-06",
-    "high": 69,
+    "high": 70,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
-    "precipPct": 67,
-    "wind": 6,
-    "windText": "S 2 to 6 mph",
-    "summary": "Rain likely before 1pm, then rain likely and a slight chance of thunderstorms. Mostly cloudy, with a high near 69. Chance of precipitation is 70%.",
-    "low": 52,
+    "precipPct": 61,
+    "wind": 3,
+    "windText": "S 3 mph",
+    "summary": "Rain likely. Mostly cloudy, with a high near 70. Chance of precipitation is 60%.",
+    "low": 53,
     "night": {
-     "low": 52,
+     "low": 53,
      "condition": "rain",
      "conditionText": "Light Rain Likely",
-     "summary": "Rain likely and a slight chance of thunderstorms. Mostly cloudy, with a low around 52. Chance of precipitation is 60%.",
-     "precipPct": 56
+     "summary": "Rain likely. Mostly cloudy, with a low around 53. Chance of precipitation is 60%.",
+     "precipPct": 55
     }
    },
    {
     "date": "2026-11-07",
-    "high": 62,
+    "high": 67,
     "condition": "rain",
     "conditionText": "Chance Light Rain",
-    "precipPct": 53,
-    "wind": 7,
-    "windText": "N 7 mph",
-    "summary": "A chance of rain. Mostly cloudy, with a high near 62. Chance of precipitation is 50%.",
+    "precipPct": 43,
+    "wind": 6,
+    "windText": "NW 2 to 6 mph",
+    "summary": "A chance of rain. Partly sunny, with a high near 67. Chance of precipitation is 40%.",
     "low": 44,
     "night": {
      "low": 44,
      "condition": "rain",
      "conditionText": "Slight Chance Light Rain",
-     "summary": "A slight chance of rain before 1am. Partly cloudy, with a low around 44.",
-     "precipPct": 24
+     "summary": "A slight chance of rain. Partly cloudy, with a low around 44.",
+     "precipPct": 22
     }
    },
    {
     "date": "2026-11-08",
     "high": 61,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 12,
-    "wind": 6,
-    "windText": "NW 6 mph",
-    "summary": "Mostly sunny, with a high near 61.",
-    "low": null
+    "condition": "rain",
+    "conditionText": "Slight Chance Light Rain then Mostly Sunny",
+    "precipPct": 17,
+    "wind": 7,
+    "windText": "W 7 mph",
+    "summary": "A slight chance of rain before 7am. Mostly sunny, with a high near 61.",
+    "low": 40,
+    "night": {
+     "low": 40,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 40.",
+     "precipPct": 12
+    }
    }
   ]
  },
  "news": [
   {
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
    "source": "BBC",
-   "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat..",
-   "body": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+   "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine..",
+   "body": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-02T01:45:42Z",
+   "publishedAt": "2026-11-02T18:48:00Z",
    "topic": "World"
   },
   {
-   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
    "source": "BBC",
-   "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country..",
-   "body": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+   "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity..",
+   "body": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-02T01:18:27Z",
+   "publishedAt": "2026-11-02T18:34:24Z",
    "topic": "World"
   },
   {
-   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "title": "Shop freezers in seven European countries hit by cyber-attack",
    "source": "BBC",
-   "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row..",
-   "body": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+   "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C..",
+   "body": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-02T00:15:30Z",
+   "publishedAt": "2026-11-02T17:38:11Z",
    "topic": "World"
   },
   {
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
    "source": "BBC",
-   "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky..",
-   "body": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on..",
+   "body": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-01T21:55:01Z",
+   "publishedAt": "2026-11-02T17:33:19Z",
    "topic": "World"
   },
   {
-   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+   "title": "Dutch police offer record €2m reward in hunt for drug lord",
    "source": "BBC",
-   "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival..",
-   "body": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+   "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone..",
+   "body": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-01T17:56:47Z",
+   "publishedAt": "2026-11-02T17:29:49Z",
    "topic": "World"
   },
   {
-   "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+   "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+   "source": "BBC",
+   "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air..",
+   "body": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-02T14:35:38Z",
+   "topic": "World"
+  },
+  {
+   "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
    "source": "NPR",
-   "summary": "Sen.",
-   "body": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+   "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms..",
+   "body": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
    "sources": [
-    "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast"
+    "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden"
    ],
-   "publishedAt": "2026-11-01T17:22:12Z",
+   "publishedAt": "2026-11-02T13:54:01Z",
    "topic": "News"
   },
   {
-   "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-   "source": "NPR",
-   "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S.",
-   "body": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
-   "sources": [
-    "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war"
-   ],
-   "publishedAt": "2026-11-01T17:19:13Z",
-   "topic": "News"
-  },
-  {
-   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "title": "Ryanair says it may freeze workers' pay and raise airfares",
    "source": "BBC",
-   "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say..",
-   "body": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+   "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran..",
+   "body": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-01T17:06:32Z",
+   "publishedAt": "2026-11-02T12:22:10Z",
    "topic": "World"
   },
   {
-   "title": "University of Cambridge scientist among those who died in Spanish train crash",
-   "source": "BBC",
-   "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked..",
-   "body": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+   "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+   "source": "NPR",
+   "summary": "On the eve of the Nov.",
+   "body": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
+    "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump"
    ],
-   "publishedAt": "2026-11-01T17:05:18Z",
+   "publishedAt": "2026-11-02T11:34:17Z",
+   "topic": "News"
+  },
+  {
+   "title": "Five arrested after South African farmer shot and tortured",
+   "source": "BBC",
+   "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited..",
+   "body": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-02T10:48:47Z",
    "topic": "World"
   },
   {
-   "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+   "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
    "source": "NPR",
-   "summary": "Rep.",
-   "body": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+   "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate.",
+   "body": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
    "sources": [
-    "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers"
+    "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
    ],
-   "publishedAt": "2026-11-01T14:49:15Z",
+   "publishedAt": "2026-11-02T07:19:54Z",
    "topic": "News"
   },
   {
-   "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+   "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
    "source": "NPR",
-   "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm.",
-   "body": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+   "summary": "What happens in California could shape how America taxes the superrich.",
+   "body": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?",
    "sources": [
-    "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke"
+    "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions"
    ],
-   "publishedAt": "2026-11-01T14:00:58Z",
-   "topic": "News"
-  },
-  {
-   "title": "How to think about the midterms — and the political moment the country is in",
-   "source": "NPR",
-   "summary": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in..",
-   "body": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
-   "sources": [
-    "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in"
-   ],
-   "publishedAt": "2026-11-01T13:27:06Z",
+   "publishedAt": "2026-11-02T06:30:00Z",
    "topic": "News"
   }
  ],
