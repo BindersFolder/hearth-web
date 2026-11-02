@@ -1,77 +1,77 @@
 {
- "updatedAt": "2026-11-02T19:35:17Z",
+ "updatedAt": "2026-11-02T19:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 754.94,
-   "changePct": -0.29,
+   "price": 753.94,
+   "changePct": -0.42,
    "prevClose": 757.12,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 685.62,
-   "changePct": -1.03,
+   "price": 683.9599,
+   "changePct": -1.27,
    "prevClose": 692.74,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.59,
-   "changePct": 0.57,
+   "price": 520.235,
+   "changePct": 0.5,
    "prevClose": 517.65,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.85,
-   "changePct": 0.01,
+   "price": 279.56,
+   "changePct": -0.09,
    "prevClose": 279.82,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76791.6562,
-   "changePct": -1.83,
+   "price": 76622.4609,
+   "changePct": -2.05,
    "prevClose": 78225.4219,
    "high52": 110764.91,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2247.02,
-   "changePct": -1.11,
+   "price": 2236.53,
+   "changePct": -1.57,
    "prevClose": 2272.23,
    "high52": 3912.63,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 105.03,
-   "changePct": -4.51,
+   "price": 104.76,
+   "changePct": -4.75,
    "prevClose": 109.99,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.71,
-   "changePct": -3.59,
+   "price": 47.05,
+   "changePct": -2.89,
    "prevClose": 48.45,
-   "note": "Gasoline 25.37 · Diesel 89.38",
+   "note": "Gasoline 25.74 · Diesel 89.69",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.859,
-   "changePct": -1.65,
+   "price": 2.866,
+   "changePct": -1.41,
    "prevClose": 2.907,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9022,
-   "changePct": -4.89,
+   "price": 2.9109,
+   "changePct": -4.61,
    "prevClose": 3.0515,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4263,
-   "changePct": -2.85,
+   "price": 4.4335,
+   "changePct": -2.69,
    "prevClose": 4.556,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.09,
    "note": "Week ago 4.2858 · Year ago 3.0361",
    "source": "AAA",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.07,
    "note": "Week ago 4.3816 · Year ago 3.1041",
    "source": "AAA",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.19,
    "note": "Week ago 6.3492 · Year ago 3.684",
    "source": "AAA",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,59 +252,59 @@
    "changePct": -0.02,
    "note": "Week ago 6.4942 · Year ago 3.8763",
    "source": "AAA",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3959.3999,
-   "changePct": 1.26,
+   "price": 3956.2,
+   "changePct": 1.18,
    "prevClose": 3910.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.635,
-   "changePct": 1.1,
+   "price": 50.585,
+   "changePct": 1.0,
    "prevClose": 50.085,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.5445,
-   "changePct": 0.51,
+   "price": 6.5405,
+   "changePct": 0.45,
    "prevClose": 6.511,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.89,
-   "changePct": -0.79,
+   "price": 4.886,
+   "changePct": -0.87,
    "prevClose": 4.929,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,19 +317,19 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.58,
+   "price": 20.79,
    "changePct": null,
    "prevClose": 19.44,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:35:17Z"
+   "asOf": "2026-11-02T19:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+   "source": "BBC",
+   "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+   "body": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-02T19:37:10Z",
+   "topic": "World"
+  },
+  {
+   "title": "Abdul El-Sayed Tests the Limits of Islamophobia in Michigan",
+   "source": "The Intercept",
+   "summary": "As the Michigan Senate race finishes with a focus on the Democratic primary loser’s gripes over Israel, the party nominee has endured a barrage of anti-Muslim attacks.",
+   "body": "As the Michigan Senate race finishes with a focus on the Democratic primary loser’s gripes over Israel, the party nominee has endured a barrage of anti-Muslim attacks.",
+   "sources": [
+    "https://theintercept.com/2026/11/02/michigan-el-sayed-rogers-muslim-islamophobia/"
+   ],
+   "publishedAt": "2026-11-02T19:35:24Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Mike Rogers Earned $420,000 From Firm Now Helping Hegseth Plan Iran War‘s Next Phase",
    "source": "Drop Site News",
    "summary": "After leaving Congress, Mike Rogers received lucrative board fees from MITRE, a consultancy tapped by Pete Hegseth to help plan the future of warfare.",
@@ -733,17 +755,6 @@
    ],
    "publishedAt": "2026-11-02T18:54:01Z",
    "topic": "News"
-  },
-  {
-   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-   "source": "BBC",
-   "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-   "body": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-02T18:48:00Z",
-   "topic": "World"
   },
   {
    "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
@@ -799,17 +810,6 @@
    ],
    "publishedAt": "2026-11-02T17:33:19Z",
    "topic": "World"
-  },
-  {
-   "title": "Fergie Chambers Faces Extradition to U.S. Despite Never Being Indicted, Says Lawyer",
-   "source": "The Intercept",
-   "summary": "The refusal of two pro-Palestine protesters to testify before a grand jury could hamper the left-wing donor’s extradition from Spain.",
-   "body": "The refusal of two pro-Palestine protesters to testify before a grand jury could hamper the left-wing donor’s extradition from Spain.",
-   "sources": [
-    "https://theintercept.com/2026/11/02/fergie-chambers-extradition-palestine-israel-protest/"
-   ],
-   "publishedAt": "2026-11-02T17:05:03Z",
-   "topic": "Independent"
   },
   {
    "title": "John Harwood Interviews Rahm Emanuel on the Midterms, His Record, and Democrats’ Future",
