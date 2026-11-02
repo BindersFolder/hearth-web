@@ -1,7 +1,7 @@
 // Hearth service worker.
 // App shell: cache-first (bump VERSION when shipping changes to shell files).
 // data/*.json: network-first, falling back to the last cached copy offline.
-const VERSION = 'hearth-v9';
+const VERSION = 'hearth-v10';
 const SHELL = [
   './',
   'index.html',
@@ -17,7 +17,8 @@ const DATA_CACHE = 'hearth-data';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(VERSION).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting())
+    // cache: 'reload' skips the browser HTTP cache (Pages sends max-age=600), so a new VERSION never re-caches old files.
+    caches.open(VERSION).then((cache) => cache.addAll(SHELL.map((u) => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting())
   );
 });
 
