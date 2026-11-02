@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-02T19:33:44Z",
+ "updatedAt": "2026-11-02T19:35:17Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 754.61,
-   "changePct": -0.33,
+   "price": 754.94,
+   "changePct": -0.29,
    "prevClose": 757.12,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 685.17,
-   "changePct": -1.09,
+   "price": 685.62,
+   "changePct": -1.03,
    "prevClose": 692.74,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.25,
-   "changePct": 0.5,
+   "price": 520.59,
+   "changePct": 0.57,
    "prevClose": 517.65,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.6401,
-   "changePct": -0.06,
+   "price": 279.85,
+   "changePct": 0.01,
    "prevClose": 279.82,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76767.0078,
-   "changePct": -1.86,
+   "price": 76791.6562,
+   "changePct": -1.83,
    "prevClose": 78225.4219,
    "high52": 110764.91,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2244.9199,
-   "changePct": -1.2,
+   "price": 2247.02,
+   "changePct": -1.11,
    "prevClose": 2272.23,
    "high52": 3912.63,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.47,
-   "changePct": -4.28,
+   "price": 96.52,
+   "changePct": -4.23,
    "prevClose": 100.78,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 104.99,
-   "changePct": -4.55,
+   "price": 105.03,
+   "changePct": -4.51,
    "prevClose": 109.99,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.65,
-   "changePct": -3.72,
+   "price": 46.71,
+   "changePct": -3.59,
    "prevClose": 48.45,
-   "note": "Gasoline 25.36 · Diesel 89.24",
+   "note": "Gasoline 25.37 · Diesel 89.38",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9007,
-   "changePct": -4.94,
+   "price": 2.9022,
+   "changePct": -4.89,
    "prevClose": 3.0515,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4217,
-   "changePct": -2.95,
+   "price": 4.4263,
+   "changePct": -2.85,
    "prevClose": 4.556,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.09,
    "note": "Week ago 4.2858 · Year ago 3.0361",
    "source": "AAA",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.07,
    "note": "Week ago 4.3816 · Year ago 3.1041",
    "source": "AAA",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.19,
    "note": "Week ago 6.3492 · Year ago 3.684",
    "source": "AAA",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,59 +252,59 @@
    "changePct": -0.02,
    "note": "Week ago 6.4942 · Year ago 3.8763",
    "source": "AAA",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3958.8,
-   "changePct": 1.25,
+   "price": 3959.3999,
+   "changePct": 1.26,
    "prevClose": 3910.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.645,
-   "changePct": 1.12,
+   "price": 50.635,
+   "changePct": 1.1,
    "prevClose": 50.085,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.546,
-   "changePct": 0.54,
+   "price": 6.5445,
+   "changePct": 0.51,
    "prevClose": 6.511,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.888,
-   "changePct": -0.83,
+   "price": 4.89,
+   "changePct": -0.79,
    "prevClose": 4.929,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "DXY",
@@ -317,19 +317,19 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.53,
+   "price": 20.58,
    "changePct": null,
    "prevClose": 19.44,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T19:33:44Z"
+   "asOf": "2026-11-02T19:35:17Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,9 +702,42 @@
  },
  "news": [
   {
+   "title": "Mike Rogers Earned $420,000 From Firm Now Helping Hegseth Plan Iran War‘s Next Phase",
+   "source": "Drop Site News",
+   "summary": "After leaving Congress, Mike Rogers received lucrative board fees from MITRE, a consultancy tapped by Pete Hegseth to help plan the future of warfare.",
+   "body": "After leaving Congress, Mike Rogers received lucrative board fees from MITRE, a consultancy tapped by Pete Hegseth to help plan the future of warfare.",
+   "sources": [
+    "https://www.dropsitenews.com/p/mike-rogers-senate-michigan-iran-war-hegseth"
+   ],
+   "publishedAt": "2026-11-02T19:31:52Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "“Offensive Driving”: ICE’s Deadly Weaponization of Vehicles Against Civilians",
+   "source": "The Intercept",
+   "summary": "The Intercept reviewed more than two dozen incidents of ICE using its army of unmarked cars to attack immigrants and American activists alike.",
+   "body": "The Intercept reviewed more than two dozen incidents of ICE using its army of unmarked cars to attack immigrants and American activists alike.",
+   "sources": [
+    "https://theintercept.com/2026/11/02/ice-vehicles-cars-hit-weapon/"
+   ],
+   "publishedAt": "2026-11-02T18:57:25Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+   "source": "NPR",
+   "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
+   "body": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
+   "sources": [
+    "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden"
+   ],
+   "publishedAt": "2026-11-02T18:54:01Z",
+   "topic": "News"
+  },
+  {
    "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
    "source": "BBC",
-   "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine..",
+   "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
    "body": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
@@ -715,7 +748,7 @@
   {
    "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
    "source": "BBC",
-   "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity..",
+   "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
    "body": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
@@ -724,9 +757,31 @@
    "topic": "World"
   },
   {
+   "title": "The Blue Dogs Were Once Majority Makers—This Cycle They Haven't Barked",
+   "source": "Drop Site News",
+   "summary": "The center-right Blue Dogs, once pitched as a winning coalition in battleground states, are largely a non-factor in the midterm spending frenzy.",
+   "body": "The center-right Blue Dogs, once pitched as a winning coalition in battleground states, are largely a non-factor in the midterm spending frenzy.",
+   "sources": [
+    "https://www.dropsitenews.com/p/blue-dogs-midterms-spending-democrats"
+   ],
+   "publishedAt": "2026-11-02T18:30:42Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "California's Scott Wiener Has a Record of Opposing Gaza Ceasefire, Despite Recent Claim",
+   "source": "Drop Site News",
+   "summary": "The candidate for California’s 11th Congressional District recently said that he supported a ceasefire in late 2023",
+   "body": "The candidate for California’s 11th Congressional District recently said that he supported a ceasefire in late 2023. At the time, he lobbied against a local ceasefire resolution in San Francisco.",
+   "sources": [
+    "https://www.dropsitenews.com/p/scott-wiener-congress-israel-gaza"
+   ],
+   "publishedAt": "2026-11-02T18:02:03Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Shop freezers in seven European countries hit by cyber-attack",
    "source": "BBC",
-   "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C..",
+   "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
    "body": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
@@ -737,7 +792,7 @@
   {
    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
    "source": "BBC",
-   "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on..",
+   "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
    "body": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
@@ -746,92 +801,37 @@
    "topic": "World"
   },
   {
-   "title": "Dutch police offer record €2m reward in hunt for drug lord",
-   "source": "BBC",
-   "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone..",
-   "body": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+   "title": "Fergie Chambers Faces Extradition to U.S. Despite Never Being Indicted, Says Lawyer",
+   "source": "The Intercept",
+   "summary": "The refusal of two pro-Palestine protesters to testify before a grand jury could hamper the left-wing donor’s extradition from Spain.",
+   "body": "The refusal of two pro-Palestine protesters to testify before a grand jury could hamper the left-wing donor’s extradition from Spain.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
+    "https://theintercept.com/2026/11/02/fergie-chambers-extradition-palestine-israel-protest/"
    ],
-   "publishedAt": "2026-11-02T17:29:49Z",
-   "topic": "World"
+   "publishedAt": "2026-11-02T17:05:03Z",
+   "topic": "Independent"
   },
   {
-   "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-   "source": "BBC",
-   "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air..",
-   "body": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+   "title": "John Harwood Interviews Rahm Emanuel on the Midterms, His Record, and Democrats’ Future",
+   "source": "Zeteo",
+   "summary": "John Harwood also interviews Emanuel about his controversies, tension with progressives, and his 2028 presidential ambitions.",
+   "body": "John Harwood also interviews Emanuel about his controversies, tension with progressives, and his 2028 presidential ambitions.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss"
+    "https://zeteo.com/p/john-harwood-interviews-rahm-emanuel"
    ],
-   "publishedAt": "2026-11-02T14:35:38Z",
-   "topic": "World"
+   "publishedAt": "2026-11-02T16:02:04Z",
+   "topic": "Independent"
   },
   {
-   "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-   "source": "NPR",
-   "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms..",
-   "body": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
+   "title": "First Draft: Haley Stevens Called ‘MAGA Mike’ Wrong for Michigan – Then Stabbed El-Sayed and Dems in the Back",
+   "source": "Zeteo",
+   "summary": "There’s uproar over a staggering act of centrist treachery in a key Senate race two days before midterm election day but better news for Dems in the courts, where Trump keeps getting knocked down.",
+   "body": "There’s uproar over a staggering act of centrist treachery in a key Senate race two days before midterm election day but better news for Dems in the courts, where Trump keeps getting knocked down.",
    "sources": [
-    "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden"
+    "https://zeteo.com/p/haley-stevens-called-maga-mike-wrong"
    ],
-   "publishedAt": "2026-11-02T13:54:01Z",
-   "topic": "News"
-  },
-  {
-   "title": "Ryanair says it may freeze workers' pay and raise airfares",
-   "source": "BBC",
-   "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran..",
-   "body": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-02T12:22:10Z",
-   "topic": "World"
-  },
-  {
-   "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
-   "source": "NPR",
-   "summary": "On the eve of the Nov.",
-   "body": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
-   "sources": [
-    "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump"
-   ],
-   "publishedAt": "2026-11-02T11:34:17Z",
-   "topic": "News"
-  },
-  {
-   "title": "Five arrested after South African farmer shot and tortured",
-   "source": "BBC",
-   "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited..",
-   "body": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-02T10:48:47Z",
-   "topic": "World"
-  },
-  {
-   "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-   "source": "NPR",
-   "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate.",
-   "body": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
-   "sources": [
-    "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
-   ],
-   "publishedAt": "2026-11-02T07:19:54Z",
-   "topic": "News"
-  },
-  {
-   "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-   "source": "NPR",
-   "summary": "What happens in California could shape how America taxes the superrich.",
-   "body": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?",
-   "sources": [
-    "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions"
-   ],
-   "publishedAt": "2026-11-02T06:30:00Z",
-   "topic": "News"
+   "publishedAt": "2026-11-02T12:11:51Z",
+   "topic": "Independent"
   }
  ],
  "highlights": []
