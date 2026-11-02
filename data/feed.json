@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-02T20:02:43Z",
+ "updatedAt": "2026-11-02T20:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 754.77,
-   "changePct": -0.31,
+   "price": 754.96,
+   "changePct": -0.29,
    "prevClose": 757.12,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 684.78,
-   "changePct": -1.15,
+   "price": 684.97,
+   "changePct": -1.12,
    "prevClose": 692.74,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.68,
+   "price": 520.73,
    "changePct": 0.59,
    "prevClose": 517.65,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.93,
-   "changePct": 0.04,
+   "price": 280.2,
+   "changePct": 0.14,
    "prevClose": 279.82,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76810.7422,
-   "changePct": -1.81,
+   "price": 76879.8125,
+   "changePct": -1.72,
    "prevClose": 78225.4219,
    "high52": 110764.91,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2246.74,
-   "changePct": -1.12,
+   "price": 2249.01,
+   "changePct": -1.02,
    "prevClose": 2272.23,
    "high52": 3912.63,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.53,
-   "changePct": -4.22,
+   "price": 96.18,
+   "changePct": -4.56,
    "prevClose": 100.78,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-02T19:33:07Z"
+   "asOf": "2026-11-02T20:10:37Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 104.78,
-   "changePct": -4.74,
+   "price": 104.24,
+   "changePct": -5.23,
    "prevClose": 109.99,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-02T19:33:07Z"
+   "asOf": "2026-11-02T20:10:37Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.91,
-   "changePct": -3.18,
+   "price": 46.8,
+   "changePct": -3.41,
    "prevClose": 48.45,
-   "note": "Gasoline 25.58 · Diesel 89.59",
+   "note": "Gasoline 25.63 · Diesel 89.15",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.866,
-   "changePct": -1.41,
+   "price": 2.867,
+   "changePct": -1.38,
    "prevClose": 2.907,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9073,
-   "changePct": -4.73,
+   "price": 2.9002,
+   "changePct": -4.96,
    "prevClose": 3.0515,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4314,
-   "changePct": -2.73,
+   "price": 4.4126,
+   "changePct": -3.15,
    "prevClose": 4.556,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.41,
-   "changePct": -4.1,
+   "price": 4.43,
+   "changePct": -3.9,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-02T19:33:07Z"
+   "asOf": "2026-11-02T20:10:37Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-02T19:33:07Z"
+   "asOf": "2026-11-02T20:10:37Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-02T19:33:07Z"
+   "asOf": "2026-11-02T20:10:37Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.09,
    "note": "Week ago 4.2858 · Year ago 3.0361",
    "source": "AAA",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.07,
    "note": "Week ago 4.3816 · Year ago 3.1041",
    "source": "AAA",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.19,
    "note": "Week ago 6.3492 · Year ago 3.684",
    "source": "AAA",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.02,
    "note": "Week ago 6.4942 · Year ago 3.8763",
    "source": "AAA",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3953.6001,
-   "changePct": 1.12,
+   "price": 3955.0,
+   "changePct": 1.15,
    "prevClose": 3910.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.575,
-   "changePct": 0.98,
+   "price": 50.705,
+   "changePct": 1.24,
    "prevClose": 50.085,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.5385,
-   "changePct": 0.42,
+   "price": 6.5475,
+   "changePct": 0.56,
    "prevClose": 6.511,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.896,
-   "changePct": -0.67,
+   "price": 4.894,
+   "changePct": -0.71,
    "prevClose": 4.929,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.719,
-   "changePct": -0.18,
+   "price": 101.732,
+   "changePct": -0.16,
    "prevClose": 101.9,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.32,
+   "price": 20.72,
    "changePct": null,
    "prevClose": 19.44,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-02T20:02:43Z"
+   "asOf": "2026-11-02T20:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 25.3,
+   "price": 22.9,
    "changePct": null,
-   "note": "Fear",
+   "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-02T19:33:07Z"
+   "asOf": "2026-11-02T20:10:37Z"
   }
  ],
  "weather": {
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+   "source": "NPR",
+   "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+   "body": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+   "sources": [
+    "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice"
+   ],
+   "publishedAt": "2026-11-02T20:02:41Z",
+   "topic": "News"
+  },
+  {
+   "title": "Is America really that polarized? The answer might be a surprise",
+   "source": "NPR",
+   "summary": "The U.S",
+   "body": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+   "sources": [
+    "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump"
+   ],
+   "publishedAt": "2026-11-02T20:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
    "source": "BBC",
    "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
@@ -713,7 +735,7 @@
    "topic": "World"
   },
   {
-   "title": "Abdul El-Sayed Tests the Limits of Islamophobia in Michigan",
+   "title": "Abdul El-Sayed’s Race Has Been Defined Islamophobia. Will It Be Determined By It?",
    "source": "The Intercept",
    "summary": "As the Michigan Senate race finishes with a focus on the Democratic primary loser’s gripes over Israel, the party nominee has endured a barrage of anti-Muslim attacks.",
    "body": "As the Michigan Senate race finishes with a focus on the Democratic primary loser’s gripes over Israel, the party nominee has endured a barrage of anti-Muslim attacks.",
@@ -834,17 +856,6 @@
    "topic": "Independent"
   },
   {
-   "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
-   "source": "NPR",
-   "summary": "On the eve of the Nov",
-   "body": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
-   "sources": [
-    "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump"
-   ],
-   "publishedAt": "2026-11-02T16:34:17Z",
-   "topic": "News"
-  },
-  {
    "title": "John Harwood Interviews Rahm Emanuel on the Midterms, His Record, and Democrats’ Future",
    "source": "Zeteo",
    "summary": "John Harwood also interviews Emanuel about his controversies, tension with progressives, and his 2028 presidential ambitions.",
@@ -853,17 +864,6 @@
     "https://zeteo.com/p/john-harwood-interviews-rahm-emanuel"
    ],
    "publishedAt": "2026-11-02T16:02:04Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Israeli strikes kill 13 Palestinians in Gaza; UN staffer dies in Ansarallah detention; Haley Stevens’ meltdown",
-   "source": "Drop Site News",
-   "summary": "Drop Site Daily: November 2, 2026.",
-   "body": "Drop Site Daily: November 2, 2026",
-   "sources": [
-    "https://www.dropsitenews.com/p/israel-gaza-strikes-un-yemen-ansarallah-haley-stevens-mike-rogers"
-   ],
-   "publishedAt": "2026-11-02T15:58:50Z",
    "topic": "Independent"
   },
   {
