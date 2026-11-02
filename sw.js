@@ -1,7 +1,7 @@
 // Hearth service worker.
 // App shell: cache-first (bump VERSION when shipping changes to shell files).
 // data/*.json: network-first, falling back to the last cached copy offline.
-const VERSION = 'hearth-v8';
+const VERSION = 'hearth-v9';
 const SHELL = [
   './',
   'index.html',

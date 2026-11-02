@@ -334,6 +334,6 @@ html.kiosk .marquee { margin: 0; }
 html.kiosk .site-footer { flex: none; max-width: none; margin: 0; padding: 6px 24px 10px; }
 /* Kiosk news: compact one-line rows so all 16 stories fit without scrolling. */
 html.kiosk #news-body .list { gap: 4px; }
-html.kiosk #news-body .exp-btn { min-height: 0; padding: 4px 12px; }
-html.kiosk #news-body .news-title { font-size: 0.92rem; line-height: 1.25; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-html.kiosk #news-body .news-meta { font-size: 0.74rem; line-height: 1.2; margin-top: 1px; }
+html.kiosk #news-body .exp-btn { min-height: 0; padding: 5px 12px; }
+html.kiosk #news-body .news-title { font-size: 1rem; line-height: 1.25; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+html.kiosk #news-body .news-meta { font-size: 0.8rem; line-height: 1.2; margin-top: 1px; }
