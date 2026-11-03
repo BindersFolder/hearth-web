@@ -139,6 +139,7 @@ button { cursor: pointer; }
 .live-pill { padding: 1px 7px; border-radius: 999px; background: #ff1f1f; color: #fff; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.06em; }
 .watch-title { font-weight: 600; line-height: 1.3; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; }
 .watch-time { color: var(--text-3); font-size: 0.86rem; }
+.watch-when { display: none; }
 .hl-item { display: flex; gap: 12px; align-items: flex-start; }
 .hl-icon { flex: none; width: 36px; height: 36px; display: grid; place-items: center; border-radius: 10px; background: var(--card-2); color: var(--accent); }
 .hl-icon svg { width: 20px; height: 20px; }
@@ -337,3 +338,11 @@ html.kiosk #news-body .list { gap: 4px; }
 html.kiosk #news-body .exp-btn { min-height: 0; padding: 5px 12px; }
 html.kiosk #news-body .news-title { font-size: 1rem; line-height: 1.25; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 html.kiosk #news-body .news-meta { font-size: 0.8rem; line-height: 1.2; margin-top: 1px; }
+/* Kiosk watch: compact rows (up to ~8 videos) so Highlights and Packages still fit. */
+html.kiosk .watch-card { min-height: 0; padding: 7px 12px; gap: 12px; }
+html.kiosk .watch-card + .watch-card { margin-top: 5px; }
+html.kiosk .watch-card .play { width: 34px; height: 24px; }
+html.kiosk .watch-caption { font-size: 0.7rem; }
+html.kiosk .watch-title { font-size: 0.95rem; -webkit-line-clamp: 1; line-clamp: 1; }
+html.kiosk .watch-time { display: none; }
+html.kiosk .watch-when { display: inline; font-weight: 500; letter-spacing: 0; text-transform: none; }

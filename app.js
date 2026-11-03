@@ -254,7 +254,7 @@
     const o = obj(data);
     if (!o) return null;
     if ('media' in o) return obj(o.media);
-    return (o.breakingPoints || o.majorityReport) ? o : null;            // bare media object
+    return (o.breakingPoints || o.majorityReport || o.dropSite || o.zeteo) ? o : null;  // bare media object
   }
 
   // Stored key material: {salt, key} where key is the PBKDF2 output (never the secret).
@@ -401,18 +401,22 @@
   }
 
   // Media links: only from a decrypted blob. Without a key nothing renders, not even a placeholder.
-  const SHOWS = [['breakingPoints', 'Breaking Points'], ['majorityReport', 'Majority Report']];
+  // Each key holds one episode object or a list of videos (Drop Site / Zeteo: every video from their newest day).
+  const SHOWS = [['breakingPoints', 'Breaking Points'], ['majorityReport', 'Majority Report'], ['dropSite', 'Drop Site News'], ['zeteo', 'Zeteo']];
   function watchCard(media) {
-    const cards = SHOWS.map(([key, name]) => {
-      const ep = obj(media && media[key]);
-      const url = ep && safeUrl(ep.url);
+    const cards = SHOWS.flatMap(([key, name]) => {
+      const v = media && media[key];
+      return (Array.isArray(v) ? v : [v]).map(obj).filter(Boolean).map((ep) => [name, ep]);
+    }).map(([name, ep]) => {
+      const url = safeUrl(ep.url);
       if (!url) return null;
       const when = parseDate(ep.publishedAt);
       const live = str(ep.kind).toLowerCase() === 'live';
       return el('a', { class: 'watch-card', href: url.href, target: '_blank', rel: 'noopener' },
         svg(UI.play),
         el('span', { class: 'watch-main' },
-          el('span', { class: 'watch-caption' }, name, live ? el('span', { class: 'live-pill', text: 'LIVE' }) : null),
+          el('span', { class: 'watch-caption' }, name, live ? el('span', { class: 'live-pill', text: 'LIVE' }) : null,
+            when ? el('span', { class: 'watch-when', text: relTime(when), 'data-when': when.toISOString(), 'data-base': '' }) : null),
           el('span', { class: 'watch-title', text: str(ep.title) || 'New episode' }),
           when ? el('span', { class: 'watch-time', text: relTime(when), 'data-when': when.toISOString(), 'data-base': '' }) : null,
           el('span', { class: 'visually-hidden', text: ' (opens YouTube)' })));
