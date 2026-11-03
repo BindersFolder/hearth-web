@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T10:02:04Z",
+ "updatedAt": "2026-11-03T10:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76937.1484,
-   "changePct": 0.34,
+   "price": 76908.2422,
+   "changePct": 0.31,
    "prevClose": 76674.1172,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2263.6001,
-   "changePct": 0.63,
+   "price": 2263.9099,
+   "changePct": 0.64,
    "prevClose": 2249.51,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.41,
-   "changePct": 0.34,
+   "price": 97.25,
+   "changePct": 0.18,
    "prevClose": 97.08,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 105.78,
-   "changePct": 0.46,
+   "price": 105.45,
+   "changePct": 0.14,
    "prevClose": 105.3,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.48,
-   "changePct": 3.3,
+   "price": 48.38,
+   "changePct": 3.09,
    "prevClose": 46.93,
-   "note": "Gasoline 26.17 · Diesel 93.10",
+   "note": "Gasoline 26.22 · Diesel 92.72",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.891,
-   "changePct": 0.24,
+   "price": 2.89,
+   "changePct": 0.21,
    "prevClose": 2.884,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9424,
-   "changePct": 0.91,
+   "price": 2.9397,
+   "changePct": 0.82,
    "prevClose": 2.9159,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.536,
-   "changePct": 1.83,
+   "price": 4.523,
+   "changePct": 1.54,
    "prevClose": 4.4544,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3919.1001,
-   "changePct": -0.35,
+   "price": 3917.3999,
+   "changePct": -0.39,
    "prevClose": 3932.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 48.935,
-   "changePct": -1.33,
+   "price": 48.97,
+   "changePct": -1.26,
    "prevClose": 49.595,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3685,
-   "changePct": -0.99,
+   "price": 6.371,
+   "changePct": -0.96,
    "prevClose": 6.4325,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.759,
-   "changePct": -0.02,
+   "price": 101.827,
+   "changePct": 0.05,
    "prevClose": 101.777,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.44,
+   "price": 21.31,
    "changePct": null,
    "prevClose": 21.17,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T10:02:04Z"
+   "asOf": "2026-11-03T10:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -695,15 +695,70 @@
  },
  "news": [
   {
-   "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+   "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
    "source": "BBC",
-   "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
-   "body": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+   "summary": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+   "body": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-03T09:29:32Z",
+   "publishedAt": "2026-11-03T10:02:48Z",
    "topic": "World"
+  },
+  {
+   "title": "A new cold war: hackers target fridges across the globe",
+   "source": "NPR",
+   "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
+   "body": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges"
+   ],
+   "publishedAt": "2026-11-03T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "From 'model minority' to target, anti-Indian hate on the rise",
+   "source": "NPR",
+   "summary": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.",
+   "body": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise"
+   ],
+   "publishedAt": "2026-11-03T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "How NPR makes race calls in the 2026 election",
+   "source": "NPR",
+   "summary": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls",
+   "body": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026"
+   ],
+   "publishedAt": "2026-11-03T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
+   "source": "NPR",
+   "summary": "One last check in with the Swing Shift voters before Election Day",
+   "body": "One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump"
+   ],
+   "publishedAt": "2026-11-03T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
+   "source": "NPR",
+   "summary": "There are a lot of variables for how things will go today",
+   "body": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races"
+   ],
+   "publishedAt": "2026-11-03T10:00:00Z",
+   "topic": "News"
   },
   {
    "title": "Tenerife striker De Miguel dies after on-field collision",
@@ -783,28 +838,6 @@
    "topic": "Independent"
   },
   {
-   "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-   "source": "NPR",
-   "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
-   "body": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
-   "sources": [
-    "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice"
-   ],
-   "publishedAt": "2026-11-02T20:02:41Z",
-   "topic": "News"
-  },
-  {
-   "title": "Is America really that polarized? The answer might be a surprise",
-   "source": "NPR",
-   "summary": "The U.S",
-   "body": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
-   "sources": [
-    "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump"
-   ],
-   "publishedAt": "2026-11-02T20:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "Abdul El-Sayed’s Race Has Been Defined by Islamophobia. Will It Be Determined by It?",
    "source": "The Intercept",
    "summary": "As the Michigan Senate race finishes with a focus on the Democratic primary loser’s gripes over Israel, the party nominee has endured a barrage of anti-Muslim attacks.",
@@ -835,39 +868,6 @@
     "https://theintercept.com/2026/11/02/ice-vehicles-cars-hit-weapon/"
    ],
    "publishedAt": "2026-11-02T18:57:25Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-   "source": "NPR",
-   "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
-   "body": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
-   "sources": [
-    "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden"
-   ],
-   "publishedAt": "2026-11-02T18:54:01Z",
-   "topic": "News"
-  },
-  {
-   "title": "The Blue Dogs Were Once Majority Makers—This Cycle They Haven't Barked",
-   "source": "Drop Site News",
-   "summary": "The center-right Blue Dogs, once pitched as a winning coalition in battleground states, are largely a non-factor in the midterm spending frenzy.",
-   "body": "The center-right Blue Dogs, once pitched as a winning coalition in battleground states, are largely a non-factor in the midterm spending frenzy.",
-   "sources": [
-    "https://www.dropsitenews.com/p/blue-dogs-midterms-spending-democrats"
-   ],
-   "publishedAt": "2026-11-02T18:30:42Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "California's Scott Wiener Has a Record of Opposing Gaza Ceasefire, Despite Recent Claim",
-   "source": "Drop Site News",
-   "summary": "The candidate for California’s 11th Congressional District recently said that he supported a ceasefire in late 2023",
-   "body": "The candidate for California’s 11th Congressional District recently said that he supported a ceasefire in late 2023. At the time, he lobbied against a local ceasefire resolution in San Francisco.",
-   "sources": [
-    "https://www.dropsitenews.com/p/scott-wiener-congress-israel-gaza"
-   ],
-   "publishedAt": "2026-11-02T18:02:03Z",
    "topic": "Independent"
   }
  ],
