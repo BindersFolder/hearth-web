@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T12:47:04Z",
+ "updatedAt": "2026-11-03T13:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77267.8594,
+   "price": 77260.9297,
    "changePct": 0.77,
    "prevClose": 76674.1172,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2278.47,
+   "price": 2278.6101,
    "changePct": 1.29,
    "prevClose": 2249.51,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.23,
-   "changePct": 0.15,
+   "price": 97.08,
+   "changePct": 0.0,
    "prevClose": 97.08,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 105.09,
-   "changePct": -0.2,
+   "price": 104.81,
+   "changePct": -0.47,
    "prevClose": 105.3,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.71,
-   "changePct": 3.79,
+   "price": 48.52,
+   "changePct": 3.39,
    "prevClose": 46.93,
-   "note": "Gasoline 26.54 · Diesel 93.05",
+   "note": "Gasoline 26.51 · Diesel 92.55",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.897,
-   "changePct": 0.45,
+   "price": 2.884,
+   "changePct": 0.0,
    "prevClose": 2.884,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9469,
-   "changePct": 1.06,
+   "price": 2.9427,
+   "changePct": 0.92,
    "prevClose": 2.9159,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5304,
-   "changePct": 1.71,
+   "price": 4.5149,
+   "changePct": 1.36,
    "prevClose": 4.4544,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3923.8999,
-   "changePct": -0.23,
+   "price": 3935.0,
+   "changePct": 0.05,
    "prevClose": 3932.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.33,
-   "changePct": -0.53,
+   "price": 49.52,
+   "changePct": -0.15,
    "prevClose": 49.595,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.378,
-   "changePct": -0.85,
+   "price": 6.392,
+   "changePct": -0.63,
    "prevClose": 6.4325,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.869,
-   "changePct": 0.09,
+   "price": 101.859,
+   "changePct": 0.08,
    "prevClose": 101.777,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.32,
+   "price": 21.31,
    "changePct": null,
    "prevClose": 21.17,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T12:47:04Z"
+   "asOf": "2026-11-03T13:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,7 +702,7 @@
  },
  "news": [
   {
-   "title": "What About Arab and Muslim Safety?",
+   "title": "First Draft: What About Arab and Muslim Safety?",
    "source": "Zeteo",
    "summary": "Prem reports on Election Day from Michigan, where Republicans have led a vicious Islamophobic campaign against Abdul El-Sayed.",
    "body": "Prem reports on Election Day from Michigan, where Republicans have led a vicious Islamophobic campaign against Abdul El-Sayed.",
@@ -801,12 +801,12 @@
    "topic": "Independent"
   },
   {
-   "title": "How NPR makes race calls in the 2026 election",
+   "title": "A new cold war: hackers target fridges across the globe",
    "source": "NPR",
-   "summary": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls",
-   "body": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
+   "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
+   "body": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
    "sources": [
-    "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026"
+    "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges"
    ],
    "publishedAt": "2026-11-03T10:00:00Z",
    "topic": "News"
