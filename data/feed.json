@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-03T16:32:03Z",
+ "updatedAt": "2026-11-03T16:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 755.02,
-   "changePct": 0.27,
+   "price": 754.81,
+   "changePct": 0.24,
    "prevClose": 753.0,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 685.445,
+   "price": 685.495,
    "changePct": 0.37,
    "prevClose": 682.95,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 517.78,
-   "changePct": -0.33,
+   "price": 517.02,
+   "changePct": -0.48,
    "prevClose": 519.51,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 281.078,
-   "changePct": 0.56,
+   "price": 280.8,
+   "changePct": 0.46,
    "prevClose": 279.51,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77411.8984,
-   "changePct": 0.96,
+   "price": 77393.1875,
+   "changePct": 0.94,
    "prevClose": 76674.1172,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2288.51,
-   "changePct": 1.73,
+   "price": 2287.5801,
+   "changePct": 1.69,
    "prevClose": 2249.51,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.91,
-   "changePct": -1.21,
+   "price": 95.95,
+   "changePct": -1.16,
    "prevClose": 97.08,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 103.33,
-   "changePct": -1.87,
+   "price": 103.46,
+   "changePct": -1.75,
    "prevClose": 105.3,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.33,
-   "changePct": 5.11,
+   "price": 49.43,
+   "changePct": 5.33,
    "prevClose": 46.93,
-   "note": "Gasoline 27.35 · Diesel 93.31",
+   "note": "Gasoline 27.26 · Diesel 93.76",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.878,
-   "changePct": -0.21,
+   "price": 2.884,
+   "changePct": 0.0,
    "prevClose": 2.884,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9347,
-   "changePct": 0.64,
+   "price": 2.9336,
+   "changePct": 0.61,
    "prevClose": 2.9159,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5052,
-   "changePct": 1.14,
+   "price": 4.517,
+   "changePct": 1.41,
    "prevClose": 4.4544,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3942.3999,
-   "changePct": 0.24,
+   "price": 3940.0,
+   "changePct": 0.18,
    "prevClose": 3932.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.84,
-   "changePct": 0.49,
+   "price": 49.785,
+   "changePct": 0.38,
    "prevClose": 49.595,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.41,
-   "changePct": -0.35,
+   "price": 6.398,
+   "changePct": -0.54,
    "prevClose": 6.4325,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.812,
-   "changePct": 0.03,
+   "price": 101.839,
+   "changePct": 0.06,
    "prevClose": 101.777,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.36,
+   "price": 20.65,
    "changePct": null,
    "prevClose": 21.17,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T16:32:03Z"
+   "asOf": "2026-11-03T16:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Partly Sunny",
-  "temp": 60,
+  "temp": 63,
   "high": 71,
   "low": 45,
-  "humidity": 55,
-  "wind": 3,
+  "humidity": 50,
+  "wind": 5,
   "summary": "Partly sunny. High near 71, with temperatures falling to around 63 in the afternoon. Southwest wind around 6 mph. Mostly clear, with a low around 45. South wind around 3 mph. Mostly sunny. High near 75, with temperatures falling to around 65 in the afternoon. South wind 2 to 7 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-03T10:00:00-05:00",
-    "temp": 60,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 55
-   },
    {
     "time": "2026-11-03T11:00:00-05:00",
     "temp": 63,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 87
+   },
+   {
+    "time": "2026-11-04T10:00:00-05:00",
+    "temp": 64,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 78
    }
   ],
   "daily": [
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+   "source": "BBC",
+   "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+   "body": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-03T16:20:59Z",
+   "topic": "World"
+  },
+  {
    "title": "*STREAM TONIGHT* Mehdi and Prem Are Going Live From Michigan",
    "source": "Zeteo",
    "summary": "Tune in at 9pm ET for Zeteo’s packed results-night coverage from Abdul El-Sayed HQ in Detroit.",
@@ -821,17 +832,6 @@
    ],
    "publishedAt": "2026-11-03T11:43:49Z",
    "topic": "News"
-  },
-  {
-   "title": "US strikes Iranian island ahead of midterm elections",
-   "source": "BBC",
-   "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-   "body": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-03T11:33:33Z",
-   "topic": "World"
   },
   {
    "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
