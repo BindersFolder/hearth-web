@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-03T20:47:11Z",
+ "updatedAt": "2026-11-03T21:02:05Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 754.76,
-   "changePct": 0.23,
+   "price": 754.42,
+   "changePct": 0.19,
    "prevClose": 753.0,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 686.4901,
-   "changePct": 0.52,
+   "price": 685.28,
+   "changePct": 0.34,
    "prevClose": 682.95,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 516.65,
-   "changePct": -0.55,
+   "price": 517.0,
+   "changePct": -0.48,
    "prevClose": 519.51,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 280.105,
-   "changePct": 0.21,
+   "price": 279.8,
+   "changePct": 0.1,
    "prevClose": 279.51,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 77771.5078,
-   "changePct": 1.43,
+   "price": 77759.7578,
+   "changePct": 1.42,
    "prevClose": 76674.1172,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2288.1599,
-   "changePct": 1.72,
+   "price": 2287.8999,
+   "changePct": 1.71,
    "prevClose": 2249.51,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.68,
-   "changePct": -0.41,
+   "price": 96.55,
+   "changePct": -0.55,
    "prevClose": 97.08,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 104.39,
-   "changePct": -0.86,
+   "price": 104.24,
+   "changePct": -1.01,
    "prevClose": 105.3,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.58,
-   "changePct": 5.65,
+   "price": 49.62,
+   "changePct": 5.73,
    "prevClose": 46.93,
-   "note": "Gasoline 27.08 · Diesel 94.58",
+   "note": "Gasoline 27.15 · Diesel 94.56",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.9,
-   "changePct": 0.55,
+   "price": 2.903,
+   "changePct": 0.66,
    "prevClose": 2.884,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9467,
-   "changePct": 1.06,
+   "price": 2.9452,
+   "changePct": 1.0,
    "prevClose": 2.9159,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5538,
-   "changePct": 2.23,
+   "price": 4.5502,
+   "changePct": 2.15,
    "prevClose": 4.4544,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3929.3999,
-   "changePct": -0.09,
+   "price": 3930.0,
+   "changePct": -0.07,
    "prevClose": 3932.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.575,
-   "changePct": -0.04,
+   "price": 49.625,
+   "changePct": 0.06,
    "prevClose": 49.595,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.395,
-   "changePct": -0.58,
+   "price": 6.396,
+   "changePct": -0.57,
    "prevClose": 6.4325,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.858,
-   "changePct": 0.08,
+   "price": 101.868,
+   "changePct": 0.09,
    "prevClose": 101.777,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.84,
+   "price": 20.73,
    "changePct": null,
    "prevClose": 21.17,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-03T20:47:11Z"
+   "asOf": "2026-11-03T21:02:05Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Would Trump Actually Nuke Iran? Probably Not",
+   "source": "Zeteo",
+   "summary": "But just his endless threats and wars of aggression raises the likelihood of a nuclear exchange anyway, writes former defense intel analyst Harrison Mann.",
+   "body": "But just his endless threats and wars of aggression raises the likelihood of a nuclear exchange anyway, writes former defense intel analyst Harrison Mann.",
+   "sources": [
+    "https://zeteo.com/p/would-trump-actually-nuke-iran-probably"
+   ],
+   "publishedAt": "2026-11-03T21:00:53Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Spanish transport minister resigns days after deadly train crash",
    "source": "BBC",
    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
@@ -709,7 +720,7 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-03T20:44:19Z",
+   "publishedAt": "2026-11-03T20:56:32Z",
    "topic": "World"
   },
   {
@@ -853,17 +864,6 @@
     "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
    ],
    "publishedAt": "2026-11-03T11:43:49Z",
-   "topic": "News"
-  },
-  {
-   "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-   "source": "NPR",
-   "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S",
-   "body": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
-   "sources": [
-    "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
-   ],
-   "publishedAt": "2026-11-03T11:01:14Z",
    "topic": "News"
   },
   {
