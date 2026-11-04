@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T12:47:04Z",
+ "updatedAt": "2026-11-04T13:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78105.4609,
-   "changePct": 1.0,
+   "price": 78395.8516,
+   "changePct": 1.37,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2313.1599,
-   "changePct": 1.85,
+   "price": 2316.79,
+   "changePct": 2.01,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 94.66,
-   "changePct": -1.19,
+   "price": 94.97,
+   "changePct": -0.87,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 101.68,
-   "changePct": -1.78,
+   "price": 102.29,
+   "changePct": -1.19,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.56,
-   "changePct": -4.61,
+   "price": 48.1,
+   "changePct": -3.53,
    "prevClose": 49.86,
-   "note": "Gasoline 24.83 · Diesel 93.01",
+   "note": "Gasoline 25.07 · Diesel 94.17",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.897,
-   "changePct": 0.91,
+   "price": 2.926,
+   "changePct": 1.92,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.8451,
-   "changePct": -3.13,
+   "price": 2.858,
+   "changePct": -2.69,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4683,
-   "changePct": -1.38,
+   "price": 4.5034,
+   "changePct": -0.6,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,33 +252,33 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4050.8999,
-   "changePct": 2.13,
+   "price": 4051.6001,
+   "changePct": 2.14,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.11,
-   "changePct": 4.31,
+   "price": 52.03,
+   "changePct": 4.15,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.304,
-   "changePct": -0.15,
+   "price": 101.297,
+   "changePct": -0.16,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.22,
+   "price": 18.38,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T12:47:04Z"
+   "asOf": "2026-11-04T13:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -713,6 +713,17 @@
    "topic": "News"
   },
   {
+   "title": "Sharp objects found in Halloween sweets in three European nations",
+   "source": "BBC",
+   "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+   "body": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-04T12:34:33Z",
+   "topic": "World"
+  },
+  {
    "title": "Iran's chief negotiator says Americans voted 'no to war'",
    "source": "BBC",
    "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
@@ -768,17 +779,6 @@
    "topic": "World"
   },
   {
-   "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-   "source": "BBC",
-   "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-   "body": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T11:46:09Z",
-   "topic": "World"
-  },
-  {
    "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
    "source": "NPR",
    "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come",
@@ -790,6 +790,17 @@
    "topic": "News"
   },
   {
+   "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+   "source": "BBC",
+   "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+   "body": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-04T10:15:42Z",
+   "topic": "World"
+  },
+  {
    "title": "Democrats, Don’t Mess This Up",
    "source": "The Intercept",
    "summary": "With these midterm election results, Democrats have a mandate to fight Trump and deliver for the working class",
@@ -799,6 +810,17 @@
    ],
    "publishedAt": "2026-11-04T10:05:00Z",
    "topic": "Independent"
+  },
+  {
+   "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+   "source": "BBC",
+   "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+   "body": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-04T10:03:19Z",
+   "topic": "World"
   },
   {
    "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
@@ -821,28 +843,6 @@
    ],
    "publishedAt": "2026-11-04T08:00:25Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-   "source": "BBC",
-   "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-   "body": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T07:39:38Z",
-   "topic": "World"
-  },
-  {
-   "title": "South Carolina elects Democratic senator for first time in almost three decades",
-   "source": "BBC",
-   "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-   "body": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T07:32:02Z",
-   "topic": "World"
   },
   {
    "title": "In California’s Central Valley, ICE Might Swing a Red District Blue",
