@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-04T16:02:04Z",
+ "updatedAt": "2026-11-04T16:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 766.505,
-   "changePct": 1.53,
+   "price": 765.65,
+   "changePct": 1.41,
    "prevClose": 754.98,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 693.76,
-   "changePct": 1.15,
+   "price": 692.76,
+   "changePct": 1.0,
    "prevClose": 685.89,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 530.79,
-   "changePct": 2.78,
+   "price": 530.488,
+   "changePct": 2.72,
    "prevClose": 516.42,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 282.66,
+   "price": 282.67,
    "changePct": 1.19,
    "prevClose": 279.3361,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80372.0938,
-   "changePct": 3.93,
+   "price": 80509.7031,
+   "changePct": 4.11,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2430.48,
-   "changePct": 7.01,
+   "price": 2436.72,
+   "changePct": 7.29,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.44,
-   "changePct": -2.46,
+   "price": 91.71,
+   "changePct": -4.27,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T15:13:53Z"
+   "asOf": "2026-11-04T16:13:20Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.67,
-   "changePct": -2.75,
+   "price": 98.79,
+   "changePct": -4.57,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T15:13:53Z"
+   "asOf": "2026-11-04T16:13:20Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.95,
-   "changePct": -5.84,
+   "price": 46.15,
+   "changePct": -7.44,
    "prevClose": 49.86,
-   "note": "Gasoline 24.87 · Diesel 91.09",
+   "note": "Gasoline 24.63 · Diesel 89.19",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.937,
-   "changePct": 2.3,
+   "price": 2.932,
+   "changePct": 2.12,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.817,
-   "changePct": -4.08,
+   "price": 2.77,
+   "changePct": -5.68,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3936,
-   "changePct": -3.02,
+   "price": 4.3072,
+   "changePct": -4.93,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4,
+   "price": 4.33,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T15:13:53Z"
+   "asOf": "2026-11-04T16:13:20Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T15:13:53Z"
+   "asOf": "2026-11-04T16:13:20Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T15:13:53Z"
+   "asOf": "2026-11-04T16:13:20Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4052.1001,
-   "changePct": 2.16,
+   "price": 4057.3999,
+   "changePct": 2.29,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.925,
-   "changePct": 3.94,
+   "price": 52.02,
+   "changePct": 4.13,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3915,
-   "changePct": 0.76,
+   "price": 6.3935,
+   "changePct": 0.8,
    "prevClose": 6.343,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.929,
-   "changePct": -0.46,
+   "price": 4.909,
+   "changePct": -0.87,
    "prevClose": 4.952,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.505,
-   "changePct": 0.05,
+   "price": 101.484,
+   "changePct": 0.02,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.54,
+   "price": 17.39,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T16:02:04Z"
+   "asOf": "2026-11-04T16:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 22.2,
+   "price": 27.5,
    "changePct": null,
-   "note": "Extreme fear",
+   "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-04T15:13:53Z"
+   "asOf": "2026-11-04T16:13:20Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "American voters demand end to Iran war as Democrats sweep midterms",
+   "source": "Drop Site News",
+   "summary": "Drop Site Daily: November 4, 2026.",
+   "body": "Drop Site Daily: November 4, 2026",
+   "sources": [
+    "https://www.dropsitenews.com/p/us-trump-midterms-democrats-senate-house-iran"
+   ],
+   "publishedAt": "2026-11-04T16:04:31Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Israel's president to begin consultations with parties after election deadlock",
    "source": "BBC",
    "summary": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
@@ -864,17 +875,6 @@
     "https://www.dropsitenews.com/p/us-iran-qeshm-gaza-israel-rafah-aid-turkey-somalia-shabaab"
    ],
    "publishedAt": "2026-11-03T15:59:24Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "\"This is Catastrophic\": Gaza Hit Hard by UN Food Cuts and Lack of Humanitarian Aid",
-   "source": "Drop Site News",
-   "summary": "As winter approaches, Palestinians in Gaza are desperately trying to prepare their tents and damaged homes while food cuts by the World Food Programme are exacerbating rising levels of hunger.",
-   "body": "As winter approaches, Palestinians in Gaza are desperately trying to prepare their tents and damaged homes while food cuts by the World Food Programme are exacerbating rising levels of hunger.",
-   "sources": [
-    "https://www.dropsitenews.com/p/gaza-wfp-food-cuts-hunger-tents-winter"
-   ],
-   "publishedAt": "2026-11-02T23:01:27Z",
    "topic": "Independent"
   }
  ],
