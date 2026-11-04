@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T14:02:04Z",
+ "updatedAt": "2026-11-04T14:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78187.3125,
-   "changePct": 1.1,
+   "price": 78262.4375,
+   "changePct": 1.2,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2313.72,
-   "changePct": 1.87,
+   "price": 2315.3301,
+   "changePct": 1.94,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.61,
-   "changePct": -2.29,
+   "price": 93.51,
+   "changePct": -2.39,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T13:11:11Z"
+   "asOf": "2026-11-04T14:16:29Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.97,
-   "changePct": -2.46,
+   "price": 100.83,
+   "changePct": -2.6,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T13:11:11Z"
+   "asOf": "2026-11-04T14:16:29Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.44,
-   "changePct": -4.85,
+   "price": 47.5,
+   "changePct": -4.73,
    "prevClose": 49.86,
-   "note": "Gasoline 24.96 · Diesel 92.39",
+   "note": "Gasoline 25.21 · Diesel 92.07",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.911,
-   "changePct": 1.39,
+   "price": 2.905,
+   "changePct": 1.18,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.8231,
-   "changePct": -3.87,
+   "price": 2.8267,
+   "changePct": -3.75,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4285,
-   "changePct": -2.25,
+   "price": 4.4185,
+   "changePct": -2.47,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.49,
+   "price": 4.4,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T13:11:11Z"
+   "asOf": "2026-11-04T14:16:29Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T13:11:11Z"
+   "asOf": "2026-11-04T14:16:29Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T13:11:11Z"
+   "asOf": "2026-11-04T14:16:29Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4053.0,
-   "changePct": 2.18,
+   "price": 4053.6001,
+   "changePct": 2.19,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.11,
-   "changePct": 4.31,
+   "price": 52.08,
+   "changePct": 4.25,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3695,
-   "changePct": 0.42,
+   "price": 6.375,
+   "changePct": 0.5,
    "prevClose": 6.343,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.921,
-   "changePct": -0.63,
+   "price": 4.917,
+   "changePct": -0.71,
    "prevClose": 4.952,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.326,
-   "changePct": -0.13,
+   "price": 101.356,
+   "changePct": -0.1,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.1,
+   "price": 18.16,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:02:04Z"
+   "asOf": "2026-11-04T14:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 19.2,
+   "price": 22.2,
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-04T13:11:11Z"
+   "asOf": "2026-11-04T14:16:29Z"
   }
  ],
  "weather": {
@@ -702,10 +702,21 @@
  },
  "news": [
   {
-   "title": "World reacts to Democrats' midterm elections victory",
+   "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+   "source": "BBC",
+   "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+   "body": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-04T13:33:30Z",
+   "topic": "World"
+  },
+  {
+   "title": "The world is reacting to the Democrats' midterm elections victory",
    "source": "NPR",
-   "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international relations.",
-   "body": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international relations.",
+   "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
+   "body": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
    "sources": [
     "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections"
    ],
@@ -788,17 +799,6 @@
    ],
    "publishedAt": "2026-11-04T11:00:00Z",
    "topic": "News"
-  },
-  {
-   "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-   "source": "BBC",
-   "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
-   "body": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T10:15:42Z",
-   "topic": "World"
   },
   {
    "title": "Democrats, Don’t Mess This Up",
