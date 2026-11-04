@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T03:32:04Z",
+ "updatedAt": "2026-11-04T03:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76094.9375,
-   "changePct": -1.6,
+   "price": 76208.3984,
+   "changePct": -1.45,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2240.3799,
-   "changePct": -1.36,
+   "price": 2241.76,
+   "changePct": -1.3,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.62,
-   "changePct": -1.5,
+   "price": 95.65,
+   "changePct": -1.47,
    "prevClose": 97.08,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 103.24,
-   "changePct": -1.96,
+   "price": 103.22,
+   "changePct": -1.98,
    "prevClose": 105.3,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.53,
-   "changePct": 5.54,
+   "price": 49.42,
+   "changePct": 5.31,
    "prevClose": 46.93,
-   "note": "Gasoline 27.23 · Diesel 94.12",
+   "note": "Gasoline 27.23 · Diesel 93.80",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.851,
-   "changePct": -1.14,
+   "price": 2.852,
+   "changePct": -1.11,
    "prevClose": 2.884,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.925,
-   "changePct": 0.31,
+   "price": 2.9258,
+   "changePct": 0.34,
    "prevClose": 2.9159,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5176,
-   "changePct": 1.42,
+   "price": 4.5106,
+   "changePct": 1.26,
    "prevClose": 4.4544,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3948.7,
-   "changePct": 0.4,
+   "price": 3946.1001,
+   "changePct": 0.34,
    "prevClose": 3932.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.375,
-   "changePct": -0.44,
+   "price": 49.26,
+   "changePct": -0.68,
    "prevClose": 49.595,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.32,
-   "changePct": -1.75,
+   "price": 6.302,
+   "changePct": -2.03,
    "prevClose": 6.4325,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.414,
-   "changePct": -0.36,
+   "price": 101.373,
+   "changePct": -0.4,
    "prevClose": 101.777,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:32:04Z"
+   "asOf": "2026-11-04T03:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 50,
   "humidity": 80,
   "wind": 2,
-  "summary": "Partly cloudy, with a low around 50. South wind around 2 mph. Partly cloudy, with a low around 50. South wind around 2 mph. Sunny. High near 75, with temperatures falling to around 69 in the afternoon. South wind 2 to 10 mph.",
+  "summary": "Partly cloudy, with a low around 50. South wind around 3 mph. Partly cloudy, with a low around 50. South wind around 3 mph. Sunny. High near 75, with temperatures falling to around 69 in the afternoon. South wind 2 to 10 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -579,13 +579,13 @@
      "low": 50,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 50. South wind around 2 mph.",
+     "summary": "Partly cloudy, with a low around 50. South wind around 3 mph.",
      "precipPct": 3
     },
     "high": 55,
     "conditionText": "Partly Cloudy",
     "condition": "clearNight",
-    "summary": "Partly cloudy, with a low around 50. South wind around 2 mph.",
+    "summary": "Partly cloudy, with a low around 50. South wind around 3 mph.",
     "precipPct": 3
    },
    {
@@ -700,6 +700,28 @@
  },
  "news": [
   {
+   "title": "Rahm Emanuel says Trump's policies have upended the president's coalition",
+   "source": "NPR",
+   "summary": "NPR's Scott Detrow talks with Rahm Emanuel, who served as Chicago mayor and chief of staff to President Obama.",
+   "body": "NPR's Scott Detrow talks with Rahm Emanuel, who served as Chicago mayor and chief of staff to President Obama.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/nx-s1-6028082/rahm-emanuel-says-trumps-policies-have-upended-the-presidents-coalition"
+   ],
+   "publishedAt": "2026-11-04T03:41:40Z",
+   "topic": "News"
+  },
+  {
+   "title": "Democrat Annie Andrews wins South Carolina Senate race in major upset",
+   "source": "NPR",
+   "summary": "Andrews, a pediatrician, defeated GOP Sen",
+   "body": "Andrews, a pediatrician, defeated GOP Sen. Darline Graham, who was appointed to the seat after the death of her brother, longtime Sen. Lindsey Graham.",
+   "sources": [
+    "https://www.npr.org/2026/11/03/g-s1-151666/south-carolina-senate-race-andrews-graham"
+   ],
+   "publishedAt": "2026-11-04T03:39:29Z",
+   "topic": "News"
+  },
+  {
    "title": "*STREAM NOW* Mehdi and Prem Are Live From Michigan!",
    "source": "Zeteo",
    "summary": "Tune in NOW for the latest midterm results and analysis from Zeteo, live from Abdul El-Sayed HQ in Detroit.",
@@ -752,28 +774,6 @@
     "https://www.npr.org/2026/11/03/nx-s1-6028031/former-speaker-nancy-pelosi-says-democrats-power-lies-in-their-unity"
    ],
    "publishedAt": "2026-11-04T02:25:47Z",
-   "topic": "News"
-  },
-  {
-   "title": "Georgia elects the nation's first Black female governor",
-   "source": "NPR",
-   "summary": "Keisha Lance Bottoms' win marks the first time Georgia has elected a Democratic governor in more than 20 years.",
-   "body": "Keisha Lance Bottoms' win marks the first time Georgia has elected a Democratic governor in more than 20 years.",
-   "sources": [
-    "https://www.npr.org/2026/11/03/g-s1-151040/georgia-elects-the-nations-first-black-female-governor"
-   ],
-   "publishedAt": "2026-11-04T02:24:31Z",
-   "topic": "News"
-  },
-  {
-   "title": "Republican Byron Donalds wins governor's race in Florida",
-   "source": "NPR",
-   "summary": "Donalds, who was backed early by President Trump, will become the state's first Black governor.",
-   "body": "Donalds, who was backed early by President Trump, will become the state's first Black governor.",
-   "sources": [
-    "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly"
-   ],
-   "publishedAt": "2026-11-04T02:10:59Z",
    "topic": "News"
   },
   {
