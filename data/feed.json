@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-04T15:02:04Z",
+ "updatedAt": "2026-11-04T15:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 767.85,
-   "changePct": 1.7,
+   "price": 768.13,
+   "changePct": 1.74,
    "prevClose": 754.98,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 698.74,
-   "changePct": 1.87,
+   "price": 700.56,
+   "changePct": 2.14,
    "prevClose": 685.89,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 528.46,
-   "changePct": 2.33,
+   "price": 528.14,
+   "changePct": 2.27,
    "prevClose": 516.42,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 283.49,
-   "changePct": 1.49,
+   "price": 283.181,
+   "changePct": 1.38,
    "prevClose": 279.3361,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 79424.6484,
-   "changePct": 2.7,
+   "price": 80857.9062,
+   "changePct": 4.56,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2399.3799,
-   "changePct": 5.64,
+   "price": 2430.27,
+   "changePct": 7.0,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.23,
-   "changePct": -2.68,
+   "price": 93.75,
+   "changePct": -2.14,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T14:16:29Z"
+   "asOf": "2026-11-04T15:13:53Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.62,
-   "changePct": -2.8,
+   "price": 101.2,
+   "changePct": -2.24,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T14:16:29Z"
+   "asOf": "2026-11-04T15:13:53Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.17,
-   "changePct": -5.4,
+   "price": 47.26,
+   "changePct": -5.21,
    "prevClose": 49.86,
-   "note": "Gasoline 24.87 · Diesel 91.77",
+   "note": "Gasoline 25.08 · Diesel 91.63",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.892,
-   "changePct": 0.73,
+   "price": 2.894,
+   "changePct": 0.8,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.8119,
-   "changePct": -4.26,
+   "price": 2.8293,
+   "changePct": -3.66,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4047,
-   "changePct": -2.78,
+   "price": 4.4138,
+   "changePct": -2.58,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 4.4,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T14:16:29Z"
+   "asOf": "2026-11-04T15:13:53Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T14:16:29Z"
+   "asOf": "2026-11-04T15:13:53Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T14:16:29Z"
+   "asOf": "2026-11-04T15:13:53Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4050.7,
-   "changePct": 2.12,
+   "price": 4043.5,
+   "changePct": 1.94,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.215,
-   "changePct": 4.52,
+   "price": 52.145,
+   "changePct": 4.38,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.402,
-   "changePct": 0.93,
+   "price": 6.4035,
+   "changePct": 0.95,
    "prevClose": 6.343,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.939,
-   "changePct": -0.26,
+   "price": 4.927,
+   "changePct": -0.5,
    "prevClose": 4.952,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.418,
-   "changePct": -0.04,
+   "price": 101.459,
+   "changePct": 0.0,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.2,
+   "price": 17.1,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T15:02:04Z"
+   "asOf": "2026-11-04T15:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-04T14:16:29Z"
+   "asOf": "2026-11-04T15:13:53Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+   "source": "BBC",
+   "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+   "body": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-04T15:01:10Z",
+   "topic": "World"
+  },
+  {
    "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
    "source": "BBC",
    "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
@@ -711,6 +722,17 @@
    ],
    "publishedAt": "2026-11-04T14:17:58Z",
    "topic": "World"
+  },
+  {
+   "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+   "source": "NPR",
+   "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+   "body": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+   "sources": [
+    "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid"
+   ],
+   "publishedAt": "2026-11-04T13:38:09Z",
+   "topic": "News"
   },
   {
    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
@@ -735,7 +757,7 @@
    "topic": "World"
   },
   {
-   "title": "The world is reacting to the Democrats' midterm elections victory",
+   "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
    "source": "NPR",
    "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
    "body": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
@@ -798,28 +820,6 @@
     "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race"
    ],
    "publishedAt": "2026-11-04T11:57:23Z",
-   "topic": "News"
-  },
-  {
-   "title": "ANC under pressure to reverse South Africa decline",
-   "source": "BBC",
-   "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-   "body": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T11:47:44Z",
-   "topic": "World"
-  },
-  {
-   "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-   "source": "NPR",
-   "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come",
-   "body": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
-   "sources": [
-    "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
-   ],
-   "publishedAt": "2026-11-04T11:00:00Z",
    "topic": "News"
   },
   {
