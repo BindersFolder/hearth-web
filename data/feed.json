@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-04T21:02:04Z",
+ "updatedAt": "2026-11-04T21:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 766.68,
-   "changePct": 1.55,
+   "price": 766.82,
+   "changePct": 1.57,
    "prevClose": 754.98,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,113 +23,113 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 533.14,
-   "changePct": 3.24,
+   "price": 533.12,
+   "changePct": 3.23,
    "prevClose": 516.42,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 283.81,
-   "changePct": 1.6,
+   "price": 284.02,
+   "changePct": 1.68,
    "prevClose": 279.3361,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80089.1016,
-   "changePct": 3.56,
+   "price": 80147.3281,
+   "changePct": 3.64,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2419.8999,
-   "changePct": 6.55,
+   "price": 2421.3501,
+   "changePct": 6.61,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.66,
-   "changePct": -7.45,
+   "price": 88.58,
+   "changePct": -7.54,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
    "name": "WTI spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 103.37,
+   "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T20:10:32Z"
+   "asOf": "2026-11-04T21:11:12Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.25,
-   "changePct": -7.99,
+   "price": 95.11,
+   "changePct": -8.12,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
    "name": "Brent spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 123.1,
+   "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T20:10:32Z"
+   "asOf": "2026-11-04T21:11:12Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.14,
-   "changePct": -5.46,
+   "price": 47.08,
+   "changePct": -5.58,
    "prevClose": 49.86,
-   "note": "Gasoline 26.41 · Diesel 88.62",
+   "note": "Gasoline 26.30 · Diesel 88.63",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.952,
-   "changePct": 2.82,
+   "price": 2.953,
+   "changePct": 2.86,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7397,
-   "changePct": -6.71,
+   "price": 2.7353,
+   "changePct": -6.86,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2209,
-   "changePct": -6.84,
+   "price": 4.2193,
+   "changePct": -6.87,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.21,
-   "changePct": 0.0,
+   "price": 4.53,
+   "changePct": 7.3,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T20:10:32Z"
+   "asOf": "2026-11-04T21:11:12Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T20:10:32Z"
+   "asOf": "2026-11-04T21:11:12Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T20:10:32Z"
+   "asOf": "2026-11-04T21:11:12Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4068.6001,
-   "changePct": 2.57,
+   "price": 4073.3,
+   "changePct": 2.69,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.225,
-   "changePct": 4.54,
+   "price": 52.335,
+   "changePct": 4.76,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.408,
-   "changePct": 1.02,
+   "price": 6.413,
+   "changePct": 1.1,
    "prevClose": 6.343,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,19 +317,19 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.81,
+   "price": 16.7,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T21:02:04Z"
+   "asOf": "2026-11-04T21:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 74,
+  "temp": 72,
   "high": 74,
   "low": 58,
-  "humidity": 55,
-  "wind": 7,
+  "humidity": 59,
+  "wind": 6,
   "summary": "Sunny. High near 74, with temperatures falling to around 69 in the afternoon. South wind around 8 mph. Partly cloudy, with a low around 58. South wind around 5 mph. Rain after 7am. Mostly cloudy. High near 70, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph. Chance of precipitation is 80%. New…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-04T15:00:00-05:00",
-    "temp": 74,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 55
-   },
    {
     "time": "2026-11-04T16:00:00-05:00",
     "temp": 72,
@@ -569,6 +560,15 @@
     "precipPct": 42,
     "wind": 9,
     "humidity": 93
+   },
+   {
+    "time": "2026-11-05T15:00:00-05:00",
+    "temp": 70,
+    "condition": "rain",
+    "conditionText": "Chance Light Rain",
+    "precipPct": 42,
+    "wind": 8,
+    "humidity": 90
    }
   ],
   "daily": [
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
+   "source": "NPR",
+   "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts.",
+   "body": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts",
+   "sources": [
+    "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress"
+   ],
+   "publishedAt": "2026-11-04T21:11:23Z",
+   "topic": "News"
+  },
+  {
+   "title": "Israel's 11-Day Escalated Assault on Hebron",
+   "source": "Drop Site News",
+   "summary": "Thousands of Palestinians faced forced displacement during the duration of a heavy Israeli military operation on Hebron.",
+   "body": "Thousands of Palestinians faced forced displacement during the duration of a heavy Israeli military operation on Hebron.",
+   "sources": [
+    "https://www.dropsitenews.com/p/hebron-forced-displacement-israeli-operation"
+   ],
+   "publishedAt": "2026-11-04T21:03:48Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Democratic leaders reflect on midterm results and what's next for the party",
    "source": "NPR",
    "summary": "Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
@@ -779,17 +801,6 @@
    "topic": "Independent"
   },
   {
-   "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-   "source": "NPR",
-   "summary": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
-   "body": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
-   "sources": [
-    "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats"
-   ],
-   "publishedAt": "2026-11-04T18:37:34Z",
-   "topic": "News"
-  },
-  {
    "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
    "source": "BBC",
    "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
@@ -803,8 +814,8 @@
   {
    "title": "Lesson From Lansing: To Win in Swing Districts, Fight Data Centers",
    "source": "The Intercept",
-   "summary": "Left-aligned candidate Will Lawrence declared victory over a Republican incumbent after battling new AI infrastructure in his purple Michigan district.",
-   "body": "Left-aligned candidate Will Lawrence declared victory over a Republican incumbent after battling new AI infrastructure in his purple Michigan district.",
+   "summary": "Left-aligned candidate Will Lawrence beat a Republican incumbent by battling new AI infrastructure in his purple Michigan district.",
+   "body": "Left-aligned candidate Will Lawrence beat a Republican incumbent by battling new AI infrastructure in his purple Michigan district.",
    "sources": [
     "https://theintercept.com/2026/11/04/will-lawrence-michigan-midterms-data-centers/"
    ],
@@ -864,17 +875,6 @@
     "https://zeteo.com/p/republicans-2026-bloodbath-was-way"
    ],
    "publishedAt": "2026-11-04T12:02:29Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "U.S. bombs Iranian island; Israel blocks aid through Rafah; Turkey strikes Al-Shabaab in Somalia",
-   "source": "Drop Site News",
-   "summary": "Drop Site Daily: November 3, 2026.",
-   "body": "Drop Site Daily: November 3, 2026",
-   "sources": [
-    "https://www.dropsitenews.com/p/us-iran-qeshm-gaza-israel-rafah-aid-turkey-somalia-shabaab"
-   ],
-   "publishedAt": "2026-11-03T15:59:24Z",
    "topic": "Independent"
   }
  ],
