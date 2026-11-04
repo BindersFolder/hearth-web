@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T22:17:04Z",
+ "updatedAt": "2026-11-04T22:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80454.4922,
-   "changePct": 4.04,
+   "price": 80610.0469,
+   "changePct": 4.24,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2427.8999,
-   "changePct": 6.9,
+   "price": 2434.3501,
+   "changePct": 7.18,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 49.86,
    "note": "Gasoline 26.30 · Diesel 88.44",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.53,
-   "changePct": 0.07,
+   "price": 101.524,
+   "changePct": 0.06,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T22:17:04Z"
+   "asOf": "2026-11-04T22:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 58,
   "humidity": 63,
   "wind": 6,
-  "summary": "Sunny. High near 74, with temperatures falling to around 69 in the afternoon. South wind around 8 mph. Partly cloudy, with a low around 58. South wind around 5 mph. Rain after 7am. Mostly cloudy. High near 70, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph. Chance of precipitation is 80%. New…",
+  "summary": "Sunny. High near 74, with temperatures falling to around 69 in the afternoon. South wind around 6 mph. Partly cloudy, with a low around 58. South wind around 5 mph. Rain after 7am. Mostly cloudy. High near 70, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph. Chance of precipitation is 80%. New…",
   "alerts": [],
   "hourly": [
    {
@@ -578,9 +578,9 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 8,
-    "windText": "S 8 mph",
-    "summary": "Sunny. High near 74, with temperatures falling to around 69 in the afternoon. South wind around 8 mph.",
+    "wind": 6,
+    "windText": "S 6 mph",
+    "summary": "Sunny. High near 74, with temperatures falling to around 69 in the afternoon. South wind around 6 mph.",
     "low": 58,
     "night": {
      "low": 58,
