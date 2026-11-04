@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T08:02:03Z",
+ "updatedAt": "2026-11-04T08:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78103.2969,
-   "changePct": 1.0,
+   "price": 78269.25,
+   "changePct": 1.21,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2302.48,
-   "changePct": 1.38,
+   "price": 2319.8,
+   "changePct": 2.14,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.17,
-   "changePct": 1.07,
+   "price": 95.74,
+   "changePct": 0.62,
    "prevClose": 95.15,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 103.77,
-   "changePct": 0.95,
+   "price": 103.22,
+   "changePct": 0.42,
    "prevClose": 102.79,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.48,
-   "changePct": -0.3,
+   "price": 49.17,
+   "changePct": -0.93,
    "prevClose": 49.63,
-   "note": "Gasoline 27.44 · Diesel 93.57",
+   "note": "Gasoline 26.95 · Diesel 93.60",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.905,
-   "changePct": 1.57,
+   "price": 2.902,
+   "changePct": 1.47,
    "prevClose": 2.86,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9431,
-   "changePct": 0.86,
+   "price": 2.9212,
+   "changePct": 0.11,
    "prevClose": 2.9181,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5177,
-   "changePct": 0.27,
+   "price": 4.508,
+   "changePct": 0.06,
    "prevClose": 4.5054,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4036.8999,
-   "changePct": 1.77,
+   "price": 4045.5,
+   "changePct": 1.99,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.78,
-   "changePct": 3.65,
+   "price": 51.925,
+   "changePct": 3.94,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.4145,
-   "changePct": 1.13,
+   "price": 6.4125,
+   "changePct": 1.1,
    "prevClose": 6.343,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.388,
-   "changePct": 0.04,
+   "price": 101.374,
+   "changePct": 0.03,
    "prevClose": 101.346,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T08:02:03Z"
+   "asOf": "2026-11-04T08:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -700,6 +700,17 @@
  },
  "news": [
   {
+   "title": "Blue Tsunami: Watch Zeteo’s Coverage with Mehdi, Prem, Mallory McMorrow, Jamaal Bowman, Rep. Greg Casar, and More!",
+   "source": "Zeteo",
+   "summary": "Other guests included Mahmoud Khalil, former Rep",
+   "body": "Other guests included Mahmoud Khalil, former Rep. Andy Levin, Swin, Wajahat Ali, UAW president Shawn Fain, and Dearborn Mayor Abdullah Hammoud.",
+   "sources": [
+    "https://zeteo.com/p/blue-tsunami-watch-zeteos-coverage"
+   ],
+   "publishedAt": "2026-11-04T08:00:25Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
    "source": "BBC",
    "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
@@ -742,17 +753,6 @@
    ],
    "publishedAt": "2026-11-04T07:23:28Z",
    "topic": "News"
-  },
-  {
-   "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
-   "source": "BBC",
-   "summary": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
-   "body": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T07:17:08Z",
-   "topic": "World"
   },
   {
    "title": "Florida Republicans fend off Democrats as state elects first black governor",
@@ -843,15 +843,15 @@
    "topic": "Independent"
   },
   {
-   "title": "*STREAM NOW* Mehdi and Prem Are Live From Michigan!",
-   "source": "Zeteo",
-   "summary": "Tune in NOW for the latest midterm results and analysis from Zeteo, live from Abdul El-Sayed HQ in Detroit.",
-   "body": "Tune in NOW for the latest midterm results and analysis from Zeteo, live from Abdul El-Sayed HQ in Detroit.",
+   "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+   "source": "BBC",
+   "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+   "body": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
    "sources": [
-    "https://zeteo.com/p/stream-now-mehdi-and-prem-are-live"
+    "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-04T03:06:44Z",
-   "topic": "Independent"
+   "publishedAt": "2026-11-04T03:46:10Z",
+   "topic": "World"
   },
   {
    "title": "U.S. bombs Iranian island; Israel blocks aid through Rafah; Turkey strikes Al-Shabaab in Somalia",
