@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-04T14:17:21Z",
+ "updatedAt": "2026-11-04T14:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 754.35,
-   "changePct": 0.29,
-   "prevClose": 752.16,
+   "price": 764.24,
+   "changePct": 1.23,
+   "prevClose": 754.98,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 685.28,
-   "changePct": 0.54,
-   "prevClose": 681.6205,
+   "price": 690.81,
+   "changePct": 0.72,
+   "prevClose": 685.89,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 517.06,
-   "changePct": 0.32,
-   "prevClose": 515.4,
+   "price": 527.49,
+   "changePct": 2.14,
+   "prevClose": 516.42,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.79,
-   "changePct": 0.41,
-   "prevClose": 278.6408,
+   "price": 285.04,
+   "changePct": 2.04,
+   "prevClose": 279.3361,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78271.9688,
-   "changePct": 1.21,
+   "price": 78499.1719,
+   "changePct": 1.51,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2315.9399,
-   "changePct": 1.95,
-   "prevClose": 2271.6101,
+   "price": 2321.77,
+   "changePct": 2.23,
+   "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.47,
-   "changePct": -2.43,
+   "price": 93.12,
+   "changePct": -2.8,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 100.74,
-   "changePct": -2.69,
+   "price": 100.34,
+   "changePct": -3.07,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.48,
-   "changePct": -4.77,
+   "price": 47.24,
+   "changePct": -5.25,
    "prevClose": 49.86,
-   "note": "Gasoline 25.19 · Diesel 92.05",
+   "note": "Gasoline 24.99 · Diesel 91.73",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.907,
-   "changePct": 1.25,
+   "price": 2.899,
+   "changePct": 0.98,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.8252,
-   "changePct": -3.8,
+   "price": 2.8122,
+   "changePct": -4.25,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.4172,
-   "changePct": -2.5,
+   "price": 4.4013,
+   "changePct": -2.85,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4053.2,
-   "changePct": 2.18,
+   "price": 4049.0,
+   "changePct": 2.08,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.055,
-   "changePct": 4.2,
+   "price": 51.975,
+   "changePct": 4.04,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.374,
-   "changePct": 0.49,
+   "price": 6.3755,
+   "changePct": 0.51,
    "prevClose": 6.343,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.921,
-   "changePct": -0.63,
+   "price": 4.923,
+   "changePct": -0.59,
    "prevClose": 4.952,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.35,
+   "price": 101.343,
    "changePct": -0.11,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.17,
+   "price": 17.96,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T14:17:21Z"
+   "asOf": "2026-11-04T14:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,14 +346,23 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 62,
+  "temp": 56,
   "high": 76,
   "low": 57,
-  "humidity": 67,
-  "wind": 3,
-  "summary": "Sunny. High near 76, with temperatures falling to around 68 in the afternoon. Southwest wind 3 to 7 mph. Mostly cloudy, with a low around 57. South wind around 3 mph. Rain showers likely after 7am. Mostly cloudy. High near 71, with temperatures falling to around 69 in the afternoon. South wind 5 to 9 mph. Chance of…",
+  "humidity": 80,
+  "wind": 2,
+  "summary": "Sunny. High near 76, with temperatures falling to around 68 in the afternoon. South wind 2 to 7 mph. Mostly cloudy, with a low around 57. South wind around 3 mph. Rain showers likely after 7am. Mostly cloudy. High near 71, with temperatures falling to around 69 in the afternoon. South wind 5 to 9 mph. Chance of precipitation…",
   "alerts": [],
   "hourly": [
+   {
+    "time": "2026-11-04T08:00:00-05:00",
+    "temp": 56,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 80
+   },
    {
     "time": "2026-11-04T09:00:00-05:00",
     "temp": 62,
@@ -560,15 +569,6 @@
     "precipPct": 36,
     "wind": 6,
     "humidity": 100
-   },
-   {
-    "time": "2026-11-05T08:00:00-05:00",
-    "temp": 61,
-    "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 36,
-    "wind": 7,
-    "humidity": 100
    }
   ],
   "daily": [
@@ -579,8 +579,8 @@
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 7,
-    "windText": "SW 3 to 7 mph",
-    "summary": "Sunny. High near 76, with temperatures falling to around 68 in the afternoon. Southwest wind 3 to 7 mph.",
+    "windText": "S 2 to 7 mph",
+    "summary": "Sunny. High near 76, with temperatures falling to around 68 in the afternoon. South wind 2 to 7 mph.",
     "low": 57,
     "night": {
      "low": 57,
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+   "source": "BBC",
+   "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+   "body": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-04T14:17:58Z",
+   "topic": "World"
+  },
+  {
    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
    "source": "BBC",
    "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
@@ -779,6 +790,17 @@
    "topic": "Independent"
   },
   {
+   "title": "Votes are still being counted to see who will represent Mississippi in the Senate",
+   "source": "NPR",
+   "summary": "Votes are still being counted to determine who will represent Mississippi in the U.S",
+   "body": "Votes are still being counted to determine who will represent Mississippi in the U.S. Senate. Democrat Scott Colom was only a handful of votes ahead of Republican Cindy Hyde-Smith early Wednesday.",
+   "sources": [
+    "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race"
+   ],
+   "publishedAt": "2026-11-04T11:57:23Z",
+   "topic": "News"
+  },
+  {
    "title": "ANC under pressure to reverse South Africa decline",
    "source": "BBC",
    "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
@@ -810,28 +832,6 @@
    ],
    "publishedAt": "2026-11-04T10:05:00Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-   "source": "BBC",
-   "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
-   "body": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-04T10:03:19Z",
-   "topic": "World"
-  },
-  {
-   "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
-   "source": "NPR",
-   "summary": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president",
-   "body": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
-   "sources": [
-    "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms"
-   ],
-   "publishedAt": "2026-11-04T10:00:00Z",
-   "topic": "News"
   },
   {
    "title": "Blue Tsunami: Watch Zeteo’s Coverage with Mehdi, Prem, Mallory McMorrow, Jamaal Bowman, Rep. Greg Casar, and More!",
