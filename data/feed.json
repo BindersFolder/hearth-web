@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T11:02:04Z",
+ "updatedAt": "2026-11-04T11:14:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 78497.6406,
-   "changePct": 1.51,
+   "price": 78520.4609,
+   "changePct": 1.54,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2326.26,
-   "changePct": 2.42,
-   "prevClose": 2271.2,
+   "price": 2329.6101,
+   "changePct": 2.55,
+   "prevClose": 2271.6101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.24,
-   "changePct": -0.58,
+   "price": 95.45,
+   "changePct": -0.37,
    "prevClose": 95.8,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T03:10:19Z"
+   "asOf": "2026-11-04T11:13:33Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 102.2,
-   "changePct": -1.28,
+   "price": 102.54,
+   "changePct": -0.95,
    "prevClose": 103.52,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T03:10:19Z"
+   "asOf": "2026-11-04T11:13:33Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.82,
-   "changePct": -4.09,
+   "price": 47.91,
+   "changePct": -3.91,
    "prevClose": 49.86,
-   "note": "Gasoline 24.82 · Diesel 93.82",
+   "note": "Gasoline 24.90 · Diesel 93.94",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.891,
-   "changePct": 0.7,
+   "price": 2.902,
+   "changePct": 1.08,
    "prevClose": 2.871,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.8585,
-   "changePct": -2.67,
+   "price": 2.8654,
+   "changePct": -2.43,
    "prevClose": 2.9369,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5014,
-   "changePct": -0.64,
+   "price": 4.5092,
+   "changePct": -0.47,
    "prevClose": 4.5306,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.51,
-   "changePct": -1.1,
+   "price": 4.5,
+   "changePct": -1.3,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T03:10:19Z"
+   "asOf": "2026-11-04T11:13:33Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T03:10:19Z"
+   "asOf": "2026-11-04T11:13:33Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T03:10:19Z"
+   "asOf": "2026-11-04T11:13:33Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.61,
    "note": "Week ago 4.2471 · Year ago 3.0528",
    "source": "AAA",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.26,
    "note": "Week ago 4.3716 · Year ago 3.107",
    "source": "AAA",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.2,
    "note": "Week ago 6.3499 · Year ago 3.6944",
    "source": "AAA",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,33 +252,33 @@
    "changePct": -0.12,
    "note": "Week ago 6.4959 · Year ago 3.8857",
    "source": "AAA",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4052.2,
+   "price": 4052.3999,
    "changePct": 2.16,
    "prevClose": 3966.6001,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.09,
-   "changePct": 4.27,
+   "price": 52.065,
+   "changePct": 4.22,
    "prevClose": 49.955,
    "high52": 121.3,
    "low52": 47.56,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.423,
-   "changePct": -0.04,
+   "price": 101.455,
+   "changePct": -0.0,
    "prevClose": 101.459,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.32,
+   "price": 18.3,
    "changePct": null,
    "prevClose": 20.81,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T11:02:04Z"
+   "asOf": "2026-11-04T11:14:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-04T03:10:19Z"
+   "asOf": "2026-11-04T11:13:33Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "clearNight",
-  "conditionText": "Mostly Clear",
+  "condition": "sun",
+  "conditionText": "Sunny",
   "temp": 50,
-  "high": 50,
-  "low": 50,
+  "high": 75,
+  "low": 57,
   "humidity": 83,
   "wind": 2,
-  "summary": "Partly cloudy, with a low around 50. South wind around 2 mph. Partly cloudy, with a low around 50. South wind around 2 mph. Sunny. High near 75, with temperatures falling to around 69 in the afternoon. South wind 2 to 10 mph.",
+  "summary": "Sunny. High near 75, with temperatures falling to around 69 in the afternoon. South wind 2 to 10 mph. Mostly cloudy, with a low around 57. South wind around 5 mph. Rain showers likely after 7am. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 5 to 8 mph. Chance of…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-04T05:00:00-05:00",
-    "temp": 50,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 3,
-    "wind": 2,
-    "humidity": 83
-   },
    {
     "time": "2026-11-04T06:00:00-05:00",
     "temp": 50,
@@ -569,25 +560,18 @@
     "precipPct": 0,
     "wind": 3,
     "humidity": 100
+   },
+   {
+    "time": "2026-11-05T05:00:00-05:00",
+    "temp": 58,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 96
    }
   ],
   "daily": [
-   {
-    "date": "2026-11-03",
-    "low": 50,
-    "night": {
-     "low": 50,
-     "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 50. South wind around 2 mph.",
-     "precipPct": 3
-    },
-    "high": 50,
-    "conditionText": "Partly Cloudy",
-    "condition": "clearNight",
-    "summary": "Partly cloudy, with a low around 50. South wind around 2 mph.",
-    "precipPct": 3
-   },
    {
     "date": "2026-11-04",
     "high": 75,
@@ -632,13 +616,13 @@
     "precipPct": 74,
     "wind": 3,
     "windText": "NW 0 to 3 mph",
-    "summary": "Rain showers likely. Mostly cloudy. High near 68, with temperatures falling to around 64 in the afternoon. Chance of precipitation is 70%. New rainfall amounts between three quarters and one inch possible.",
+    "summary": "Rain showers likely. Mostly cloudy. High near 68, with temperatures falling to around 64 in the afternoon. Northwest wind 0 to 3 mph. Chance of precipitation is 70%. New rainfall amounts between three quarters and one inch possible.",
     "low": 52,
     "night": {
      "low": 52,
      "condition": "rain",
      "conditionText": "Rain Showers Likely",
-     "summary": "Rain showers likely. Mostly cloudy, with a low around 52. Chance of precipitation is 70%.",
+     "summary": "Rain showers likely. Mostly cloudy, with a low around 52. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
      "precipPct": 71
     }
    },
@@ -695,6 +679,24 @@
      "summary": "A slight chance of rain. Partly cloudy, with a low around 37.",
      "precipPct": 24
     }
+   },
+   {
+    "date": "2026-11-10",
+    "high": 61,
+    "condition": "rain",
+    "conditionText": "Slight Chance Light Rain then Mostly Sunny",
+    "precipPct": 19,
+    "wind": 13,
+    "windText": "SW 6 to 13 mph",
+    "summary": "A slight chance of rain before 7am. Mostly sunny, with a high near 61.",
+    "low": 38,
+    "night": {
+     "low": 38,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 38.",
+     "precipPct": 4
+    }
    }
   ]
  },
@@ -707,8 +709,19 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-04T10:19:41Z",
+   "publishedAt": "2026-11-04T11:12:15Z",
    "topic": "World"
+  },
+  {
+   "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+   "source": "NPR",
+   "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come",
+   "body": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
+   "sources": [
+    "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
+   ],
+   "publishedAt": "2026-11-04T11:00:00Z",
+   "topic": "News"
   },
   {
    "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -807,17 +820,6 @@
     "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers"
    ],
    "publishedAt": "2026-11-04T07:28:02Z",
-   "topic": "News"
-  },
-  {
-   "title": "Republicans tried to gerrymander their way out of big congressional losses. It didn't work",
-   "source": "NPR",
-   "summary": "Among the sweeping victories by Democrats on Tuesday were wins in several congressional districts that Republicans had redrawn explicitly to boost their party ahead of the midterms.",
-   "body": "Among the sweeping victories by Democrats on Tuesday were wins in several congressional districts that Republicans had redrawn explicitly to boost their party ahead of the midterms.",
-   "sources": [
-    "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans"
-   ],
-   "publishedAt": "2026-11-04T07:23:28Z",
    "topic": "News"
   },
   {
