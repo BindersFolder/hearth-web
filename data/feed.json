@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T03:02:03Z",
+ "updatedAt": "2026-11-04T03:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75877.6875,
-   "changePct": -1.88,
+   "price": 75912.8906,
+   "changePct": -1.84,
    "prevClose": 77332.8984,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2233.3501,
-   "changePct": -1.67,
+   "price": 2235.4299,
+   "changePct": -1.57,
    "prevClose": 2271.2,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.07,
-   "changePct": -2.07,
+   "price": 95.28,
+   "changePct": -1.85,
    "prevClose": 97.08,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 103.37,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T02:10:14Z"
+   "asOf": "2026-11-04T03:10:19Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 102.73,
-   "changePct": -2.44,
+   "price": 102.92,
+   "changePct": -2.26,
    "prevClose": 105.3,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 123.1,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T02:10:14Z"
+   "asOf": "2026-11-04T03:10:19Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 49.63,
-   "changePct": 5.75,
+   "price": 49.58,
+   "changePct": 5.65,
    "prevClose": 46.93,
-   "note": "Gasoline 27.31 · Diesel 94.27",
+   "note": "Gasoline 27.34 · Diesel 94.06",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.848,
-   "changePct": -1.25,
+   "price": 2.849,
+   "changePct": -1.21,
    "prevClose": 2.884,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.9137,
-   "changePct": -0.08,
+   "price": 2.9195,
+   "changePct": 0.12,
    "prevClose": 2.9159,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.5081,
-   "changePct": 1.21,
+   "price": 4.508,
+   "changePct": 1.2,
    "prevClose": 4.4544,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.53,
-   "changePct": -0.7,
+   "price": 4.51,
+   "changePct": -1.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T02:10:14Z"
+   "asOf": "2026-11-04T03:10:19Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T02:10:14Z"
+   "asOf": "2026-11-04T03:10:19Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-04T02:10:14Z"
+   "asOf": "2026-11-04T03:10:19Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2661 · Year ago 3.036",
    "source": "AAA",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.14,
    "note": "Week ago 4.3771 · Year ago 3.101",
    "source": "AAA",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.07,
    "note": "Week ago 6.3521 · Year ago 3.68",
    "source": "AAA",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.05,
    "note": "Week ago 6.4958 · Year ago 3.8771",
    "source": "AAA",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3946.7,
-   "changePct": 0.35,
+   "price": 3941.6001,
+   "changePct": 0.22,
    "prevClose": 3932.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.26,
-   "changePct": -0.68,
+   "price": 49.13,
+   "changePct": -0.94,
    "prevClose": 49.595,
    "high52": 121.3,
    "low52": 46.81,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.324,
-   "changePct": -1.69,
+   "price": 6.3125,
+   "changePct": -1.87,
    "prevClose": 6.4325,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.284,
-   "changePct": -0.48,
+   "price": 101.301,
+   "changePct": -0.47,
    "prevClose": 101.777,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-04T03:02:03Z"
+   "asOf": "2026-11-04T03:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-04T02:10:14Z"
+   "asOf": "2026-11-04T03:10:19Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Partly Cloudy",
-  "temp": 56,
-  "high": 56,
+  "temp": 55,
+  "high": 55,
   "low": 50,
-  "humidity": 77,
+  "humidity": 80,
   "wind": 2,
-  "summary": "Partly cloudy, with a low around 50. South wind around 5 mph. Partly cloudy, with a low around 50. South wind around 5 mph. Sunny. High near 75, with temperatures falling to around 69 in the afternoon. South wind 2 to 10 mph.",
+  "summary": "Partly cloudy, with a low around 50. South wind around 2 mph. Partly cloudy, with a low around 50. South wind around 2 mph. Sunny. High near 75, with temperatures falling to around 69 in the afternoon. South wind 2 to 10 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-03T21:00:00-05:00",
-    "temp": 56,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 3,
-    "wind": 2,
-    "humidity": 77
-   },
    {
     "time": "2026-11-03T22:00:00-05:00",
     "temp": 55,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 3,
     "humidity": 84
+   },
+   {
+    "time": "2026-11-04T21:00:00-05:00",
+    "temp": 59,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 87
    }
   ],
   "daily": [
@@ -579,13 +579,13 @@
      "low": 50,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 50. South wind around 5 mph.",
+     "summary": "Partly cloudy, with a low around 50. South wind around 2 mph.",
      "precipPct": 3
     },
-    "high": 56,
+    "high": 55,
     "conditionText": "Partly Cloudy",
     "condition": "clearNight",
-    "summary": "Partly cloudy, with a low around 50. South wind around 5 mph.",
+    "summary": "Partly cloudy, with a low around 50. South wind around 2 mph.",
     "precipPct": 3
    },
    {
@@ -699,6 +699,17 @@
   ]
  },
  "news": [
+  {
+   "title": "*STREAM NOW* Mehdi and Prem Are Live From Michigan!",
+   "source": "Zeteo",
+   "summary": "Tune in NOW for the latest midterm results and analysis from Zeteo, live from Abdul El-Sayed HQ in Detroit.",
+   "body": "Tune in NOW for the latest midterm results and analysis from Zeteo, live from Abdul El-Sayed HQ in Detroit.",
+   "sources": [
+    "https://zeteo.com/p/stream-now-mehdi-and-prem-are-live"
+   ],
+   "publishedAt": "2026-11-04T03:06:44Z",
+   "topic": "Independent"
+  },
   {
    "title": "Tens of millions cast ballots for midterms despite worries of Trump's interference",
    "source": "NPR",
@@ -841,17 +852,6 @@
    ],
    "publishedAt": "2026-11-03T16:57:41Z",
    "topic": "World"
-  },
-  {
-   "title": "*STREAM TONIGHT* Mehdi and Prem Are Going Live From Michigan",
-   "source": "Zeteo",
-   "summary": "Tune in at 9pm ET for Zeteo’s packed results-night coverage from Abdul El-Sayed HQ in Detroit.",
-   "body": "Tune in at 9pm ET for Zeteo’s packed results-night coverage from Abdul El-Sayed HQ in Detroit.",
-   "sources": [
-    "https://zeteo.com/p/stream-tonight-mehdi-and-prem-are"
-   ],
-   "publishedAt": "2026-11-03T16:01:21Z",
-   "topic": "Independent"
   },
   {
    "title": "U.S. bombs Iranian island; Israel blocks aid through Rafah; Turkey strikes Al-Shabaab in Somalia",
