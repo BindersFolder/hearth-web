@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-05T19:02:04Z",
+ "updatedAt": "2026-11-05T19:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 735.52,
-   "changePct": -4.11,
+   "price": 738.81,
+   "changePct": -3.68,
    "prevClose": 767.05,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 651.47,
-   "changePct": -5.71,
+   "price": 655.78,
+   "changePct": -5.08,
    "prevClose": 690.885,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 516.02,
-   "changePct": -3.3,
+   "price": 517.655,
+   "changePct": -2.99,
    "prevClose": 533.62,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 271.06,
-   "changePct": -4.62,
+   "price": 272.59,
+   "changePct": -4.08,
    "prevClose": 284.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75960.2578,
-   "changePct": -5.56,
+   "price": 76227.4766,
+   "changePct": -5.22,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2246.49,
-   "changePct": -7.25,
+   "price": 2257.5701,
+   "changePct": -6.79,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.26,
-   "changePct": 4.15,
+   "price": 89.91,
+   "changePct": 3.75,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": -6.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T18:11:23Z"
+   "asOf": "2026-11-05T19:12:01Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.91,
-   "changePct": 4.62,
+   "price": 97.63,
+   "changePct": 4.32,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": -10.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T18:11:23Z"
+   "asOf": "2026-11-05T19:12:01Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.45,
-   "changePct": 1.22,
+   "price": 47.65,
+   "changePct": 1.64,
    "prevClose": 46.88,
-   "note": "Gasoline 25.32 · Diesel 91.73",
+   "note": "Gasoline 25.58 · Diesel 91.79",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.946,
-   "changePct": 0.48,
+   "price": 2.952,
+   "changePct": 0.68,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7518,
-   "changePct": 1.95,
+   "price": 2.7497,
+   "changePct": 1.87,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.333,
-   "changePct": 4.65,
+   "price": 4.3261,
+   "changePct": 4.49,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.32,
-   "changePct": -9.1,
+   "price": 4.33,
+   "changePct": -8.7,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T18:11:23Z"
+   "asOf": "2026-11-05T19:12:01Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T18:11:23Z"
+   "asOf": "2026-11-05T19:12:01Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T18:11:23Z"
+   "asOf": "2026-11-05T19:12:01Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4111.1001,
-   "changePct": -0.93,
+   "price": 4109.2002,
+   "changePct": -0.98,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.4,
-   "changePct": -1.31,
+   "price": 52.28,
+   "changePct": -1.53,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.26,
-   "changePct": -2.48,
+   "price": 6.244,
+   "changePct": -2.73,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.831,
-   "changePct": -1.29,
+   "price": 4.827,
+   "changePct": -1.37,
    "prevClose": 4.894,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.534,
-   "changePct": 0.29,
+   "price": 101.498,
+   "changePct": 0.25,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.76,
+   "price": 26.74,
    "changePct": null,
    "prevClose": 16.57,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T19:02:04Z"
+   "asOf": "2026-11-05T19:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-05T18:11:23Z"
+   "asOf": "2026-11-05T19:12:01Z"
   }
  ],
  "weather": {
@@ -348,10 +348,10 @@
   "conditionText": "Chance Light Rain",
   "temp": 69,
   "high": 71,
-  "low": 60,
+  "low": 61,
   "humidity": 90,
   "wind": 9,
-  "summary": "Rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 6 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. A chance of rain before 7pm, then rain and patchy fog between 7pm and 4am, then patchy…",
+  "summary": "A chance of rain showers. Mostly cloudy. High near 71, with temperatures falling to around 69 in the afternoon. South wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 50%. A chance of rain showers before 7pm, then rain likely. Mostly cloudy. Low around 61, with temperatures rising to around 63…",
   "alerts": [],
   "hourly": [
    {
@@ -576,72 +576,72 @@
     "date": "2026-11-05",
     "high": 71,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 77,
-    "wind": 9,
-    "windText": "S 6 to 9 mph",
-    "summary": "Rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 6 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
-    "low": 60,
+    "conditionText": "Chance Rain Showers",
+    "precipPct": 50,
+    "wind": 10,
+    "windText": "S 10 mph",
+    "summary": "A chance of rain showers. Mostly cloudy. High near 71, with temperatures falling to around 69 in the afternoon. South wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 50%.",
+    "low": 61,
     "night": {
-     "low": 60,
+     "low": 61,
      "condition": "rain",
-     "conditionText": "Light Rain",
-     "summary": "A chance of rain before 7pm, then rain and patchy fog between 7pm and 4am, then patchy fog and a slight chance of rain. Mostly cloudy, with a low around 60. South wind 1 to 6 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible.",
-     "precipPct": 79
+     "conditionText": "Light Rain Likely",
+     "summary": "A chance of rain showers before 7pm, then rain likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. Southwest wind 0 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+     "precipPct": 69
     }
    },
    {
     "date": "2026-11-06",
     "high": 70,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 82,
+    "conditionText": "Chance Light Rain",
+    "precipPct": 51,
     "wind": 2,
-    "windText": "SW 2 mph",
-    "summary": "Rain and patchy fog. Mostly cloudy. High near 70, with temperatures falling to around 65 in the afternoon. Southwest wind around 2 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "low": 50,
+    "windText": "N 2 mph",
+    "summary": "A chance of rain. Mostly cloudy. High near 70, with temperatures falling to around 65 in the afternoon. North wind around 2 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "low": 51,
     "night": {
-     "low": 50,
+     "low": 51,
      "condition": "rain",
-     "conditionText": "Chance Light Rain then Partly Cloudy",
-     "summary": "A chance of rain before 7pm. Partly cloudy, with a low around 50. West wind around 1 mph. Chance of precipitation is 30%.",
-     "precipPct": 30
+     "conditionText": "Slight Chance Light Rain then Partly Cloudy",
+     "summary": "A slight chance of rain before 7pm. Partly cloudy, with a low around 51. North wind around 1 mph. Chance of precipitation is 20%.",
+     "precipPct": 23
     }
    },
    {
     "date": "2026-11-07",
-    "high": 64,
+    "high": 65,
     "condition": "rain",
-    "conditionText": "Partly Sunny then Chance Light Rain",
-    "precipPct": 46,
-    "wind": 6,
-    "windText": "NW 1 to 6 mph",
-    "summary": "A chance of rain after 1pm. Partly sunny. High near 64, with temperatures falling to around 59 in the afternoon. Northwest wind 1 to 6 mph. Chance of precipitation is 50%.",
-    "low": 44,
+    "conditionText": "Rain Showers Likely",
+    "precipPct": 62,
+    "wind": 7,
+    "windText": "NW 1 to 7 mph",
+    "summary": "Rain showers likely after 7am. Partly sunny. High near 65, with temperatures falling to around 59 in the afternoon. Northwest wind 1 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "low": 46,
     "night": {
-     "low": 44,
+     "low": 46,
      "condition": "rain",
-     "conditionText": "Chance Light Rain",
-     "summary": "A chance of rain before 1am. Mostly cloudy, with a low around 44. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
-     "precipPct": 46
+     "conditionText": "Rain Showers Likely",
+     "summary": "Rain showers likely. Mostly cloudy, with a low around 46. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
+     "precipPct": 62
     }
    },
    {
     "date": "2026-11-08",
-    "high": 61,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 13,
+    "high": 62,
+    "condition": "rain",
+    "conditionText": "Chance Rain Showers then Mostly Sunny",
+    "precipPct": 30,
     "wind": 12,
-    "windText": "NW 6 to 12 mph",
-    "summary": "Mostly sunny, with a high near 61.",
-    "low": 39,
+    "windText": "W 6 to 12 mph",
+    "summary": "A chance of rain showers before 7am. Mostly sunny, with a high near 62. Chance of precipitation is 30%.",
+    "low": 42,
     "night": {
-     "low": 39,
+     "low": 42,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 39.",
-     "precipPct": 7
+     "summary": "Mostly clear, with a low around 42.",
+     "precipPct": 1
     }
    },
    {
@@ -649,28 +649,10 @@
     "high": 60,
     "condition": "sun",
     "conditionText": "Sunny",
-    "precipPct": 7,
+    "precipPct": 1,
     "wind": 15,
     "windText": "W 7 to 15 mph",
     "summary": "Sunny, with a high near 60.",
-    "low": 37,
-    "night": {
-     "low": 37,
-     "condition": "clearNight",
-     "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 37.",
-     "precipPct": 7
-    }
-   },
-   {
-    "date": "2026-11-10",
-    "high": 64,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 10,
-    "windText": "W 3 to 10 mph",
-    "summary": "Sunny, with a high near 64.",
     "low": 38,
     "night": {
      "low": 38,
@@ -681,13 +663,31 @@
     }
    },
    {
+    "date": "2026-11-10",
+    "high": 65,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 12,
+    "windText": "SW 5 to 12 mph",
+    "summary": "Sunny, with a high near 65.",
+    "low": 40,
+    "night": {
+     "low": 40,
+     "condition": "clearNight",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 40.",
+     "precipPct": 0
+    }
+   },
+   {
     "date": "2026-11-11",
     "high": 60,
     "condition": "sun",
     "conditionText": "Sunny",
-    "precipPct": 2,
-    "wind": 8,
-    "windText": "W 3 to 8 mph",
+    "precipPct": 0,
+    "wind": 9,
+    "windText": "W 3 to 9 mph",
     "summary": "Sunny, with a high near 60.",
     "low": 33,
     "night": {
