@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T11:47:03Z",
+ "updatedAt": "2026-11-05T12:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80264.7031,
-   "changePct": -0.2,
+   "price": 80156.7188,
+   "changePct": -0.34,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2416.8601,
-   "changePct": -0.22,
+   "price": 2414.3401,
+   "changePct": -0.32,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.05,
-   "changePct": 2.76,
+   "price": 89.42,
+   "changePct": 3.18,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.32,
-   "changePct": 2.92,
+   "price": 96.65,
+   "changePct": 3.27,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.99,
-   "changePct": 2.37,
+   "price": 48.08,
+   "changePct": 2.56,
    "prevClose": 46.88,
-   "note": "Gasoline 27.01 · Diesel 89.94",
+   "note": "Gasoline 27.12 · Diesel 90.00",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.945,
-   "changePct": 0.44,
+   "price": 2.941,
+   "changePct": 0.31,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7633,
-   "changePct": 2.38,
+   "price": 2.7747,
+   "changePct": 2.8,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2617,
-   "changePct": 2.93,
+   "price": 4.272,
+   "changePct": 3.18,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4144.1001,
-   "changePct": -0.14,
+   "price": 4141.6001,
+   "changePct": -0.2,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.885,
-   "changePct": -0.4,
+   "price": 52.78,
+   "changePct": -0.59,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.419,
-   "changePct": -0.01,
+   "price": 6.423,
+   "changePct": 0.05,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.588,
-   "changePct": 0.34,
+   "price": 101.624,
+   "changePct": 0.37,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.83,
+   "price": 16.8,
    "changePct": null,
    "prevClose": 16.57,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T11:47:03Z"
+   "asOf": "2026-11-05T12:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,25 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "fog",
-  "conditionText": "Patchy Fog",
+  "condition": "rain",
+  "conditionText": "Chance Light Rain",
   "temp": 60,
   "high": 71,
   "low": 60,
-  "humidity": 93,
+  "humidity": 96,
   "wind": 5,
-  "summary": "Patchy fog before 7am, then rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. A chance of rain before 7pm, then rain and patchy fog between…",
+  "summary": "Rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. A chance of rain before 7pm, then rain and patchy fog between 7pm and 4am, then patchy…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-05T06:00:00-05:00",
-    "temp": 60,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 1,
-    "wind": 5,
-    "humidity": 93
-   },
    {
     "time": "2026-11-05T07:00:00-05:00",
     "temp": 60,
@@ -569,6 +560,15 @@
     "precipPct": 19,
     "wind": 1,
     "humidity": 100
+   },
+   {
+    "time": "2026-11-06T06:00:00-05:00",
+    "temp": 61,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
+    "precipPct": 19,
+    "wind": 0,
+    "humidity": 100
    }
   ],
   "daily": [
@@ -580,7 +580,7 @@
     "precipPct": 77,
     "wind": 9,
     "windText": "S 5 to 9 mph",
-    "summary": "Patchy fog before 7am, then rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
+    "summary": "Rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 5 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
     "low": 60,
     "night": {
      "low": 60,
@@ -709,7 +709,7 @@
    "sources": [
     "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-05T11:17:03Z",
+   "publishedAt": "2026-11-05T11:56:02Z",
    "topic": "World"
   },
   {
@@ -735,6 +735,17 @@
    "topic": "News"
   },
   {
+   "title": "As budgets tighten, people are breaking out their library cards",
+   "source": "NPR",
+   "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+   "body": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living"
+   ],
+   "publishedAt": "2026-11-05T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
    "source": "NPR",
    "summary": "A new Democratic majority in Congress could pressure the president to end the war in Iran",
@@ -752,17 +763,6 @@
    "body": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
    "sources": [
     "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas"
-   ],
-   "publishedAt": "2026-11-05T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "As budgets tighten, people are breaking out their library cards",
-   "source": "NPR",
-   "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
-   "body": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living"
    ],
    "publishedAt": "2026-11-05T10:00:00Z",
    "topic": "News"
