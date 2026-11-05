@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T13:02:03Z",
+ "updatedAt": "2026-11-05T13:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 79613.9375,
-   "changePct": -1.01,
+   "price": 79526.3203,
+   "changePct": -1.12,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2393.1699,
-   "changePct": -1.19,
+   "price": 2386.3201,
+   "changePct": -1.48,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.58,
-   "changePct": 3.37,
+   "price": 89.49,
+   "changePct": 3.27,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": -6.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T12:16:47Z"
+   "asOf": "2026-11-05T13:16:49Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.02,
-   "changePct": 3.66,
+   "price": 96.85,
+   "changePct": 3.48,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": -10.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T12:16:47Z"
+   "asOf": "2026-11-05T13:16:49Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.23,
-   "changePct": 2.88,
+   "price": 48.45,
+   "changePct": 3.35,
    "prevClose": 46.88,
-   "note": "Gasoline 27.17 · Diesel 90.35",
+   "note": "Gasoline 27.38 · Diesel 90.57",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.94,
-   "changePct": 0.27,
+   "price": 2.928,
+   "changePct": -0.14,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7798,
-   "changePct": 2.99,
+   "price": 2.7827,
+   "changePct": 3.1,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2841,
-   "changePct": 3.47,
+   "price": 4.2871,
+   "changePct": 3.54,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.28,
-   "changePct": -9.9,
+   "changePct": -9.7,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T12:16:47Z"
+   "asOf": "2026-11-05T13:16:49Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T12:16:47Z"
+   "asOf": "2026-11-05T13:16:49Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T12:16:47Z"
+   "asOf": "2026-11-05T13:16:49Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4129.0,
-   "changePct": -0.5,
+   "price": 4133.0,
+   "changePct": -0.4,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.61,
-   "changePct": -0.91,
+   "price": 52.69,
+   "changePct": -0.76,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.4,
-   "changePct": -0.3,
+   "price": 6.4105,
+   "changePct": -0.14,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.603,
-   "changePct": 0.35,
+   "price": 101.563,
+   "changePct": 0.31,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.96,
+   "price": 16.92,
    "changePct": null,
    "prevClose": 16.57,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T13:02:03Z"
+   "asOf": "2026-11-05T13:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-05T12:16:47Z"
+   "asOf": "2026-11-05T13:16:49Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "France holds new strikes and protests as unions demand immediate answers",
+   "source": "BBC",
+   "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+   "body": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-05T13:04:04Z",
+   "topic": "World"
+  },
+  {
    "title": "Ronaldo retires from Portugal duty",
    "source": "BBC",
    "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
@@ -746,17 +757,6 @@
    "topic": "News"
   },
   {
-   "title": "France gears up for strikes and protests as unions promise national mobilisation",
-   "source": "BBC",
-   "summary": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
-   "body": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-05T10:26:03Z",
-   "topic": "World"
-  },
-  {
    "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
    "source": "NPR",
    "summary": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day",
@@ -768,23 +768,23 @@
    "topic": "News"
   },
   {
-   "title": "As budgets tighten, people are breaking out their library cards",
-   "source": "NPR",
-   "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
-   "body": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living"
-   ],
-   "publishedAt": "2026-11-05T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
    "source": "NPR",
    "summary": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
    "body": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
    "sources": [
     "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas"
+   ],
+   "publishedAt": "2026-11-05T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "As budgets tighten, people are breaking out their library cards",
+   "source": "NPR",
+   "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+   "body": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living"
    ],
    "publishedAt": "2026-11-05T10:00:00Z",
    "topic": "News"
