@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-05T16:32:04Z",
+ "updatedAt": "2026-11-05T16:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 745.06,
-   "changePct": -2.87,
+   "price": 742.645,
+   "changePct": -3.18,
    "prevClose": 767.05,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 660.49,
-   "changePct": -4.4,
+   "price": 658.32,
+   "changePct": -4.71,
    "prevClose": 690.885,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 521.615,
-   "changePct": -2.25,
+   "price": 520.39,
+   "changePct": -2.48,
    "prevClose": 533.62,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 275.9,
-   "changePct": -2.92,
+   "price": 274.76,
+   "changePct": -3.32,
    "prevClose": 284.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76692.1406,
-   "changePct": -4.65,
+   "price": 76377.9609,
+   "changePct": -5.04,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2272.8201,
-   "changePct": -6.16,
+   "price": 2266.0901,
+   "changePct": -6.44,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.26,
-   "changePct": 4.15,
+   "price": 89.46,
+   "changePct": 3.23,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.81,
-   "changePct": 3.44,
+   "price": 96.07,
+   "changePct": 2.65,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.26,
-   "changePct": 0.81,
+   "price": 47.47,
+   "changePct": 1.26,
    "prevClose": 46.88,
-   "note": "Gasoline 25.24 · Diesel 91.28",
+   "note": "Gasoline 25.51 · Diesel 91.38",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.98,
-   "changePct": 1.64,
+   "price": 2.975,
+   "changePct": 1.47,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7501,
-   "changePct": 1.89,
+   "price": 2.7374,
+   "changePct": 1.42,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3225,
-   "changePct": 4.4,
+   "price": 4.3056,
+   "changePct": 3.99,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4119.7998,
-   "changePct": -0.72,
+   "price": 4125.3999,
+   "changePct": -0.59,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.275,
-   "changePct": -1.54,
+   "price": 52.6,
+   "changePct": -0.93,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3125,
-   "changePct": -1.67,
+   "price": 6.3205,
+   "changePct": -1.54,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.839,
-   "changePct": -1.12,
+   "price": 4.845,
+   "changePct": -1.0,
    "prevClose": 4.894,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.55,
-   "changePct": 0.3,
+   "price": 101.49,
+   "changePct": 0.24,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 23.99,
+   "price": 22.72,
    "changePct": null,
    "prevClose": 16.57,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T16:32:04Z"
+   "asOf": "2026-11-05T16:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
+   "source": "NPR",
+   "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture",
+   "body": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat"
+   ],
+   "publishedAt": "2026-11-05T16:30:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
    "source": "NPR",
    "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
@@ -809,17 +820,6 @@
     "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
    ],
    "publishedAt": "2026-11-05T12:02:24Z",
-   "topic": "News"
-  },
-  {
-   "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
-   "source": "NPR",
-   "summary": "Sen",
-   "body": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities"
-   ],
-   "publishedAt": "2026-11-05T11:45:30Z",
    "topic": "News"
   },
   {
