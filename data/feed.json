@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-05T18:02:04Z",
+ "updatedAt": "2026-11-05T18:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 735.705,
-   "changePct": -4.09,
+   "price": 737.34,
+   "changePct": -3.87,
    "prevClose": 767.05,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 651.02,
-   "changePct": -5.77,
+   "price": 652.76,
+   "changePct": -5.52,
    "prevClose": 690.885,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 516.2,
-   "changePct": -3.26,
+   "price": 517.28,
+   "changePct": -3.06,
    "prevClose": 533.62,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 271.11,
-   "changePct": -4.6,
+   "price": 272.01,
+   "changePct": -4.29,
    "prevClose": 284.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75697.6875,
-   "changePct": -5.88,
+   "price": 75826.3203,
+   "changePct": -5.72,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2248.6101,
-   "changePct": -7.16,
+   "price": 2249.1001,
+   "changePct": -7.14,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.5,
-   "changePct": 4.43,
+   "price": 90.56,
+   "changePct": 4.5,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": -6.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T17:12:49Z"
+   "asOf": "2026-11-05T18:11:23Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.55,
-   "changePct": 4.23,
+   "price": 97.59,
+   "changePct": 4.27,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": -10.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T17:12:49Z"
+   "asOf": "2026-11-05T18:11:23Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.98,
-   "changePct": 0.21,
+   "price": 46.71,
+   "changePct": -0.36,
    "prevClose": 46.88,
-   "note": "Gasoline 24.82 · Diesel 91.30",
+   "note": "Gasoline 24.57 · Diesel 90.99",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.978,
-   "changePct": 1.57,
+   "price": 2.977,
+   "changePct": 1.53,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7456,
-   "changePct": 1.72,
+   "price": 2.7411,
+   "changePct": 1.56,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3286,
-   "changePct": 4.55,
+   "price": 4.3227,
+   "changePct": 4.4,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3,
-   "changePct": -8.9,
+   "price": 4.32,
+   "changePct": -9.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T17:12:49Z"
+   "asOf": "2026-11-05T18:11:23Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.44,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T17:12:49Z"
+   "asOf": "2026-11-05T18:11:23Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T17:12:49Z"
+   "asOf": "2026-11-05T18:11:23Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,117 +252,108 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4114.7002,
-   "changePct": -0.85,
+   "price": 4109.2002,
+   "changePct": -0.98,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.42,
-   "changePct": -1.27,
+   "price": 52.32,
+   "changePct": -1.46,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.275,
-   "changePct": -2.25,
+   "price": 6.261,
+   "changePct": -2.47,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.831,
-   "changePct": -1.29,
+   "price": 4.818,
+   "changePct": -1.55,
    "prevClose": 4.894,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.414,
-   "changePct": 0.17,
+   "price": 101.399,
+   "changePct": 0.15,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 25.76,
+   "price": 26.94,
    "changePct": null,
    "prevClose": 16.57,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T18:02:04Z"
+   "asOf": "2026-11-05T18:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 20.9,
+   "price": 20.4,
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-05T17:12:49Z"
+   "asOf": "2026-11-05T18:11:23Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Light Rain",
-  "temp": 68,
+  "conditionText": "Chance Light Rain",
+  "temp": 69,
   "high": 71,
   "low": 60,
-  "humidity": 93,
+  "humidity": 90,
   "wind": 9,
-  "summary": "Rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 6 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. A chance of rain before 7pm, then rain and patchy fog between 7pm and 4am, then patchy…",
+  "summary": "A chance of rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 6 to 9 mph, with gusts as high as 21 mph. Chance of precipitation is 50%. A chance of rain before 7pm, then rain and patchy fog between 7pm and 4am, then patchy fog and a slight chance of rain. Mostly cloudy,…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-05T12:00:00-05:00",
-    "temp": 68,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 77,
-    "wind": 9,
-    "humidity": 93
-   },
    {
     "time": "2026-11-05T13:00:00-05:00",
     "temp": 69,
@@ -569,6 +560,15 @@
     "precipPct": 82,
     "wind": 1,
     "humidity": 90
+   },
+   {
+    "time": "2026-11-06T12:00:00-05:00",
+    "temp": 68,
+    "condition": "rain",
+    "conditionText": "Light Rain",
+    "precipPct": 82,
+    "wind": 2,
+    "humidity": 81
    }
   ],
   "daily": [
@@ -576,11 +576,11 @@
     "date": "2026-11-05",
     "high": 71,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 77,
+    "conditionText": "Chance Light Rain",
+    "precipPct": 45,
     "wind": 9,
     "windText": "S 6 to 9 mph",
-    "summary": "Rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 6 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
+    "summary": "A chance of rain. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. South wind 6 to 9 mph, with gusts as high as 21 mph. Chance of precipitation is 50%.",
     "low": 60,
     "night": {
      "low": 60,
@@ -701,6 +701,17 @@
   ]
  },
  "news": [
+  {
+   "title": "Head of Justice Department office on Civil Rights resigns",
+   "source": "NPR",
+   "summary": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+   "body": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
+   ],
+   "publishedAt": "2026-11-05T18:01:57Z",
+   "topic": "News"
+  },
   {
    "title": "French protests see numbers surge as unions join strikes over high cost of living",
    "source": "BBC",
@@ -832,17 +843,6 @@
    ],
    "publishedAt": "2026-11-05T12:06:59Z",
    "topic": "Independent"
-  },
-  {
-   "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-   "source": "NPR",
-   "summary": "Democrats have regained control of Congress",
-   "body": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
-   ],
-   "publishedAt": "2026-11-05T12:02:24Z",
-   "topic": "News"
   },
   {
    "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
