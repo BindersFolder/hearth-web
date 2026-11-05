@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T10:02:03Z",
+ "updatedAt": "2026-11-05T10:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 80313.5312,
-   "changePct": -0.14,
+   "price": 80336.0078,
+   "changePct": -0.11,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2413.73,
-   "changePct": -0.35,
+   "price": 2416.01,
+   "changePct": -0.25,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.43,
-   "changePct": 2.04,
+   "price": 88.68,
+   "changePct": 2.33,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.9,
-   "changePct": 2.47,
+   "price": 96.22,
+   "changePct": 2.81,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.85,
-   "changePct": 2.07,
+   "price": 47.78,
+   "changePct": 1.92,
    "prevClose": 46.88,
-   "note": "Gasoline 26.88 · Diesel 89.78",
+   "note": "Gasoline 26.87 · Diesel 89.62",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.933,
-   "changePct": 0.03,
+   "price": 2.941,
+   "changePct": 0.31,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7455,
-   "changePct": 1.72,
+   "price": 2.7511,
+   "changePct": 1.93,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2432,
-   "changePct": 2.48,
+   "price": 4.2452,
+   "changePct": 2.53,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4136.1001,
-   "changePct": -0.33,
+   "price": 4133.0,
+   "changePct": -0.4,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.725,
-   "changePct": -0.7,
+   "price": 52.685,
+   "changePct": -0.77,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.39,
-   "changePct": -0.46,
+   "price": 6.3965,
+   "changePct": -0.36,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.512,
-   "changePct": 0.26,
+   "price": 101.503,
+   "changePct": 0.25,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 16.99,
+   "price": 16.9,
    "changePct": null,
    "prevClose": 16.57,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T10:02:03Z"
+   "asOf": "2026-11-05T10:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -695,6 +695,17 @@
  },
  "news": [
   {
+   "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+   "source": "NPR",
+   "summary": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day",
+   "body": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction"
+   ],
+   "publishedAt": "2026-11-05T10:02:00Z",
+   "topic": "News"
+  },
+  {
    "title": "As budgets tighten, people are breaking out their library cards",
    "source": "NPR",
    "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
@@ -712,6 +723,17 @@
    "body": "A new Democratic majority in Congress could pressure the president to end the war in Iran. But it will be harder for them to directly affect fuel prices, which are tied to a complex international oil market.",
    "sources": [
     "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms"
+   ],
+   "publishedAt": "2026-11-05T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
+   "source": "NPR",
+   "summary": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
+   "body": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas"
    ],
    "publishedAt": "2026-11-05T10:00:00Z",
    "topic": "News"
@@ -747,17 +769,6 @@
     "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan"
    ],
    "publishedAt": "2026-11-05T07:02:12Z",
-   "topic": "News"
-  },
-  {
-   "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-   "source": "NPR",
-   "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-   "body": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
-   ],
-   "publishedAt": "2026-11-05T05:29:56Z",
    "topic": "News"
   },
   {
@@ -836,17 +847,6 @@
    ],
    "publishedAt": "2026-11-04T23:12:47Z",
    "topic": "World"
-  },
-  {
-   "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
-   "source": "NPR",
-   "summary": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
-   "body": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
-   "sources": [
-    "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
-   ],
-   "publishedAt": "2026-11-04T21:49:17Z",
-   "topic": "News"
   },
   {
    "title": "Israel's 11-Day Escalated Assault on Hebron",
