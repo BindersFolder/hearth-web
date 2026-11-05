@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T23:02:04Z",
+ "updatedAt": "2026-11-05T23:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75225.3594,
-   "changePct": -6.47,
+   "price": 75483.6328,
+   "changePct": -6.15,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2219.4199,
-   "changePct": -8.37,
+   "price": 2218.02,
+   "changePct": -8.43,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.2,
-   "changePct": 5.24,
+   "price": 91.15,
+   "changePct": 5.18,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T22:11:24Z"
+   "asOf": "2026-11-05T23:10:22Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 99.25,
-   "changePct": 6.05,
+   "price": 99.2,
+   "changePct": 5.99,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T22:11:24Z"
+   "asOf": "2026-11-05T23:10:22Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.85,
-   "changePct": 2.07,
+   "price": 47.6,
+   "changePct": 1.54,
    "prevClose": 46.88,
-   "note": "Gasoline 25.67 · Diesel 92.21",
+   "note": "Gasoline 25.28 · Diesel 92.26",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.952,
-   "changePct": 0.68,
+   "price": 2.957,
+   "changePct": 0.85,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7826,
-   "changePct": 3.09,
+   "price": 2.7721,
+   "changePct": 2.7,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.37,
-   "changePct": -3.8,
+   "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T22:11:24Z"
+   "asOf": "2026-11-05T23:10:22Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T22:11:24Z"
+   "asOf": "2026-11-05T23:10:22Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-05T22:11:24Z"
+   "asOf": "2026-11-05T23:10:22Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4097.8999,
-   "changePct": -1.25,
+   "price": 4096.7998,
+   "changePct": -1.28,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.83,
-   "changePct": -2.38,
+   "price": 51.74,
+   "changePct": -2.55,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.213,
-   "changePct": -3.22,
+   "price": 6.221,
+   "changePct": -3.09,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.589,
-   "changePct": 0.34,
+   "price": 101.566,
+   "changePct": 0.32,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T23:02:04Z"
+   "asOf": "2026-11-05T23:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-05T22:11:24Z"
+   "asOf": "2026-11-05T23:10:22Z"
   }
  ],
  "weather": {
@@ -347,22 +347,13 @@
   "condition": "rain",
   "conditionText": "Chance Rain Showers",
   "temp": 69,
-  "high": 71,
+  "high": 69,
   "low": 61,
-  "humidity": 90,
-  "wind": 8,
-  "summary": "A chance of rain showers. Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon. South wind around 9 mph. Chance of precipitation is 50%. A chance of rain showers before 7pm, then rain likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. Southwest wind 0 to 7…",
+  "humidity": 87,
+  "wind": 7,
+  "summary": "A chance of rain showers before 7pm, then rain likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. Southwest wind 0 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. A chance of rain showers before 7pm, then rain likely. Mostly…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-05T17:00:00-05:00",
-    "temp": 69,
-    "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 32,
-    "wind": 8,
-    "humidity": 90
-   },
    {
     "time": "2026-11-05T18:00:00-05:00",
     "temp": 69,
@@ -569,18 +560,20 @@
     "precipPct": 23,
     "wind": 1,
     "humidity": 70
+   },
+   {
+    "time": "2026-11-06T17:00:00-05:00",
+    "temp": 65,
+    "condition": "rain",
+    "conditionText": "Slight Chance Light Rain",
+    "precipPct": 23,
+    "wind": 1,
+    "humidity": 75
    }
   ],
   "daily": [
    {
     "date": "2026-11-05",
-    "high": 71,
-    "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 50,
-    "wind": 9,
-    "windText": "S 9 mph",
-    "summary": "A chance of rain showers. Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon. South wind around 9 mph. Chance of precipitation is 50%.",
     "low": 61,
     "night": {
      "low": 61,
@@ -588,7 +581,12 @@
      "conditionText": "Light Rain Likely",
      "summary": "A chance of rain showers before 7pm, then rain likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. Southwest wind 0 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
      "precipPct": 69
-    }
+    },
+    "high": 69,
+    "conditionText": "Light Rain Likely",
+    "condition": "rain",
+    "summary": "A chance of rain showers before 7pm, then rain likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. Southwest wind 0 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "precipPct": 69
    },
    {
     "date": "2026-11-06",
@@ -622,7 +620,7 @@
      "low": 46,
      "condition": "rain",
      "conditionText": "Rain Showers Likely",
-     "summary": "Rain showers likely. Mostly cloudy, with a low around 46. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
+     "summary": "Rain showers likely. Mostly cloudy, with a low around 46. Northwest wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
      "precipPct": 62
     }
    },
@@ -634,7 +632,7 @@
     "precipPct": 30,
     "wind": 12,
     "windText": "W 6 to 12 mph",
-    "summary": "A chance of rain showers before 7am. Mostly sunny, with a high near 62. Chance of precipitation is 30%.",
+    "summary": "A chance of rain showers before 7am. Mostly sunny. High near 62, with temperatures falling to around 57 in the afternoon. Chance of precipitation is 30%.",
     "low": 42,
     "night": {
      "low": 42,
@@ -709,8 +707,19 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-05T22:31:40Z",
+   "publishedAt": "2026-11-05T23:09:33Z",
    "topic": "World"
+  },
+  {
+   "title": "MAGA Influencer Russell Brand Convicted of Rape",
+   "source": "Zeteo",
+   "summary": "The British actor and comedian was found guilty of rape and sexual assault in the UK, just weeks after appearing onstage with one of Donald Trump’s top administration officials.",
+   "body": "The British actor and comedian was found guilty of rape and sexual assault in the UK, just weeks after appearing onstage with one of Donald Trump’s top administration officials.",
+   "sources": [
+    "https://zeteo.com/p/maga-influencer-russell-brand-convicted"
+   ],
+   "publishedAt": "2026-11-05T23:09:30Z",
+   "topic": "Independent"
   },
   {
    "title": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
@@ -864,17 +873,6 @@
     "https://zeteo.com/p/the-worlds-most-powerful-government"
    ],
    "publishedAt": "2026-11-05T16:02:42Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "First Draft: 🫣 Republicans Groan: Trump and Stephen Miller ‘Screwed’ Us, and Killed Our 2026 Dreams!",
-   "source": "Zeteo",
-   "summary": "GOP sources tell Zeteo everyone of influence knows why the midterms produced such a beating – and that change form Trump just won’t happen.",
-   "body": "GOP sources tell Zeteo everyone of influence knows why the midterms produced such a beating – and that change form Trump just won’t happen. Plus, is progressive opposition to Chuck Schumer stirring?",
-   "sources": [
-    "https://zeteo.com/p/republicans-groan-trump-and-stephen"
-   ],
-   "publishedAt": "2026-11-05T12:06:59Z",
    "topic": "Independent"
   }
  ],
