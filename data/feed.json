@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T22:17:03Z",
+ "updatedAt": "2026-11-05T22:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75940.5938,
-   "changePct": -5.58,
+   "price": 75846.6406,
+   "changePct": -5.7,
    "prevClose": 80428.2969,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2237.3701,
-   "changePct": -7.63,
+   "price": 2232.78,
+   "changePct": -7.82,
    "prevClose": 2422.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 46.88,
    "note": "Gasoline 25.67 · Diesel 92.21",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.584,
-   "changePct": 0.33,
+   "price": 101.585,
+   "changePct": 0.34,
    "prevClose": 101.245,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-05T22:17:03Z"
+   "asOf": "2026-11-05T22:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "California governor commutes sentences for state's 548 death row inmates",
+   "source": "BBC",
+   "summary": "California has historically had the largest population of people on death row in the US.",
+   "body": "California has historically had the largest population of people on death row in the US.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-05T22:31:40Z",
+   "topic": "World"
+  },
+  {
+   "title": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
+   "source": "Drop Site News",
+   "summary": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
+   "body": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
+   "sources": [
+    "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege"
+   ],
+   "publishedAt": "2026-11-05T22:19:00Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
    "source": "BBC",
    "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
@@ -722,17 +744,6 @@
    ],
    "publishedAt": "2026-11-05T21:28:20Z",
    "topic": "Independent"
-  },
-  {
-   "title": "California governor commutes sentences for state's 548 death row inmates",
-   "source": "BBC",
-   "summary": "California has historically had the largest population of people on death row in the US.",
-   "body": "California has historically had the largest population of people on death row in the US.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-05T21:25:48Z",
-   "topic": "World"
   },
   {
    "title": "Who could be behind hoax bomb threats to European air travel?",
@@ -864,17 +875,6 @@
     "https://zeteo.com/p/republicans-groan-trump-and-stephen"
    ],
    "publishedAt": "2026-11-05T12:06:59Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Israel's 11-Day Escalated Assault on Hebron",
-   "source": "Drop Site News",
-   "summary": "Thousands of Palestinians faced forced displacement during the duration of a heavy Israeli military operation on Hebron.",
-   "body": "Thousands of Palestinians faced forced displacement during the duration of a heavy Israeli military operation on Hebron.",
-   "sources": [
-    "https://www.dropsitenews.com/p/hebron-forced-displacement-israeli-operation"
-   ],
-   "publishedAt": "2026-11-04T21:03:48Z",
    "topic": "Independent"
   }
  ],
