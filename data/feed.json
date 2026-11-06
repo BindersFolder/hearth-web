@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T09:47:04Z",
+ "updatedAt": "2026-11-06T10:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76024.4766,
-   "changePct": 0.08,
+   "price": 76105.4375,
+   "changePct": 0.18,
    "prevClose": 75966.7109,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2236.5601,
-   "changePct": 0.09,
+   "price": 2236.8999,
+   "changePct": 0.1,
    "prevClose": 2234.6001,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.3,
-   "changePct": -2.35,
+   "price": 89.13,
+   "changePct": -2.54,
    "prevClose": 91.45,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.0,
-   "changePct": -2.67,
+   "price": 96.75,
+   "changePct": -2.92,
    "prevClose": 99.66,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 48.03,
-   "changePct": -0.04,
+   "price": 47.72,
+   "changePct": -0.69,
    "prevClose": 48.05,
-   "note": "Gasoline 25.87 · Diesel 92.35",
+   "note": "Gasoline 25.72 · Diesel 91.73",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.001,
-   "changePct": 1.52,
+   "price": 3.003,
+   "changePct": 1.59,
    "prevClose": 2.956,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7422,
-   "changePct": -1.92,
+   "price": 2.7346,
+   "changePct": -2.19,
    "prevClose": 2.7959,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3251,
-   "changePct": -1.08,
+   "price": 4.3061,
+   "changePct": -1.52,
    "prevClose": 4.3724,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.77,
    "note": "Week ago 4.2046 · Year ago 3.0844",
    "source": "AAA",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.3549 · Year ago 3.1145",
    "source": "AAA",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.41,
    "note": "Week ago 6.3204 · Year ago 3.7093",
    "source": "AAA",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.18,
    "note": "Week ago 6.4915 · Year ago 3.8832",
    "source": "AAA",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4084.2,
-   "changePct": 0.75,
+   "price": 4082.8,
+   "changePct": 0.72,
    "prevClose": 4053.8,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.07,
-   "changePct": 1.02,
+   "price": 52.045,
+   "changePct": 0.97,
    "prevClose": 51.545,
    "high52": 121.3,
    "low52": 48.01,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2745,
-   "changePct": 0.75,
+   "price": 6.266,
+   "changePct": 0.62,
    "prevClose": 6.2275,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.018,
-   "changePct": 0.25,
+   "price": 102.003,
+   "changePct": 0.24,
    "prevClose": 101.759,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 25.54,
+   "price": 25.44,
    "changePct": null,
    "prevClose": 28.15,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T09:47:04Z"
+   "asOf": "2026-11-06T10:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,7 +346,7 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
   "conditionText": "Chance Light Rain",
-  "temp": 65,
+  "temp": 64,
   "high": 69,
   "low": 51,
   "humidity": 97,
@@ -354,15 +354,6 @@
   "summary": "Rain and a slight chance of thunderstorms. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. North wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. A slight chance of rain before 7pm. Mostly cloudy, with a low around…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-06T04:00:00-05:00",
-    "temp": 65,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 44,
-    "wind": 1,
-    "humidity": 97
-   },
    {
     "time": "2026-11-06T05:00:00-05:00",
     "temp": 64,
@@ -569,6 +560,15 @@
     "precipPct": 1,
     "wind": 1,
     "humidity": 93
+   },
+   {
+    "time": "2026-11-07T04:00:00-05:00",
+    "temp": 53,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 2,
+    "wind": 1,
+    "humidity": 93
    }
   ],
   "daily": [
@@ -695,6 +695,50 @@
  },
  "news": [
   {
+   "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
+   "source": "NPR",
+   "summary": "Plus: Heidi Klum's hand, hackers and the pope's visitor!.",
+   "body": "Plus: Heidi Klum's hand, hackers and the pope's visitor!",
+   "sources": [
+    "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center"
+   ],
+   "publishedAt": "2026-11-06T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+   "source": "NPR",
+   "summary": "School enrollment was already expected to plunge by 2 million kids by 2030",
+   "body": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
+   "sources": [
+    "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate"
+   ],
+   "publishedAt": "2026-11-06T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "'Several victims' after bus crashes in France, officials say",
+   "source": "BBC",
+   "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
+   "body": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-06T09:57:11Z",
+   "topic": "World"
+  },
+  {
+   "title": "Morning news brief",
+   "source": "NPR",
+   "summary": "The Labor Department to release October jobs report Friday, what tactics are available to the Democratic Party to bring down fuel prices, judge blocks construction of Trump's arch for 14 days.",
+   "body": "The Labor Department to release October jobs report Friday, what tactics are available to the Democratic Party to bring down fuel prices, judge blocks construction of Trump's arch for 14 days.",
+   "sources": [
+    "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief"
+   ],
+   "publishedAt": "2026-11-06T09:47:37Z",
+   "topic": "News"
+  },
+  {
    "title": "Tanzanian opposition leader found guilty of incitement",
    "source": "BBC",
    "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
@@ -703,17 +747,6 @@
     "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-06T09:33:31Z",
-   "topic": "World"
-  },
-  {
-   "title": "'Several victims' after school bus crashes in France, officials say",
-   "source": "BBC",
-   "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\".",
-   "body": "The local mayor says the bus \"left the road and hit a tree in the ditch\".",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-06T09:32:03Z",
    "topic": "World"
   },
   {
@@ -769,39 +802,6 @@
     "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
    ],
    "publishedAt": "2026-11-06T05:05:43Z",
-   "topic": "News"
-  },
-  {
-   "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-   "source": "NPR",
-   "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
-   "body": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
-   ],
-   "publishedAt": "2026-11-06T00:16:53Z",
-   "topic": "News"
-  },
-  {
-   "title": "These are the races in the House and Senate that haven't been called yet",
-   "source": "NPR",
-   "summary": "Democrats are poised to have a strong majority in the upcoming Congress",
-   "body": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races"
-   ],
-   "publishedAt": "2026-11-06T00:03:45Z",
-   "topic": "News"
-  },
-  {
-   "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-   "source": "NPR",
-   "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
-   "body": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine"
-   ],
-   "publishedAt": "2026-11-05T23:52:48Z",
    "topic": "News"
   },
   {
