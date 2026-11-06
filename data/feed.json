@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T00:17:04Z",
+ "updatedAt": "2026-11-06T00:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76130.4922,
-   "changePct": 0.63,
+   "price": 76109.8438,
+   "changePct": 0.6,
    "prevClose": 75653.4531,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2237.9299,
-   "changePct": 0.58,
+   "price": 2239.55,
+   "changePct": 0.65,
    "prevClose": 2225.1101,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.06,
-   "changePct": 5.08,
+   "price": 90.9,
+   "changePct": 4.89,
    "prevClose": 86.66,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 99.01,
-   "changePct": 5.79,
+   "price": 98.91,
+   "changePct": 5.68,
    "prevClose": 93.59,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.72,
-   "changePct": 1.79,
+   "price": 47.82,
+   "changePct": 2.01,
    "prevClose": 46.88,
-   "note": "Gasoline 25.44 · Diesel 92.29",
+   "note": "Gasoline 25.57 · Diesel 92.32",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.943,
-   "changePct": 0.38,
+   "price": 2.937,
+   "changePct": 0.17,
    "prevClose": 2.932,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7738,
-   "changePct": 2.77,
+   "price": 2.7732,
+   "changePct": 2.75,
    "prevClose": 2.6991,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3655,
-   "changePct": 5.44,
+   "price": 4.3623,
+   "changePct": 5.36,
    "prevClose": 4.1404,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.57,
    "note": "Week ago 4.2258 · Year ago 3.079",
    "source": "AAA",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.31,
    "note": "Week ago 4.3638 · Year ago 3.1104",
    "source": "AAA",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.29,
    "note": "Week ago 6.3347 · Year ago 3.7049",
    "source": "AAA",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.13,
    "note": "Week ago 6.4957 · Year ago 3.8871",
    "source": "AAA",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4109.7002,
-   "changePct": -0.97,
+   "price": 4111.7002,
+   "changePct": -0.92,
    "prevClose": 4149.7998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.955,
-   "changePct": -2.15,
+   "price": 52.02,
+   "changePct": -2.02,
    "prevClose": 53.095,
    "high52": 121.3,
    "low52": 47.79,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2355,
-   "changePct": -2.87,
+   "price": 6.2395,
+   "changePct": -2.8,
    "prevClose": 6.4195,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T00:17:04Z"
+   "asOf": "2026-11-06T00:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -700,6 +700,17 @@
  },
  "news": [
   {
+   "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+   "source": "NPR",
+   "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+   "body": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+   "sources": [
+    "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
+   ],
+   "publishedAt": "2026-11-06T00:16:53Z",
+   "topic": "News"
+  },
+  {
    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
    "source": "BBC",
    "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
@@ -722,6 +733,17 @@
    "topic": "News"
   },
   {
+   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "source": "BBC",
+   "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+   "body": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-06T00:02:57Z",
+   "topic": "World"
+  },
+  {
    "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
    "source": "NPR",
    "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
@@ -742,6 +764,17 @@
    ],
    "publishedAt": "2026-11-05T23:34:36Z",
    "topic": "News"
+  },
+  {
+   "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+   "source": "BBC",
+   "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+   "body": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-05T23:31:35Z",
+   "topic": "World"
   },
   {
    "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -788,17 +821,6 @@
    "topic": "Independent"
   },
   {
-   "title": "Who could be behind hoax bomb threats to European air travel?",
-   "source": "BBC",
-   "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-   "body": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-05T19:58:40Z",
-   "topic": "World"
-  },
-  {
    "title": "Eight killed in series of shootings in western Turkey",
    "source": "BBC",
    "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
@@ -807,17 +829,6 @@
     "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-05T19:32:54Z",
-   "topic": "World"
-  },
-  {
-   "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-   "source": "BBC",
-   "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-   "body": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-05T19:08:08Z",
    "topic": "World"
   },
   {
@@ -840,17 +851,6 @@
     "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
    ],
    "publishedAt": "2026-11-05T18:30:16Z",
-   "topic": "News"
-  },
-  {
-   "title": "Head of Justice Department office on Civil Rights resigns",
-   "source": "NPR",
-   "summary": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
-   "body": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
-   "sources": [
-    "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
-   ],
-   "publishedAt": "2026-11-05T18:01:57Z",
    "topic": "News"
   },
   {
