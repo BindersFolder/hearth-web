@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-06T16:02:04Z",
+ "updatedAt": "2026-11-06T16:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 739.01,
-   "changePct": 1.2,
+   "price": 738.5935,
+   "changePct": 1.15,
    "prevClose": 730.22,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 658.555,
-   "changePct": 2.08,
+   "price": 658.105,
+   "changePct": 2.01,
    "prevClose": 645.11,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 514.755,
+   "price": 514.73,
    "changePct": 0.65,
    "prevClose": 511.43,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 272.385,
+   "price": 272.395,
    "changePct": 0.94,
    "prevClose": 269.86,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75687.1875,
-   "changePct": -0.37,
+   "price": 75411.2969,
+   "changePct": -0.73,
    "prevClose": 75966.7109,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2226.71,
-   "changePct": -0.35,
+   "price": 2219.9299,
+   "changePct": -0.66,
    "prevClose": 2234.6001,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.28,
-   "changePct": -1.28,
+   "price": 90.15,
+   "changePct": -1.42,
    "prevClose": 91.45,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T15:16:34Z"
+   "asOf": "2026-11-06T16:11:02Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.06,
-   "changePct": -2.61,
+   "price": 97.07,
+   "changePct": -2.6,
    "prevClose": 99.66,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T15:16:34Z"
+   "asOf": "2026-11-06T16:11:02Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.39,
-   "changePct": -3.45,
+   "price": 46.6,
+   "changePct": -3.02,
    "prevClose": 48.05,
-   "note": "Gasoline 24.92 · Diesel 89.33",
+   "note": "Gasoline 24.99 · Diesel 89.80",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.938,
-   "changePct": -0.61,
+   "price": 2.966,
+   "changePct": 0.34,
    "prevClose": 2.956,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7429,
-   "changePct": -1.9,
+   "price": 2.7415,
+   "changePct": -1.95,
    "prevClose": 2.7959,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2764,
-   "changePct": -2.2,
+   "price": 4.2846,
+   "changePct": -2.01,
    "prevClose": 4.3724,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.29,
+   "price": 4.28,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T15:16:34Z"
+   "asOf": "2026-11-06T16:11:02Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": -6.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T15:16:34Z"
+   "asOf": "2026-11-06T16:11:02Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": -3.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T15:16:34Z"
+   "asOf": "2026-11-06T16:11:02Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.77,
    "note": "Week ago 4.2046 · Year ago 3.0844",
    "source": "AAA",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.3549 · Year ago 3.1145",
    "source": "AAA",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.41,
    "note": "Week ago 6.3204 · Year ago 3.7093",
    "source": "AAA",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.18,
    "note": "Week ago 6.4915 · Year ago 3.8832",
    "source": "AAA",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4063.3999,
-   "changePct": 0.24,
+   "price": 4071.2,
+   "changePct": 0.43,
    "prevClose": 4053.8,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.975,
-   "changePct": 0.83,
+   "price": 51.965,
+   "changePct": 0.81,
    "prevClose": 51.545,
    "high52": 121.3,
    "low52": 48.01,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.271,
-   "changePct": 0.7,
+   "price": 6.267,
+   "changePct": 0.63,
    "prevClose": 6.2275,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.859,
-   "changePct": 0.45,
+   "price": 4.855,
+   "changePct": 0.37,
    "prevClose": 4.837,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.173,
+   "price": 102.176,
    "changePct": 0.41,
    "prevClose": 101.759,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.43,
+   "price": 24.81,
    "changePct": null,
    "prevClose": 28.15,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T16:02:04Z"
+   "asOf": "2026-11-06T16:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 20.1,
+   "price": 24.1,
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-06T15:16:34Z"
+   "asOf": "2026-11-06T16:11:02Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "The push to replace Schumer as Senate leader; 94% of Gaza’s population needs shelter assistance; Paraguay’s president resigns",
+   "source": "Drop Site News",
+   "summary": "Drop Site Daily: November 6, 2026.",
+   "body": "Drop Site Daily: November 6, 2026",
+   "sources": [
+    "https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests"
+   ],
+   "publishedAt": "2026-11-06T16:05:03Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Two dead after bus crashes in France, officials say",
    "source": "BBC",
    "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
@@ -864,17 +875,6 @@
     "https://theintercept.com/2026/11/05/abdul-el-sayed-senate-israel-palestine/"
    ],
    "publishedAt": "2026-11-05T21:28:20Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "GOP infighting begins; Civil-society groups propose delaying fight over Iran war until 2027; Saudi-Syria defense deal",
-   "source": "Drop Site News",
-   "summary": "Drop Site Daily: November 5, 2026.",
-   "body": "Drop Site Daily: November 5, 2026",
-   "sources": [
-    "https://www.dropsitenews.com/p/gop-infighting-trump-hegseth-civil-society-iran-saudi-syria-defense"
-   ],
-   "publishedAt": "2026-11-05T16:49:27Z",
    "topic": "Independent"
   }
  ],
