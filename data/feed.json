@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T11:47:04Z",
+ "updatedAt": "2026-11-06T12:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 76047.5234,
-   "changePct": 0.11,
+   "price": 75997.6172,
+   "changePct": 0.04,
    "prevClose": 75966.7109,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2241.5901,
-   "changePct": 0.31,
+   "price": 2238.9099,
+   "changePct": 0.19,
    "prevClose": 2234.6001,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.0,
-   "changePct": -0.49,
+   "price": 90.89,
+   "changePct": -0.61,
    "prevClose": 91.45,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.58,
-   "changePct": -0.98,
+   "price": 47.96,
+   "changePct": -0.19,
    "prevClose": 48.05,
-   "note": "Gasoline 25.00 · Diesel 92.74",
+   "note": "Gasoline 25.31 · Diesel 93.27",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.007,
-   "changePct": 1.73,
+   "price": 3.012,
+   "changePct": 1.89,
    "prevClose": 2.956,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7618,
-   "changePct": -1.22,
+   "price": 2.7666,
+   "changePct": -1.05,
    "prevClose": 2.7959,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3748,
-   "changePct": 0.05,
+   "price": 4.3847,
+   "changePct": 0.28,
    "prevClose": 4.3724,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.77,
    "note": "Week ago 4.2046 · Year ago 3.0844",
    "source": "AAA",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.3549 · Year ago 3.1145",
    "source": "AAA",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.41,
    "note": "Week ago 6.3204 · Year ago 3.7093",
    "source": "AAA",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.18,
    "note": "Week ago 6.4915 · Year ago 3.8832",
    "source": "AAA",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4081.0,
-   "changePct": 0.67,
+   "price": 4077.6001,
+   "changePct": 0.59,
    "prevClose": 4053.8,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.115,
-   "changePct": 1.11,
+   "price": 52.18,
+   "changePct": 1.23,
    "prevClose": 51.545,
    "high52": 121.3,
    "low52": 48.01,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2595,
-   "changePct": 0.51,
+   "price": 6.26,
+   "changePct": 0.52,
    "prevClose": 6.2275,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.969,
-   "changePct": 0.21,
+   "price": 101.967,
+   "changePct": 0.2,
    "prevClose": 101.759,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.67,
+   "price": 26.5,
    "changePct": null,
    "prevClose": 28.15,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T11:47:04Z"
+   "asOf": "2026-11-06T12:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -345,13 +345,13 @@
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Chance Light Rain",
-  "temp": 64,
+  "conditionText": "Light Rain",
+  "temp": 63,
   "high": 69,
   "low": 51,
   "humidity": 97,
   "wind": 0,
-  "summary": "Rain and a slight chance of thunderstorms. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. North wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. A slight chance of rain before 7pm. Mostly cloudy, with a low around…",
+  "summary": "Rain. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. North wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. A slight chance of rain before 7pm. Mostly cloudy, with a low around 51. Southwest wind around 1 mph. Chance…",
   "alerts": [
    {
     "title": "Special Weather Statement",
@@ -373,15 +373,6 @@
    }
   ],
   "hourly": [
-   {
-    "time": "2026-11-06T06:00:00-05:00",
-    "temp": 64,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 44,
-    "wind": 0,
-    "humidity": 97
-   },
    {
     "time": "2026-11-06T07:00:00-05:00",
     "temp": 63,
@@ -588,6 +579,15 @@
     "precipPct": 2,
     "wind": 1,
     "humidity": 96
+   },
+   {
+    "time": "2026-11-07T06:00:00-05:00",
+    "temp": 52,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 2,
+    "wind": 1,
+    "humidity": 93
    }
   ],
   "daily": [
@@ -599,7 +599,7 @@
     "precipPct": 85,
     "wind": 2,
     "windText": "N 2 mph",
-    "summary": "Rain and a slight chance of thunderstorms. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. North wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
+    "summary": "Rain. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. North wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
     "low": 51,
     "night": {
      "low": 51,
@@ -721,6 +721,28 @@
  },
  "news": [
   {
+   "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+   "source": "NPR",
+   "summary": "Dr.",
+   "body": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
+   "sources": [
+    "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook"
+   ],
+   "publishedAt": "2026-11-06T11:57:32Z",
+   "topic": "News"
+  },
+  {
+   "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+   "source": "BBC",
+   "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+   "body": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-06T11:54:08Z",
+   "topic": "World"
+  },
+  {
    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
    "source": "BBC",
    "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
@@ -809,17 +831,6 @@
    "topic": "News"
   },
   {
-   "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-   "source": "NPR",
-   "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
-   "body": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
-   "sources": [
-    "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip"
-   ],
-   "publishedAt": "2026-11-06T09:19:57Z",
-   "topic": "News"
-  },
-  {
    "title": "Trump signs order to preserve Oval Office as national monument",
    "source": "BBC",
    "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
@@ -828,17 +839,6 @@
     "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-06T09:19:57Z",
-   "topic": "World"
-  },
-  {
-   "title": "Somalia's top court rejects president's term extension amid political crisis",
-   "source": "BBC",
-   "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-   "body": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-06T08:18:10Z",
    "topic": "World"
   },
   {
