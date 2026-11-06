@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-06T15:02:03Z",
+ "updatedAt": "2026-11-06T15:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 739.73,
-   "changePct": 1.3,
+   "price": 740.5,
+   "changePct": 1.41,
    "prevClose": 730.22,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 661.33,
-   "changePct": 2.51,
+   "price": 660.2,
+   "changePct": 2.34,
    "prevClose": 645.11,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 513.19,
-   "changePct": 0.34,
+   "price": 514.98,
+   "changePct": 0.69,
    "prevClose": 511.43,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 271.9,
-   "changePct": 0.76,
+   "price": 273.4,
+   "changePct": 1.31,
    "prevClose": 269.86,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75342.3672,
-   "changePct": -0.82,
+   "price": 75519.8438,
+   "changePct": -0.59,
    "prevClose": 75966.7109,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2222.1699,
-   "changePct": -0.56,
+   "price": 2225.75,
+   "changePct": -0.4,
    "prevClose": 2234.6001,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.83,
-   "changePct": -0.68,
+   "price": 90.64,
+   "changePct": -0.89,
    "prevClose": 91.45,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T14:17:28Z"
+   "asOf": "2026-11-06T15:16:34Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.95,
-   "changePct": -1.72,
+   "price": 97.76,
+   "changePct": -1.91,
    "prevClose": 99.66,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T14:17:28Z"
+   "asOf": "2026-11-06T15:16:34Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.68,
-   "changePct": -2.85,
+   "price": 46.58,
+   "changePct": -3.06,
    "prevClose": 48.05,
-   "note": "Gasoline 24.98 · Diesel 90.06",
+   "note": "Gasoline 25.13 · Diesel 89.48",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.99,
-   "changePct": 1.15,
+   "price": 2.987,
+   "changePct": 1.05,
    "prevClose": 2.956,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7575,
-   "changePct": -1.37,
+   "price": 2.7564,
+   "changePct": -1.41,
    "prevClose": 2.7959,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3069,
-   "changePct": -1.5,
+   "price": 4.2885,
+   "changePct": -1.92,
    "prevClose": 4.3724,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.33,
+   "price": 4.29,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T14:17:28Z"
+   "asOf": "2026-11-06T15:16:34Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": -6.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T14:17:28Z"
+   "asOf": "2026-11-06T15:16:34Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": -3.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-06T14:17:28Z"
+   "asOf": "2026-11-06T15:16:34Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.77,
    "note": "Week ago 4.2046 · Year ago 3.0844",
    "source": "AAA",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.3549 · Year ago 3.1145",
    "source": "AAA",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.41,
    "note": "Week ago 6.3204 · Year ago 3.7093",
    "source": "AAA",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.18,
    "note": "Week ago 6.4915 · Year ago 3.8832",
    "source": "AAA",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4052.2,
-   "changePct": -0.04,
+   "price": 4055.8999,
+   "changePct": 0.05,
    "prevClose": 4053.8,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.965,
-   "changePct": 0.81,
+   "price": 51.785,
+   "changePct": 0.47,
    "prevClose": 51.545,
    "high52": 121.3,
    "low52": 48.01,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2695,
-   "changePct": 0.67,
+   "price": 6.2635,
+   "changePct": 0.58,
    "prevClose": 6.2275,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.886,
-   "changePct": 1.01,
+   "price": 4.872,
+   "changePct": 0.72,
    "prevClose": 4.837,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.212,
-   "changePct": 0.45,
+   "price": 102.161,
+   "changePct": 0.4,
    "prevClose": 101.759,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.3,
+   "price": 24.36,
    "changePct": null,
    "prevClose": 28.15,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-06T15:02:03Z"
+   "asOf": "2026-11-06T15:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-06T14:17:28Z"
+   "asOf": "2026-11-06T15:16:34Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Light Rain",
-  "temp": 64,
+  "conditionText": "Light Rain Likely",
+  "temp": 65,
   "high": 69,
   "low": 51,
-  "humidity": 100,
+  "humidity": 97,
   "wind": 1,
   "summary": "Rain. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. North wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. A slight chance of rain before 7pm. Mostly cloudy, with a low around 51. Southwest wind around 1 mph. Chance…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-06T09:00:00-05:00",
-    "temp": 64,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 85,
-    "wind": 1,
-    "humidity": 100
-   },
    {
     "time": "2026-11-06T10:00:00-05:00",
     "temp": 65,
@@ -569,6 +560,15 @@
     "precipPct": 1,
     "wind": 1,
     "humidity": 100
+   },
+   {
+    "time": "2026-11-07T09:00:00-05:00",
+    "temp": 55,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 1,
+    "wind": 1,
+    "humidity": 100
    }
   ],
   "daily": [
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Two dead after bus crashes in France, officials say",
+   "source": "BBC",
+   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "body": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-06T15:13:23Z",
+   "topic": "World"
+  },
+  {
    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
    "source": "BBC",
    "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
@@ -732,17 +743,6 @@
     "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-06T14:46:03Z",
-   "topic": "World"
-  },
-  {
-   "title": "Two dead after bus crashes in France, officials say",
-   "source": "BBC",
-   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-   "body": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-06T14:33:34Z",
    "topic": "World"
   },
   {
