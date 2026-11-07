@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T21:02:04Z",
+ "updatedAt": "2026-11-07T21:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75582.25,
-   "changePct": -0.2,
+   "price": 75520.4219,
+   "changePct": -0.28,
    "prevClose": 75731.0391,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2224.8301,
-   "changePct": -0.47,
+   "price": 2223.54,
+   "changePct": -0.53,
    "prevClose": 2235.4099,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-07T20:10:11Z"
+   "asOf": "2026-11-07T21:10:39Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-07T20:10:11Z"
+   "asOf": "2026-11-07T21:10:39Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 4.33,
    "changePct": -0.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-07T20:10:11Z"
+   "asOf": "2026-11-07T21:10:39Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-07T20:10:11Z"
+   "asOf": "2026-11-07T21:10:39Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-07T20:10:11Z"
+   "asOf": "2026-11-07T21:10:39Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.78,
    "note": "Week ago 4.1837 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3487 · Year ago 3.1162",
    "source": "AAA",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.37,
    "note": "Week ago 6.3101 · Year ago 3.7146",
    "source": "AAA",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.18,
    "note": "Week ago 6.4896 · Year ago 3.8864",
    "source": "AAA",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T21:02:04Z"
+   "asOf": "2026-11-07T21:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-07T20:10:11Z"
+   "asOf": "2026-11-07T21:10:39Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "rain",
-  "conditionText": "Chance Rain Showers",
-  "temp": 59,
+  "condition": "sun",
+  "conditionText": "Mostly Sunny",
+  "temp": 56,
   "high": 61,
   "low": 44,
-  "humidity": 55,
-  "wind": 13,
-  "summary": "A chance of rain showers before 4pm. Partly sunny. High near 61, with temperatures falling to around 53 in the afternoon. West wind around 14 mph. Chance of precipitation is 30%. A chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 44. West wind around 14 mph. Chance of precipitation is 30%. Mostly…",
+  "humidity": 59,
+  "wind": 14,
+  "summary": "Mostly sunny. High near 61, with temperatures falling to around 53 in the afternoon. West wind around 14 mph. A chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 44. West wind around 14 mph. Chance of precipitation is 30%. Mostly sunny. High near 62, with temperatures falling to around 57 in the…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-07T15:00:00-05:00",
-    "temp": 59,
-    "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 13,
-    "humidity": 55
-   },
    {
     "time": "2026-11-07T16:00:00-05:00",
     "temp": 56,
@@ -569,18 +560,27 @@
     "precipPct": 0,
     "wind": 12,
     "humidity": 46
+   },
+   {
+    "time": "2026-11-08T15:00:00-05:00",
+    "temp": 61,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 10,
+    "humidity": 46
    }
   ],
   "daily": [
    {
     "date": "2026-11-07",
     "high": 61,
-    "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 5,
     "wind": 14,
     "windText": "W 14 mph",
-    "summary": "A chance of rain showers before 4pm. Partly sunny. High near 61, with temperatures falling to around 53 in the afternoon. West wind around 14 mph. Chance of precipitation is 30%.",
+    "summary": "Mostly sunny. High near 61, with temperatures falling to around 53 in the afternoon. West wind around 14 mph.",
     "low": 44,
     "night": {
      "low": 44,
@@ -702,23 +702,23 @@
  },
  "news": [
   {
-   "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+   "title": "What we know so far after three bodies found at home of Krakow gunman",
    "source": "BBC",
-   "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-   "body": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+   "body": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-07T20:23:17Z",
+   "publishedAt": "2026-11-07T21:13:24Z",
    "topic": "World"
   },
   {
-   "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+   "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
    "source": "NPR",
-   "summary": "Gadi Eisenkot ran as the main challenger to Prime Minister Benjamin Netanyahu — neither won a clear majority",
-   "body": "Gadi Eisenkot ran as the main challenger to Prime Minister Benjamin Netanyahu — neither won a clear majority. Israel's main parties have recommended Eisenkot put together a new government.",
+   "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority",
+   "body": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
    "sources": [
-    "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu"
+    "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
    ],
    "publishedAt": "2026-11-07T20:18:18Z",
    "topic": "News"
