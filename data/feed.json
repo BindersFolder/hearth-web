@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T07:25:27Z",
+ "updatedAt": "2026-11-07T07:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75914.7422,
+   "price": 75909.5938,
    "changePct": 0.24,
    "prevClose": 75731.0391,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2242.03,
-   "changePct": 0.3,
-   "prevClose": 2235.3999,
+   "price": 2241.2,
+   "changePct": 0.26,
+   "prevClose": 2235.4099,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.77,
    "note": "Week ago 4.2046 · Year ago 3.0844",
    "source": "AAA",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.3549 · Year ago 3.1145",
    "source": "AAA",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.41,
    "note": "Week ago 6.3204 · Year ago 3.7093",
    "source": "AAA",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.18,
    "note": "Week ago 6.4915 · Year ago 3.8832",
    "source": "AAA",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-07T07:25:27Z"
+   "asOf": "2026-11-07T07:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,267 +344,283 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "fog",
-  "conditionText": "Patchy Fog",
-  "temp": 56,
-  "high": 61,
-  "low": 44,
-  "humidity": 93,
-  "wind": 0,
-  "summary": "Patchy fog before 7am, then a chance of rain showers between 10am and 4pm. Partly sunny. High near 61, with temperatures falling to around 53 in the afternoon. Northwest wind 1 to 14 mph. Chance of precipitation is 30%. A chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 44. West wind around 14…",
+  "condition": "clearNight",
+  "conditionText": "Partly Cloudy",
+  "temp": 54,
+  "high": 50,
+  "low": 50,
+  "humidity": 96,
+  "wind": 1,
+  "summary": "Partly cloudy, with a low around 50. West wind around 1 mph. Partly cloudy, with a low around 50. West wind around 1 mph. A slight chance of rain showers between 10am and 4pm. Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 2 to 10 mph. Chance of precipitation is 20%.",
   "alerts": [],
   "hourly": [
    {
     "time": "2026-11-07T02:00:00-05:00",
-    "temp": 56,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 8,
-    "wind": 0,
-    "humidity": 93
+    "temp": 54,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 2,
+    "wind": 1,
+    "humidity": 96
    },
    {
     "time": "2026-11-07T03:00:00-05:00",
-    "temp": 55,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 7,
+    "temp": 53,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 2,
     "wind": 1,
-    "humidity": 100
+    "humidity": 96
    },
    {
     "time": "2026-11-07T04:00:00-05:00",
-    "temp": 53,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 5,
+    "temp": 52,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 2,
     "wind": 1,
     "humidity": 100
    },
    {
     "time": "2026-11-07T05:00:00-05:00",
     "temp": 51,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
-    "precipPct": 4,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 2,
     "wind": 1,
     "humidity": 100
    },
    {
     "time": "2026-11-07T06:00:00-05:00",
     "temp": 51,
-    "condition": "fog",
-    "conditionText": "Patchy Fog",
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
     "precipPct": 2,
-    "wind": 1,
+    "wind": 2,
     "humidity": 96
    },
    {
     "time": "2026-11-07T07:00:00-05:00",
-    "temp": 51,
+    "temp": 52,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 4,
-    "wind": 3,
-    "humidity": 96
+    "precipPct": 8,
+    "wind": 2,
+    "humidity": 93
    },
    {
     "time": "2026-11-07T08:00:00-05:00",
     "temp": 53,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 4,
-    "wind": 6,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 8,
+    "wind": 2,
     "humidity": 93
    },
    {
     "time": "2026-11-07T09:00:00-05:00",
-    "temp": 56,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 4,
-    "wind": 8,
-    "humidity": 83
+    "temp": 54,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 8,
+    "wind": 3,
+    "humidity": 93
    },
    {
     "time": "2026-11-07T10:00:00-05:00",
-    "temp": 58,
+    "temp": 56,
     "condition": "rain",
     "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 23,
-    "wind": 9,
-    "humidity": 77
+    "precipPct": 21,
+    "wind": 5,
+    "humidity": 90
    },
    {
     "time": "2026-11-07T11:00:00-05:00",
-    "temp": 60,
+    "temp": 58,
     "condition": "rain",
     "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 23,
-    "wind": 10,
-    "humidity": 69
+    "precipPct": 21,
+    "wind": 6,
+    "humidity": 80
    },
    {
     "time": "2026-11-07T12:00:00-05:00",
-    "temp": 61,
+    "temp": 60,
     "condition": "rain",
     "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 23,
-    "wind": 10,
-    "humidity": 65
+    "precipPct": 21,
+    "wind": 7,
+    "humidity": 69
    },
    {
     "time": "2026-11-07T13:00:00-05:00",
-    "temp": 61,
+    "temp": 62,
     "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 10,
-    "humidity": 60
+    "conditionText": "Slight Chance Rain Showers",
+    "precipPct": 17,
+    "wind": 8,
+    "humidity": 62
    },
    {
     "time": "2026-11-07T14:00:00-05:00",
-    "temp": 60,
+    "temp": 62,
     "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 12,
+    "conditionText": "Slight Chance Rain Showers",
+    "precipPct": 17,
+    "wind": 9,
     "humidity": 58
    },
    {
     "time": "2026-11-07T15:00:00-05:00",
-    "temp": 58,
+    "temp": 62,
     "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 13,
-    "humidity": 57
+    "conditionText": "Slight Chance Rain Showers",
+    "precipPct": 17,
+    "wind": 9,
+    "humidity": 56
    },
    {
     "time": "2026-11-07T16:00:00-05:00",
-    "temp": 56,
+    "temp": 61,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 5,
-    "wind": 14,
-    "humidity": 59
+    "precipPct": 14,
+    "wind": 10,
+    "humidity": 53
    },
    {
     "time": "2026-11-07T17:00:00-05:00",
-    "temp": 53,
+    "temp": 58,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 5,
-    "wind": 14,
-    "humidity": 64
+    "precipPct": 14,
+    "wind": 9,
+    "humidity": 57
    },
    {
     "time": "2026-11-07T18:00:00-05:00",
-    "temp": 50,
+    "temp": 54,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
-    "precipPct": 5,
-    "wind": 13,
-    "humidity": 71
+    "precipPct": 14,
+    "wind": 8,
+    "humidity": 66
    },
    {
     "time": "2026-11-07T19:00:00-05:00",
-    "temp": 47,
-    "condition": "rain",
-    "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 20,
-    "wind": 12,
-    "humidity": 79
+    "temp": 51,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 12,
+    "wind": 7,
+    "humidity": 66
    },
    {
     "time": "2026-11-07T20:00:00-05:00",
-    "temp": 46,
-    "condition": "rain",
-    "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 20,
-    "wind": 12,
-    "humidity": 83
+    "temp": 50,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 12,
+    "wind": 7,
+    "humidity": 68
    },
    {
     "time": "2026-11-07T21:00:00-05:00",
-    "temp": 45,
-    "condition": "rain",
-    "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 20,
-    "wind": 12,
-    "humidity": 82
+    "temp": 48,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 12,
+    "wind": 8,
+    "humidity": 74
    },
    {
     "time": "2026-11-07T22:00:00-05:00",
-    "temp": 44,
+    "temp": 47,
     "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 12,
-    "humidity": 86
+    "conditionText": "Slight Chance Light Rain",
+    "precipPct": 15,
+    "wind": 8,
+    "humidity": 76
    },
    {
     "time": "2026-11-07T23:00:00-05:00",
-    "temp": 44,
+    "temp": 47,
     "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 12,
-    "humidity": 86
+    "conditionText": "Slight Chance Light Rain",
+    "precipPct": 15,
+    "wind": 8,
+    "humidity": 76
    },
    {
     "time": "2026-11-08T00:00:00-05:00",
-    "temp": 44,
+    "temp": 47,
     "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 13,
-    "humidity": 86
+    "conditionText": "Slight Chance Light Rain",
+    "precipPct": 15,
+    "wind": 8,
+    "humidity": 76
    },
    {
     "time": "2026-11-08T01:00:00-05:00",
-    "temp": 44,
+    "temp": 47,
     "condition": "cloud",
     "conditionText": "Mostly Cloudy",
-    "precipPct": 11,
-    "wind": 13,
-    "humidity": 86
+    "precipPct": 2,
+    "wind": 8,
+    "humidity": 76
    }
   ],
   "daily": [
    {
+    "date": "2026-11-06",
+    "low": 50,
+    "night": {
+     "low": 50,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 50. West wind around 1 mph.",
+     "precipPct": 7
+    },
+    "high": 50,
+    "conditionText": "Partly Cloudy",
+    "condition": "clearNight",
+    "summary": "Partly cloudy, with a low around 50. West wind around 1 mph.",
+    "precipPct": 7
+   },
+   {
     "date": "2026-11-07",
+    "high": 62,
+    "condition": "rain",
+    "conditionText": "Slight Chance Rain Showers",
+    "precipPct": 21,
+    "wind": 10,
+    "windText": "W 2 to 10 mph",
+    "summary": "A slight chance of rain showers between 10am and 4pm. Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 2 to 10 mph. Chance of precipitation is 20%.",
     "low": 44,
     "night": {
      "low": 44,
      "condition": "rain",
-     "conditionText": "Chance Rain Showers",
-     "summary": "A chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 44. West wind around 14 mph. Chance of precipitation is 30%.",
-     "precipPct": 30
-    },
-    "high": 61,
-    "condition": "rain",
-    "conditionText": "Chance Rain Showers",
-    "precipPct": 30,
-    "wind": 14,
-    "windText": "NW 1 to 14 mph",
-    "summary": "Patchy fog before 7am, then a chance of rain showers between 10am and 4pm. Partly sunny. High near 61, with temperatures falling to around 53 in the afternoon. Northwest wind 1 to 14 mph. Chance of precipitation is 30%."
+     "conditionText": "Slight Chance Light Rain",
+     "summary": "A slight chance of rain between 10pm and 1am. Partly cloudy. Low around 44, with temperatures rising to around 47 overnight. West wind 7 to 10 mph. Chance of precipitation is 20%.",
+     "precipPct": 15
+    }
    },
    {
     "date": "2026-11-08",
     "high": 62,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 4,
-    "wind": 16,
-    "windText": "W 7 to 16 mph",
-    "summary": "Mostly sunny. High near 62, with temperatures falling to around 59 in the afternoon. West wind 7 to 16 mph.",
-    "low": 42,
+    "precipPct": 2,
+    "wind": 12,
+    "windText": "W 5 to 12 mph",
+    "summary": "Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 5 to 12 mph.",
+    "low": 43,
     "night": {
-     "low": 42,
+     "low": 43,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 42. West wind 6 to 10 mph.",
+     "summary": "Mostly clear, with a low around 43. Southwest wind around 6 mph.",
      "precipPct": 0
     }
    },
@@ -613,35 +629,35 @@
     "high": 59,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 10,
+    "precipPct": 0,
     "wind": 15,
-    "windText": "W 9 to 15 mph",
-    "summary": "Mostly sunny. High near 59, with temperatures falling to around 54 in the afternoon.",
+    "windText": "W 7 to 15 mph",
+    "summary": "Mostly sunny. High near 59, with temperatures falling to around 55 in the afternoon.",
     "low": 39,
     "night": {
      "low": 39,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
      "summary": "Partly cloudy, with a low around 39.",
-     "precipPct": 10
+     "precipPct": 0
     }
    },
    {
     "date": "2026-11-10",
-    "high": 63,
+    "high": 64,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
     "precipPct": 0,
-    "wind": 9,
-    "windText": "SW 3 to 9 mph",
-    "summary": "Mostly sunny, with a high near 63.",
+    "wind": 10,
+    "windText": "SW 5 to 10 mph",
+    "summary": "Mostly sunny, with a high near 64.",
     "low": 40,
     "night": {
      "low": 40,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
      "summary": "Mostly clear, with a low around 40.",
-     "precipPct": 1
+     "precipPct": 0
     }
    },
    {
@@ -650,46 +666,35 @@
     "condition": "sun",
     "conditionText": "Mostly Sunny",
     "precipPct": 0,
-    "wind": 8,
-    "windText": "W 3 to 8 mph",
+    "wind": 9,
+    "windText": "W 3 to 9 mph",
     "summary": "Mostly sunny, with a high near 61.",
-    "low": 36,
+    "low": 33,
     "night": {
-     "low": 36,
+     "low": 33,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 36.",
-     "precipPct": 4
+     "summary": "Partly cloudy, with a low around 33.",
+     "precipPct": 2
     }
    },
    {
     "date": "2026-11-12",
     "high": 55,
-    "condition": "rain",
-    "conditionText": "Slight Chance Light Rain",
-    "precipPct": 22,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 8,
     "wind": 5,
-    "windText": "N 0 to 5 mph",
-    "summary": "A slight chance of rain after 7am. Mostly sunny, with a high near 55.",
-    "low": 34,
+    "windText": "NW 0 to 5 mph",
+    "summary": "Partly sunny, with a high near 55.",
+    "low": 31,
     "night": {
-     "low": 34,
-     "condition": "snow",
-     "conditionText": "Chance Light Rain then Chance Rain And Snow",
-     "summary": "A chance of rain before 4am, then a chance of rain and snow. Mostly cloudy, with a low around 34. Chance of precipitation is 30%.",
-     "precipPct": 34
+     "low": 31,
+     "condition": "rain",
+     "conditionText": "Mostly Cloudy then Slight Chance Light Rain",
+     "summary": "A slight chance of rain after 1am. Mostly cloudy, with a low around 31.",
+     "precipPct": 18
     }
-   },
-   {
-    "date": "2026-11-13",
-    "high": 50,
-    "condition": "snow",
-    "conditionText": "Chance Rain And Snow",
-    "precipPct": 34,
-    "wind": 9,
-    "windText": "N 9 mph",
-    "summary": "A chance of rain and snow. Partly sunny, with a high near 50.",
-    "low": null
    }
   ]
  },
