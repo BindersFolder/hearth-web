@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T17:17:04Z",
+ "updatedAt": "2026-11-08T17:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75634.3203,
-   "changePct": -0.16,
+   "price": 75573.2422,
+   "changePct": -0.24,
    "prevClose": 75753.9609,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2224.4199,
-   "changePct": -0.54,
+   "price": 2222.4399,
+   "changePct": -0.63,
    "prevClose": 2236.48,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,10 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.998,
-   "changePct": 1.42,
-   "prevClose": 2.956,
-   "high52": 7.83,
-   "low52": 2.48,
-   "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "price": 3.0,
+   "changePct": 0.0,
+   "source": "OilPriceAPI",
+   "asOf": "2026-11-08T17:10:56Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +154,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +168,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +213,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.1732 · Year ago 3.0731",
    "source": "AAA",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +225,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.3441 · Year ago 3.12",
    "source": "AAA",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +237,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.3039 · Year ago 3.7286",
    "source": "AAA",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +249,7 @@
    "changePct": -0.11,
    "note": "Week ago 6.4902 · Year ago 3.8921",
    "source": "AAA",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +262,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +275,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +288,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +301,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +314,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +326,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:17:04Z"
+   "asOf": "2026-11-08T17:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -735,14 +732,14 @@
    "topic": "News"
   },
   {
-   "title": "What we know so far after Krakow gun attack",
+   "title": "Homes and temples glow across India to mark Diwali",
    "source": "BBC",
-   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-   "body": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+   "body": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-08T14:32:52Z",
+   "publishedAt": "2026-11-08T14:42:09Z",
    "topic": "World"
   },
   {
@@ -755,6 +752,28 @@
    ],
    "publishedAt": "2026-11-08T14:03:35Z",
    "topic": "Independent"
+  },
+  {
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "source": "BBC",
+   "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+   "body": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-08T13:40:24Z",
+   "topic": "World"
+  },
+  {
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "source": "BBC",
+   "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "body": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-08T13:37:50Z",
+   "topic": "World"
   },
   {
    "title": "The Pressure on LA’s First Socialist Mayor",
@@ -801,17 +820,6 @@
    "topic": "World"
   },
   {
-   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "source": "BBC",
-   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "body": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-07T22:19:59Z",
-   "topic": "World"
-  },
-  {
    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
    "source": "BBC",
    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
@@ -820,17 +828,6 @@
     "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-07T21:36:16Z",
-   "topic": "World"
-  },
-  {
-   "title": "Paraguay's former president charged after bank collapse",
-   "source": "BBC",
-   "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "body": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-07T19:17:22Z",
    "topic": "World"
   },
   {
