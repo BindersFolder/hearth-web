@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T14:02:04Z",
+ "updatedAt": "2026-11-08T14:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75815.7578,
-   "changePct": 0.08,
+   "price": 75853.6094,
+   "changePct": 0.13,
    "prevClose": 75753.9609,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2233.4199,
-   "changePct": -0.14,
+   "price": 2236.2,
+   "changePct": -0.01,
    "prevClose": 2236.48,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T13:13:15Z"
+   "asOf": "2026-11-08T14:11:15Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T13:13:15Z"
+   "asOf": "2026-11-08T14:11:15Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,10 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.998,
-   "changePct": 1.42,
-   "prevClose": 2.956,
-   "high52": 7.83,
-   "low52": 2.48,
-   "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "price": 3.0,
+   "changePct": 0.0,
+   "source": "OilPriceAPI",
+   "asOf": "2026-11-08T14:11:15Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +154,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +168,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +179,7 @@
    "price": 4.33,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T13:13:15Z"
+   "asOf": "2026-11-08T14:11:15Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +190,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T13:13:15Z"
+   "asOf": "2026-11-08T14:11:15Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +201,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T13:13:15Z"
+   "asOf": "2026-11-08T14:11:15Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +213,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.1732 · Year ago 3.0731",
    "source": "AAA",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +225,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.3441 · Year ago 3.12",
    "source": "AAA",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +237,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.3039 · Year ago 3.7286",
    "source": "AAA",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +249,7 @@
    "changePct": -0.11,
    "note": "Week ago 6.4902 · Year ago 3.8921",
    "source": "AAA",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +262,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +275,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +288,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +301,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +314,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +326,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T14:02:04Z"
+   "asOf": "2026-11-08T14:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +336,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-08T13:13:15Z"
+   "asOf": "2026-11-08T14:11:15Z"
   }
  ],
  "weather": {
@@ -702,6 +699,17 @@
  },
  "news": [
   {
+   "title": "Can Chuck Schumer Be Stopped? Mehdi Talks to Commentator and Socialist Emma Vigeland",
+   "source": "Zeteo",
+   "summary": "The co-host of ‘The Majority Report’ joins Mehdi on set in DC to react to the Dems’ midterm victories, the future of the party’s current leadership, and whether AOC should run for president.",
+   "body": "The co-host of ‘The Majority Report’ joins Mehdi on set in DC to react to the Dems’ midterm victories, the future of the party’s current leadership, and whether AOC should run for president.",
+   "sources": [
+    "https://zeteo.com/p/emma-vigeland-schumer-aoc"
+   ],
+   "publishedAt": "2026-11-08T14:03:35Z",
+   "topic": "Independent"
+  },
+  {
    "title": "What we know so far after Krakow gun attack",
    "source": "BBC",
    "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
@@ -724,23 +732,23 @@
    "topic": "Independent"
   },
   {
-   "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-   "source": "NPR",
-   "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
-   "body": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
-   "sources": [
-    "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
-   ],
-   "publishedAt": "2026-11-08T11:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "In Maine, a new approach to practicing medicine in the sky",
    "source": "NPR",
    "summary": "Air medical service comes with high risks, high costs, and staffing struggles",
    "body": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
    "sources": [
     "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing"
+   ],
+   "publishedAt": "2026-11-08T11:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+   "source": "NPR",
+   "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+   "body": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+   "sources": [
+    "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
    ],
    "publishedAt": "2026-11-08T11:00:00Z",
    "topic": "News"
@@ -842,17 +850,6 @@
     "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers"
    ],
    "publishedAt": "2026-11-07T15:35:55Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "‘MAGA Self-Immolated’: How EVERYTHING Fell Apart for Trump and Republicans This Year",
-   "source": "Zeteo",
-   "summary": "Voters finally stood up to President Trump’s bumbling fascism",
-   "body": "Voters finally stood up to President Trump’s bumbling fascism. And as multiple insider sources said, it was almost entirely the fault of the man in the Oval Office.",
-   "sources": [
-    "https://zeteo.com/p/maga-self-immolated-how-everything"
-   ],
-   "publishedAt": "2026-11-07T14:05:34Z",
    "topic": "Independent"
   },
   {
