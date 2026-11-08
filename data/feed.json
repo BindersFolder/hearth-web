@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T11:02:04Z",
+ "updatedAt": "2026-11-08T11:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75820.1016,
-   "changePct": 0.09,
+   "price": 75851.4766,
+   "changePct": 0.13,
    "prevClose": 75753.9609,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2233.8899,
-   "changePct": -0.12,
+   "price": 2234.8999,
+   "changePct": -0.07,
    "prevClose": 2236.48,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T03:10:42Z"
+   "asOf": "2026-11-08T11:10:47Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T03:10:42Z"
+   "asOf": "2026-11-08T11:10:47Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,10 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.998,
-   "changePct": 1.42,
-   "prevClose": 2.956,
-   "high52": 7.83,
-   "low52": 2.48,
-   "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "price": 3.0,
+   "changePct": 0.0,
+   "source": "OilPriceAPI",
+   "asOf": "2026-11-08T11:10:47Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +154,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +168,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +177,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.33,
-   "changePct": null,
+   "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T03:10:42Z"
+   "asOf": "2026-11-08T11:10:47Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +190,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T03:10:42Z"
+   "asOf": "2026-11-08T11:10:47Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +201,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T03:10:42Z"
+   "asOf": "2026-11-08T11:10:47Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +213,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.1732 · Year ago 3.0731",
    "source": "AAA",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +225,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.3441 · Year ago 3.12",
    "source": "AAA",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +237,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.3039 · Year ago 3.7286",
    "source": "AAA",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +249,7 @@
    "changePct": -0.11,
    "note": "Week ago 6.4902 · Year ago 3.8921",
    "source": "AAA",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +262,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +275,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +288,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +301,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +314,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +326,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T11:02:04Z"
+   "asOf": "2026-11-08T11:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +336,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-08T03:10:42Z"
+   "asOf": "2026-11-08T11:10:47Z"
   }
  ],
  "weather": {
@@ -349,20 +346,11 @@
   "temp": 46,
   "high": 58,
   "low": 41,
-  "humidity": 83,
+  "humidity": 86,
   "wind": 13,
   "summary": "Mostly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph. Mostly clear, with a low around 41. West wind around 9 mph, with gusts as high as 21 mph. Partly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West wind 8…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-08T05:00:00-05:00",
-    "temp": 46,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 5,
-    "wind": 13,
-    "humidity": 83
-   },
    {
     "time": "2026-11-08T06:00:00-05:00",
     "temp": 46,
@@ -569,11 +557,27 @@
     "precipPct": 4,
     "wind": 8,
     "humidity": 89
+   },
+   {
+    "time": "2026-11-09T05:00:00-05:00",
+    "temp": 41,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 4,
+    "wind": 8,
+    "humidity": 89
    }
   ],
   "daily": [
    {
     "date": "2026-11-08",
+    "high": 58,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 2,
+    "wind": 15,
+    "windText": "W 9 to 15 mph",
+    "summary": "Mostly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph.",
     "low": 41,
     "night": {
      "low": 41,
@@ -581,14 +585,7 @@
      "conditionText": "Mostly Clear",
      "summary": "Mostly clear, with a low around 41. West wind around 9 mph, with gusts as high as 21 mph.",
      "precipPct": 4
-    },
-    "high": 58,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 2,
-    "wind": 15,
-    "windText": "W 9 to 15 mph",
-    "summary": "Mostly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph."
+    }
    },
    {
     "date": "2026-11-09",
@@ -616,7 +613,7 @@
     "precipPct": 0,
     "wind": 8,
     "windText": "W 3 to 8 mph",
-    "summary": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon.",
+    "summary": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 3 to 8 mph.",
     "low": 40,
     "night": {
      "low": 40,
@@ -689,7 +686,14 @@
     "wind": 13,
     "windText": "N 7 to 13 mph",
     "summary": "A slight chance of rain and snow before 7am. Partly sunny, with a high near 50.",
-    "low": null
+    "low": 32,
+    "night": {
+     "low": 32,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 32.",
+     "precipPct": 10
+    }
    }
   ]
  },
@@ -704,6 +708,39 @@
    ],
    "publishedAt": "2026-11-08T11:00:00Z",
    "topic": "Independent"
+  },
+  {
+   "title": "In Maine, a new approach to practicing medicine in the sky",
+   "source": "NPR",
+   "summary": "Air medical service comes with high risks, high costs, and staffing struggles",
+   "body": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+   "sources": [
+    "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing"
+   ],
+   "publishedAt": "2026-11-08T11:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+   "source": "NPR",
+   "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+   "body": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+   "sources": [
+    "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
+   ],
+   "publishedAt": "2026-11-08T11:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+   "source": "NPR",
+   "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+   "body": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+   "sources": [
+    "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino"
+   ],
+   "publishedAt": "2026-11-08T11:00:00Z",
+   "topic": "News"
   },
   {
    "title": "How Gen Z voters helped fuel a blue wave for Democrats",
@@ -750,17 +787,6 @@
    "topic": "World"
   },
   {
-   "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-   "source": "NPR",
-   "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000",
-   "body": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
-   "sources": [
-    "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year"
-   ],
-   "publishedAt": "2026-11-08T00:19:52Z",
-   "topic": "News"
-  },
-  {
    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
    "source": "BBC",
    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
@@ -772,17 +798,6 @@
    "topic": "World"
   },
   {
-   "title": "The surprising and often forgotten history of economic populism in Texas",
-   "source": "NPR",
-   "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom",
-   "body": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
-   "sources": [
-    "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism"
-   ],
-   "publishedAt": "2026-11-07T22:12:07Z",
-   "topic": "News"
-  },
-  {
    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
    "source": "BBC",
    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
@@ -792,17 +807,6 @@
    ],
    "publishedAt": "2026-11-07T21:36:16Z",
    "topic": "World"
-  },
-  {
-   "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-   "source": "NPR",
-   "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority",
-   "body": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
-   "sources": [
-    "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
-   ],
-   "publishedAt": "2026-11-07T20:18:18Z",
-   "topic": "News"
   },
   {
    "title": "Paraguay's former president charged after bank collapse",
