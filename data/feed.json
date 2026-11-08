@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T15:02:03Z",
+ "updatedAt": "2026-11-08T15:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75967.1328,
-   "changePct": 0.28,
+   "price": 75929.0703,
+   "changePct": 0.23,
    "prevClose": 75753.9609,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2238.0701,
-   "changePct": 0.07,
+   "price": 2236.4299,
+   "changePct": -0.0,
    "prevClose": 2236.48,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T14:11:15Z"
+   "asOf": "2026-11-08T15:10:59Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T14:11:15Z"
+   "asOf": "2026-11-08T15:10:59Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,10 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.0,
-   "changePct": 0.0,
-   "source": "OilPriceAPI",
-   "asOf": "2026-11-08T14:11:15Z"
+   "price": 2.998,
+   "changePct": 1.42,
+   "prevClose": 2.956,
+   "high52": 7.83,
+   "low52": 2.48,
+   "source": "Yahoo Finance",
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -154,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -168,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,7 +182,7 @@
    "price": 4.33,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T14:11:15Z"
+   "asOf": "2026-11-08T15:10:59Z"
   },
   {
    "symbol": "JET",
@@ -190,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T14:11:15Z"
+   "asOf": "2026-11-08T15:10:59Z"
   },
   {
    "symbol": "PROPANE",
@@ -201,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-08T14:11:15Z"
+   "asOf": "2026-11-08T15:10:59Z"
   },
   {
    "symbol": "US-REG",
@@ -213,7 +216,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.1732 · Year ago 3.0731",
    "source": "AAA",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -225,7 +228,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.3441 · Year ago 3.12",
    "source": "AAA",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -237,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.3039 · Year ago 3.7286",
    "source": "AAA",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -249,7 +252,7 @@
    "changePct": -0.11,
    "note": "Week ago 6.4902 · Year ago 3.8921",
    "source": "AAA",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "GOLD",
@@ -262,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "SILVER",
@@ -275,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "COPPER",
@@ -288,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -301,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "DXY",
@@ -314,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -326,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T15:02:03Z"
+   "asOf": "2026-11-08T15:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -336,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-08T14:11:15Z"
+   "asOf": "2026-11-08T15:10:59Z"
   }
  ],
  "weather": {
@@ -348,7 +351,7 @@
   "low": 41,
   "humidity": 74,
   "wind": 15,
-  "summary": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph. Mostly clear, with a low around 41. West wind around 9 mph, with gusts as high as 21 mph. Partly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West wind 8 to 17 mph.",
+  "summary": "Mostly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph. Mostly clear, with a low around 41. West wind around 9 mph, with gusts as high as 21 mph. Partly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West wind 8…",
   "alerts": [],
   "hourly": [
    {
@@ -573,11 +576,11 @@
     "date": "2026-11-08",
     "high": 58,
     "condition": "sun",
-    "conditionText": "Sunny",
+    "conditionText": "Mostly Sunny",
     "precipPct": 1,
     "wind": 15,
     "windText": "W 9 to 15 mph",
-    "summary": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph.",
+    "summary": "Mostly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph.",
     "low": 41,
     "night": {
      "low": 41,
@@ -699,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+   "source": "NPR",
+   "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+   "body": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+   "sources": [
+    "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault"
+   ],
+   "publishedAt": "2026-11-08T15:07:15Z",
+   "topic": "News"
+  },
+  {
    "title": "What we know so far after Krakow gun attack",
    "source": "BBC",
    "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
@@ -732,17 +746,6 @@
    "topic": "Independent"
   },
   {
-   "title": "In Maine, a new approach to practicing medicine in the sky",
-   "source": "NPR",
-   "summary": "Air medical service comes with high risks, high costs, and staffing struggles",
-   "body": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
-   "sources": [
-    "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing"
-   ],
-   "publishedAt": "2026-11-08T11:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "Climate change is altering the colors we see in the world: an illustrated journey",
    "source": "NPR",
    "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
@@ -765,6 +768,17 @@
    "topic": "News"
   },
   {
+   "title": "In Maine, a new approach to practicing medicine in the sky",
+   "source": "NPR",
+   "summary": "Air medical service comes with high risks, high costs, and staffing struggles",
+   "body": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+   "sources": [
+    "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing"
+   ],
+   "publishedAt": "2026-11-08T11:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "How Gen Z voters helped fuel a blue wave for Democrats",
    "source": "NPR",
    "summary": "Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead.",
@@ -773,17 +787,6 @@
     "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections"
    ],
    "publishedAt": "2026-11-08T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-   "source": "NPR",
-   "summary": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
-   "body": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
-   "sources": [
-    "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
-   ],
-   "publishedAt": "2026-11-08T07:35:29Z",
    "topic": "News"
   },
   {
