@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T17:47:04Z",
+ "updatedAt": "2026-11-08T18:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75673.0234,
+   "price": 75672.5781,
    "changePct": -0.11,
    "prevClose": 75753.9609,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2227.5901,
-   "changePct": -0.4,
+   "price": 2227.9299,
+   "changePct": -0.38,
    "prevClose": 2236.48,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.05,
    "note": "Gasoline 25.79 · Diesel 91.10",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,10 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 2.998,
-   "changePct": 1.42,
-   "prevClose": 2.956,
-   "high52": 7.83,
-   "low52": 2.48,
-   "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "price": 3.0,
+   "changePct": 0.0,
+   "source": "OilPriceAPI",
+   "asOf": "2026-11-08T17:10:56Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +154,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +168,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +213,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.1732 · Year ago 3.0731",
    "source": "AAA",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +225,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.3441 · Year ago 3.12",
    "source": "AAA",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +237,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.3039 · Year ago 3.7286",
    "source": "AAA",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +249,7 @@
    "changePct": -0.11,
    "note": "Week ago 6.4902 · Year ago 3.8921",
    "source": "AAA",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +262,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +275,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +288,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +301,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +314,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +326,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-08T17:47:04Z"
+   "asOf": "2026-11-08T18:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +343,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 56,
+  "temp": 57,
   "high": 58,
   "low": 41,
-  "humidity": 62,
-  "wind": 15,
+  "humidity": 57,
+  "wind": 14,
   "summary": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 9 to 15 mph, with gusts as high as 28 mph. Mostly clear, with a low around 41. West wind around 9 mph, with gusts as high as 21 mph. Partly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West wind 8 to 17 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-08T12:00:00-05:00",
-    "temp": 56,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 1,
-    "wind": 15,
-    "humidity": 62
-   },
    {
     "time": "2026-11-08T13:00:00-05:00",
     "temp": 57,
@@ -569,6 +557,15 @@
     "precipPct": 2,
     "wind": 16,
     "humidity": 61
+   },
+   {
+    "time": "2026-11-09T12:00:00-05:00",
+    "temp": 56,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 2,
+    "wind": 17,
+    "humidity": 57
    }
   ],
   "daily": [
@@ -702,6 +699,17 @@
  },
  "news": [
   {
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "source": "BBC",
+   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "body": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-08T17:59:03Z",
+   "topic": "World"
+  },
+  {
    "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
    "source": "NPR",
    "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
@@ -755,17 +763,6 @@
    ],
    "publishedAt": "2026-11-08T14:03:35Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "source": "BBC",
-   "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
-   "body": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-08T13:40:24Z",
-   "topic": "World"
   },
   {
    "title": "Iran executes three men for 'armed unrest' after January protests",
@@ -856,6 +853,17 @@
    "topic": "Independent"
   },
   {
+   "title": "‘MAGA Self-Immolated’: How EVERYTHING Fell Apart for Trump and Republicans This Year",
+   "source": "Zeteo",
+   "summary": "Voters finally stood up to President Trump’s bumbling fascism",
+   "body": "Voters finally stood up to President Trump’s bumbling fascism. And as multiple insider sources said, it was almost entirely the fault of the man in the Oval Office.",
+   "sources": [
+    "https://zeteo.com/p/maga-self-immolated-how-everything"
+   ],
+   "publishedAt": "2026-11-07T14:05:34Z",
+   "topic": "Independent"
+  },
+  {
    "title": "How a Socialist Can Govern a City Under the Thumb of the Trump Administration",
    "source": "The Intercept",
    "summary": "Janeese Lewis George is part of a new class of socialist mayors",
@@ -864,17 +872,6 @@
     "https://theintercept.com/2026/11/07/janeese-lewis-george-dsa-dc-mayor/"
    ],
    "publishedAt": "2026-11-07T11:00:00Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Latest U.S. Strikes on Qeshm Island Hit Fishermen Who Clung to Wreckage for Hours",
-   "source": "Drop Site News",
-   "summary": "Recent U.S",
-   "body": "Recent U.S. strikes on Iran in the Strait of Hormuz left survivors on Iran’s coastline shaken and came on the eve of the midterms elections that were seen as a rebuke of the war.",
-   "sources": [
-    "https://www.dropsitenews.com/p/iran-qeshm-island-hormuz-us-strikes-trump-midterms"
-   ],
-   "publishedAt": "2026-11-06T18:01:24Z",
    "topic": "Independent"
   }
  ],
