@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T22:02:04Z",
+ "updatedAt": "2026-11-09T22:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74930.5312,
+   "price": 74934.5312,
    "changePct": 0.28,
    "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2126.1499,
-   "changePct": 0.06,
+   "price": 2125.0801,
+   "changePct": 0.01,
    "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.31,
-   "changePct": -5.48,
+   "price": 86.38,
+   "changePct": -5.4,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T21:11:27Z"
+   "asOf": "2026-11-09T22:11:54Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.09,
-   "changePct": -6.36,
+   "price": 92.17,
+   "changePct": -6.27,
    "prevClose": 98.34,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T21:11:27Z"
+   "asOf": "2026-11-09T22:11:54Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.01,
-   "changePct": -4.48,
+   "price": 46.08,
+   "changePct": -4.34,
    "prevClose": 48.17,
-   "note": "Gasoline 24.22 · Diesel 89.59",
+   "note": "Gasoline 24.24 · Diesel 89.76",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.209,
-   "changePct": 6.15,
+   "price": 3.205,
+   "changePct": 6.02,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6317,
-   "changePct": -5.73,
+   "price": 2.6338,
+   "changePct": -5.66,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.188,
-   "changePct": -4.36,
+   "price": 4.1938,
+   "changePct": -4.23,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.21,
-   "changePct": -3.0,
+   "price": 4.19,
+   "changePct": -3.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T21:11:27Z"
+   "asOf": "2026-11-09T22:11:54Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T21:11:27Z"
+   "asOf": "2026-11-09T22:11:54Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T21:11:27Z"
+   "asOf": "2026-11-09T22:11:54Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4151.0,
-   "changePct": 0.43,
+   "price": 4149.5,
+   "changePct": 0.39,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 53.525,
-   "changePct": 0.77,
+   "price": 53.455,
+   "changePct": 0.64,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.378,
-   "changePct": 0.5,
+   "price": 6.3825,
+   "changePct": 0.58,
    "prevClose": 6.346,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.672,
+   "price": 101.679,
    "changePct": -0.44,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:02:04Z"
+   "asOf": "2026-11-09T22:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-09T21:11:27Z"
+   "asOf": "2026-11-09T22:11:54Z"
   }
  ],
  "weather": {
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Do Democrats Actually Have an ‘Affordability’ Agenda – or a Plan to Pass It?",
+   "source": "Zeteo",
+   "summary": "Americans pleaded for help as they rejected Trump in the midterms",
+   "body": "Americans pleaded for help as they rejected Trump in the midterms. So far, Democrats’ ‘affordability’ plan looks like a return to the failed, pre-Trump status quo.",
+   "sources": [
+    "https://zeteo.com/p/democrats-affordability-agenda"
+   ],
+   "publishedAt": "2026-11-09T22:10:35Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "source": "BBC",
+   "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+   "body": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-09T22:08:04Z",
+   "topic": "World"
+  },
+  {
    "title": "Supreme Court says border wall construction can continue in west Texas",
    "source": "NPR",
    "summary": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
@@ -721,17 +743,6 @@
     "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-09T21:37:02Z",
-   "topic": "World"
-  },
-  {
-   "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-   "source": "BBC",
-   "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-   "body": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T21:31:49Z",
    "topic": "World"
   },
   {
@@ -843,17 +854,6 @@
    ],
    "publishedAt": "2026-11-09T12:45:14Z",
    "topic": "News"
-  },
-  {
-   "title": "First Draft: 🐊 ‘Didn’t Even Try’ – How Chuck Schumer and Dem Elites Lost Florida",
-   "source": "Zeteo",
-   "summary": "The blue tsunami missed the Sunshine State and progressives and moderates blame their leaders",
-   "body": "The blue tsunami missed the Sunshine State and progressives and moderates blame their leaders. UFC’s Dana White isn’t going to be White House press sec, but Trump spinning the line should chill us.",
-   "sources": [
-    "https://zeteo.com/p/didnt-even-try-how-chuck-schumer"
-   ],
-   "publishedAt": "2026-11-09T12:16:23Z",
-   "topic": "Independent"
   },
   {
    "title": "Fighting to Expand the Margins of Journalism in Egypt",
