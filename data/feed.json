@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-09T18:02:04Z",
+ "updatedAt": "2026-11-09T18:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 752.58,
-   "changePct": 2.24,
+   "price": 752.665,
+   "changePct": 2.25,
    "prevClose": 736.09,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 677.27,
-   "changePct": 3.1,
+   "price": 677.0,
+   "changePct": 3.06,
    "prevClose": 656.89,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 523.315,
-   "changePct": 2.11,
+   "price": 523.495,
+   "changePct": 2.15,
    "prevClose": 512.48,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 281.76,
-   "changePct": 2.95,
+   "price": 281.865,
+   "changePct": 2.99,
    "prevClose": 273.69,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74674.1797,
-   "changePct": -0.07,
+   "price": 74636.3984,
+   "changePct": -0.12,
    "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2122.7,
-   "changePct": -0.1,
+   "price": 2121.74,
+   "changePct": -0.15,
    "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.53,
-   "changePct": -4.14,
+   "price": 87.7,
+   "changePct": -3.95,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T17:12:45Z"
+   "asOf": "2026-11-09T18:11:47Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.53,
-   "changePct": -4.89,
+   "price": 93.81,
+   "changePct": -4.61,
    "prevClose": 98.34,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T17:12:45Z"
+   "asOf": "2026-11-09T18:11:47Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.41,
-   "changePct": -1.58,
+   "price": 47.33,
+   "changePct": -1.74,
    "prevClose": 48.17,
-   "note": "Gasoline 25.09 · Diesel 92.07",
+   "note": "Gasoline 25.00 · Diesel 92.00",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.178,
-   "changePct": 5.13,
+   "price": 3.203,
+   "changePct": 5.95,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6814,
-   "changePct": -3.95,
+   "price": 2.6833,
+   "changePct": -3.89,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2761,
-   "changePct": -2.35,
+   "price": 4.2786,
+   "changePct": -2.29,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.26,
+   "price": 4.27,
    "changePct": -1.6,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T17:12:45Z"
+   "asOf": "2026-11-09T18:11:47Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T17:12:45Z"
+   "asOf": "2026-11-09T18:11:47Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T17:12:45Z"
+   "asOf": "2026-11-09T18:11:47Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4110.2998,
-   "changePct": -0.56,
+   "price": 4112.7002,
+   "changePct": -0.5,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.615,
-   "changePct": -0.94,
+   "price": 52.67,
+   "changePct": -0.84,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3455,
-   "changePct": -0.01,
+   "price": 6.343,
+   "changePct": -0.05,
    "prevClose": 6.346,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,42 +304,42 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.829,
+   "price": 101.832,
    "changePct": -0.29,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.33,
+   "price": 20.14,
    "changePct": null,
    "prevClose": 25.63,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T18:02:04Z"
+   "asOf": "2026-11-09T18:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 32.3,
+   "price": 31.6,
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-09T17:12:45Z"
+   "asOf": "2026-11-09T18:11:47Z"
   }
  ],
  "weather": {
@@ -351,7 +351,7 @@
   "low": 41,
   "humidity": 59,
   "wind": 14,
-  "summary": "Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Northwest wind 10 to 14 mph, with gusts as high as 29 mph. Partly cloudy, with a low around 41. West wind 3 to 8 mph. Mostly sunny. High near 63, with temperatures falling to around 58 in the afternoon. West wind 3 to 9 mph.",
+  "summary": "A slight chance of rain showers before 1pm. Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Northwest wind 10 to 14 mph, with gusts as high as 29 mph. Chance of precipitation is 20%. Partly cloudy, with a low around 41. West wind 3 to 8 mph. Mostly sunny. High near 63, with temperatures…",
   "alerts": [],
   "hourly": [
    {
@@ -575,12 +575,12 @@
    {
     "date": "2026-11-09",
     "high": 58,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 3,
+    "condition": "rain",
+    "conditionText": "Slight Chance Rain Showers",
+    "precipPct": 16,
     "wind": 14,
     "windText": "NW 10 to 14 mph",
-    "summary": "Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Northwest wind 10 to 14 mph, with gusts as high as 29 mph.",
+    "summary": "A slight chance of rain showers before 1pm. Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Northwest wind 10 to 14 mph, with gusts as high as 29 mph. Chance of precipitation is 20%.",
     "low": 41,
     "night": {
      "low": 41,
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "source": "BBC",
+   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "body": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-09T18:11:11Z",
+   "topic": "World"
+  },
+  {
+   "title": "Russia's leading independent newspaper closes after eviction",
+   "source": "BBC",
+   "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+   "body": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+   "sources": [
+    "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-09T18:08:07Z",
+   "topic": "World"
+  },
+  {
    "title": "Trump questions midterm elections integrity after previously accepting results",
    "source": "BBC",
    "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
@@ -746,17 +768,6 @@
    "topic": "World"
   },
   {
-   "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-   "source": "BBC",
-   "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life.",
-   "body": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T16:33:55Z",
-   "topic": "World"
-  },
-  {
    "title": "Gaza floods destroy 70,000 tents; Trump open to immigration deal after midterms wipeout; Saudi strikes kill 21 children in Yemeni village",
    "source": "Drop Site News",
    "summary": "Drop Site Daily: November 9, 2026.",
@@ -788,17 +799,6 @@
    ],
    "publishedAt": "2026-11-09T14:36:54Z",
    "topic": "News"
-  },
-  {
-   "title": "Thirteen migrants die after boat sinks off Crete",
-   "source": "BBC",
-   "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
-   "body": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T13:50:01Z",
-   "topic": "World"
   },
   {
    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
