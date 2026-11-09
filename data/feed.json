@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T13:47:03Z",
+ "updatedAt": "2026-11-09T14:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74617.3203,
-   "changePct": -0.14,
+   "price": 74507.8125,
+   "changePct": -0.29,
    "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2117.3301,
-   "changePct": -0.36,
+   "price": 2119.22,
+   "changePct": -0.27,
    "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.19,
-   "changePct": -4.51,
+   "price": 86.79,
+   "changePct": -4.95,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 94.05,
-   "changePct": -4.36,
+   "price": 93.68,
+   "changePct": -4.74,
    "prevClose": 98.34,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.8,
-   "changePct": -0.77,
+   "price": 48.09,
+   "changePct": -0.17,
    "prevClose": 48.17,
-   "note": "Gasoline 26.03 · Diesel 91.34",
+   "note": "Gasoline 26.29 · Diesel 91.68",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.134,
-   "changePct": 3.67,
+   "price": 3.144,
+   "changePct": 4.0,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6957,
-   "changePct": -3.44,
+   "price": 2.6924,
+   "changePct": -3.56,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2507,
-   "changePct": -2.93,
+   "price": 4.2492,
+   "changePct": -2.97,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4134.2998,
-   "changePct": 0.02,
+   "price": 4135.3999,
+   "changePct": 0.05,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.755,
-   "changePct": -0.68,
+   "price": 52.825,
+   "changePct": -0.55,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3265,
-   "changePct": -0.31,
+   "price": 6.3335,
+   "changePct": -0.2,
    "prevClose": 6.346,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.837,
+   "price": 101.844,
    "changePct": -0.28,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 23.2,
+   "price": 23.16,
    "changePct": null,
    "prevClose": 25.63,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T13:47:03Z"
+   "asOf": "2026-11-09T14:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Thirteen migrants die after boat sinks off Crete",
+   "source": "BBC",
+   "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+   "body": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-09T13:50:01Z",
+   "topic": "World"
+  },
+  {
    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
    "source": "NPR",
    "summary": "Republicans have just weeks left of control of Congress",
@@ -779,17 +790,6 @@
    "topic": "News"
   },
   {
-   "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-   "source": "BBC",
-   "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-   "body": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T10:41:57Z",
-   "topic": "World"
-  },
-  {
    "title": "Democrats won big on issues like immigration. But ICE still has the money",
    "source": "NPR",
    "summary": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power.",
@@ -801,23 +801,23 @@
    "topic": "News"
   },
   {
+   "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
+   "source": "NPR",
+   "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+   "body": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+   "sources": [
+    "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance"
+   ],
+   "publishedAt": "2026-11-09T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Democrats won big. Can they lower your grocery bill?",
    "source": "NPR",
    "summary": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs",
    "body": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
    "sources": [
     "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability"
-   ],
-   "publishedAt": "2026-11-09T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
-   "source": "NPR",
-   "summary": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia",
-   "body": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
-   "sources": [
-    "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal"
    ],
    "publishedAt": "2026-11-09T10:00:00Z",
    "topic": "News"
