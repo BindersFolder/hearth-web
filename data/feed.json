@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T02:47:04Z",
+ "updatedAt": "2026-11-09T03:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75283.2188,
-   "changePct": -0.48,
-   "prevClose": 75647.2188,
+   "price": 75176.0938,
+   "changePct": 0.6,
+   "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2150.3601,
-   "changePct": -3.2,
-   "prevClose": 2221.52,
+   "price": 2144.4199,
+   "changePct": 0.92,
+   "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.77,
-   "changePct": -0.07,
+   "price": 91.06,
+   "changePct": 0.25,
    "prevClose": 90.83,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 97.84,
-   "changePct": -0.49,
+   "price": 98.14,
+   "changePct": -0.18,
    "prevClose": 98.32,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.89,
-   "changePct": 0.69,
+   "price": 47.99,
+   "changePct": 0.9,
    "prevClose": 47.56,
-   "note": "Gasoline 26.13 · Diesel 91.39",
+   "note": "Gasoline 26.08 · Diesel 91.79",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.018,
-   "changePct": 0.67,
+   "price": 3.02,
+   "changePct": 0.73,
    "prevClose": 2.998,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7834,
-   "changePct": 0.24,
+   "price": 2.7891,
+   "changePct": 0.45,
    "prevClose": 2.7767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3372,
-   "changePct": 0.13,
+   "price": 4.3536,
+   "changePct": 0.51,
    "prevClose": 4.3317,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.1732 · Year ago 3.0731",
    "source": "AAA",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.3441 · Year ago 3.12",
    "source": "AAA",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.3039 · Year ago 3.7286",
    "source": "AAA",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.11,
    "note": "Week ago 6.4902 · Year ago 3.8921",
    "source": "AAA",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4135.0,
-   "changePct": 1.47,
+   "price": 4132.0,
+   "changePct": 1.4,
    "prevClose": 4074.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 53.175,
-   "changePct": 2.37,
+   "price": 53.135,
+   "changePct": 2.3,
    "prevClose": 51.942,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3365,
-   "changePct": 1.59,
+   "price": 6.3375,
+   "changePct": 1.6,
    "prevClose": 6.2375,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.162,
+   "price": 102.165,
    "changePct": -0.11,
    "prevClose": 102.279,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T02:47:04Z"
+   "asOf": "2026-11-09T03:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Mostly Clear",
-  "temp": 48,
-  "high": 48,
+  "temp": 47,
+  "high": 47,
   "low": 41,
   "humidity": 58,
   "wind": 5,
   "summary": "Mostly clear. Low around 41, with temperatures rising to around 44 overnight. Southwest wind around 5 mph. Mostly clear. Low around 41, with temperatures rising to around 44 overnight. Southwest wind around 5 mph. Partly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West wind 6 to 14 mph, with…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-08T21:00:00-05:00",
-    "temp": 48,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 2,
-    "wind": 5,
-    "humidity": 58
-   },
    {
     "time": "2026-11-08T22:00:00-05:00",
     "temp": 47,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 6,
     "humidity": 68
+   },
+   {
+    "time": "2026-11-09T21:00:00-05:00",
+    "temp": 47,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 6,
+    "humidity": 71
    }
   ],
   "daily": [
@@ -582,7 +582,7 @@
      "summary": "Mostly clear. Low around 41, with temperatures rising to around 44 overnight. Southwest wind around 5 mph.",
      "precipPct": 7
     },
-    "high": 48,
+    "high": 47,
     "conditionText": "Mostly Clear",
     "condition": "clearNight",
     "summary": "Mostly clear. Low around 41, with temperatures rising to around 44 overnight. Southwest wind around 5 mph.",
