@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T14:17:03Z",
+ "updatedAt": "2026-11-09T14:19:16Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74502.9297,
-   "changePct": -0.3,
+   "price": 74517.2969,
+   "changePct": -0.28,
    "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2118.6101,
+   "price": 2118.46,
    "changePct": -0.3,
    "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.14,
-   "changePct": -4.57,
+   "price": 86.89,
+   "changePct": -4.84,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T13:18:38Z"
+   "asOf": "2026-11-09T14:18:44Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 94.08,
-   "changePct": -4.33,
+   "price": 93.72,
+   "changePct": -4.7,
    "prevClose": 98.34,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T13:18:38Z"
+   "asOf": "2026-11-09T14:18:44Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.92,
-   "changePct": -0.52,
+   "price": 48.04,
+   "changePct": -0.27,
    "prevClose": 48.17,
-   "note": "Gasoline 26.04 · Diesel 91.69",
+   "note": "Gasoline 26.29 · Diesel 91.54",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.143,
-   "changePct": 3.97,
+   "price": 3.144,
+   "changePct": 4.0,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6947,
-   "changePct": -3.48,
+   "price": 2.6948,
+   "changePct": -3.47,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2579,
-   "changePct": -2.77,
+   "price": 4.2484,
+   "changePct": -2.98,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.26,
-   "changePct": -1.1,
+   "price": 4.25,
+   "changePct": -1.6,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T13:18:38Z"
+   "asOf": "2026-11-09T14:18:44Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T13:18:38Z"
+   "asOf": "2026-11-09T14:18:44Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T13:18:38Z"
+   "asOf": "2026-11-09T14:18:44Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4129.3999,
-   "changePct": -0.09,
+   "price": 4131.1001,
+   "changePct": -0.05,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.645,
-   "changePct": -0.88,
+   "price": 52.715,
+   "changePct": -0.75,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.324,
-   "changePct": -0.35,
+   "price": 6.327,
+   "changePct": -0.3,
    "prevClose": 6.346,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "US10Y",
@@ -304,65 +304,56 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.844,
+   "price": 101.843,
    "changePct": -0.28,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 23.16,
+   "price": 23.12,
    "changePct": null,
    "prevClose": 25.63,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T14:17:03Z"
+   "asOf": "2026-11-09T14:19:16Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 23.5,
+   "price": 24.2,
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-09T13:18:38Z"
+   "asOf": "2026-11-09T14:18:44Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Mostly Cloudy",
-  "temp": 47,
+  "temp": 50,
   "high": 58,
   "low": 41,
-  "humidity": 86,
-  "wind": 8,
+  "humidity": 80,
+  "wind": 10,
   "summary": "Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West wind 7 to 14 mph, with gusts as high as 29 mph. Partly cloudy, with a low around 41. West wind 3 to 8 mph. Mostly sunny. High near 63, with temperatures falling to around 58 in the afternoon. West wind 3 to 9 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-09T08:00:00-05:00",
-    "temp": 47,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 11,
-    "wind": 8,
-    "humidity": 86
-   },
    {
     "time": "2026-11-09T09:00:00-05:00",
     "temp": 50,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 3,
     "humidity": 86
+   },
+   {
+    "time": "2026-11-10T08:00:00-05:00",
+    "temp": 43,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 89
    }
   ],
   "daily": [
@@ -768,6 +768,17 @@
    "topic": "World"
   },
   {
+   "title": "Tons of “Bunker-Buster” Bomb Parts for Israel Go Through JFK Airport",
+   "source": "The Intercept",
+   "summary": "At the height of the Iran war, parts for destructive “bunker-buster” bombs moved through JFK airport on their way to the Israeli military.",
+   "body": "At the height of the Iran war, parts for destructive “bunker-buster” bombs moved through JFK airport on their way to the Israeli military.",
+   "sources": [
+    "https://theintercept.com/2026/11/09/israel-weapons-bombs-jfk-airport/"
+   ],
+   "publishedAt": "2026-11-09T11:05:00Z",
+   "topic": "Independent"
+  },
+  {
    "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
    "source": "BBC",
    "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life.",
@@ -801,23 +812,23 @@
    "topic": "News"
   },
   {
+   "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
+   "source": "NPR",
+   "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+   "body": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+   "sources": [
+    "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance"
+   ],
+   "publishedAt": "2026-11-09T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Democrats won big. Can they lower your grocery bill?",
    "source": "NPR",
    "summary": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs",
    "body": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
    "sources": [
     "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability"
-   ],
-   "publishedAt": "2026-11-09T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
-   "source": "NPR",
-   "summary": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia",
-   "body": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
-   "sources": [
-    "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal"
    ],
    "publishedAt": "2026-11-09T10:00:00Z",
    "topic": "News"
@@ -842,17 +853,6 @@
     "https://zeteo.com/p/author-of-ihra-antisemitism-definition"
    ],
    "publishedAt": "2026-11-08T23:01:52Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Can Chuck Schumer Be Stopped? Mehdi Talks to Commentator and Socialist Emma Vigeland",
-   "source": "Zeteo",
-   "summary": "The co-host of ‘The Majority Report’ joins Mehdi on set in DC to react to the Dems’ midterm victories, the future of the party’s current leadership, and whether AOC should run for president.",
-   "body": "The co-host of ‘The Majority Report’ joins Mehdi on set in DC to react to the Dems’ midterm victories, the future of the party’s current leadership, and whether AOC should run for president.",
-   "sources": [
-    "https://zeteo.com/p/emma-vigeland-schumer-aoc"
-   ],
-   "publishedAt": "2026-11-08T14:03:35Z",
    "topic": "Independent"
   },
   {
