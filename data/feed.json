@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T22:47:04Z",
+ "updatedAt": "2026-11-09T23:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75147.9219,
-   "changePct": 0.57,
+   "price": 75144.3828,
+   "changePct": 0.56,
    "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2132.2,
-   "changePct": 0.34,
+   "price": 2132.3799,
+   "changePct": 0.35,
    "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 48.17,
    "note": "Gasoline 24.24 · Diesel 89.76",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.685,
-   "changePct": -0.43,
+   "price": 101.695,
+   "changePct": -0.42,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T22:47:04Z"
+   "asOf": "2026-11-09T23:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -347,11 +347,11 @@
   "condition": "sun",
   "conditionText": "Mostly Sunny",
   "temp": 53,
-  "high": 58,
+  "high": 53,
   "low": 39,
   "humidity": 61,
   "wind": 10,
-  "summary": "Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. Northwest wind 10 to 14 mph, with gusts as high as 26 mph. Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Mostly sunny. High near 62, with temperatures falling to around 58 in the…",
+  "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 3 to 9 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -574,13 +574,6 @@
   "daily": [
    {
     "date": "2026-11-09",
-    "high": 58,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 3,
-    "wind": 14,
-    "windText": "NW 10 to 14 mph",
-    "summary": "Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. Northwest wind 10 to 14 mph, with gusts as high as 26 mph.",
     "low": 39,
     "night": {
      "low": 39,
@@ -588,7 +581,12 @@
      "conditionText": "Partly Cloudy",
      "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph.",
      "precipPct": 1
-    }
+    },
+    "high": 53,
+    "conditionText": "Partly Cloudy",
+    "condition": "clearNight",
+    "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph.",
+    "precipPct": 1
    },
    {
     "date": "2026-11-10",
@@ -622,7 +620,7 @@
      "low": 39,
      "condition": "cloud",
      "conditionText": "Mostly Cloudy",
-     "summary": "Mostly cloudy, with a low around 39.",
+     "summary": "Mostly cloudy, with a low around 39. North wind around 1 mph.",
      "precipPct": 3
     }
    },
@@ -634,7 +632,7 @@
     "precipPct": 63,
     "wind": 7,
     "windText": "E 1 to 7 mph",
-    "summary": "Rain likely after 7am. Mostly cloudy, with a high near 57. Chance of precipitation is 60%.",
+    "summary": "Rain likely after 7am. Mostly cloudy. High near 57, with temperatures falling to around 52 in the afternoon. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "low": 37,
     "night": {
      "low": 37,
@@ -702,6 +700,17 @@
  },
  "news": [
   {
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "source": "BBC",
+   "summary": "The US president said the FBI is now investigating the affair",
+   "body": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-09T23:01:32Z",
+   "topic": "World"
+  },
+  {
    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
    "source": "BBC",
    "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
@@ -733,6 +742,17 @@
    ],
    "publishedAt": "2026-11-09T22:10:35Z",
    "topic": "Independent"
+  },
+  {
+   "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+   "source": "BBC",
+   "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+   "body": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-09T21:48:38Z",
+   "topic": "World"
   },
   {
    "title": "Supreme Court says border wall construction can continue in west Texas",
@@ -776,28 +796,6 @@
     "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-09T20:42:04Z",
-   "topic": "World"
-  },
-  {
-   "title": "France accuses Iran of supermarket fridge hacking",
-   "source": "BBC",
-   "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-   "body": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T20:20:08Z",
-   "topic": "World"
-  },
-  {
-   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "source": "BBC",
-   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-   "body": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T19:58:01Z",
    "topic": "World"
   },
   {
