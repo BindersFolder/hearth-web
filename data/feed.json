@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-09T16:02:04Z",
+ "updatedAt": "2026-11-09T16:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 751.35,
-   "changePct": 2.07,
+   "price": 750.33,
+   "changePct": 1.93,
    "prevClose": 736.09,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 678.06,
-   "changePct": 3.22,
+   "price": 676.4989,
+   "changePct": 2.99,
    "prevClose": 656.89,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 521.1306,
-   "changePct": 1.69,
+   "price": 521.09,
+   "changePct": 1.68,
    "prevClose": 512.48,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 280.7624,
-   "changePct": 2.58,
+   "price": 280.935,
+   "changePct": 2.65,
    "prevClose": 273.69,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75375.5078,
-   "changePct": 0.87,
+   "price": 75008.5781,
+   "changePct": 0.38,
    "prevClose": 74724.9297,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2142.47,
-   "changePct": 0.83,
+   "price": 2133.28,
+   "changePct": 0.39,
    "prevClose": 2124.8999,
    "high52": 3656.15,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.08,
-   "changePct": -3.54,
+   "price": 88.14,
+   "changePct": -3.47,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T15:15:56Z"
+   "asOf": "2026-11-09T16:15:09Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 94.75,
-   "changePct": -3.65,
+   "price": 94.57,
+   "changePct": -3.83,
    "prevClose": 98.34,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T15:15:56Z"
+   "asOf": "2026-11-09T16:15:09Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 47.65,
-   "changePct": -1.08,
+   "price": 47.55,
+   "changePct": -1.29,
    "prevClose": 48.17,
-   "note": "Gasoline 25.63 · Diesel 91.68",
+   "note": "Gasoline 25.53 · Diesel 91.60",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.141,
-   "changePct": 3.9,
+   "price": 3.151,
+   "changePct": 4.23,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.7074,
-   "changePct": -3.02,
+   "price": 2.7065,
+   "changePct": -3.06,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2801,
-   "changePct": -2.26,
+   "price": 4.2795,
+   "changePct": -2.27,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.26,
-   "changePct": -2.1,
+   "price": 4.29,
+   "changePct": -0.9,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T15:15:56Z"
+   "asOf": "2026-11-09T16:15:09Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T15:15:56Z"
+   "asOf": "2026-11-09T16:15:09Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T15:15:56Z"
+   "asOf": "2026-11-09T16:15:09Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4129.3999,
-   "changePct": -0.09,
+   "price": 4135.7998,
+   "changePct": 0.06,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.76,
-   "changePct": -0.67,
+   "price": 52.995,
+   "changePct": -0.23,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3415,
-   "changePct": -0.07,
+   "price": 6.3535,
+   "changePct": 0.12,
    "prevClose": 6.346,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.876,
-   "changePct": 0.35,
+   "price": 4.878,
+   "changePct": 0.39,
    "prevClose": 4.859,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.906,
-   "changePct": -0.21,
+   "price": 101.888,
+   "changePct": -0.23,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.87,
+   "price": 20.54,
    "changePct": null,
    "prevClose": 25.63,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-09T16:02:04Z"
+   "asOf": "2026-11-09T16:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 24.2,
+   "price": 32.3,
    "changePct": null,
-   "note": "Extreme fear",
+   "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-09T15:15:56Z"
+   "asOf": "2026-11-09T16:15:09Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Gaza floods destroy 70,000 tents; Trump open to immigration deal after midterms wipeout; Saudi strikes kill 21 children in Yemeni village",
+   "source": "Drop Site News",
+   "summary": "Drop Site Daily: November 9, 2026.",
+   "body": "Drop Site Daily: November 9, 2026",
+   "sources": [
+    "https://www.dropsitenews.com/p/gaza-floods-trump-immigration-saudi-strikes"
+   ],
+   "publishedAt": "2026-11-09T16:09:17Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
    "source": "NPR",
    "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
@@ -864,17 +875,6 @@
     "https://theintercept.com/2026/11/08/nithya-raman-la-mayor-socialist-progressive/"
    ],
    "publishedAt": "2026-11-08T11:00:00Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "This Week in Palestine: Two Babies Die in Gaza Tent Fire as UN Issues Dire Warning Ahead of Winter",
-   "source": "Zeteo",
-   "summary": "Zeteo’s weekly round-up of the stories you may have missed out of occupied Gaza and the West Bank, as Israel continues its genocidal war and apartheid policies.",
-   "body": "Zeteo’s weekly round-up of the stories you may have missed out of occupied Gaza and the West Bank, as Israel continues its genocidal war and apartheid policies.",
-   "sources": [
-    "https://zeteo.com/p/this-week-in-palestine-two-babies"
-   ],
-   "publishedAt": "2026-11-07T19:05:33Z",
    "topic": "Independent"
   }
  ],
