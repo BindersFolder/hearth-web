@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-10T18:02:04Z",
+ "updatedAt": "2026-11-10T18:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 745.92,
-   "changePct": -1.01,
+   "price": 746.41,
+   "changePct": -0.95,
    "prevClose": 753.54,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 669.15,
-   "changePct": -1.67,
+   "price": 669.6399,
+   "changePct": -1.59,
    "prevClose": 680.49,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.01,
-   "changePct": -0.67,
+   "price": 520.33,
+   "changePct": -0.61,
    "prevClose": 523.54,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.19,
-   "changePct": -1.05,
+   "price": 279.63,
+   "changePct": -0.9,
    "prevClose": 282.16,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73136.9688,
-   "changePct": -2.83,
+   "price": 73165.3594,
+   "changePct": -2.79,
    "prevClose": 75264.4922,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2025.08,
-   "changePct": -5.02,
+   "price": 2026.86,
+   "changePct": -4.94,
    "prevClose": 2132.1499,
    "high52": 3644.53,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.37,
-   "changePct": 0.82,
+   "price": 86.56,
+   "changePct": 1.04,
    "prevClose": 85.67,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T17:13:00Z"
+   "asOf": "2026-11-10T18:12:05Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.83,
-   "changePct": 0.44,
+   "price": 92.04,
+   "changePct": 0.67,
    "prevClose": 91.43,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T17:13:00Z"
+   "asOf": "2026-11-10T18:12:05Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.77,
-   "changePct": -2.72,
+   "price": 44.72,
+   "changePct": -2.82,
    "prevClose": 46.02,
-   "note": "Gasoline 23.83 · Diesel 86.65",
+   "note": "Gasoline 23.69 · Diesel 86.78",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.289,
-   "changePct": 2.37,
+   "price": 3.287,
+   "changePct": 2.3,
    "prevClose": 3.213,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6237,
-   "changePct": -0.11,
+   "price": 2.6249,
+   "changePct": -0.06,
    "prevClose": 2.6266,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1195,
-   "changePct": -0.82,
+   "price": 4.1271,
+   "changePct": -0.64,
    "prevClose": 4.1535,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.13,
+   "price": 4.12,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T17:13:00Z"
+   "asOf": "2026-11-10T18:12:05Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T17:13:00Z"
+   "asOf": "2026-11-10T18:12:05Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T17:13:00Z"
+   "asOf": "2026-11-10T18:12:05Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.76,
    "note": "Week ago 4.1493 · Year ago 3.0707",
    "source": "AAA",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.335 · Year ago 3.1196",
    "source": "AAA",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.2875 · Year ago 3.7389",
    "source": "AAA",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.1,
    "note": "Week ago 6.4862 · Year ago 3.8873",
    "source": "AAA",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4028.2,
-   "changePct": -2.34,
+   "price": 4025.5,
+   "changePct": -2.41,
    "prevClose": 4124.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.205,
-   "changePct": -3.83,
+   "price": 51.245,
+   "changePct": -3.76,
    "prevClose": 53.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.23,
-   "changePct": -2.01,
+   "price": 6.245,
+   "changePct": -1.78,
    "prevClose": 6.358,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.004,
-   "changePct": 2.88,
+   "price": 5.015,
+   "changePct": 3.1,
    "prevClose": 4.864,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.339,
-   "changePct": 0.69,
+   "price": 102.316,
+   "changePct": 0.67,
    "prevClose": 101.64,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.16,
+   "price": 20.91,
    "changePct": null,
    "prevClose": 19.92,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:02:04Z"
+   "asOf": "2026-11-10T18:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 33.7,
+   "price": 32.9,
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-10T17:13:00Z"
+   "asOf": "2026-11-10T18:12:05Z"
   }
  ],
  "weather": {
@@ -702,6 +702,50 @@
  },
  "news": [
   {
+   "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+   "source": "BBC",
+   "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+   "body": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-10T18:04:18Z",
+   "topic": "World"
+  },
+  {
+   "title": "Jensen Huang’s Affair Isn’t the Only Reason the U.S. Is Losing Ground to China in the Tech War",
+   "source": "Zeteo",
+   "summary": "The Nvidia boss’s tryst with a suspected Chinese spy has prompted fears of a major breach of corporate secrets, but China has been gaining on its rival superpower for years, writes Grace Blakeley.",
+   "body": "The Nvidia boss’s tryst with a suspected Chinese spy has prompted fears of a major breach of corporate secrets, but China has been gaining on its rival superpower for years, writes Grace Blakeley.",
+   "sources": [
+    "https://zeteo.com/p/jensen-huangs-affair-isnt-the-only"
+   ],
+   "publishedAt": "2026-11-10T18:02:32Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Arizona Town’s Probe on Sex Abuse Claims Could Block Prison Firm Building New ICE Camp",
+   "source": "The Intercept",
+   "summary": "Following a LOOKOUT and Intercept investigation, town officials asked the private prison firm for information about a state prison it operated at the site.",
+   "body": "Following a LOOKOUT and Intercept investigation, town officials asked the private prison firm for information about a state prison it operated at the site.",
+   "sources": [
+    "https://theintercept.com/2026/11/10/arizona-ice-camp-mtc-sexual-abuse/"
+   ],
+   "publishedAt": "2026-11-10T18:02:25Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "US federal authorities could have prevented Epstein crimes, report finds",
+   "source": "BBC",
+   "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+   "body": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-10T17:59:02Z",
+   "topic": "World"
+  },
+  {
    "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
    "source": "NPR",
    "summary": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages",
@@ -768,17 +812,6 @@
    "topic": "World"
   },
   {
-   "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-   "source": "BBC",
-   "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-   "body": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-10T16:07:51Z",
-   "topic": "World"
-  },
-  {
    "title": "Trump says Iran war “militarily is effectively over”; California voters reject billionaire tax; Russian newspaper Novaya Gazeta closes",
    "source": "Drop Site News",
    "summary": "Drop Site Daily: November 10, 2026.",
@@ -788,17 +821,6 @@
    ],
    "publishedAt": "2026-11-10T15:39:57Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-   "source": "BBC",
-   "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-   "body": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-10T15:21:18Z",
-   "topic": "World"
   },
   {
    "title": "Gas prices dip below $4 but inflation remains stubbornly high",
@@ -853,28 +875,6 @@
     "https://zeteo.com/p/run-chris-run"
    ],
    "publishedAt": "2026-11-10T12:00:41Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "I Worked at the Pentagon. Congress Must Impeach and Remove Pete Hegseth Now",
-   "source": "Zeteo",
-   "summary": "Not doing so further endangers the Constitution, the American people, and the world, writes Pentagon whistleblower Wes Bryant.",
-   "body": "Not doing so further endangers the Constitution, the American people, and the world, writes Pentagon whistleblower Wes Bryant.",
-   "sources": [
-    "https://zeteo.com/p/i-worked-at-the-pentagon-congress"
-   ],
-   "publishedAt": "2026-11-10T03:00:45Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Impeachment Vote Looms for Hegseth",
-   "source": "The Intercept",
-   "summary": "“I think there’s a high chance that it will be successful,” a member of Congress told The Intercept.",
-   "body": "“I think there’s a high chance that it will be successful,” a member of Congress told The Intercept.",
-   "sources": [
-    "https://theintercept.com/2026/11/09/impeachment-vote-looms-hegseth/"
-   ],
-   "publishedAt": "2026-11-09T19:15:52Z",
    "topic": "Independent"
   }
  ],
