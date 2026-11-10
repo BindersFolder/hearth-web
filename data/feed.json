@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-10T18:32:04Z",
+ "updatedAt": "2026-11-10T18:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 746.96,
-   "changePct": -0.87,
+   "price": 747.33,
+   "changePct": -0.82,
    "prevClose": 753.54,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 670.34,
-   "changePct": -1.49,
+   "price": 670.69,
+   "changePct": -1.44,
    "prevClose": 680.49,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.46,
-   "changePct": -0.59,
+   "price": 520.62,
+   "changePct": -0.56,
    "prevClose": 523.54,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.71,
-   "changePct": -0.87,
+   "price": 279.74,
+   "changePct": -0.86,
    "prevClose": 282.16,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73374.2734,
-   "changePct": -2.51,
+   "price": 73430.6719,
+   "changePct": -2.44,
    "prevClose": 75264.4922,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2033.9399,
-   "changePct": -4.61,
+   "price": 2041.1,
+   "changePct": -4.27,
    "prevClose": 2132.1499,
    "high52": 3644.53,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.26,
-   "changePct": 0.69,
+   "price": 86.13,
+   "changePct": 0.54,
    "prevClose": 85.67,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.73,
-   "changePct": 0.33,
+   "price": 91.63,
+   "changePct": 0.22,
    "prevClose": 91.43,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.88,
-   "changePct": -2.48,
+   "price": 45.04,
+   "changePct": -2.13,
    "prevClose": 46.02,
-   "note": "Gasoline 23.81 · Diesel 87.02",
+   "note": "Gasoline 23.96 · Diesel 87.18",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.288,
-   "changePct": 2.33,
+   "price": 3.307,
+   "changePct": 2.93,
    "prevClose": 3.213,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6208,
-   "changePct": -0.22,
+   "price": 2.6213,
+   "changePct": -0.2,
    "prevClose": 2.6266,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1256,
-   "changePct": -0.67,
+   "price": 4.1264,
+   "changePct": -0.65,
    "prevClose": 4.1535,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.76,
    "note": "Week ago 4.1493 · Year ago 3.0707",
    "source": "AAA",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.335 · Year ago 3.1196",
    "source": "AAA",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.2875 · Year ago 3.7389",
    "source": "AAA",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.1,
    "note": "Week ago 6.4862 · Year ago 3.8873",
    "source": "AAA",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4027.7,
-   "changePct": -2.36,
+   "price": 4037.0,
+   "changePct": -2.13,
    "prevClose": 4124.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.235,
-   "changePct": -3.77,
+   "price": 51.355,
+   "changePct": -3.55,
    "prevClose": 53.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2445,
-   "changePct": -1.79,
+   "price": 6.2545,
+   "changePct": -1.63,
    "prevClose": 6.358,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.01,
-   "changePct": 3.0,
+   "price": 5.004,
+   "changePct": 2.88,
    "prevClose": 4.864,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.316,
-   "changePct": 0.67,
+   "price": 102.275,
+   "changePct": 0.62,
    "prevClose": 101.64,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.74,
+   "price": 20.48,
    "changePct": null,
    "prevClose": 19.92,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T18:32:04Z"
+   "asOf": "2026-11-10T18:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+   "source": "BBC",
+   "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+   "body": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-10T18:33:51Z",
+   "topic": "World"
+  },
+  {
    "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
    "source": "BBC",
    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
@@ -798,17 +809,6 @@
     "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-10T17:03:16Z",
-   "topic": "World"
-  },
-  {
-   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-   "source": "BBC",
-   "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-   "body": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-10T16:19:48Z",
    "topic": "World"
   },
   {
