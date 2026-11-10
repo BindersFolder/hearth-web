@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T11:02:04Z",
+ "updatedAt": "2026-11-10T11:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74048.8828,
-   "changePct": -1.62,
+   "price": 74303.3828,
+   "changePct": -1.28,
    "prevClose": 75264.4922,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2085.3401,
-   "changePct": -2.2,
+   "price": 2098.22,
+   "changePct": -1.59,
    "prevClose": 2132.1499,
    "high52": 3644.53,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.43,
-   "changePct": -0.28,
+   "price": 85.76,
+   "changePct": 0.11,
    "prevClose": 85.67,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T03:10:38Z"
+   "asOf": "2026-11-10T11:12:55Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.74,
-   "changePct": -0.75,
+   "price": 91.16,
+   "changePct": -0.3,
    "prevClose": 91.43,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T03:10:38Z"
+   "asOf": "2026-11-10T11:12:55Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.76,
-   "changePct": -2.74,
+   "price": 45.01,
+   "changePct": -2.19,
    "prevClose": 46.02,
-   "note": "Gasoline 24.59 · Diesel 85.09",
+   "note": "Gasoline 24.80 · Diesel 85.43",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.248,
-   "changePct": 1.09,
+   "price": 3.241,
+   "changePct": 0.87,
    "prevClose": 3.213,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6195,
-   "changePct": -0.27,
+   "price": 2.6324,
+   "changePct": 0.22,
    "prevClose": 2.6266,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.06,
-   "changePct": -2.25,
+   "price": 4.0759,
+   "changePct": -1.87,
    "prevClose": 4.1535,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.17,
-   "changePct": -0.5,
+   "price": 4.06,
+   "changePct": -3.8,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T03:10:38Z"
+   "asOf": "2026-11-10T11:12:55Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T03:10:38Z"
+   "asOf": "2026-11-10T11:12:55Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-10T03:10:38Z"
+   "asOf": "2026-11-10T11:12:55Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.76,
    "note": "Week ago 4.1493 · Year ago 3.0707",
    "source": "AAA",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.335 · Year ago 3.1196",
    "source": "AAA",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.2875 · Year ago 3.7389",
    "source": "AAA",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.1,
    "note": "Week ago 6.4862 · Year ago 3.8873",
    "source": "AAA",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4083.7,
-   "changePct": -1.0,
+   "price": 4078.0,
+   "changePct": -1.14,
    "prevClose": 4124.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.38,
-   "changePct": -1.62,
+   "price": 52.3,
+   "changePct": -1.77,
    "prevClose": 53.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3115,
-   "changePct": -0.73,
+   "price": 6.3135,
+   "changePct": -0.7,
    "prevClose": 6.358,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.696,
+   "price": 101.705,
    "changePct": 0.06,
    "prevClose": 101.64,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.13,
+   "price": 20.2,
    "changePct": null,
    "prevClose": 19.92,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T11:02:04Z"
+   "asOf": "2026-11-10T11:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-10T03:10:38Z"
+   "asOf": "2026-11-10T11:12:55Z"
   }
  ],
  "weather": {
@@ -728,17 +728,6 @@
    "topic": "News"
   },
   {
-   "title": "Is honesty always the best policy? When to speak up — or stay silent",
-   "source": "NPR",
-   "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
-   "body": "Should you tell your boss she's got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
-   "sources": [
-    "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent"
-   ],
-   "publishedAt": "2026-11-10T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "How word of mouth is helping an Amish community's fight against measles",
    "source": "NPR",
    "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
@@ -756,6 +745,17 @@
    "body": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
    "sources": [
     "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress"
+   ],
+   "publishedAt": "2026-11-10T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Is honesty always the best policy? When to speak up — or stay silent",
+   "source": "NPR",
+   "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
+   "body": "Should you tell your boss she's got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
+   "sources": [
+    "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent"
    ],
    "publishedAt": "2026-11-10T10:00:00Z",
    "topic": "News"
