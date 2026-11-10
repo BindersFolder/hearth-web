@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T00:02:04Z",
+ "updatedAt": "2026-11-10T00:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 75207.5703,
-   "changePct": 0.34,
+   "price": 75156.3203,
+   "changePct": 0.27,
    "prevClose": 74955.3828,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2131.8201,
-   "changePct": 0.29,
+   "price": 2129.22,
+   "changePct": 0.17,
    "prevClose": 2125.5701,
    "high52": 3644.53,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.47,
-   "changePct": -5.3,
+   "price": 86.44,
+   "changePct": -5.33,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T23:11:37Z"
+   "asOf": "2026-11-10T00:12:02Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.36,
-   "changePct": -6.08,
+   "price": 92.35,
+   "changePct": -6.09,
    "prevClose": 98.34,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T23:11:37Z"
+   "asOf": "2026-11-10T00:12:02Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.41,
-   "changePct": -3.65,
+   "price": 46.42,
+   "changePct": -3.63,
    "prevClose": 48.17,
-   "note": "Gasoline 24.80 · Diesel 89.64",
+   "note": "Gasoline 24.86 · Diesel 89.54",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.203,
-   "changePct": 5.95,
+   "price": 3.204,
+   "changePct": 5.99,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6493,
-   "changePct": -5.1,
+   "price": 2.65,
+   "changePct": -5.08,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.193,
-   "changePct": -4.25,
+   "price": 4.1899,
+   "changePct": -4.32,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.21,
-   "changePct": -3.0,
+   "price": 4.19,
+   "changePct": -3.5,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T23:11:37Z"
+   "asOf": "2026-11-10T00:12:02Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T23:11:37Z"
+   "asOf": "2026-11-10T00:12:02Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-09T23:11:37Z"
+   "asOf": "2026-11-10T00:12:02Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,33 +252,33 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4148.6001,
-   "changePct": 0.37,
+   "price": 4145.2998,
+   "changePct": 0.29,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 53.45,
-   "changePct": 0.63,
+   "price": 53.385,
+   "changePct": 0.51,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:02:04Z"
+   "asOf": "2026-11-10T00:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-09T23:11:37Z"
+   "asOf": "2026-11-10T00:12:02Z"
   }
  ],
  "weather": {
@@ -349,20 +349,11 @@
   "temp": 49,
   "high": 49,
   "low": 39,
-  "humidity": 71,
-  "wind": 9,
+  "humidity": 68,
+  "wind": 7,
   "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 3 to 9 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-09T18:00:00-05:00",
-    "temp": 49,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 9,
-    "humidity": 71
-   },
    {
     "time": "2026-11-09T19:00:00-05:00",
     "temp": 49,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 6,
     "humidity": 55
+   },
+   {
+    "time": "2026-11-10T18:00:00-05:00",
+    "temp": 55,
+    "condition": "clearNight",
+    "conditionText": "Clear",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 64
    }
   ],
   "daily": [
@@ -700,6 +700,28 @@
  },
  "news": [
   {
+   "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "source": "BBC",
+   "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+   "body": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-10T00:14:03Z",
+   "topic": "World"
+  },
+  {
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "source": "BBC",
+   "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+   "body": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-10T00:09:49Z",
+   "topic": "World"
+  },
+  {
    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
    "source": "BBC",
    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
@@ -719,17 +741,6 @@
     "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-09T23:45:14Z",
-   "topic": "World"
-  },
-  {
-   "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-   "source": "BBC",
-   "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-   "body": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T23:28:53Z",
    "topic": "World"
   },
   {
@@ -753,17 +764,6 @@
    ],
    "publishedAt": "2026-11-09T22:10:35Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-   "source": "BBC",
-   "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-   "body": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-09T21:48:38Z",
-   "topic": "World"
   },
   {
    "title": "Supreme Court says border wall construction can continue in west Texas",
