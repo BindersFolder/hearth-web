@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T08:17:04Z",
+ "updatedAt": "2026-11-10T08:25:19Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74658.8516,
-   "changePct": -0.8,
-   "prevClose": 75264.4922,
+   "price": 74638.7422,
+   "changePct": -0.82,
+   "prevClose": 75257.7734,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2111.8601,
-   "changePct": -0.95,
-   "prevClose": 2132.1499,
+   "price": 2110.3701,
+   "changePct": -1.03,
+   "prevClose": 2132.3401,
    "high52": 3644.53,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.26,
-   "changePct": -0.59,
-   "prevClose": 85.77,
+   "price": 85.24,
+   "changePct": -0.66,
+   "prevClose": 85.81,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.96,
-   "changePct": -0.67,
-   "prevClose": 91.57,
+   "price": 90.89,
+   "changePct": -0.78,
+   "prevClose": 91.6,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.98,
-   "changePct": -0.26,
-   "prevClose": 46.1,
-   "note": "Gasoline 25.11 · Diesel 87.73",
+   "price": 45.86,
+   "changePct": -0.63,
+   "prevClose": 46.15,
+   "note": "Gasoline 24.93 · Diesel 87.71",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.227,
+   "price": 3.232,
    "changePct": 0.84,
-   "prevClose": 3.2,
+   "prevClose": 3.205,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6279,
-   "changePct": 0.03,
-   "prevClose": 2.6271,
+   "price": 2.6231,
+   "changePct": -0.33,
+   "prevClose": 2.6318,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1187,
-   "changePct": -1.11,
-   "prevClose": 4.1648,
+   "price": 4.1179,
+   "changePct": -1.06,
+   "prevClose": 4.1622,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "NY-REG",
@@ -224,11 +224,11 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2522,
-   "changePct": -0.19,
-   "note": "Week ago 4.3409 · Year ago 3.1199",
+   "price": 4.2312,
+   "changePct": -0.49,
+   "note": "Week ago 4.335 · Year ago 3.1196",
    "source": "AAA",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "NY-DSL",
@@ -248,50 +248,50 @@
    "group": "Pump",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 6.4303,
-   "changePct": -0.15,
-   "note": "Week ago 6.4892 · Year ago 3.8947",
+   "price": 6.4236,
+   "changePct": -0.1,
+   "note": "Week ago 6.4862 · Year ago 3.8873",
    "source": "AAA",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4124.0,
-   "changePct": 0.03,
-   "prevClose": 4122.7998,
+   "price": 4127.6001,
+   "changePct": 0.18,
+   "prevClose": 4120.2002,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.85,
-   "changePct": -0.37,
-   "prevClose": 53.045,
+   "price": 52.87,
+   "changePct": -0.25,
+   "prevClose": 53.0,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3175,
-   "changePct": -0.6,
-   "prevClose": 6.3555,
+   "price": 6.322,
+   "changePct": -0.27,
+   "prevClose": 6.339,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.568,
-   "changePct": -0.12,
-   "prevClose": 101.692,
+   "price": 101.567,
+   "changePct": -0.1,
+   "prevClose": 101.669,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T08:17:04Z"
+   "asOf": "2026-11-10T08:25:19Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -695,6 +695,17 @@
  },
  "news": [
   {
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "source": "BBC",
+   "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "body": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-10T08:23:21Z",
+   "topic": "World"
+  },
+  {
    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
    "source": "BBC",
    "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
@@ -736,17 +747,6 @@
     "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-10T05:22:39Z",
-   "topic": "World"
-  },
-  {
-   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "source": "BBC",
-   "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "body": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-10T03:58:13Z",
    "topic": "World"
   },
   {
