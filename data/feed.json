@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T00:47:04Z",
+ "updatedAt": "2026-11-10T01:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74933.6172,
-   "changePct": -0.03,
+   "price": 75150.3672,
+   "changePct": 0.26,
    "prevClose": 74955.3828,
    "high52": 107428.26,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2124.3899,
-   "changePct": -0.06,
+   "price": 2128.8701,
+   "changePct": 0.16,
    "prevClose": 2125.5701,
    "high52": 3644.53,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.59,
-   "changePct": -5.17,
+   "price": 86.61,
+   "changePct": -5.15,
    "prevClose": 91.31,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 46.5,
-   "changePct": -3.47,
+   "price": 46.54,
+   "changePct": -3.38,
    "prevClose": 48.17,
-   "note": "Gasoline 24.84 · Diesel 89.81",
+   "note": "Gasoline 24.89 · Diesel 89.85",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.21,
-   "changePct": 6.19,
+   "price": 3.211,
+   "changePct": 6.22,
    "prevClose": 3.023,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6532,
-   "changePct": -4.96,
+   "price": 2.6547,
+   "changePct": -4.91,
    "prevClose": 2.7918,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1999,
-   "changePct": -4.09,
+   "price": 4.2014,
+   "changePct": -4.06,
    "prevClose": 4.3791,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.27,
    "note": "Week ago 4.1694 · Year ago 3.0699",
    "source": "AAA",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.3409 · Year ago 3.1199",
    "source": "AAA",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.33,
    "note": "Week ago 6.2921 · Year ago 3.7345",
    "source": "AAA",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.15,
    "note": "Week ago 6.4892 · Year ago 3.8947",
    "source": "AAA",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4131.2998,
-   "changePct": -0.05,
+   "price": 4132.2998,
+   "changePct": -0.02,
    "prevClose": 4133.2998,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 53.175,
-   "changePct": 0.11,
+   "price": 53.1,
+   "changePct": -0.03,
    "prevClose": 53.115,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3715,
-   "changePct": 0.4,
+   "price": 6.3685,
+   "changePct": 0.35,
    "prevClose": 6.346,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 101.717,
+   "price": 101.721,
    "changePct": -0.4,
    "prevClose": 102.125,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-10T00:47:04Z"
+   "asOf": "2026-11-10T01:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Mostly Clear",
-  "temp": 49,
-  "high": 49,
+  "temp": 47,
+  "high": 47,
   "low": 39,
-  "humidity": 68,
-  "wind": 7,
-  "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph. Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 3 to 9 mph.",
+  "humidity": 71,
+  "wind": 6,
+  "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind around 6 mph. Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind around 6 mph. Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind 3 to 9 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-09T19:00:00-05:00",
-    "temp": 49,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 68
-   },
    {
     "time": "2026-11-09T20:00:00-05:00",
     "temp": 47,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 5,
     "humidity": 64
+   },
+   {
+    "time": "2026-11-10T19:00:00-05:00",
+    "temp": 54,
+    "condition": "clearNight",
+    "conditionText": "Clear",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 61
    }
   ],
   "daily": [
@@ -579,13 +579,13 @@
      "low": 39,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph.",
+     "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind around 6 mph.",
      "precipPct": 1
     },
-    "high": 49,
+    "high": 47,
     "conditionText": "Partly Cloudy",
     "condition": "clearNight",
-    "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind 3 to 9 mph.",
+    "summary": "Partly cloudy. Low around 39, with temperatures rising to around 41 overnight. West wind around 6 mph.",
     "precipPct": 1
    },
    {
