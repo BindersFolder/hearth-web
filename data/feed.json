@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T03:17:04Z",
+ "updatedAt": "2026-11-11T03:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73768.5703,
-   "changePct": 0.06,
+   "price": 73621.8828,
+   "changePct": -0.14,
    "prevClose": 73722.2422,
    "high52": 105297.23,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2066.1001,
-   "changePct": 0.71,
+   "price": 2059.5701,
+   "changePct": 0.39,
    "prevClose": 2051.5701,
    "high52": 3586.01,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.53,
-   "changePct": 1.0,
+   "price": 86.49,
+   "changePct": 0.96,
    "prevClose": 85.67,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.39,
-   "changePct": 1.05,
+   "price": 92.32,
+   "changePct": 0.97,
    "prevClose": 91.43,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.24,
-   "changePct": -1.69,
+   "price": 45.25,
+   "changePct": -1.67,
    "prevClose": 46.02,
-   "note": "Gasoline 23.82 · Diesel 88.07",
+   "note": "Gasoline 23.84 · Diesel 88.09",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.307,
-   "changePct": 2.93,
+   "price": 3.303,
+   "changePct": 2.8,
    "prevClose": 3.213,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6273,
-   "changePct": 0.03,
+   "price": 2.6268,
+   "changePct": 0.01,
    "prevClose": 2.6266,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1572,
-   "changePct": 0.09,
+   "price": 4.1566,
+   "changePct": 0.07,
    "prevClose": 4.1535,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.76,
    "note": "Week ago 4.1493 · Year ago 3.0707",
    "source": "AAA",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.335 · Year ago 3.1196",
    "source": "AAA",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.2875 · Year ago 3.7389",
    "source": "AAA",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.1,
    "note": "Week ago 6.4862 · Year ago 3.8873",
    "source": "AAA",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4055.2,
-   "changePct": -1.69,
+   "price": 4056.5,
+   "changePct": -1.66,
    "prevClose": 4124.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.415,
-   "changePct": -1.56,
+   "price": 52.425,
+   "changePct": -1.54,
    "prevClose": 53.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.313,
-   "changePct": -0.71,
+   "price": 6.315,
+   "changePct": -0.68,
    "prevClose": 6.358,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.225,
-   "changePct": 0.58,
+   "price": 102.238,
+   "changePct": 0.59,
    "prevClose": 101.64,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T03:17:04Z"
+   "asOf": "2026-11-11T03:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -700,6 +700,17 @@
  },
  "news": [
   {
+   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+   "source": "BBC",
+   "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+   "body": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-11T03:26:42Z",
+   "topic": "World"
+  },
+  {
    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
    "source": "BBC",
    "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
@@ -731,17 +742,6 @@
    ],
    "publishedAt": "2026-11-11T01:51:23Z",
    "topic": "News"
-  },
-  {
-   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-   "source": "BBC",
-   "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-   "body": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-11T01:14:40Z",
-   "topic": "World"
   },
   {
    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
