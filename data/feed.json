@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T13:47:04Z",
+ "updatedAt": "2026-11-11T14:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73693.9922,
-   "changePct": -0.01,
+   "price": 73767.25,
+   "changePct": 0.09,
    "prevClose": 73697.8828,
    "high52": 105297.23,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2050.4199,
-   "changePct": -0.01,
+   "price": 2057.28,
+   "changePct": 0.33,
    "prevClose": 2050.5801,
    "high52": 3586.01,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.34,
-   "changePct": 0.81,
+   "price": 87.31,
+   "changePct": 0.77,
    "prevClose": 86.64,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.81,
-   "changePct": 0.4,
+   "price": 92.76,
+   "changePct": 0.35,
    "prevClose": 92.44,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.57,
-   "changePct": -1.37,
+   "price": 44.72,
+   "changePct": -1.04,
    "prevClose": 45.19,
-   "note": "Gasoline 22.10 · Diesel 89.50",
+   "note": "Gasoline 22.35 · Diesel 89.46",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.357,
-   "changePct": 2.01,
+   "price": 3.352,
+   "changePct": 1.85,
    "prevClose": 3.291,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6058,
-   "changePct": -0.87,
+   "price": 2.611,
+   "changePct": -0.67,
    "prevClose": 2.6287,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2105,
-   "changePct": 1.24,
+   "price": 4.2087,
+   "changePct": 1.2,
    "prevClose": 4.1588,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.9,
    "note": "Week ago 4.1239 · Year ago 3.0719",
    "source": "AAA",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.53,
    "note": "Week ago 4.3236 · Year ago 3.1244",
    "source": "AAA",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.43,
    "note": "Week ago 6.2748 · Year ago 3.748",
    "source": "AAA",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.31,
    "note": "Week ago 6.4781 · Year ago 3.8953",
    "source": "AAA",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4044.3,
-   "changePct": -0.24,
+   "price": 4041.5,
+   "changePct": -0.31,
    "prevClose": 4054.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.725,
-   "changePct": 0.39,
+   "price": 52.65,
+   "changePct": 0.25,
    "prevClose": 52.52,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2825,
-   "changePct": -0.55,
+   "price": 6.2855,
+   "changePct": -0.5,
    "prevClose": 6.317,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.677,
-   "changePct": 0.42,
+   "price": 102.746,
+   "changePct": 0.49,
    "prevClose": 102.249,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.39,
+   "price": 18.36,
    "changePct": null,
    "prevClose": 19.46,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T13:47:04Z"
+   "asOf": "2026-11-11T14:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -345,59 +345,50 @@
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
-  "conditionText": "Mostly Sunny",
-  "temp": 47,
+  "conditionText": "Sunny",
+  "temp": 53,
   "high": 61,
   "low": 44,
-  "humidity": 79,
+  "humidity": 60,
   "wind": 3,
-  "summary": "Partly sunny. High near 61, with temperatures falling to around 57 in the afternoon. West wind 1 to 5 mph. A chance of rain after 1am. Mostly cloudy. Low around 44, with temperatures rising to around 46 overnight. East wind around 2 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch…",
+  "summary": "Mostly sunny. High near 61, with temperatures falling to around 57 in the afternoon. West wind 1 to 5 mph. A chance of rain after 1am. Mostly cloudy. Low around 44, with temperatures rising to around 46 overnight. East wind around 2 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch…",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-11T08:00:00-05:00",
-    "temp": 47,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 79
-   },
-   {
     "time": "2026-11-11T09:00:00-05:00",
-    "temp": 51,
+    "temp": 53,
     "condition": "sun",
-    "conditionText": "Mostly Sunny",
+    "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 3,
-    "humidity": 74
+    "humidity": 60
    },
    {
     "time": "2026-11-11T10:00:00-05:00",
-    "temp": 55,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 64
-   },
-   {
-    "time": "2026-11-11T11:00:00-05:00",
     "temp": 56,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 3,
-    "humidity": 62
+    "humidity": 56
+   },
+   {
+    "time": "2026-11-11T11:00:00-05:00",
+    "temp": 59,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 52
    },
    {
     "time": "2026-11-11T12:00:00-05:00",
-    "temp": 59,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
+    "temp": 58,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 5,
-    "humidity": 55
+    "humidity": 53
    },
    {
     "time": "2026-11-11T13:00:00-05:00",
@@ -569,18 +560,27 @@
     "precipPct": 39,
     "wind": 3,
     "humidity": 93
+   },
+   {
+    "time": "2026-11-12T08:00:00-05:00",
+    "temp": 47,
+    "condition": "rain",
+    "conditionText": "Chance Light Rain",
+    "precipPct": 39,
+    "wind": 5,
+    "humidity": 96
    }
   ],
   "daily": [
    {
     "date": "2026-11-11",
     "high": 61,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 5,
     "windText": "W 1 to 5 mph",
-    "summary": "Partly sunny. High near 61, with temperatures falling to around 57 in the afternoon. West wind 1 to 5 mph.",
+    "summary": "Mostly sunny. High near 61, with temperatures falling to around 57 in the afternoon. West wind 1 to 5 mph.",
     "low": 44,
     "night": {
      "low": 44,
@@ -801,12 +801,12 @@
    "topic": "News"
   },
   {
-   "title": "Both sides now? Critics slam DOJ moves to dismiss convictions of Trump allies",
+   "title": "U.S. officials look to Europe to learn how to make prison better",
    "source": "NPR",
-   "summary": "The DOJ moved to dismiss criminal convictions of former Trump adviser Steve Bannon and of the Oath Keepers, in what it calls \"the interests of justice.\" Critics are crying foul.",
-   "body": "The DOJ moved to dismiss criminal convictions of former Trump adviser Steve Bannon and of the Oath Keepers, in what it calls \"the interests of justice.\" Critics are crying foul.",
+   "summary": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
+   "body": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
    "sources": [
-    "https://www.npr.org/2026/11/11/g-s1-152713/doj-abandons-convictions-trump-allies-no-defense"
+    "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation"
    ],
    "publishedAt": "2026-11-11T10:00:00Z",
    "topic": "News"
