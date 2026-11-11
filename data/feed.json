@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-11T18:32:03Z",
+ "updatedAt": "2026-11-11T18:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 762.241,
-   "changePct": 1.45,
+   "price": 762.465,
+   "changePct": 1.48,
    "prevClose": 751.34,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 695.32,
-   "changePct": 2.61,
+   "price": 695.53,
+   "changePct": 2.64,
    "prevClose": 677.63,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 524.39,
-   "changePct": 0.38,
+   "price": 524.5799,
+   "changePct": 0.42,
    "prevClose": 522.4,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 283.58,
-   "changePct": 0.98,
+   "price": 283.5,
+   "changePct": 0.95,
    "prevClose": 280.8377,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74520.0,
-   "changePct": 1.12,
+   "price": 74433.0391,
+   "changePct": 1.0,
    "prevClose": 73697.8828,
    "high52": 105297.23,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2089.51,
-   "changePct": 1.9,
+   "price": 2084.3601,
+   "changePct": 1.65,
    "prevClose": 2050.5801,
    "high52": 3586.01,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.03,
-   "changePct": 0.45,
+   "price": 86.9,
+   "changePct": 0.3,
    "prevClose": 86.64,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.12,
-   "changePct": 0.74,
+   "price": 93.02,
+   "changePct": 0.63,
    "prevClose": 92.44,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.54,
-   "changePct": -1.44,
+   "price": 44.43,
+   "changePct": -1.68,
    "prevClose": 45.19,
-   "note": "Gasoline 21.50 · Diesel 90.63",
+   "note": "Gasoline 21.39 · Diesel 90.51",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.249,
-   "changePct": -1.28,
+   "price": 3.243,
+   "changePct": -1.46,
    "prevClose": 3.291,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5841,
-   "changePct": -1.7,
+   "price": 2.5783,
+   "changePct": -1.92,
    "prevClose": 2.6287,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2299,
-   "changePct": 1.71,
+   "price": 4.2241,
+   "changePct": 1.57,
    "prevClose": 4.1588,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.9,
    "note": "Week ago 4.1239 · Year ago 3.0719",
    "source": "AAA",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.53,
    "note": "Week ago 4.3236 · Year ago 3.1244",
    "source": "AAA",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.43,
    "note": "Week ago 6.2748 · Year ago 3.748",
    "source": "AAA",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.31,
    "note": "Week ago 6.4781 · Year ago 3.8953",
    "source": "AAA",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3998.3999,
-   "changePct": -1.37,
+   "price": 4000.1001,
+   "changePct": -1.33,
    "prevClose": 4054.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.04,
-   "changePct": -0.91,
+   "price": 52.01,
+   "changePct": -0.97,
    "prevClose": 52.52,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2865,
-   "changePct": -0.48,
+   "price": 6.2835,
+   "changePct": -0.53,
    "prevClose": 6.317,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.903,
+   "price": 102.905,
    "changePct": 0.64,
    "prevClose": 102.249,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.48,
+   "price": 17.37,
    "changePct": null,
    "prevClose": 19.46,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T18:32:03Z"
+   "asOf": "2026-11-11T18:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -348,10 +348,10 @@
   "conditionText": "Partly Sunny",
   "temp": 60,
   "high": 61,
-  "low": 44,
+  "low": 42,
   "humidity": 51,
   "wind": 5,
-  "summary": "Partly sunny. High near 61, with temperatures falling to around 57 in the afternoon. Northwest wind 1 to 5 mph. A chance of rain after 1am. Mostly cloudy. Low around 44, with temperatures rising to around 46 overnight. East wind around 2 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch…",
+  "summary": "Mostly sunny. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 2 to 7 mph. Rain showers likely after midnight. Mostly cloudy, with a low around 42. East wind around 3 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. Rain showers. Cloudy.…",
   "alerts": [],
   "hourly": [
    {
@@ -575,84 +575,66 @@
    {
     "date": "2026-11-11",
     "high": 61,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
     "precipPct": 0,
-    "wind": 5,
-    "windText": "NW 1 to 5 mph",
-    "summary": "Partly sunny. High near 61, with temperatures falling to around 57 in the afternoon. Northwest wind 1 to 5 mph.",
-    "low": 44,
+    "wind": 7,
+    "windText": "SW 2 to 7 mph",
+    "summary": "Mostly sunny. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 2 to 7 mph.",
+    "low": 42,
     "night": {
-     "low": 44,
+     "low": 42,
      "condition": "rain",
-     "conditionText": "Mostly Cloudy then Chance Light Rain",
-     "summary": "A chance of rain after 1am. Mostly cloudy. Low around 44, with temperatures rising to around 46 overnight. East wind around 2 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
-     "precipPct": 40
+     "conditionText": "Mostly Cloudy then Rain Showers Likely",
+     "summary": "Rain showers likely after midnight. Mostly cloudy, with a low around 42. East wind around 3 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
+     "precipPct": 73
     }
    },
    {
     "date": "2026-11-12",
     "high": 54,
     "condition": "rain",
-    "conditionText": "Light Rain",
+    "conditionText": "Rain Showers",
     "precipPct": 99,
-    "wind": 7,
-    "windText": "NE 2 to 7 mph",
-    "summary": "Rain. Cloudy, with a high near 54. Northeast wind 2 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
-    "low": 39,
+    "wind": 8,
+    "windText": "E 3 to 8 mph",
+    "summary": "Rain showers. Cloudy. High near 54, with temperatures falling to around 51 in the afternoon. East wind 3 to 8 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+    "low": 36,
     "night": {
-     "low": 39,
+     "low": 36,
      "condition": "rain",
      "conditionText": "Light Rain",
-     "summary": "Rain. Cloudy. Low around 39, with temperatures rising to around 41 overnight. North wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible.",
-     "precipPct": 99
+     "summary": "Rain before 4am, then rain and snow. Cloudy, with a low around 36. Northeast wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible.",
+     "precipPct": 100
     }
    },
    {
     "date": "2026-11-13",
-    "high": 46,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 93,
-    "wind": 10,
-    "windText": "N 10 mph",
-    "summary": "Rain. Cloudy. High near 46, with temperatures falling to around 43 in the afternoon. North wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
-    "low": 33,
+    "high": 45,
+    "condition": "snow",
+    "conditionText": "Rain And Snow",
+    "precipPct": 100,
+    "wind": 12,
+    "windText": "N 7 to 12 mph",
+    "summary": "Rain and snow before 7am, then rain and snow. Cloudy, with a high near 45. North wind 7 to 12 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
+    "low": 32,
     "night": {
-     "low": 33,
+     "low": 32,
      "condition": "rain",
-     "conditionText": "Chance Light Rain",
-     "summary": "A chance of rain. Mostly cloudy, with a low around 33. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
-     "precipPct": 53
+     "conditionText": "Chance Light Rain then Mostly Cloudy",
+     "summary": "A chance of rain before 7pm. Mostly cloudy, with a low around 32. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+     "precipPct": 33
     }
    },
    {
     "date": "2026-11-14",
     "high": 48,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain then Partly Sunny",
-    "precipPct": 36,
-    "wind": 12,
-    "windText": "NW 5 to 12 mph",
-    "summary": "A chance of rain before 7am. Partly sunny, with a high near 48. Chance of precipitation is 40%.",
-    "low": 33,
-    "night": {
-     "low": 33,
-     "condition": "cloud",
-     "conditionText": "Mostly Cloudy",
-     "summary": "Mostly cloudy, with a low around 33.",
-     "precipPct": 1
-    }
-   },
-   {
-    "date": "2026-11-15",
-    "high": 51,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 0,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 2,
     "wind": 10,
-    "windText": "NW 5 to 10 mph",
-    "summary": "Mostly sunny, with a high near 51.",
+    "windText": "NW 3 to 10 mph",
+    "summary": "Partly sunny, with a high near 48.",
     "low": 32,
     "night": {
      "low": 32,
@@ -663,21 +645,39 @@
     }
    },
    {
-    "date": "2026-11-16",
-    "high": 52,
+    "date": "2026-11-15",
+    "high": 51,
     "condition": "sun",
     "conditionText": "Mostly Sunny",
-    "precipPct": 1,
+    "precipPct": 0,
+    "wind": 10,
+    "windText": "NW 3 to 10 mph",
+    "summary": "Mostly sunny, with a high near 51.",
+    "low": 31,
+    "night": {
+     "low": 31,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 31.",
+     "precipPct": 0
+    }
+   },
+   {
+    "date": "2026-11-16",
+    "high": 51,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
     "wind": 5,
     "windText": "NW 1 to 5 mph",
-    "summary": "Mostly sunny, with a high near 52.",
+    "summary": "Mostly sunny, with a high near 51.",
     "low": 29,
     "night": {
      "low": 29,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
      "summary": "Mostly clear, with a low around 29.",
-     "precipPct": 1
+     "precipPct": 0
     }
    },
    {
@@ -685,22 +685,33 @@
     "high": 52,
     "condition": "sun",
     "conditionText": "Sunny",
-    "precipPct": 1,
+    "precipPct": 0,
     "wind": 2,
     "windText": "N 2 mph",
     "summary": "Sunny, with a high near 52.",
-    "low": 29,
+    "low": 28,
     "night": {
-     "low": 29,
+     "low": 28,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 29.",
-     "precipPct": 2
+     "summary": "Mostly clear, with a low around 28.",
+     "precipPct": 0
     }
    }
   ]
  },
  "news": [
+  {
+   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "source": "BBC",
+   "summary": "More than 6,000 Italian schools received a threat",
+   "body": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-11T18:38:45Z",
+   "topic": "World"
+  },
   {
    "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
    "source": "BBC",
@@ -755,17 +766,6 @@
    ],
    "publishedAt": "2026-11-11T17:22:13Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "source": "BBC",
-   "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-   "body": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-11T16:59:34Z",
-   "topic": "World"
   },
   {
    "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
