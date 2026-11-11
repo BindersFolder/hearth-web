@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-11T14:17:04Z",
+ "updatedAt": "2026-11-11T14:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 749.92,
-   "changePct": -0.35,
-   "prevClose": 752.56,
+   "price": 757.6572,
+   "changePct": 0.84,
+   "prevClose": 751.34,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 674.76,
-   "changePct": -0.66,
-   "prevClose": 679.24,
+   "price": 687.66,
+   "changePct": 1.48,
+   "prevClose": 677.63,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 521.73,
-   "changePct": -0.29,
-   "prevClose": 523.25,
+   "price": 522.605,
+   "changePct": 0.04,
+   "prevClose": 522.4,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 280.58,
-   "changePct": -0.26,
-   "prevClose": 281.3,
+   "price": 282.75,
+   "changePct": 0.68,
+   "prevClose": 280.8377,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73611.0938,
-   "changePct": -0.12,
+   "price": 73413.3438,
+   "changePct": -0.39,
    "prevClose": 73697.8828,
    "high52": 105297.23,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2048.8799,
-   "changePct": -0.08,
+   "price": 2049.3201,
+   "changePct": -0.06,
    "prevClose": 2050.5801,
    "high52": 3586.01,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.19,
-   "changePct": 0.63,
+   "price": 87.16,
+   "changePct": 0.6,
    "prevClose": 86.64,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.73,
-   "changePct": 0.31,
+   "price": 92.71,
+   "changePct": 0.29,
    "prevClose": 92.44,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.73,
-   "changePct": -1.02,
+   "price": 44.61,
+   "changePct": -1.28,
    "prevClose": 45.19,
-   "note": "Gasoline 22.42 · Diesel 89.34",
+   "note": "Gasoline 22.25 · Diesel 89.34",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.362,
-   "changePct": 2.16,
+   "price": 3.378,
+   "changePct": 2.64,
    "prevClose": 3.291,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6098,
-   "changePct": -0.72,
+   "price": 2.6049,
+   "changePct": -0.91,
    "prevClose": 2.6287,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.203,
-   "changePct": 1.06,
+   "price": 4.2023,
+   "changePct": 1.05,
    "prevClose": 4.1588,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.9,
    "note": "Week ago 4.1239 · Year ago 3.0719",
    "source": "AAA",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.53,
    "note": "Week ago 4.3236 · Year ago 3.1244",
    "source": "AAA",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.43,
    "note": "Week ago 6.2748 · Year ago 3.748",
    "source": "AAA",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.31,
    "note": "Week ago 6.4781 · Year ago 3.8953",
    "source": "AAA",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4038.3,
-   "changePct": -0.39,
+   "price": 4037.8999,
+   "changePct": -0.4,
    "prevClose": 4054.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.6,
-   "changePct": 0.15,
+   "price": 52.525,
+   "changePct": 0.01,
    "prevClose": 52.52,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2825,
-   "changePct": -0.55,
+   "price": 6.28,
+   "changePct": -0.59,
    "prevClose": 6.317,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.837,
-   "changePct": 0.58,
+   "price": 102.886,
+   "changePct": 0.62,
    "prevClose": 102.249,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.27,
+   "price": 18.32,
    "changePct": null,
    "prevClose": 19.46,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T14:17:04Z"
+   "asOf": "2026-11-11T14:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Following big Democratic wins, these swing voters are looking for results",
+   "source": "NPR",
+   "summary": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
+   "body": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
+   "sources": [
+    "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress"
+   ],
+   "publishedAt": "2026-11-11T14:19:42Z",
+   "topic": "News"
+  },
+  {
+   "title": "Spain sees widespread disruption in first general strike for 14 years",
+   "source": "BBC",
+   "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+   "body": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-11T14:06:27Z",
+   "topic": "World"
+  },
+  {
    "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
    "source": "NPR",
    "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war",
@@ -721,17 +743,6 @@
     "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-11T13:24:29Z",
-   "topic": "World"
-  },
-  {
-   "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-   "source": "BBC",
-   "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-   "body": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-11T12:53:11Z",
    "topic": "World"
   },
   {
@@ -798,17 +809,6 @@
     "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot"
    ],
    "publishedAt": "2026-11-11T10:02:44Z",
-   "topic": "News"
-  },
-  {
-   "title": "U.S. officials look to Europe to learn how to make prison better",
-   "source": "NPR",
-   "summary": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
-   "body": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
-   "sources": [
-    "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation"
-   ],
-   "publishedAt": "2026-11-11T10:00:00Z",
    "topic": "News"
   },
   {
