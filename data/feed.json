@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-11T17:32:03Z",
+ "updatedAt": "2026-11-11T17:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 760.81,
-   "changePct": 1.26,
+   "price": 761.135,
+   "changePct": 1.3,
    "prevClose": 751.34,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 694.21,
+   "price": 694.25,
    "changePct": 2.45,
    "prevClose": 677.63,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 522.98,
-   "changePct": 0.11,
+   "price": 523.46,
+   "changePct": 0.2,
    "prevClose": 522.4,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 283.4,
-   "changePct": 0.91,
+   "price": 283.54,
+   "changePct": 0.96,
    "prevClose": 280.8377,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 74381.0469,
-   "changePct": 0.93,
+   "price": 74514.7578,
+   "changePct": 1.11,
    "prevClose": 73697.8828,
    "high52": 105297.23,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2088.95,
-   "changePct": 1.87,
+   "price": 2091.73,
+   "changePct": 2.01,
    "prevClose": 2050.5801,
    "high52": 3586.01,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.06,
-   "changePct": 0.48,
+   "price": 86.87,
+   "changePct": 0.27,
    "prevClose": 86.64,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.07,
-   "changePct": 0.68,
+   "price": 92.88,
+   "changePct": 0.48,
    "prevClose": 92.44,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.87,
-   "changePct": -0.71,
+   "price": 44.71,
+   "changePct": -1.06,
    "prevClose": 45.19,
-   "note": "Gasoline 21.72 · Diesel 91.19",
+   "note": "Gasoline 21.58 · Diesel 90.97",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.289,
-   "changePct": -0.06,
+   "price": 3.292,
+   "changePct": 0.03,
    "prevClose": 3.291,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5899,
-   "changePct": -1.48,
+   "price": 2.5822,
+   "changePct": -1.77,
    "prevClose": 2.6287,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.244,
-   "changePct": 2.05,
+   "price": 4.2343,
+   "changePct": 1.82,
    "prevClose": 4.1588,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.9,
    "note": "Week ago 4.1239 · Year ago 3.0719",
    "source": "AAA",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.53,
    "note": "Week ago 4.3236 · Year ago 3.1244",
    "source": "AAA",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.43,
    "note": "Week ago 6.2748 · Year ago 3.748",
    "source": "AAA",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.31,
    "note": "Week ago 6.4781 · Year ago 3.8953",
    "source": "AAA",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4009.7,
-   "changePct": -1.09,
+   "price": 4010.1001,
+   "changePct": -1.08,
    "prevClose": 4054.0,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 52.15,
-   "changePct": -0.7,
+   "price": 52.16,
+   "changePct": -0.69,
    "prevClose": 52.52,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.3015,
-   "changePct": -0.25,
+   "price": 6.296,
+   "changePct": -0.33,
    "prevClose": 6.317,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.938,
-   "changePct": 0.67,
+   "price": 102.917,
+   "changePct": 0.65,
    "prevClose": 102.249,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 17.7,
+   "price": 17.68,
    "changePct": null,
    "prevClose": 19.46,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T17:32:03Z"
+   "asOf": "2026-11-11T17:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Spain sees widespread disruption in first general strike for 14 years",
+   "source": "BBC",
+   "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+   "body": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-11T17:44:32Z",
+   "topic": "World"
+  },
+  {
    "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
    "source": "NPR",
    "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month",
@@ -810,17 +821,6 @@
    ],
    "publishedAt": "2026-11-11T14:19:42Z",
    "topic": "News"
-  },
-  {
-   "title": "Spain sees widespread disruption in first general strike for 14 years",
-   "source": "BBC",
-   "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-   "body": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-11T14:06:27Z",
-   "topic": "World"
   },
   {
    "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
