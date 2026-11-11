@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T01:02:04Z",
+ "updatedAt": "2026-11-11T01:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73379.1328,
-   "changePct": -0.47,
+   "price": 73347.1172,
+   "changePct": -0.51,
    "prevClose": 73722.2422,
    "high52": 105297.23,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2045.13,
-   "changePct": -0.31,
+   "price": 2044.03,
+   "changePct": -0.37,
    "prevClose": 2051.5701,
    "high52": 3586.01,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.35,
-   "changePct": 0.79,
+   "price": 86.52,
+   "changePct": 0.99,
    "prevClose": 85.67,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 99.64,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-11T00:11:07Z"
+   "asOf": "2026-11-11T01:16:55Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.95,
-   "changePct": 0.57,
+   "price": 92.11,
+   "changePct": 0.74,
    "prevClose": 91.43,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 107.03,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-11T00:11:07Z"
+   "asOf": "2026-11-11T01:16:55Z"
   },
   {
    "symbol": "CRACK",
@@ -127,9 +127,9 @@
    "price": 45.05,
    "changePct": -2.11,
    "prevClose": 46.02,
-   "note": "Gasoline 23.63 · Diesel 87.89",
+   "note": "Gasoline 23.61 · Diesel 87.94",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.3,
-   "changePct": 2.71,
+   "price": 3.31,
+   "changePct": 3.02,
    "prevClose": 3.213,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6186,
-   "changePct": -0.3,
+   "price": 2.6221,
+   "changePct": -0.17,
    "prevClose": 2.6266,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1486,
-   "changePct": -0.12,
+   "price": 4.1537,
+   "changePct": 0.0,
    "prevClose": 4.1535,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.13,
-   "changePct": 0.0,
+   "price": 4.15,
+   "changePct": 0.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-11T00:11:07Z"
+   "asOf": "2026-11-11T01:16:55Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-11T00:11:07Z"
+   "asOf": "2026-11-11T01:16:55Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.2,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-11T00:11:07Z"
+   "asOf": "2026-11-11T01:16:55Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.76,
    "note": "Week ago 4.1493 · Year ago 3.0707",
    "source": "AAA",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.335 · Year ago 3.1196",
    "source": "AAA",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.2875 · Year ago 3.7389",
    "source": "AAA",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.1,
    "note": "Week ago 6.4862 · Year ago 3.8873",
    "source": "AAA",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 4040.0,
-   "changePct": -2.06,
+   "price": 4043.2,
+   "changePct": -1.98,
    "prevClose": 4124.8999,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 51.435,
-   "changePct": -3.4,
+   "price": 51.6,
+   "changePct": -3.09,
    "prevClose": 53.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.266,
-   "changePct": -1.45,
+   "price": 6.285,
+   "changePct": -1.15,
    "prevClose": 6.358,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.238,
-   "changePct": 0.59,
+   "price": 102.234,
+   "changePct": 0.58,
    "prevClose": 101.64,
    "high52": 102.95,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-11T01:02:04Z"
+   "asOf": "2026-11-11T01:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-11T00:11:07Z"
+   "asOf": "2026-11-11T01:16:55Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Clear",
-  "temp": 54,
-  "high": 54,
+  "temp": 52,
+  "high": 52,
   "low": 41,
-  "humidity": 57,
+  "humidity": 61,
   "wind": 6,
   "summary": "Clear, with a low around 41. West wind 3 to 8 mph. Clear, with a low around 41. West wind 3 to 8 mph. Mostly sunny. High near 61, with temperatures falling to around 58 in the afternoon. West wind around 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-10T19:00:00-05:00",
-    "temp": 54,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 6,
-    "humidity": 57
-   },
    {
     "time": "2026-11-10T20:00:00-05:00",
     "temp": 52,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 57
+   },
+   {
+    "time": "2026-11-11T19:00:00-05:00",
+    "temp": 54,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 61
    }
   ],
   "daily": [
@@ -582,7 +582,7 @@
      "summary": "Clear, with a low around 41. West wind 3 to 8 mph.",
      "precipPct": 0
     },
-    "high": 54,
+    "high": 52,
     "conditionText": "Clear",
     "condition": "clearNight",
     "summary": "Clear, with a low around 41. West wind 3 to 8 mph.",
@@ -707,7 +707,18 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-11T00:38:33Z",
+   "publishedAt": "2026-11-11T01:14:40Z",
+   "topic": "World"
+  },
+  {
+   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+   "source": "BBC",
+   "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+   "body": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-11T01:01:20Z",
    "topic": "World"
   },
   {
@@ -788,14 +799,14 @@
    "topic": "News"
   },
   {
-   "title": "Spain's king and queen attend memorial service for rail crash victims",
+   "title": "US Army soldier suspected of spying for Russia arrested in UK",
    "source": "BBC",
-   "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-   "body": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+   "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+   "body": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-10T20:46:40Z",
+   "publishedAt": "2026-11-10T20:20:04Z",
    "topic": "World"
   },
   {
@@ -808,17 +819,6 @@
    ],
    "publishedAt": "2026-11-10T19:47:53Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-   "source": "BBC",
-   "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-   "body": "Supporters of Sheikh Hasina want her to return from exile in India.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-10T19:26:42Z",
-   "topic": "World"
   },
   {
    "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
