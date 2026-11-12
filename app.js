@@ -367,7 +367,9 @@
     renderToday();
   }
 
-  const currentMedia = () => { const me = mine(); return state.friendsMedia || (me && me.media) || null; };
+  // Watch links are the shared (friends-tier) videos, not one person's data: a signed-in person keeps
+  // them from the friends link or the household passphrase on this device.
+  const currentMedia = () => { const me = mine(); return state.friendsMedia || (me && me.media) || (state.personal && state.personal.media) || null; };
 
   /* ---------- Today ---------- */
   function renderToday() {
