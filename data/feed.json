@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T09:32:03Z",
+ "updatedAt": "2026-11-12T09:47:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 73407.8594,
-   "changePct": -0.7,
+   "price": 73340.0312,
+   "changePct": -0.79,
    "prevClose": 73927.6328,
    "high52": 104005.49,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2044.4301,
-   "changePct": -0.46,
+   "price": 2043.51,
+   "changePct": -0.5,
    "prevClose": 2053.8401,
    "high52": 3561.86,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.44,
-   "changePct": 1.37,
+   "price": 86.13,
+   "changePct": 1.01,
    "prevClose": 85.27,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.81,
-   "changePct": 1.67,
+   "price": 92.48,
+   "changePct": 1.3,
    "prevClose": 91.29,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.59,
-   "changePct": 3.26,
+   "price": 45.67,
+   "changePct": 3.44,
    "prevClose": 44.15,
-   "note": "Gasoline 23.05 · Diesel 90.69",
+   "note": "Gasoline 23.15 · Diesel 90.72",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.313,
-   "changePct": 1.38,
+   "price": 3.307,
+   "changePct": 1.19,
    "prevClose": 3.268,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6068,
-   "changePct": 2.57,
+   "price": 2.6019,
+   "changePct": 2.37,
    "prevClose": 2.5416,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2173,
-   "changePct": 1.35,
+   "price": 4.2107,
+   "changePct": 1.19,
    "prevClose": 4.1613,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3935.7,
-   "changePct": -1.13,
+   "price": 3943.8,
+   "changePct": -0.92,
    "prevClose": 3980.5,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.96,
-   "changePct": -0.9,
+   "price": 51.115,
+   "changePct": -0.6,
    "prevClose": 51.425,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.222,
-   "changePct": -0.32,
+   "price": 6.2235,
+   "changePct": -0.3,
    "prevClose": 6.242,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.892,
-   "changePct": -0.1,
+   "price": 102.87,
+   "changePct": -0.12,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.34,
+   "price": 18.21,
    "changePct": null,
    "prevClose": 17.48,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T09:32:03Z"
+   "asOf": "2026-11-12T09:47:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,8 +702,19 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-12T09:00:15Z",
+   "publishedAt": "2026-11-12T09:43:11Z",
    "topic": "World"
+  },
+  {
+   "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+   "source": "NPR",
+   "summary": "The victims included a surgeon, and at least a dozen more were injured",
+   "body": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
+   "sources": [
+    "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+   ],
+   "publishedAt": "2026-11-12T09:29:30Z",
+   "topic": "News"
   },
   {
    "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
@@ -813,17 +824,6 @@
     "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
    ],
    "publishedAt": "2026-11-11T19:59:14Z",
-   "topic": "News"
-  },
-  {
-   "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-   "source": "NPR",
-   "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month",
-   "body": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-   "sources": [
-    "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing"
-   ],
-   "publishedAt": "2026-11-11T17:23:10Z",
    "topic": "News"
   },
   {
