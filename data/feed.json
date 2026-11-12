@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-12T14:47:04Z",
+ "updatedAt": "2026-11-12T15:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 757.57,
-   "changePct": 0.22,
+   "price": 756.54,
+   "changePct": 0.08,
    "prevClose": 755.9071,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 687.37,
-   "changePct": 0.56,
+   "price": 685.5099,
+   "changePct": 0.29,
    "prevClose": 683.53,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 524.305,
-   "changePct": 0.07,
+   "price": 523.605,
+   "changePct": -0.07,
    "prevClose": 523.96,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 280.92,
-   "changePct": -0.52,
+   "price": 279.415,
+   "changePct": -1.06,
    "prevClose": 282.395,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 71610.3672,
-   "changePct": -3.13,
+   "price": 71361.7812,
+   "changePct": -3.47,
    "prevClose": 73927.6328,
    "high52": 104005.49,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2000.9,
-   "changePct": -2.58,
+   "price": 1995.01,
+   "changePct": -2.86,
    "prevClose": 2053.8401,
    "high52": 3561.86,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.64,
-   "changePct": 1.61,
+   "price": 86.56,
+   "changePct": 1.51,
    "prevClose": 85.27,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.55,
-   "changePct": 2.48,
+   "price": 93.47,
+   "changePct": 2.39,
    "prevClose": 91.29,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.77,
-   "changePct": 1.4,
+   "price": 44.79,
+   "changePct": 1.45,
    "prevClose": 44.15,
-   "note": "Gasoline 22.16 · Diesel 89.98",
+   "note": "Gasoline 22.21 · Diesel 89.94",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.313,
-   "changePct": 1.38,
+   "price": 3.305,
+   "changePct": 1.13,
    "prevClose": 3.268,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5905,
-   "changePct": 1.92,
+   "price": 2.5898,
+   "changePct": 1.9,
    "prevClose": 2.5416,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2052,
-   "changePct": 1.05,
+   "price": 4.2024,
+   "changePct": 0.99,
    "prevClose": 4.1613,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3898.8,
-   "changePct": -2.05,
+   "price": 3885.2,
+   "changePct": -2.39,
    "prevClose": 3980.5,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.395,
-   "changePct": -2.0,
+   "price": 50.155,
+   "changePct": -2.47,
    "prevClose": 51.425,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.1825,
-   "changePct": -0.95,
+   "price": 6.173,
+   "changePct": -1.11,
    "prevClose": 6.242,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.024,
-   "changePct": 0.52,
+   "price": 5.052,
+   "changePct": 1.08,
    "prevClose": 4.998,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 102.946,
-   "changePct": -0.05,
+   "price": 103.014,
+   "changePct": 0.02,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.87,
+   "price": 18.29,
    "changePct": null,
    "prevClose": 17.48,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T14:47:04Z"
+   "asOf": "2026-11-12T15:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -345,24 +345,15 @@
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Chance Light Rain",
-  "temp": 49,
+  "conditionText": "Light Rain",
+  "temp": 51,
   "high": 55,
   "low": 37,
-  "humidity": 100,
-  "wind": 5,
-  "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. Northeast wind 3 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. Rain. Cloudy, with a low around 37. Northeast wind around 10 mph, with gusts as high as 23 mph. Chance of…",
+  "humidity": 96,
+  "wind": 6,
+  "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. Northeast wind 6 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. Rain. Cloudy, with a low around 37. Northeast wind around 10 mph, with gusts as high as 23 mph. Chance of…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-12T09:00:00-05:00",
-    "temp": 49,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 51,
-    "wind": 5,
-    "humidity": 100
-   },
    {
     "time": "2026-11-12T10:00:00-05:00",
     "temp": 51,
@@ -569,6 +560,15 @@
     "precipPct": 86,
     "wind": 12,
     "humidity": 100
+   },
+   {
+    "time": "2026-11-13T09:00:00-05:00",
+    "temp": 40,
+    "condition": "rain",
+    "conditionText": "Light Rain",
+    "precipPct": 86,
+    "wind": 10,
+    "humidity": 100
    }
   ],
   "daily": [
@@ -579,8 +579,8 @@
     "conditionText": "Light Rain",
     "precipPct": 97,
     "wind": 9,
-    "windText": "NE 3 to 9 mph",
-    "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. Northeast wind 3 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
+    "windText": "NE 6 to 9 mph",
+    "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. Northeast wind 6 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
     "low": 37,
     "night": {
      "low": 37,
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "source": "BBC",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "body": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-12T14:54:47Z",
+   "topic": "World"
+  },
+  {
    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
    "source": "BBC",
    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
@@ -746,6 +757,17 @@
    "topic": "News"
   },
   {
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "source": "BBC",
+   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+   "body": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+   "sources": [
+    "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-12T13:02:46Z",
+   "topic": "World"
+  },
+  {
    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
    "source": "BBC",
    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
@@ -766,17 +788,6 @@
    ],
    "publishedAt": "2026-11-12T12:15:48Z",
    "topic": "News"
-  },
-  {
-   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "source": "BBC",
-   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-   "body": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-12T12:14:51Z",
-   "topic": "World"
   },
   {
    "title": "Is Ayanna Pressley About to Challenge Hakeem Jeffries for Speaker?",
@@ -801,17 +812,6 @@
    "topic": "Independent"
   },
   {
-   "title": "British woman missing from cruise ship in Atlantic",
-   "source": "BBC",
-   "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-   "body": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-12T10:13:35Z",
-   "topic": "World"
-  },
-  {
    "title": "Trump Taps Campaign Lawyer and Pardon Adviser for Top U.S. Intel Agency",
    "source": "The Intercept",
    "summary": "Trump loyalist Gary Lawkowski has no national security experience to speak of",
@@ -834,12 +834,12 @@
    "topic": "News"
   },
   {
-   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "title": "At least 23 states considered laws governing ICE and schools this year",
    "source": "NPR",
-   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress",
-   "body": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
+   "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do",
+   "body": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
    "sources": [
-    "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting"
+    "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration"
    ],
    "publishedAt": "2026-11-12T10:00:00Z",
    "topic": "News"
