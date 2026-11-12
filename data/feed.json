@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-12T19:25:58Z",
+ "updatedAt": "2026-11-12T19:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 759.07,
-   "changePct": 0.42,
+   "price": 758.08,
+   "changePct": 0.29,
    "prevClose": 755.9071,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 689.328,
-   "changePct": 0.85,
+   "price": 688.079,
+   "changePct": 0.67,
    "prevClose": 683.53,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 524.445,
-   "changePct": 0.09,
+   "price": 523.9,
+   "changePct": -0.01,
    "prevClose": 523.96,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 279.58,
-   "changePct": -1.0,
+   "price": 279.29,
+   "changePct": -1.1,
    "prevClose": 282.395,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 71550.0469,
-   "changePct": -3.22,
+   "price": 71483.8281,
+   "changePct": -3.31,
    "prevClose": 73927.6328,
    "high52": 104005.49,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2012.87,
-   "changePct": -1.99,
+   "price": 2008.36,
+   "changePct": -2.21,
    "prevClose": 2053.8401,
    "high52": 3561.86,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.53,
-   "changePct": 3.82,
+   "price": 88.56,
+   "changePct": 3.86,
    "prevClose": 85.27,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.55,
-   "changePct": 4.67,
+   "price": 95.62,
+   "changePct": 4.74,
    "prevClose": 91.29,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.97,
-   "changePct": 1.86,
+   "price": 44.89,
+   "changePct": 1.68,
    "prevClose": 44.15,
-   "note": "Gasoline 22.00 · Diesel 90.91",
+   "note": "Gasoline 21.85 · Diesel 90.97",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.281,
-   "changePct": 0.4,
+   "price": 3.317,
+   "changePct": 1.5,
    "prevClose": 3.268,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6316,
-   "changePct": 3.54,
+   "price": 2.6287,
+   "changePct": 3.43,
    "prevClose": 2.5416,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2723,
-   "changePct": 2.67,
+   "price": 4.2746,
+   "changePct": 2.72,
    "prevClose": 4.1613,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3883.8999,
+   "price": 3883.8,
    "changePct": -2.43,
    "prevClose": 3980.5,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.055,
-   "changePct": -2.66,
+   "price": 50.045,
+   "changePct": -2.68,
    "prevClose": 51.425,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.1915,
-   "changePct": -0.81,
+   "price": 6.193,
+   "changePct": -0.79,
    "prevClose": 6.242,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.113,
-   "changePct": 2.3,
+   "price": 5.107,
+   "changePct": 2.18,
    "prevClose": 4.998,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.213,
-   "changePct": 0.21,
+   "price": 103.174,
+   "changePct": 0.17,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.27,
+   "price": 18.17,
    "changePct": null,
    "prevClose": 17.48,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T19:17:04Z"
+   "asOf": "2026-11-12T19:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -345,102 +345,93 @@
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Light Rain",
-  "temp": 54,
+  "conditionText": "Chance Rain Showers",
+  "temp": 52,
   "high": 55,
   "low": 37,
-  "humidity": 70,
-  "wind": 8,
-  "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. East wind 6 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. Rain. Cloudy, with a low around 37. Northeast wind 8 to 12 mph. Chance of precipitation is 100%. New rainfall amounts…",
+  "humidity": 77,
+  "wind": 9,
+  "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. East wind around 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. Rain. Cloudy, with a low around 37. Northeast wind 8 to 12 mph. Chance of precipitation is 100%. New rainfall…",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-12T13:00:00-05:00",
-    "temp": 54,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 78,
-    "wind": 8,
-    "humidity": 70
-   },
-   {
     "time": "2026-11-12T14:00:00-05:00",
-    "temp": 53,
+    "temp": 52,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 78,
+    "conditionText": "Chance Rain Showers",
+    "precipPct": 40,
     "wind": 9,
-    "humidity": 69
+    "humidity": 77
    },
    {
     "time": "2026-11-12T15:00:00-05:00",
-    "temp": 53,
+    "temp": 51,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 78,
-    "wind": 8,
-    "humidity": 67
+    "conditionText": "Chance Rain Showers",
+    "precipPct": 48,
+    "wind": 9,
+    "humidity": 80
    },
    {
     "time": "2026-11-12T16:00:00-05:00",
-    "temp": 52,
+    "temp": 50,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 97,
-    "wind": 7,
-    "humidity": 71
+    "conditionText": "Rain Showers Likely",
+    "precipPct": 68,
+    "wind": 9,
+    "humidity": 80
    },
    {
     "time": "2026-11-12T17:00:00-05:00",
     "temp": 50,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 97,
-    "wind": 7,
-    "humidity": 81
+    "conditionText": "Rain Showers",
+    "precipPct": 81,
+    "wind": 8,
+    "humidity": 80
    },
    {
     "time": "2026-11-12T18:00:00-05:00",
-    "temp": 48,
+    "temp": 49,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 97,
-    "wind": 8,
-    "humidity": 91
+    "conditionText": "Rain Showers",
+    "precipPct": 99,
+    "wind": 9,
+    "humidity": 83
    },
    {
     "time": "2026-11-12T19:00:00-05:00",
     "temp": 48,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 83,
+    "conditionText": "Rain Showers",
+    "precipPct": 97,
     "wind": 9,
-    "humidity": 90
+    "humidity": 86
    },
    {
     "time": "2026-11-12T20:00:00-05:00",
-    "temp": 46,
+    "temp": 47,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 83,
+    "conditionText": "Rain Showers",
+    "precipPct": 97,
     "wind": 10,
-    "humidity": 94
+    "humidity": 89
    },
    {
     "time": "2026-11-12T21:00:00-05:00",
     "temp": 45,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 83,
+    "conditionText": "Rain Showers",
+    "precipPct": 97,
     "wind": 9,
-    "humidity": 95
+    "humidity": 96
    },
    {
     "time": "2026-11-12T22:00:00-05:00",
     "temp": 44,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 93,
+    "conditionText": "Rain Showers",
+    "precipPct": 85,
     "wind": 8,
     "humidity": 96
    },
@@ -448,127 +439,136 @@
     "time": "2026-11-12T23:00:00-05:00",
     "temp": 43,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 93,
-    "wind": 9,
-    "humidity": 97
+    "conditionText": "Rain Showers",
+    "precipPct": 85,
+    "wind": 10,
+    "humidity": 100
    },
    {
     "time": "2026-11-13T00:00:00-05:00",
-    "temp": 41,
+    "temp": 42,
     "condition": "rain",
-    "conditionText": "Light Rain",
+    "conditionText": "Rain",
     "precipPct": 93,
-    "wind": 8,
+    "wind": 10,
     "humidity": 100
    },
    {
     "time": "2026-11-13T01:00:00-05:00",
-    "temp": 41,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 92,
-    "wind": 9,
-    "humidity": 96
-   },
-   {
-    "time": "2026-11-13T02:00:00-05:00",
     "temp": 40,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 92,
-    "wind": 10,
+    "precipPct": 95,
+    "wind": 9,
+    "humidity": 100
+   },
+   {
+    "time": "2026-11-13T02:00:00-05:00",
+    "temp": 39,
+    "condition": "rain",
+    "conditionText": "Light Rain",
+    "precipPct": 95,
+    "wind": 12,
     "humidity": 100
    },
    {
     "time": "2026-11-13T03:00:00-05:00",
-    "temp": 39,
+    "temp": 38,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 92,
-    "wind": 10,
+    "precipPct": 95,
+    "wind": 12,
     "humidity": 100
    },
    {
     "time": "2026-11-13T04:00:00-05:00",
-    "temp": 38,
+    "temp": 37,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 88,
-    "wind": 12,
+    "precipPct": 90,
+    "wind": 14,
     "humidity": 100
    },
    {
     "time": "2026-11-13T05:00:00-05:00",
-    "temp": 38,
+    "temp": 36,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 88,
-    "wind": 12,
+    "precipPct": 90,
+    "wind": 14,
     "humidity": 100
    },
    {
     "time": "2026-11-13T06:00:00-05:00",
-    "temp": 38,
+    "temp": 35,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 88,
-    "wind": 12,
+    "precipPct": 90,
+    "wind": 13,
     "humidity": 100
    },
    {
     "time": "2026-11-13T07:00:00-05:00",
-    "temp": 37,
+    "temp": 35,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 86,
-    "wind": 12,
+    "precipPct": 94,
+    "wind": 13,
     "humidity": 100
    },
    {
     "time": "2026-11-13T08:00:00-05:00",
-    "temp": 38,
+    "temp": 37,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 86,
+    "precipPct": 94,
     "wind": 12,
     "humidity": 100
    },
    {
     "time": "2026-11-13T09:00:00-05:00",
-    "temp": 40,
+    "temp": 38,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 86,
-    "wind": 10,
+    "precipPct": 94,
+    "wind": 13,
     "humidity": 100
    },
    {
     "time": "2026-11-13T10:00:00-05:00",
-    "temp": 41,
+    "temp": 38,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 85,
-    "wind": 10,
+    "precipPct": 78,
+    "wind": 13,
     "humidity": 100
    },
    {
     "time": "2026-11-13T11:00:00-05:00",
-    "temp": 42,
+    "temp": 40,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 85,
-    "wind": 10,
-    "humidity": 96
+    "precipPct": 78,
+    "wind": 13,
+    "humidity": 100
    },
    {
     "time": "2026-11-13T12:00:00-05:00",
-    "temp": 42,
+    "temp": 40,
     "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 85,
+    "conditionText": "Light Rain Likely",
+    "precipPct": 68,
+    "wind": 12,
+    "humidity": 100
+   },
+   {
+    "time": "2026-11-13T13:00:00-05:00",
+    "temp": 40,
+    "condition": "rain",
+    "conditionText": "Light Rain Likely",
+    "precipPct": 56,
     "wind": 10,
-    "humidity": 93
+    "humidity": 96
    }
   ],
   "daily": [
@@ -579,8 +579,8 @@
     "conditionText": "Light Rain",
     "precipPct": 97,
     "wind": 9,
-    "windText": "E 6 to 9 mph",
-    "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. East wind 6 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
+    "windText": "E 9 mph",
+    "summary": "Rain. Cloudy. High near 55, with temperatures falling to around 50 in the afternoon. East wind around 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
     "low": 37,
     "night": {
      "low": 37,
@@ -701,6 +701,17 @@
   ]
  },
  "news": [
+  {
+   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "source": "BBC",
+   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+   "body": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-12T19:23:02Z",
+   "topic": "World"
+  },
   {
    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
    "source": "BBC",
@@ -842,17 +853,6 @@
     "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-12T15:18:20Z",
-   "topic": "World"
-  },
-  {
-   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "source": "BBC",
-   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-   "body": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-   "sources": [
-    "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-12T13:02:46Z",
    "topic": "World"
   },
   {
