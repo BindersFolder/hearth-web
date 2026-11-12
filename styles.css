@@ -363,3 +363,37 @@ html.kiosk .alerts { flex: none; max-width: none; margin: 6px 0 0; padding: 0 24
 html.kiosk .alert-item { padding: 8px 16px; }
 html.kiosk .alert-subject { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 html.kiosk .alert-dismiss { display: none; }  /* no mouse on the wall: dismiss from the phone */
+
+/* Accounts: sign-in, welcome steps, music launcher, Account card. Reuses .card/.lock-card/.btn. */
+button, input, select { font: inherit; color: inherit; }
+.acct-card input[type="email"], .acct-card input[type="text"], .acct-card input[type="url"], .acct-card select {
+  width: 100%; min-height: 48px; padding: 10px 14px; border-radius: var(--radius-sm);
+  background: var(--bg); border: 1px solid rgba(255, 255, 255, 0.22); color: var(--text); font-size: 17px;
+}
+.acct-card input[type="password"] { width: 100%; }
+.acct-card input[aria-invalid="true"] { border-color: var(--down); }
+.acct-card h3[tabindex] { outline: none; }
+.acct-card h4 { margin: 18px 0 6px; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-3); }
+.acct-card > .muted + .muted, .acct-card > form, .acct-block { margin-top: 10px; }
+.acct-card .lock-card { padding: 0; background: none; }
+.acct-toggle { align-self: flex-start; }
+.acct-links, .acct-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 16px; margin-top: 10px; }
+.acct-nav .btn { min-width: 110px; }
+.acct-step { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 2px; }
+.acct-note { color: var(--up); font-weight: 600; }
+.acct-note:empty { display: none; }
+.acct-warn { padding: 10px 12px; border-left: 4px solid var(--advisory); border-radius: 6px; background: var(--card-2); color: var(--text-2); font-size: 0.94rem; }
+.acct-steps { list-style: decimal; padding-left: 1.5em; color: var(--text-2); display: flex; flex-direction: column; gap: 6px; }
+.acct-steps[hidden], .acct-warn[hidden] { display: none; }
+.acct-summary { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
+.acct-choice { border: 0; margin: 0; padding: 0; min-width: 0; }
+.acct-choice legend { padding: 0; font-size: 0.9rem; color: var(--text-2); }
+.acct-more { margin-top: 10px; border-top: 1px solid var(--line); }
+.acct-more > summary { min-height: 44px; padding: 10px 0; cursor: pointer; color: var(--text-2); }
+.acct-list { display: flex; flex-direction: column; gap: 4px; }
+.acct-row { display: flex; align-items: center; gap: 12px; }
+.acct-email, .acct-address code { overflow-wrap: anywhere; }
+.acct-address { display: flex; align-items: center; gap: 12px; padding: 4px 12px; border-radius: var(--radius-sm); background: var(--bg); }
+.acct-address code { flex: 1; min-width: 0; }
+.acct-music { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+a.btn { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; }

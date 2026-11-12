@@ -15,6 +15,8 @@
   // ?kiosk: always-on wall screen (no mouse): one screen, clock, self-refreshing.
   const KIOSK = new URLSearchParams(location.search).has('kiosk');
   if (KIOSK) document.documentElement.classList.add('kiosk');
+  // Per-user accounts (accounts.js). Never on the wall screen: kiosk keeps the passphrase tier.
+  const ACCT = (!KIOSK && window.HearthAccounts) || null;
 
   const state = {
     feed: null,
@@ -355,7 +357,17 @@
     } catch (_) { /* leave it */ }
   }
 
-  const currentMedia = () => state.friendsMedia || (state.personal && state.personal.media) || null;
+  // Whose personal items to show. Signed in: only that account's rows (null while they
+  // load), never the passphrase tier. Signed out (or kiosk): the passphrase tier.
+  const signedIn = () => !!(ACCT && ACCT.signedIn());
+  const mine = () => (signedIn() ? ACCT.personal() : state.personal);
+  function accountChanged(why) {
+    // Sign-in, sign-out or user switch: forget which personal items were expanded.
+    if (why === 'user') for (const id of Array.from(state.open)) if (id.startsWith('hl:me')) state.open.delete(id);
+    renderToday();
+  }
+
+  const currentMedia = () => { const me = mine(); return state.friendsMedia || (me && me.media) || null; };
 
   /* ---------- Today ---------- */
   function renderToday() {
@@ -396,8 +408,10 @@
       kids.push(card);
     }
 
+    if (ACCT) kids.push(...ACCT.welcomeNodes());
     kids.push(...watchCard(currentMedia()));
     kids.push(...renderHighlights());
+    if (ACCT) kids.push(...ACCT.accountNodes());
     body.replaceChildren(...kids);
   }
 
@@ -443,27 +457,43 @@
   function renderHighlights() {
     const publicItems = arr(state.feed && state.feed.highlights).map(obj).filter(Boolean);
     const hasPersonal = isEncrypted(state.priv);
-    const unlocked = !!state.personal;
-    if (!publicItems.length && !hasPersonal) return [];
+    const account = signedIn();
+    const me = mine();
+    const unlocked = !!me;
+    if (!publicItems.length && !hasPersonal && !ACCT) return [];
 
     // Older private blobs may repeat items that are now public; skip exact repeats.
     const seen = new Set(publicItems.map((h) => `${str(h.kind)}|${str(h.title)}`));
     const personalItems = unlocked
-      ? state.personal.highlights.map(obj).filter((h) => h && !seen.has(`${str(h.kind)}|${str(h.title)}`))
+      ? me.highlights.map(obj).filter((h) => h && !seen.has(`${str(h.kind)}|${str(h.title)}`))
       : [];
 
     const out = [el('h3', { class: 'section-label', text: 'Highlights' })];
     const list = el('div', { class: 'list' });
     publicItems.forEach((h, i) => list.append(highlightItem(h, 'pub' + i)));
     personalItems.forEach((h, i) => list.append(highlightItem(h, 'me' + i)));
-    if (unlocked && !list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
+    if (account && !unlocked) list.append(el('p', { class: 'empty', text: ACCT.loadNote() }));
+    else if (account && !personalItems.length) list.append(el('p', { class: 'empty', text: 'No events yet. Add a calendar in Settings.' }));
+    else if (unlocked && !list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
     if (list.childNodes.length) out.push(list);
     if (unlocked) out.push(...renderPackages());
 
-    if (unlocked) {
+    if (account) {
+      // Signed in: the Account card (below) carries Settings and Sign out.
+    } else if (unlocked) {
       const lockBtn = el('button', { type: 'button', class: 'btn-text', 'aria-label': 'Lock my items', text: 'Lock' });
       lockBtn.addEventListener('click', lockPersonal);
-      out.push(el('div', { class: 'hl-footer' }, lockBtn));
+      const footer = el('div', { class: 'hl-footer' }, lockBtn);
+      if (ACCT && !ACCT.authOpen()) {
+        const signIn = el('button', { type: 'button', class: 'btn-text', text: 'Sign in' });
+        signIn.addEventListener('click', () => ACCT.openAuth());
+        footer.prepend(signIn);
+      }
+      out.push(footer);
+      if (ACCT && ACCT.authOpen()) out.push(...ACCT.authNodes(null));
+    } else if (ACCT) {
+      // One sign-in card; the passphrase unlock sits inside it as a small disclosure.
+      out.push(...ACCT.authNodes({ legacy: hasPersonal ? lockCard : null, note: state.lockNote }));
     } else if (hasPersonal) {
       out.push(lockCard());
     }
@@ -487,7 +517,8 @@
     return (status === 'out' ? 'Out for delivery · ' : '') + word + (str(p.window) ? ' · ' + str(p.window) : '');
   }
   function renderPackages() {
-    const pk = state.personal && obj(state.personal.packages);
+    const me = mine();
+    const pk = me && obj(me.packages);
     if (!pk) return [];
     const todayISO = localISO(new Date());
     const items = arr(pk.items).map(obj).filter((p) => p && str(p.title));
@@ -510,7 +541,7 @@
           el('div', { class: 'hl-title', text: str(p.title) }),
           el('div', { class: 'hl-detail', text: packageWhen(p) }))));
     }
-    if (!list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing on the way.' }));
+    if (!list.childNodes.length) list.append(el('p', { class: 'empty', text: signedIn() ? 'No packages on the way.' : 'Nothing on the way.' }));
     return [el('h3', { class: 'section-label', text: 'Packages' }), list];
   }
 
@@ -967,7 +998,8 @@
   }
   function renderAlerts() {
     const bar = document.getElementById('alerts');
-    const doc = state.personal && state.personal.alerts;
+    const me = mine();
+    const doc = me && me.alerts;
     const gone = dismissedIds();
     const items = arr(doc && doc.items).filter((a) => obj(a) && a.id && !gone.includes(a.id));
     bar.hidden = !items.length;
@@ -985,7 +1017,8 @@
   }
 
   function renderAll() {
-    renderToday();
+    // Don't rebuild Today under someone typing in a sign-in or settings field; it follows on blur.
+    if (ACCT && ACCT.editing()) ACCT.defer(); else renderToday();
     renderMarkets();
     renderWeather();
     renderNews();
@@ -1021,6 +1054,7 @@
     btn.removeAttribute('aria-busy');
     btn.disabled = false;
     renderAll();
+    if (ACCT) ACCT.load();   // the signed-in person's rows; re-renders Today when they arrive
   }
 
   // The refresh button reloads everything: fresh app files (drops the cached
@@ -1044,6 +1078,7 @@
 
   function init() {
     takeFriendsSecretFromUrl(); // before initTabs reads the hash
+    if (ACCT) ACCT.init({ el, uid, personalFrom, onChange: accountChanged });
     initTabs();
     window.addEventListener('hashchange', () => {
       if (!takeFriendsSecretFromUrl()) return;

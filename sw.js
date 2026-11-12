@@ -1,11 +1,12 @@
 // Hearth service worker.
 // App shell: cache-first (bump VERSION when shipping changes to shell files).
 // data/*.json: network-first, falling back to the last cached copy offline.
-const VERSION = 'hearth-v12';
+const VERSION = 'hearth-v13';
 const SHELL = [
   './',
   'index.html',
   'styles.css',
+  'accounts.js',
   'app.js',
   'manifest.webmanifest',
   'icons/icon-192.png',
@@ -36,6 +37,7 @@ self.addEventListener('fetch', (event) => {
   const req = event.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
+  // Other origins (the accounts database) are never touched or cached here.
   if (url.origin !== self.location.origin) return;
 
   const scopePath = new URL(self.registration.scope).pathname;
