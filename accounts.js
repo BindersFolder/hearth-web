@@ -14,8 +14,8 @@
   // Publishable key: public by design. Row-level security decides what it can reach.
   const SUPABASE_KEY = 'sb_publishable_Zbi_PYchYGTO6Z55ZATZ8g_vuD0XlcE';
   // Package-email inbox: <local>+<token>@<domain>. Empty = feature not switched on yet.
-  const HEARTH_INBOX_LOCAL = '';
-  const HEARTH_INBOX_DOMAIN = '';
+  const HEARTH_INBOX_LOCAL = 'hearthproject05';
+  const HEARTH_INBOX_DOMAIN = 'gmail.com';
 
   const SESSION_STORE = 'hearth.session.v1';
   const MIN_PASS = 10;
@@ -312,6 +312,14 @@
     const c = user.connections.find((x) => x.kind === 'mail_forward');
     return c && typeof c.forward_token === 'string' && /^[a-f0-9]{8,64}$/.test(c.forward_token) ? c.forward_token : '';
   }
+  // Only two kinds of note are ever shown: a Gmail code (digits) or nothing.
+  function forwardStatus() {
+    const c = user.connections.find((x) => x.kind === 'mail_forward');
+    if (!c) return '';
+    if (c.status === 'ok') return 'Working: Hearth has received your forwarded emails.';
+    const code = /^Gmail confirmation code: (\d{6,12})$/.exec(typeof c.status_note === 'string' ? c.status_note : '');
+    return code ? `Gmail confirmation code: ${code[1]}` : 'Waiting for your first forwarded email.';
+  }
   const musicKey = () => {
     const k = user.settings && user.settings.music_service;
     return MUSIC.some((m) => m[0] === k) ? k : '';
@@ -559,8 +567,9 @@
     wrap.append(
       el('p', { class: 'muted small', text: 'Your forwarding address. It is yours alone; don’t share it.' }),
       el('div', { class: 'acct-address' }, el('code', { text: address }), copy), copied,
+      el('p', { class: 'acct-note', role: 'status', text: forwardStatus() }),
       el('h4', { text: 'Gmail' }),
-      steps(['On a computer, open Gmail, click the gear, then “See all settings”.', 'Open “Forwarding and POP/IMAP”, click “Add a forwarding address” and paste your address.', 'Open “Filters and Blocked Addresses” and click “Create a new filter”.', 'In “Has the words”, type: shipped OR tracking OR “out for delivery”. Click “Create filter”.', 'Tick “Forward it to”, choose your Hearth address, and save.']),
+      steps(['On a computer, open Gmail, click the gear, then “See all settings”.', 'Open “Forwarding and POP/IMAP”, click “Add a forwarding address” and paste your address.', 'Gmail asks for a confirmation code. It shows up on this screen within about 10 minutes. Type it into Gmail.', 'Open “Filters and Blocked Addresses” and click “Create a new filter”.', 'In “Has the words”, type: shipped OR tracking OR “out for delivery”. Click “Create filter”.', 'Tick “Forward it to”, choose your Hearth address, and save.']),
       el('h4', { text: 'iCloud Mail' }),
       steps(['On a computer, open icloud.com/mail, click the gear, then Settings.', 'Open “Rules” and click “Add Rule”.', 'Set it to: if the subject contains “shipped” (add more rules for “tracking” and “delivery”).', 'Choose “Forward to” and paste your Hearth address. Save.']));
     return wrap;
