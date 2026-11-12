@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T22:02:03Z",
+ "updatedAt": "2026-11-12T22:11:40Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 71416.5781,
+   "price": 71413.5703,
    "changePct": -3.4,
    "prevClose": 73927.6328,
    "high52": 104005.49,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2012.96,
-   "changePct": -1.99,
+   "price": 2013.15,
+   "changePct": -1.98,
    "prevClose": 2053.8401,
    "high52": 3561.86,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.66,
-   "changePct": 3.98,
+   "price": 88.7,
+   "changePct": 4.02,
    "prevClose": 85.27,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-12T21:11:21Z"
+   "asOf": "2026-11-12T22:11:15Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.72,
-   "changePct": 4.85,
+   "price": 95.77,
+   "changePct": 4.91,
    "prevClose": 91.29,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-12T21:11:21Z"
+   "asOf": "2026-11-12T22:11:15Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.89,
-   "changePct": 1.68,
+   "price": 44.93,
+   "changePct": 1.77,
    "prevClose": 44.15,
-   "note": "Gasoline 21.64 · Diesel 91.38",
+   "note": "Gasoline 21.66 · Diesel 91.46",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.367,
-   "changePct": 3.03,
+   "price": 3.36,
+   "changePct": 2.82,
    "prevClose": 3.268,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6263,
-   "changePct": 3.33,
+   "price": 2.6277,
+   "changePct": 3.39,
    "prevClose": 2.5416,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2866,
-   "changePct": 3.01,
+   "price": 4.2895,
+   "changePct": 3.08,
    "prevClose": 4.1613,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.11,
-   "changePct": -4.2,
+   "changePct": -4.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-12T21:11:21Z"
+   "asOf": "2026-11-12T22:11:15Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-12T21:11:21Z"
+   "asOf": "2026-11-12T22:11:15Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-12T21:11:21Z"
+   "asOf": "2026-11-12T22:11:15Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3880.5,
-   "changePct": -2.51,
+   "price": 3881.7,
+   "changePct": -2.48,
    "prevClose": 3980.5,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.945,
-   "changePct": -2.88,
+   "price": 49.955,
+   "changePct": -2.86,
    "prevClose": 51.425,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.1945,
-   "changePct": -0.76,
+   "price": 6.193,
+   "changePct": -0.79,
    "prevClose": 6.242,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.181,
+   "price": 103.18,
    "changePct": 0.18,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:02:03Z"
+   "asOf": "2026-11-12T22:11:40Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,38 +339,29 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-12T21:11:21Z"
+   "asOf": "2026-11-12T22:11:15Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Rain Showers Likely",
-  "temp": 50,
+  "conditionText": "Rain Showers",
+  "temp": 49,
   "high": 53,
-  "low": 35,
-  "humidity": 80,
-  "wind": 9,
-  "summary": "Rain showers. Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. Northeast wind around 9 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. Rain showers before midnight, then rain. Cloudy, with a low around 35. Northeast wind 8 to 14 mph,…",
+  "low": 38,
+  "humidity": 83,
+  "wind": 8,
+  "summary": "Rain showers. Cloudy. High near 53, with temperatures falling to around 49 in the afternoon. Northeast wind around 8 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. Rain showers before midnight, then rain. Cloudy, with a low around 38. Northeast wind 8 to 14 mph,…",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-12T16:00:00-05:00",
-    "temp": 50,
-    "condition": "rain",
-    "conditionText": "Rain Showers Likely",
-    "precipPct": 68,
-    "wind": 9,
-    "humidity": 80
-   },
-   {
     "time": "2026-11-12T17:00:00-05:00",
-    "temp": 50,
+    "temp": 49,
     "condition": "rain",
     "conditionText": "Rain Showers",
     "precipPct": 81,
     "wind": 8,
-    "humidity": 80
+    "humidity": 83
    },
    {
     "time": "2026-11-12T18:00:00-05:00",
@@ -419,7 +410,7 @@
    },
    {
     "time": "2026-11-12T23:00:00-05:00",
-    "temp": 43,
+    "temp": 42,
     "condition": "rain",
     "conditionText": "Rain Showers",
     "precipPct": 85,
@@ -428,7 +419,7 @@
    },
    {
     "time": "2026-11-13T00:00:00-05:00",
-    "temp": 42,
+    "temp": 41,
     "condition": "rain",
     "conditionText": "Rain",
     "precipPct": 93,
@@ -446,7 +437,7 @@
    },
    {
     "time": "2026-11-13T02:00:00-05:00",
-    "temp": 39,
+    "temp": 40,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 95,
@@ -455,7 +446,7 @@
    },
    {
     "time": "2026-11-13T03:00:00-05:00",
-    "temp": 38,
+    "temp": 40,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 95,
@@ -464,7 +455,7 @@
    },
    {
     "time": "2026-11-13T04:00:00-05:00",
-    "temp": 37,
+    "temp": 40,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 90,
@@ -473,7 +464,7 @@
    },
    {
     "time": "2026-11-13T05:00:00-05:00",
-    "temp": 36,
+    "temp": 39,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 90,
@@ -482,7 +473,7 @@
    },
    {
     "time": "2026-11-13T06:00:00-05:00",
-    "temp": 35,
+    "temp": 38,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 90,
@@ -491,7 +482,7 @@
    },
    {
     "time": "2026-11-13T07:00:00-05:00",
-    "temp": 35,
+    "temp": 38,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 94,
@@ -500,30 +491,30 @@
    },
    {
     "time": "2026-11-13T08:00:00-05:00",
-    "temp": 37,
+    "temp": 38,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 94,
     "wind": 12,
-    "humidity": 100
+    "humidity": 96
    },
    {
     "time": "2026-11-13T09:00:00-05:00",
-    "temp": 38,
+    "temp": 39,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 94,
     "wind": 13,
-    "humidity": 100
+    "humidity": 92
    },
    {
     "time": "2026-11-13T10:00:00-05:00",
-    "temp": 38,
+    "temp": 40,
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 78,
     "wind": 13,
-    "humidity": 100
+    "humidity": 92
    },
    {
     "time": "2026-11-13T11:00:00-05:00",
@@ -532,7 +523,7 @@
     "conditionText": "Light Rain",
     "precipPct": 78,
     "wind": 13,
-    "humidity": 100
+    "humidity": 96
    },
    {
     "time": "2026-11-13T12:00:00-05:00",
@@ -569,6 +560,15 @@
     "precipPct": 56,
     "wind": 9,
     "humidity": 79
+   },
+   {
+    "time": "2026-11-13T16:00:00-05:00",
+    "temp": 43,
+    "condition": "rain",
+    "conditionText": "Slight Chance Light Rain",
+    "precipPct": 17,
+    "wind": 8,
+    "humidity": 73
    }
   ],
   "daily": [
@@ -578,15 +578,15 @@
     "condition": "rain",
     "conditionText": "Rain Showers",
     "precipPct": 81,
-    "wind": 9,
-    "windText": "NE 9 mph",
-    "summary": "Rain showers. Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. Northeast wind around 9 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "low": 35,
+    "wind": 8,
+    "windText": "NE 8 mph",
+    "summary": "Rain showers. Cloudy. High near 53, with temperatures falling to around 49 in the afternoon. Northeast wind around 8 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "low": 38,
     "night": {
-     "low": 35,
+     "low": 38,
      "condition": "rain",
      "conditionText": "Rain Showers then Rain",
-     "summary": "Rain showers before midnight, then rain. Cloudy, with a low around 35. Northeast wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+     "summary": "Rain showers before midnight, then rain. Cloudy, with a low around 38. Northeast wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
      "precipPct": 99
     }
    },
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Here’s How Right-Wingers Packed The Courts Well Before Trump",
+   "source": "Zeteo",
+   "summary": "Crooked and MSNOW’s Alex Wagner talks to Mehdi about her new book and the conservatives’ decades-long plan to take over SCOTUS - and whether Trump will get to seat a FOURTH justice before 2028.",
+   "body": "Crooked and MSNOW’s Alex Wagner talks to Mehdi about her new book and the conservatives’ decades-long plan to take over SCOTUS - and whether Trump will get to seat a FOURTH justice before 2028.",
+   "sources": [
+    "https://zeteo.com/p/how-right-wingers-packed-the-courts"
+   ],
+   "publishedAt": "2026-11-12T22:02:36Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Oklahoma Drops Murder Charge Against Richard Glossip, Avoiding Third Trial",
    "source": "The Intercept",
    "summary": "Glossip agrees to plead guilty to a lesser charge to end his 30-year legal saga",
@@ -713,7 +724,7 @@
    "topic": "Independent"
   },
   {
-   "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
    "source": "BBC",
    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
    "body": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
@@ -865,17 +876,6 @@
    ],
    "publishedAt": "2026-11-12T16:12:53Z",
    "topic": "News"
-  },
-  {
-   "title": "First Draft: Is Ayanna Pressley About to Challenge Hakeem Jeffries for Speaker?",
-   "source": "Zeteo",
-   "summary": "The Squad member launches a petition about what Dems’ agenda should be, while progressives launch a petition to get her to run",
-   "body": "The Squad member launches a petition about what Dems’ agenda should be, while progressives launch a petition to get her to run. Plus, Pete Hegseth disgraces himself on ground sacred to those he leads.",
-   "sources": [
-    "https://zeteo.com/p/is-ayanna-pressley-about-to-challenge"
-   ],
-   "publishedAt": "2026-11-12T12:01:08Z",
-   "topic": "Independent"
   }
  ],
  "highlights": []
