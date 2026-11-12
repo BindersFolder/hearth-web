@@ -248,7 +248,7 @@
   function personalFrom(data) {
     if (Array.isArray(data)) return { highlights: data, media: null, packages: null };   // oldest: bare highlights array
     const o = obj(data) || {};
-    return { highlights: arr(o.highlights), media: obj(o.media), packages: obj(o.packages) };  // media here = pre-friends blob
+    return { highlights: arr(o.highlights), media: obj(o.media), packages: obj(o.packages), alerts: obj(o.alerts) };  // media here = pre-friends blob
   }
   function friendsFrom(data) {
     const o = obj(data);
@@ -359,6 +359,7 @@
 
   /* ---------- Today ---------- */
   function renderToday() {
+    renderAlerts();   // same data as Today: follows every unlock, lock and reload
     const body = document.getElementById('today-body');
     const feed = state.feed;
     const w = obj(feed && feed.weather);
@@ -953,6 +954,36 @@
     status.replaceChildren(...kids);
   }
 
+  /* ---------- Housing email alerts: pinned until dismissed ---------- */
+  const DISMISSED_STORE = 'hearth.alertsDismissed.v1';
+  function dismissedIds() {
+    try { return arr(JSON.parse(localStorage.getItem(DISMISSED_STORE) || '[]')); } catch (_) { return []; }
+  }
+  function dismissAlert(id, url) {
+    try { localStorage.setItem(DISMISSED_STORE, JSON.stringify(dismissedIds().concat(id).slice(-200))); } catch (_) { /* ignore */ }
+    renderAlerts();
+    // Tell the watcher, so the banner clears on every other screen too.
+    if (url) fetch(url, { method: 'POST', body: id }).catch(() => { /* this device still hides it */ });
+  }
+  function renderAlerts() {
+    const bar = document.getElementById('alerts');
+    const doc = state.personal && state.personal.alerts;
+    const gone = dismissedIds();
+    const items = arr(doc && doc.items).filter((a) => obj(a) && a.id && !gone.includes(a.id));
+    bar.hidden = !items.length;
+    bar.replaceChildren(...items.map((a) => {
+      const when = a.date ? relTime(new Date(a.date)) : '';
+      const btn = el('button', { type: 'button', class: 'alert-dismiss', text: 'Dismiss' });
+      btn.addEventListener('click', () => dismissAlert(a.id, str(doc.dismissUrl)));
+      return el('div', { class: 'alert-item', role: 'alert' },
+        el('div', { class: 'alert-text' },
+          el('div', { class: 'alert-kicker', text: ['Housing email', `${str(a.mailbox)} · ${str(a.folder)}`, when].filter(Boolean).join(' · ') }),
+          el('div', { class: 'alert-subject', text: str(a.subject) || '(no subject)' }),
+          el('div', { class: 'alert-from', text: `From ${a.fromName ? `${a.fromName} <${str(a.from)}>` : str(a.from)}` })),
+        btn);
+    }));
+  }
+
   function renderAll() {
     renderToday();
     renderMarkets();
@@ -1024,8 +1055,9 @@
     load();
     // Keep relative times and the stale marker honest; refetch when returning to the app.
     setInterval(() => { renderStatus(); refreshRelativeTimes(); }, KIOSK ? 15e3 : 60e3);
-    // Open and visible (a desktop tab, the wall screen): refetch every 15 minutes.
-    setInterval(() => { if (!document.hidden) load(); }, 15 * 60e3);
+    // Open and visible (a desktop tab, the wall screen): refetch every 2 minutes, so a
+    // housing email alert shows up fast. The three data files are small.
+    setInterval(() => { if (!document.hidden) load(); }, 2 * 60e3);
     if (KIOSK) {
       // Reload the whole page around 4 AM so the wall screen picks up app updates.
       const at4 = new Date(); at4.setHours(28, 0, 0, 0);

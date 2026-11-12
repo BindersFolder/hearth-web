@@ -7,7 +7,7 @@ Fetches highlights.json from the private hearth-feed repo, then writes:
                      the public kinds (weather, news)
   data/friends.json  {"media": ...} encrypted with FRIENDS_KEY
   data/private.json  {"highlights": [every non-public item], "media": ...,
-                      "packages": ...}
+                      "packages": ..., "alerts": ...}
                      encrypted with HEARTH_PASSPHRASE (the passphrase sees
                      everything the friends link does)
 
@@ -178,7 +178,9 @@ def main():
     passphrase = os.environ.get("HEARTH_PASSPHRASE", "")
     os.makedirs(DATA, exist_ok=True)
     friends = build_blob(FRIENDS_PATH, {"media": media}, friends_key, updated_at)
-    private = build_blob(PRIVATE_PATH, {"highlights": personal_items, "media": media, "packages": packages}, passphrase, updated_at)
+    alerts = feed.get("alerts") if isinstance(feed.get("alerts"), dict) else None  # housing email alerts
+    private = build_blob(PRIVATE_PATH, {"highlights": personal_items, "media": media, "packages": packages,
+                                        "alerts": alerts}, passphrase, updated_at)
 
     changed = [name for name, path, obj in (("feed.json", FEED_PATH, public),
                                              ("friends.json", FRIENDS_PATH, friends),
