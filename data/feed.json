@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T22:47:04Z",
+ "updatedAt": "2026-11-12T23:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 71328.9766,
-   "changePct": -3.52,
+   "price": 71348.3594,
+   "changePct": -3.49,
    "prevClose": 73927.6328,
    "high52": 104005.49,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2009.97,
-   "changePct": -2.14,
+   "price": 2013.75,
+   "changePct": -1.95,
    "prevClose": 2053.8401,
    "high52": 3561.86,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.15,
    "note": "Gasoline 21.66 · Diesel 91.46",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.185,
-   "changePct": 0.18,
+   "price": 103.173,
+   "changePct": 0.17,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-12T22:47:04Z"
+   "asOf": "2026-11-12T23:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+   "source": "NPR",
+   "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+   "body": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+   "sources": [
+    "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms"
+   ],
+   "publishedAt": "2026-11-12T22:52:49Z",
+   "topic": "News"
+  },
+  {
+   "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+   "source": "NPR",
+   "summary": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S",
+   "body": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
+   "sources": [
+    "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang"
+   ],
+   "publishedAt": "2026-11-12T22:45:40Z",
+   "topic": "News"
+  },
+  {
    "title": "Here’s How Right-Wingers Packed The Courts Well Before Trump",
    "source": "Zeteo",
    "summary": "Crooked and MSNOW’s Alex Wagner talks to Mehdi about her new book and the conservatives’ decades-long plan to take over SCOTUS - and whether Trump will get to seat a FOURTH justice before 2028.",
@@ -845,17 +867,6 @@
    "topic": "World"
   },
   {
-   "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-   "source": "NPR",
-   "summary": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.",
-   "body": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.",
-   "sources": [
-    "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states"
-   ],
-   "publishedAt": "2026-11-12T16:20:04Z",
-   "topic": "News"
-  },
-  {
    "title": "Israel bombs Gaza hospital, killing 6; Scott Colom wins Mississippi’s Senate race; Nvidia CEO resigns",
    "source": "Drop Site News",
    "summary": "Drop Site Daily: November 12, 2026.",
@@ -865,17 +876,6 @@
    ],
    "publishedAt": "2026-11-12T16:18:32Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
-   "source": "NPR",
-   "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning",
-   "body": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
-   "sources": [
-    "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting"
-   ],
-   "publishedAt": "2026-11-12T16:12:53Z",
-   "topic": "News"
   }
  ],
  "highlights": []
