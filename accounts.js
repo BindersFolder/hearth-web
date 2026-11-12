@@ -57,7 +57,7 @@
     return { loaded: false, verified: false, error: '', profile: null, settings: null, connections: [], events: [], packages: [], docs: {}, personal: null, inflight: null };
   }
   function blankUi() {
-    return { authMode: 'signin', authOpen: false, email: '', notice: '', step: 0, done: [false, false, false], stepNote: '', settingsOpen: false, addCalOpen: false, accountNote: '' };
+    return { authMode: 'signin', authOpen: false, email: '', notice: '', step: 0, done: [false, false, false], stepNote: '', settingsOpen: false, addCalOpen: false, accountNote: '', resumed: false };
   }
   function wipeMemory() {
     user = blankUser();
@@ -241,6 +241,7 @@
       for (const row of own(docs)) if (DOC_NAMES.includes(row.name)) user.docs[row.name] = row.doc;
       user.loaded = true;
       user.error = '';
+      resumeWelcome();
     } catch (e) {
       if (mine !== epoch || !session) return;
       user.error = e.status === 0 ? 'offline' : 'error';
@@ -604,6 +605,14 @@
   }
 
   /* ---------- Welcome steps ---------- */
+  // Reopening the app mid-setup: pick up at the first step that isn't done, once per sign-in.
+  function resumeWelcome() {
+    if (ui.resumed) return;
+    ui.resumed = true;
+    if (!needsWelcome() || ui.step !== 0) return;
+    const have = [calendars().length > 0, !!forwardToken(), !!musicKey()];
+    while (ui.step < have.length && have[ui.step]) { ui.done[ui.step] = true; ui.step += 1; }
+  }
   function goStep(i) {
     ui.step = Math.min(Math.max(i, 0), STEPS.length - 1);
     ui.stepNote = '';
