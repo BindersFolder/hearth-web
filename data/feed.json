@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-13T14:25:20Z",
+ "updatedAt": "2026-11-13T14:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 757.12,
-   "changePct": -0.26,
-   "prevClose": 759.06,
+   "price": 759.75,
+   "changePct": 0.01,
+   "prevClose": 759.7,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 688.17,
-   "changePct": -0.4,
-   "prevClose": 690.92,
+   "price": 687.8812,
+   "changePct": -0.61,
+   "prevClose": 692.11,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 522.47,
-   "changePct": -0.15,
-   "prevClose": 523.26,
+   "price": 524.665,
+   "changePct": 0.21,
+   "prevClose": 523.58,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 278.44,
-   "changePct": -0.13,
-   "prevClose": 278.8,
+   "price": 278.98,
+   "changePct": -0.03,
+   "prevClose": 279.06,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 69189.8438,
-   "changePct": -3.05,
+   "price": 69332.2578,
+   "changePct": -2.86,
    "prevClose": 71369.8984,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1961.12,
-   "changePct": -2.79,
+   "price": 1968.5,
+   "changePct": -2.42,
    "prevClose": 2017.41,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.08,
-   "changePct": 0.94,
+   "price": 89.33,
+   "changePct": 1.22,
    "prevClose": 88.25,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.58,
-   "changePct": 0.99,
+   "price": 96.82,
+   "changePct": 1.24,
    "prevClose": 95.63,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.1,
-   "changePct": 0.4,
+   "price": 44.58,
+   "changePct": -0.76,
    "prevClose": 44.92,
-   "note": "Gasoline 21.40 · Diesel 92.50",
+   "note": "Gasoline 20.97 · Diesel 91.80",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.235,
-   "changePct": -2.91,
+   "price": 3.227,
+   "changePct": -3.15,
    "prevClose": 3.332,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6304,
-   "changePct": 0.42,
+   "price": 2.6263,
+   "changePct": 0.27,
    "prevClose": 2.6193,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3233,
-   "changePct": 1.16,
+   "price": 4.3125,
+   "changePct": 0.91,
    "prevClose": 4.2737,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.91,
    "note": "Week ago 4.0688 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2918 · Year ago 3.1323",
    "source": "AAA",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.2305 · Year ago 3.7648",
    "source": "AAA",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.19,
    "note": "Week ago 6.4582 · Year ago 3.903",
    "source": "AAA",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3889.1001,
-   "changePct": -0.71,
+   "price": 3886.0,
+   "changePct": -0.79,
    "prevClose": 3917.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.565,
-   "changePct": -1.35,
+   "price": 49.5,
+   "changePct": -1.48,
    "prevClose": 50.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.152,
-   "changePct": -0.76,
+   "price": 6.1455,
+   "changePct": -0.86,
    "prevClose": 6.199,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.228,
-   "changePct": 0.08,
+   "price": 103.265,
+   "changePct": 0.11,
    "prevClose": 103.149,
    "high52": 103.24,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.03,
+   "price": 17.97,
    "changePct": null,
    "prevClose": 18.69,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T14:25:20Z"
+   "asOf": "2026-11-13T14:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -801,6 +801,17 @@
    "topic": "World"
   },
   {
+   "title": "Hegseth Dodges Impeachment, for Now. And Tom Morello on Fighting for the World You Want",
+   "source": "The Intercept",
+   "summary": "Pete Hegseth has \"a lot to answer for,\" says Nick Turse.",
+   "body": "Pete Hegseth has \"a lot to answer for,\" says Nick Turse. Tom Morello gets into being \"agents of history, not just on election day.\"",
+   "sources": [
+    "https://theintercept.com/2026/11/13/pete-hegseth-impeachment-tom-morello-interview/"
+   ],
+   "publishedAt": "2026-11-13T11:00:00Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
    "source": "NPR",
    "summary": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal",
@@ -832,17 +843,6 @@
    ],
    "publishedAt": "2026-11-13T09:00:00Z",
    "topic": "Independent"
-  },
-  {
-   "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-   "source": "BBC",
-   "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-   "body": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-13T07:01:43Z",
-   "topic": "World"
   },
   {
    "title": "The Free Press’s El-Sayed Derangement Syndrome Comes Back to Bite It",
