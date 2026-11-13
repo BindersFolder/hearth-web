@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T12:02:05Z",
+ "updatedAt": "2026-11-13T12:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 69330.8906,
-   "changePct": -2.86,
+   "price": 69409.8984,
+   "changePct": -2.75,
    "prevClose": 71369.8984,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1960.3199,
-   "changePct": -2.83,
+   "price": 1959.5,
+   "changePct": -2.87,
    "prevClose": 2017.41,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.41,
-   "changePct": 0.18,
+   "price": 88.53,
+   "changePct": 0.32,
    "prevClose": 88.25,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": -2.3,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T11:12:50Z"
+   "asOf": "2026-11-13T12:14:37Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.95,
-   "changePct": 0.33,
+   "price": 96.08,
+   "changePct": 0.47,
    "prevClose": 95.63,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": 0.3,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T11:12:50Z"
+   "asOf": "2026-11-13T12:14:37Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.49,
-   "changePct": 1.27,
+   "price": 45.48,
+   "changePct": 1.25,
    "prevClose": 44.92,
-   "note": "Gasoline 21.68 · Diesel 93.13",
+   "note": "Gasoline 21.65 · Diesel 93.13",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.269,
-   "changePct": -1.89,
+   "price": 3.279,
+   "changePct": -1.59,
    "prevClose": 3.332,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6211,
-   "changePct": 0.07,
+   "price": 2.6234,
+   "changePct": 0.16,
    "prevClose": 2.6193,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3224,
-   "changePct": 1.14,
+   "price": 4.3253,
+   "changePct": 1.21,
    "prevClose": 4.2737,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.29,
-   "changePct": 2.4,
+   "price": 4.33,
+   "changePct": 3.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T11:12:50Z"
+   "asOf": "2026-11-13T12:14:37Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": 4.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T11:12:50Z"
+   "asOf": "2026-11-13T12:14:37Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T11:12:50Z"
+   "asOf": "2026-11-13T12:14:37Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.91,
    "note": "Week ago 4.0688 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2918 · Year ago 3.1323",
    "source": "AAA",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.2305 · Year ago 3.7648",
    "source": "AAA",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.19,
    "note": "Week ago 6.4582 · Year ago 3.903",
    "source": "AAA",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3895.8999,
-   "changePct": -0.54,
+   "price": 3899.6001,
+   "changePct": -0.45,
    "prevClose": 3917.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.955,
-   "changePct": -0.58,
+   "price": 49.995,
+   "changePct": -0.5,
    "prevClose": 50.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.16,
-   "changePct": -0.63,
+   "price": 6.1625,
+   "changePct": -0.59,
    "prevClose": 6.199,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.22,
-   "changePct": 0.07,
+   "price": 103.236,
+   "changePct": 0.08,
    "prevClose": 103.149,
    "high52": 103.24,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.35,
+   "price": 18.24,
    "changePct": null,
    "prevClose": 18.69,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:02:05Z"
+   "asOf": "2026-11-13T12:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,21 +339,30 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-13T11:12:50Z"
+   "asOf": "2026-11-13T12:14:37Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
   "conditionText": "Light Rain",
-  "temp": 37,
+  "temp": 36,
   "high": 42,
   "low": 32,
-  "humidity": 96,
+  "humidity": 100,
   "wind": 12,
   "summary": "Rain. Cloudy, with a high near 42. North wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. A slight chance of rain before 7pm. Mostly cloudy, with a low around 32. Northwest wind around 5 mph. Chance of precipitation is 20%.…",
   "alerts": [],
   "hourly": [
+   {
+    "time": "2026-11-13T06:00:00-05:00",
+    "temp": 36,
+    "condition": "rain",
+    "conditionText": "Light Rain",
+    "precipPct": 94,
+    "wind": 12,
+    "humidity": 100
+   },
    {
     "time": "2026-11-13T07:00:00-05:00",
     "temp": 37,
@@ -560,15 +569,6 @@
     "precipPct": 2,
     "wind": 2,
     "humidity": 85
-   },
-   {
-    "time": "2026-11-14T06:00:00-05:00",
-    "temp": 32,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 2,
-    "humidity": 85
    }
   ],
   "daily": [
@@ -702,6 +702,50 @@
  },
  "news": [
   {
+   "title": "What we know about the global Microsoft outage",
+   "source": "BBC",
+   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "body": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T12:09:57Z",
+   "topic": "World"
+  },
+  {
+   "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+   "source": "NPR",
+   "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role",
+   "body": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+   "sources": [
+    "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+   ],
+   "publishedAt": "2026-11-13T12:07:12Z",
+   "topic": "News"
+  },
+  {
+   "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+   "source": "NPR",
+   "summary": "Friday, November 13 is World Kindness Day.",
+   "body": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
+   "sources": [
+    "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity"
+   ],
+   "publishedAt": "2026-11-13T12:06:28Z",
+   "topic": "News"
+  },
+  {
+   "title": "Here’s How the Blue Tsunami Could End the Electoral College",
+   "source": "Zeteo",
+   "summary": "Plus: it’s official! Chris Van Hollen is challenging Chuck Schumer for the post of Senate Majority Leader.",
+   "body": "Plus: it’s official! Chris Van Hollen is challenging Chuck Schumer for the post of Senate Majority Leader. LFG!",
+   "sources": [
+    "https://zeteo.com/p/heres-how-the-blue-tsunami-could"
+   ],
+   "publishedAt": "2026-11-13T12:01:26Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Hegseth Dodges Impeachment, for Now. And Tom Morello on Fighting for the World You Want",
    "source": "The Intercept",
    "summary": "Pete Hegseth has \"a lot to answer for,\" says Nick Turse.",
@@ -722,17 +766,6 @@
    ],
    "publishedAt": "2026-11-13T11:00:00Z",
    "topic": "News"
-  },
-  {
-   "title": "What we know about the global Microsoft outage",
-   "source": "BBC",
-   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-   "body": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-13T10:53:40Z",
-   "topic": "World"
   },
   {
    "title": "Hegseth awards medal to soldier who chastised him",
@@ -766,28 +799,6 @@
    ],
    "publishedAt": "2026-11-13T10:00:00Z",
    "topic": "Independent"
-  },
-  {
-   "title": "SpaceX's giant rocket may leave NASA in the dust",
-   "source": "NPR",
-   "summary": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
-   "body": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
-   "sources": [
-    "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk"
-   ],
-   "publishedAt": "2026-11-13T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-   "source": "NPR",
-   "summary": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
-   "body": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
-   "sources": [
-    "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools"
-   ],
-   "publishedAt": "2026-11-13T10:00:00Z",
-   "topic": "News"
   },
   {
    "title": "Trump Subpoenas Teachers Union for Info on Pro-Palestine Students",
@@ -853,17 +864,6 @@
     "https://www.dropsitenews.com/p/palm-beach-county-israel-bonds"
    ],
    "publishedAt": "2026-11-13T01:03:41Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Here’s How Right-Wingers Packed The Courts Well Before Trump",
-   "source": "Zeteo",
-   "summary": "Crooked and MSNOW’s Alex Wagner talks to Mehdi about her new book and the conservatives’ decades-long plan to take over SCOTUS - and whether Trump will get to seat a FOURTH justice before 2028.",
-   "body": "Crooked and MSNOW’s Alex Wagner talks to Mehdi about her new book and the conservatives’ decades-long plan to take over SCOTUS - and whether Trump will get to seat a FOURTH justice before 2028.",
-   "sources": [
-    "https://zeteo.com/p/how-right-wingers-packed-the-courts"
-   ],
-   "publishedAt": "2026-11-12T22:02:36Z",
    "topic": "Independent"
   },
   {
