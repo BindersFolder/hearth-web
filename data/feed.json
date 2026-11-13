@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T01:02:03Z",
+ "updatedAt": "2026-11-13T01:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 70941.1484,
-   "changePct": -0.71,
+   "price": 70977.4297,
+   "changePct": -0.66,
    "prevClose": 71451.4609,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2007.99,
-   "changePct": -0.47,
+   "price": 2010.87,
+   "changePct": -0.33,
    "prevClose": 2017.4301,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.5,
-   "changePct": 3.79,
+   "price": 88.46,
+   "changePct": 3.74,
    "prevClose": 85.27,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T00:11:21Z"
+   "asOf": "2026-11-13T01:11:20Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.64,
-   "changePct": 4.77,
+   "price": 95.68,
+   "changePct": 4.81,
    "prevClose": 91.29,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T00:11:21Z"
+   "asOf": "2026-11-13T01:11:20Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.79,
-   "changePct": 1.45,
+   "price": 45.02,
+   "changePct": 1.97,
    "prevClose": 44.15,
-   "note": "Gasoline 21.60 · Diesel 91.15",
+   "note": "Gasoline 21.82 · Diesel 91.43",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.351,
-   "changePct": 2.54,
+   "price": 3.355,
+   "changePct": 2.66,
    "prevClose": 3.268,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6215,
-   "changePct": 3.14,
+   "price": 2.6256,
+   "changePct": 3.31,
    "prevClose": 2.5416,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2774,
-   "changePct": 2.79,
+   "price": 4.2831,
+   "changePct": 2.93,
    "prevClose": 4.1613,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.11,
-   "changePct": -4.2,
+   "changePct": -4.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T00:11:21Z"
+   "asOf": "2026-11-13T01:11:20Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T00:11:21Z"
+   "asOf": "2026-11-13T01:11:20Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T00:11:21Z"
+   "asOf": "2026-11-13T01:11:20Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3889.6001,
-   "changePct": -2.28,
+   "price": 3893.8,
+   "changePct": -2.18,
    "prevClose": 3980.5,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.975,
-   "changePct": -2.82,
+   "price": 50.08,
+   "changePct": -2.62,
    "prevClose": 51.425,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.2035,
-   "changePct": -0.62,
+   "price": 6.221,
+   "changePct": -0.34,
    "prevClose": 6.242,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.202,
-   "changePct": 0.2,
+   "price": 103.172,
+   "changePct": 0.17,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T01:02:03Z"
+   "asOf": "2026-11-13T01:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,21 +339,30 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-13T00:11:21Z"
+   "asOf": "2026-11-13T01:11:20Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
   "conditionText": "Rain Showers",
-  "temp": 47,
-  "high": 47,
+  "temp": 48,
+  "high": 48,
   "low": 38,
-  "humidity": 89,
-  "wind": 10,
+  "humidity": 86,
+  "wind": 9,
   "summary": "Rain showers before midnight, then rain. Cloudy, with a low around 38. Northeast wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. Rain showers before midnight, then rain. Cloudy, with a low around 38. Northeast wind 8 to 14…",
   "alerts": [],
   "hourly": [
+   {
+    "time": "2026-11-12T19:00:00-05:00",
+    "temp": 48,
+    "condition": "rain",
+    "conditionText": "Rain Showers",
+    "precipPct": 97,
+    "wind": 9,
+    "humidity": 86
+   },
    {
     "time": "2026-11-12T20:00:00-05:00",
     "temp": 47,
@@ -560,15 +569,6 @@
     "precipPct": 12,
     "wind": 5,
     "humidity": 79
-   },
-   {
-    "time": "2026-11-13T19:00:00-05:00",
-    "temp": 39,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 13,
-    "wind": 3,
-    "humidity": 85
    }
   ],
   "daily": [
@@ -582,7 +582,7 @@
      "summary": "Rain showers before midnight, then rain. Cloudy, with a low around 38. Northeast wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
      "precipPct": 97
     },
-    "high": 47,
+    "high": 48,
     "conditionText": "Rain Showers then Rain",
     "condition": "rain",
     "summary": "Rain showers before midnight, then rain. Cloudy, with a low around 38. Northeast wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
@@ -700,6 +700,28 @@
  },
  "news": [
   {
+   "title": "Australian footballers will not be charged after hotel incident, police say",
+   "source": "BBC",
+   "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "body": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T01:03:59Z",
+   "topic": "World"
+  },
+  {
+   "title": "Palm Beach County’s Israel Bonds Holdings Hit 24% of Portfolio Last Month",
+   "source": "Drop Site News",
+   "summary": "The Florida county, the world’s largest municipal investor in Israeli bonds, this month let its holdings drop from $1 billion to $932.5 million.",
+   "body": "The Florida county, the world’s largest municipal investor in Israeli bonds, this month let its holdings drop from $1 billion to $932.5 million.",
+   "sources": [
+    "https://www.dropsitenews.com/p/palm-beach-county-israel-bonds"
+   ],
+   "publishedAt": "2026-11-13T01:03:41Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
    "source": "BBC",
    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
@@ -799,17 +821,6 @@
    "topic": "World"
   },
   {
-   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-   "source": "BBC",
-   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-   "body": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-12T19:23:02Z",
-   "topic": "World"
-  },
-  {
    "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
    "source": "NPR",
    "summary": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
@@ -862,17 +873,6 @@
     "https://theintercept.com/2026/11/12/hud-trump-housing-immigration-family-separation/"
    ],
    "publishedAt": "2026-11-12T17:48:46Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Israel bombs Gaza hospital, killing 6; Scott Colom wins Mississippi’s Senate race; Nvidia CEO resigns",
-   "source": "Drop Site News",
-   "summary": "Drop Site Daily: November 12, 2026.",
-   "body": "Drop Site Daily: November 12, 2026",
-   "sources": [
-    "https://www.dropsitenews.com/p/israel-bombs-gaza-hospital-killing"
-   ],
-   "publishedAt": "2026-11-12T16:18:32Z",
    "topic": "Independent"
   }
  ],
