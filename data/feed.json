@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T09:55:32Z",
+ "updatedAt": "2026-11-13T10:02:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "QQQ",
@@ -19,11 +19,11 @@
    "group": "Indexes",
    "price": 688.17,
    "changePct": -0.4,
-   "prevClose": 690.93,
+   "prevClose": 690.92,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 68997.4219,
-   "changePct": -3.33,
-   "prevClose": 71373.1562,
+   "price": 69064.4688,
+   "changePct": -3.23,
+   "prevClose": 71369.8984,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1937.9399,
-   "changePct": -3.94,
-   "prevClose": 2017.36,
+   "price": 1942.5,
+   "changePct": -3.71,
+   "prevClose": 2017.41,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.51,
-   "changePct": 0.29,
+   "price": 88.41,
+   "changePct": 0.18,
    "prevClose": 88.25,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.85,
-   "changePct": 0.23,
+   "price": 95.8,
+   "changePct": 0.18,
    "prevClose": 95.63,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.4,
-   "changePct": 1.07,
+   "price": 45.47,
+   "changePct": 1.22,
    "prevClose": 44.92,
-   "note": "Gasoline 21.79 · Diesel 92.62",
+   "note": "Gasoline 21.84 · Diesel 92.74",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.267,
-   "changePct": -1.95,
+   "price": 3.266,
+   "changePct": -1.98,
    "prevClose": 3.332,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6262,
-   "changePct": 0.26,
+   "price": 2.625,
+   "changePct": 0.22,
    "prevClose": 2.6193,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3127,
-   "changePct": 0.91,
+   "price": 4.313,
+   "changePct": 0.92,
    "prevClose": 4.2737,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.91,
    "note": "Week ago 4.0688 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2918 · Year ago 3.1323",
    "source": "AAA",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.2305 · Year ago 3.7648",
    "source": "AAA",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.19,
    "note": "Week ago 6.4582 · Year ago 3.903",
    "source": "AAA",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3900.3999,
-   "changePct": -0.43,
+   "price": 3899.7,
+   "changePct": -0.44,
    "prevClose": 3917.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.975,
-   "changePct": -0.54,
+   "price": 49.915,
+   "changePct": -0.66,
    "prevClose": 50.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.1505,
-   "changePct": -0.78,
+   "price": 6.1485,
+   "changePct": -0.81,
    "prevClose": 6.199,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.203,
-   "changePct": 0.05,
+   "price": 103.195,
+   "changePct": 0.04,
    "prevClose": 103.149,
    "high52": 103.24,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.52,
+   "price": 18.55,
    "changePct": null,
    "prevClose": 18.69,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T09:55:32Z"
+   "asOf": "2026-11-13T10:02:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -695,6 +695,17 @@
  },
  "news": [
   {
+   "title": "What we know about the global Microsoft outage",
+   "source": "BBC",
+   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "body": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T09:59:20Z",
+   "topic": "World"
+  },
+  {
    "title": "Morning news brief",
    "source": "NPR",
    "summary": "What's next for Nvidia after CEO's resignation, Trump's reliance on former Nvidia CEO in flux ahead of China trip, Trump's envoys hope to get Europe involved in Russia-Ukraine peace talks.",
@@ -715,6 +726,28 @@
    ],
    "publishedAt": "2026-11-13T09:00:00Z",
    "topic": "Independent"
+  },
+  {
+   "title": "Watch: How Microsoft services went down around the world",
+   "source": "BBC",
+   "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+   "body": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+   "sources": [
+    "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T07:18:17Z",
+   "topic": "World"
+  },
+  {
+   "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+   "source": "BBC",
+   "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+   "body": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T07:01:43Z",
+   "topic": "World"
   },
   {
    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -739,17 +772,6 @@
    "topic": "News"
   },
   {
-   "title": "Australian footballers will not be charged after hotel incident, police say",
-   "source": "BBC",
-   "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-   "body": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-13T03:02:54Z",
-   "topic": "World"
-  },
-  {
    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
    "source": "BBC",
    "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
@@ -758,17 +780,6 @@
     "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-13T02:48:29Z",
-   "topic": "World"
-  },
-  {
-   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-   "source": "BBC",
-   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-   "body": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-13T02:01:35Z",
    "topic": "World"
   },
   {
@@ -847,17 +858,6 @@
    ],
    "publishedAt": "2026-11-12T21:05:25Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-   "source": "BBC",
-   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-   "body": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-12T20:09:16Z",
-   "topic": "World"
   },
   {
    "title": "Democrats Missed Hegseth Impeachment Vote While at a Fundraiser with Defense Lobbyists",
