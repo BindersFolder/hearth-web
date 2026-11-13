@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T22:17:04Z",
+ "updatedAt": "2026-11-13T22:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 68114.6094,
-   "changePct": -4.56,
+   "price": 68263.5938,
+   "changePct": -4.35,
    "prevClose": 71369.8984,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1919.3199,
-   "changePct": -4.86,
+   "price": 1926.5699,
+   "changePct": -4.5,
    "prevClose": 2017.41,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 20.27 · Diesel 91.96",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.91,
    "note": "Week ago 4.0688 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2918 · Year ago 3.1323",
    "source": "AAA",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.2305 · Year ago 3.7648",
    "source": "AAA",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.19,
    "note": "Week ago 6.4582 · Year ago 3.903",
    "source": "AAA",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.24,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T22:17:04Z"
+   "asOf": "2026-11-13T22:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+   "source": "NPR",
+   "summary": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+   "body": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+   "sources": [
+    "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting"
+   ],
+   "publishedAt": "2026-11-13T22:18:55Z",
+   "topic": "News"
+  },
+  {
    "title": "FAA issues nationwide ground stop for all U.S. airports",
    "source": "NPR",
    "summary": "The FAA has issued a nationwide ground stop for all U.S",
@@ -842,17 +853,6 @@
     "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
    ],
    "publishedAt": "2026-11-13T17:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Does Europe regret its bet on U.S. defense?",
-   "source": "NPR",
-   "summary": "Europe bet big on American defense technology and they're now paying the price",
-   "body": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
-   "sources": [
-    "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense"
-   ],
-   "publishedAt": "2026-11-13T16:17:43Z",
    "topic": "News"
   },
   {
