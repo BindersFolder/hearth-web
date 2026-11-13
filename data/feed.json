@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T02:02:03Z",
+ "updatedAt": "2026-11-13T02:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 70820.8438,
-   "changePct": -0.88,
+   "price": 70540.4219,
+   "changePct": -1.28,
    "prevClose": 71451.4609,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 2008.8199,
-   "changePct": -0.43,
+   "price": 1998.89,
+   "changePct": -0.92,
    "prevClose": 2017.4301,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.19,
-   "changePct": 3.42,
+   "price": 88.06,
+   "changePct": 3.27,
    "prevClose": 85.27,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T01:11:20Z"
+   "asOf": "2026-11-13T02:11:16Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.25,
-   "changePct": 4.34,
+   "price": 95.16,
+   "changePct": 4.24,
    "prevClose": 91.29,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T01:11:20Z"
+   "asOf": "2026-11-13T02:11:16Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.8,
-   "changePct": 1.47,
+   "price": 44.78,
+   "changePct": 1.43,
    "prevClose": 44.15,
-   "note": "Gasoline 21.62 · Diesel 91.15",
+   "note": "Gasoline 21.68 · Diesel 90.99",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.364,
-   "changePct": 2.94,
+   "price": 3.348,
+   "changePct": 2.45,
    "prevClose": 3.268,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6145,
-   "changePct": 2.87,
+   "price": 2.6129,
+   "changePct": 2.81,
    "prevClose": 2.5416,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.27,
-   "changePct": 2.61,
+   "price": 4.263,
+   "changePct": 2.44,
    "prevClose": 4.1613,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.11,
-   "changePct": -4.0,
+   "price": 4.26,
+   "changePct": -0.2,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T01:11:20Z"
+   "asOf": "2026-11-13T02:11:16Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T01:11:20Z"
+   "asOf": "2026-11-13T02:11:16Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-13T01:11:20Z"
+   "asOf": "2026-11-13T02:11:16Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.88,
    "note": "Week ago 4.1003 · Year ago 3.0752",
    "source": "AAA",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.46,
    "note": "Week ago 4.3104 · Year ago 3.128",
    "source": "AAA",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.54,
    "note": "Week ago 6.2564 · Year ago 3.7568",
    "source": "AAA",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.24,
    "note": "Week ago 6.4696 · Year ago 3.8997",
    "source": "AAA",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3912.7,
-   "changePct": -1.7,
+   "price": 3913.5,
+   "changePct": -1.68,
    "prevClose": 3980.5,
    "high52": 5586.2,
    "low52": 3879.3,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 50.6,
-   "changePct": -1.6,
+   "price": 50.45,
+   "changePct": -1.9,
    "prevClose": 51.425,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.226,
-   "changePct": -0.26,
+   "price": 6.239,
+   "changePct": -0.05,
    "prevClose": 6.242,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.127,
-   "changePct": 0.13,
+   "price": 103.15,
+   "changePct": 0.15,
    "prevClose": 102.995,
    "high52": 102.96,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T02:02:03Z"
+   "asOf": "2026-11-13T02:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-13T01:11:20Z"
+   "asOf": "2026-11-13T02:11:16Z"
   }
  ],
  "weather": {
@@ -700,6 +700,28 @@
  },
  "news": [
   {
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "source": "BBC",
+   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "body": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T02:01:35Z",
+   "topic": "World"
+  },
+  {
+   "title": "The Free Press’s El-Sayed Derangement Syndrome Comes Back to Bite It",
+   "source": "Zeteo",
+   "summary": "Bari Weiss’s anti-woke blog’s obsession with Abdul El-Sayed screams of Islamophobia",
+   "body": "Bari Weiss’s anti-woke blog’s obsession with Abdul El-Sayed screams of Islamophobia. Meanwhile, a story from her CBS News caused an internal fight.",
+   "sources": [
+    "https://zeteo.com/p/the-free-presss-el-sayed-derangement"
+   ],
+   "publishedAt": "2026-11-13T02:01:04Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
    "source": "NPR",
    "summary": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
@@ -810,17 +832,6 @@
    "topic": "Independent"
   },
   {
-   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "source": "BBC",
-   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "body": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-12T21:00:42Z",
-   "topic": "World"
-  },
-  {
    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
    "source": "BBC",
    "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
@@ -841,17 +852,6 @@
    ],
    "publishedAt": "2026-11-12T18:44:00Z",
    "topic": "News"
-  },
-  {
-   "title": "Sex Crimes, Lies, War, Money: MAGA’s 2026 ‘Self-Immolation’ Keeps Getting Worse",
-   "source": "Zeteo",
-   "summary": "Trump’s Republican Party and MAGA movement have been eating each other alive ever since their devastating midterm losses",
-   "body": "Trump’s Republican Party and MAGA movement have been eating each other alive ever since their devastating midterm losses. The partywide blame games and self-cannibalization are only accelerating.",
-   "sources": [
-    "https://zeteo.com/p/sex-crimes-lies-war-money-magas-2026"
-   ],
-   "publishedAt": "2026-11-12T18:30:48Z",
-   "topic": "Independent"
   },
   {
    "title": "Democrats Missed Hegseth Impeachment Vote While at a Fundraiser with Defense Lobbyists",
