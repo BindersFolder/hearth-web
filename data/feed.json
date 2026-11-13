@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T23:31:58Z",
+ "updatedAt": "2026-11-13T23:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 67913.1406,
-   "changePct": -4.84,
+   "price": 68059.2422,
+   "changePct": -4.64,
    "prevClose": 71369.8984,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1917.36,
-   "changePct": -4.96,
+   "price": 1921.76,
+   "changePct": -4.74,
    "prevClose": 2017.41,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 20.27 · Diesel 91.96",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.91,
    "note": "Week ago 4.0688 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2918 · Year ago 3.1323",
    "source": "AAA",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.2305 · Year ago 3.7648",
    "source": "AAA",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.19,
    "note": "Week ago 6.4582 · Year ago 3.903",
    "source": "AAA",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.24,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T23:17:04Z"
+   "asOf": "2026-11-13T23:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Cloudy",
-  "temp": 37,
-  "high": 42,
+  "temp": 36,
+  "high": 36,
   "low": 30,
-  "humidity": 85,
-  "wind": 6,
-  "summary": "A chance of rain before 4pm. Cloudy. High near 42, with temperatures falling to around 37 in the afternoon. North wind 6 to 9 mph. Chance of precipitation is 30%. Cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 5 mph. Mostly cloudy. High near 46, with temperatures falling to…",
+  "humidity": 92,
+  "wind": 5,
+  "summary": "Cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 5 mph. Cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 5 mph. Mostly cloudy. High near 46, with temperatures falling to around 43 in the afternoon. Northwest wind 2 to 10 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-13T17:00:00-05:00",
-    "temp": 37,
-    "condition": "cloud",
-    "conditionText": "Cloudy",
-    "precipPct": 13,
-    "wind": 6,
-    "humidity": 85
-   },
    {
     "time": "2026-11-13T18:00:00-05:00",
     "temp": 36,
@@ -569,18 +560,20 @@
     "precipPct": 3,
     "wind": 9,
     "humidity": 62
+   },
+   {
+    "time": "2026-11-14T17:00:00-05:00",
+    "temp": 43,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 3,
+    "wind": 8,
+    "humidity": 65
    }
   ],
   "daily": [
    {
     "date": "2026-11-13",
-    "high": 42,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 32,
-    "wind": 9,
-    "windText": "N 6 to 9 mph",
-    "summary": "A chance of rain before 4pm. Cloudy. High near 42, with temperatures falling to around 37 in the afternoon. North wind 6 to 9 mph. Chance of precipitation is 30%.",
     "low": 30,
     "night": {
      "low": 30,
@@ -588,7 +581,12 @@
      "conditionText": "Cloudy",
      "summary": "Cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 5 mph.",
      "precipPct": 13
-    }
+    },
+    "high": 36,
+    "conditionText": "Cloudy",
+    "condition": "cloud",
+    "summary": "Cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 5 mph.",
+    "precipPct": 13
    },
    {
     "date": "2026-11-14",
@@ -622,7 +620,7 @@
      "low": 31,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 31.",
+     "summary": "Mostly clear, with a low around 31. Northwest wind 1 to 6 mph.",
      "precipPct": 0
     }
    },
@@ -634,7 +632,7 @@
     "precipPct": 0,
     "wind": 5,
     "windText": "NW 1 to 5 mph",
-    "summary": "Sunny, with a high near 53.",
+    "summary": "Sunny. High near 53, with temperatures falling to around 48 in the afternoon.",
     "low": 30,
     "night": {
      "low": 30,
@@ -701,6 +699,28 @@
   ]
  },
  "news": [
+  {
+   "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+   "source": "NPR",
+   "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop",
+   "body": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+   "sources": [
+    "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
+   ],
+   "publishedAt": "2026-11-13T22:36:46Z",
+   "topic": "News"
+  },
+  {
+   "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+   "source": "NPR",
+   "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+   "body": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+   "sources": [
+    "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences"
+   ],
+   "publishedAt": "2026-11-13T22:36:45Z",
+   "topic": "News"
+  },
   {
    "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
    "source": "NPR",
@@ -801,17 +821,6 @@
    "topic": "Independent"
   },
   {
-   "title": "What's Trump's strategy now with Iran? To keep things as they are",
-   "source": "NPR",
-   "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S",
-   "body": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-   "sources": [
-    "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
-   ],
-   "publishedAt": "2026-11-13T19:02:04Z",
-   "topic": "News"
-  },
-  {
    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
    "source": "BBC",
    "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
@@ -842,17 +851,6 @@
     "https://www.dropsitenews.com/p/ecuador-journalist-murdered-bbc-documentary-police-corruption"
    ],
    "publishedAt": "2026-11-13T18:05:29Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "The Hegseth Vote Was Jeffries's First Big Test. He Failed.",
-   "source": "The Intercept",
-   "summary": "By not showing discipline on the Pete Hegseth impeachment vote, Democrats seem poised to repeat the mistakes of the past.",
-   "body": "By not showing discipline on the Pete Hegseth impeachment vote, Democrats seem poised to repeat the mistakes of the past.",
-   "sources": [
-    "https://theintercept.com/2026/11/13/hakeem-jeffries-pete-hegseth-impeachment-vote/"
-   ],
-   "publishedAt": "2026-11-13T17:39:49Z",
    "topic": "Independent"
   },
   {
