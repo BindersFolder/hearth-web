@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T12:47:04Z",
+ "updatedAt": "2026-11-13T13:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 69253.3203,
-   "changePct": -2.97,
+   "price": 69090.8203,
+   "changePct": -3.19,
    "prevClose": 71369.8984,
    "high52": 99804.43,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1961.29,
-   "changePct": -2.78,
+   "price": 1956.02,
+   "changePct": -3.04,
    "prevClose": 2017.41,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.84,
-   "changePct": 0.67,
+   "price": 88.67,
+   "changePct": 0.48,
    "prevClose": 88.25,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 96.47,
-   "changePct": 0.88,
+   "price": 96.19,
+   "changePct": 0.59,
    "prevClose": 95.63,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 45.59,
-   "changePct": 1.49,
+   "price": 45.21,
+   "changePct": 0.65,
    "prevClose": 44.92,
-   "note": "Gasoline 21.74 · Diesel 93.29",
+   "note": "Gasoline 21.50 · Diesel 92.61",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.282,
-   "changePct": -1.5,
+   "price": 3.293,
+   "changePct": -1.17,
    "prevClose": 3.332,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.6329,
-   "changePct": 0.52,
+   "price": 2.6232,
+   "changePct": 0.15,
    "prevClose": 2.6193,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.3365,
-   "changePct": 1.47,
+   "price": 4.3163,
+   "changePct": 1.0,
    "prevClose": 4.2737,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.91,
    "note": "Week ago 4.0688 · Year ago 3.0799",
    "source": "AAA",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.2918 · Year ago 3.1323",
    "source": "AAA",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.2305 · Year ago 3.7648",
    "source": "AAA",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.19,
    "note": "Week ago 6.4582 · Year ago 3.903",
    "source": "AAA",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3893.3999,
+   "price": 3893.1001,
    "changePct": -0.61,
    "prevClose": 3917.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.92,
-   "changePct": -0.65,
+   "price": 49.9,
+   "changePct": -0.69,
    "prevClose": 50.245,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.162,
-   "changePct": -0.6,
+   "price": 6.163,
+   "changePct": -0.58,
    "prevClose": 6.199,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.234,
-   "changePct": 0.08,
+   "price": 103.273,
+   "changePct": 0.12,
    "prevClose": 103.149,
    "high52": 103.24,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 18.27,
+   "price": 18.37,
    "changePct": null,
    "prevClose": 18.69,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-13T12:47:04Z"
+   "asOf": "2026-11-13T13:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
   "conditionText": "Light Rain",
-  "temp": 37,
+  "temp": 38,
   "high": 42,
   "low": 32,
   "humidity": 96,
   "wind": 12,
-  "summary": "Rain. Cloudy, with a high near 42. North wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. A slight chance of rain before 7pm. Mostly cloudy, with a low around 32. Northwest wind around 5 mph. Chance of precipitation is 20%.…",
+  "summary": "Rain. Cloudy, with a high near 42. North wind 6 to 12 mph. Chance of precipitation is 80%. A slight chance of rain before 7pm. Mostly cloudy, with a low around 32. Northwest wind around 5 mph. Chance of precipitation is 20%. Partly sunny. High near 47, with temperatures falling to around 45 in the afternoon. Northwest wind 2…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-13T07:00:00-05:00",
-    "temp": 37,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 80,
-    "wind": 12,
-    "humidity": 96
-   },
    {
     "time": "2026-11-13T08:00:00-05:00",
     "temp": 38,
@@ -569,6 +560,15 @@
     "precipPct": 2,
     "wind": 2,
     "humidity": 85
+   },
+   {
+    "time": "2026-11-14T07:00:00-05:00",
+    "temp": 32,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 85
    }
   ],
   "daily": [
@@ -577,10 +577,10 @@
     "high": 42,
     "condition": "rain",
     "conditionText": "Light Rain",
-    "precipPct": 94,
+    "precipPct": 80,
     "wind": 12,
     "windText": "N 6 to 12 mph",
-    "summary": "Rain. Cloudy, with a high near 42. North wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "summary": "Rain. Cloudy, with a high near 42. North wind 6 to 12 mph. Chance of precipitation is 80%.",
     "low": 32,
     "night": {
      "low": 32,
@@ -768,6 +768,17 @@
    "topic": "World"
   },
   {
+   "title": "Nigerian university in mourning after four students die at post-exam party",
+   "source": "BBC",
+   "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+   "body": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-13T11:37:08Z",
+   "topic": "World"
+  },
+  {
    "title": "Hegseth Dodges Impeachment, for Now. And Tom Morello on Fighting for the World You Want",
    "source": "The Intercept",
    "summary": "Pete Hegseth has \"a lot to answer for,\" says Nick Turse.",
@@ -832,17 +843,6 @@
    ],
    "publishedAt": "2026-11-13T09:00:00Z",
    "topic": "Independent"
-  },
-  {
-   "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-   "source": "BBC",
-   "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-   "body": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-13T07:01:43Z",
-   "topic": "World"
   },
   {
    "title": "The Free Press’s El-Sayed Derangement Syndrome Comes Back to Bite It",
