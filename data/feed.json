@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T18:17:04Z",
+ "updatedAt": "2026-11-14T18:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 65788.2969,
-   "changePct": -3.57,
+   "price": 65934.2422,
+   "changePct": -3.35,
    "prevClose": 68223.0078,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1833.5699,
-   "changePct": -4.87,
+   "price": 1842.23,
+   "changePct": -4.42,
    "prevClose": 1927.35,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 21.54 · Diesel 90.30",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 4.0371 · Year ago 3.0804",
    "source": "AAA",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.41,
    "note": "Week ago 4.2719 · Year ago 3.1348",
    "source": "AAA",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 6.2075 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.13,
    "note": "Week ago 6.4467 · Year ago 3.9097",
    "source": "AAA",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T18:17:04Z"
+   "asOf": "2026-11-14T18:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Mostly Cloudy",
-  "temp": 45,
+  "temp": 46,
   "high": 48,
   "low": 32,
-  "humidity": 65,
-  "wind": 12,
-  "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph. Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 6 to 9 mph. Sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest…",
+  "humidity": 63,
+  "wind": 13,
+  "summary": "Mostly cloudy. High near 48, with temperatures falling to around 46 in the afternoon. Northwest wind around 9 mph. Mostly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 3 to 7 mph. Mostly sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 3 to 10 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-14T12:00:00-05:00",
-    "temp": 45,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 0,
-    "wind": 12,
-    "humidity": 65
-   },
    {
     "time": "2026-11-14T13:00:00-05:00",
     "temp": 46,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 12,
     "humidity": 60
+   },
+   {
+    "time": "2026-11-15T12:00:00-05:00",
+    "temp": 47,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 13,
+    "humidity": 56
    }
   ],
   "daily": [
@@ -576,94 +576,76 @@
     "date": "2026-11-14",
     "high": 48,
     "condition": "cloud",
-    "conditionText": "Partly Sunny",
+    "conditionText": "Mostly Cloudy",
     "precipPct": 2,
-    "wind": 13,
-    "windText": "W 5 to 13 mph",
-    "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph.",
+    "wind": 9,
+    "windText": "NW 9 mph",
+    "summary": "Mostly cloudy. High near 48, with temperatures falling to around 46 in the afternoon. Northwest wind around 9 mph.",
     "low": 32,
     "night": {
      "low": 32,
-     "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 6 to 9 mph.",
-     "precipPct": 12
+     "condition": "cloud",
+     "conditionText": "Mostly Cloudy",
+     "summary": "Mostly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 3 to 7 mph.",
+     "precipPct": 8
     }
    },
    {
     "date": "2026-11-15",
     "high": 50,
     "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 2,
-    "wind": 13,
-    "windText": "NW 6 to 13 mph",
-    "summary": "Sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 6 to 13 mph.",
-    "low": 31,
+    "conditionText": "Mostly Sunny",
+    "precipPct": 1,
+    "wind": 10,
+    "windText": "NW 3 to 10 mph",
+    "summary": "Mostly sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 3 to 10 mph.",
+    "low": 30,
     "night": {
-     "low": 31,
+     "low": 30,
      "condition": "clearNight",
-     "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 31. Northwest wind 1 to 5 mph.",
-     "precipPct": 0
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind 0 to 5 mph.",
+     "precipPct": 1
     }
    },
    {
     "date": "2026-11-16",
-    "high": 52,
+    "high": 53,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 5,
-    "windText": "NW 1 to 5 mph",
-    "summary": "Sunny. High near 52, with temperatures falling to around 48 in the afternoon. Northwest wind 1 to 5 mph.",
-    "low": 29,
+    "windText": "NW 0 to 5 mph",
+    "summary": "Sunny. High near 53, with temperatures falling to around 47 in the afternoon. Northwest wind 0 to 5 mph.",
+    "low": 30,
     "night": {
-     "low": 29,
+     "low": 30,
      "condition": "clearNight",
-     "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 29.",
+     "conditionText": "Clear",
+     "summary": "Clear, with a low around 30.",
      "precipPct": 0
     }
    },
    {
     "date": "2026-11-17",
-    "high": 56,
+    "high": 57,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 2,
     "windText": "NW 2 mph",
-    "summary": "Sunny, with a high near 56.",
-    "low": 33,
+    "summary": "Sunny, with a high near 57.",
+    "low": 35,
     "night": {
-     "low": 33,
+     "low": 35,
      "condition": "clearNight",
      "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 33.",
+     "summary": "Mostly clear, with a low around 35.",
      "precipPct": 0
     }
    },
    {
     "date": "2026-11-18",
-    "high": 60,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 2,
-    "windText": "NW 2 mph",
-    "summary": "Sunny, with a high near 60.",
-    "low": 33,
-    "night": {
-     "low": 33,
-     "condition": "clearNight",
-     "conditionText": "Mostly Clear",
-     "summary": "Mostly clear, with a low around 33.",
-     "precipPct": 0
-    }
-   },
-   {
-    "date": "2026-11-19",
     "high": 61,
     "condition": "sun",
     "conditionText": "Sunny",
@@ -671,12 +653,30 @@
     "wind": 2,
     "windText": "W 2 mph",
     "summary": "Sunny, with a high near 61.",
-    "low": 37,
+    "low": 34,
     "night": {
-     "low": 37,
+     "low": 34,
+     "condition": "clearNight",
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 34.",
+     "precipPct": 0
+    }
+   },
+   {
+    "date": "2026-11-19",
+    "high": 62,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "windText": "W 2 mph",
+    "summary": "Sunny, with a high near 62.",
+    "low": 38,
+    "night": {
+     "low": 38,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 37.",
+     "summary": "Partly cloudy, with a low around 38.",
      "precipPct": 0
     }
    },
@@ -687,20 +687,42 @@
     "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 2,
-    "windText": "NW 2 mph",
+    "windText": "W 2 mph",
     "summary": "Mostly sunny, with a high near 64.",
-    "low": 38,
+    "low": 39,
     "night": {
-     "low": 38,
+     "low": 39,
      "condition": "clearNight",
-     "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 38.",
-     "precipPct": 1
+     "conditionText": "Mostly Clear",
+     "summary": "Mostly clear, with a low around 39.",
+     "precipPct": 0
     }
    }
   ]
  },
  "news": [
+  {
+   "title": "Italy fines Meta €805m over accessing users' photos",
+   "source": "BBC",
+   "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+   "body": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-14T18:28:06Z",
+   "topic": "World"
+  },
+  {
+   "title": "Philippines wins first Eurovision Song Contest Asia",
+   "source": "BBC",
+   "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+   "body": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-14T18:17:58Z",
+   "topic": "World"
+  },
   {
    "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
    "source": "BBC",
@@ -710,17 +732,6 @@
     "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-14T18:00:10Z",
-   "topic": "World"
-  },
-  {
-   "title": "Philippines wins first Eurovision Song Contest Asia",
-   "source": "BBC",
-   "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
-   "body": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T17:56:59Z",
    "topic": "World"
   },
   {
@@ -744,17 +755,6 @@
    ],
    "publishedAt": "2026-11-14T16:53:04Z",
    "topic": "News"
-  },
-  {
-   "title": "Italy fines Meta €805m over accessing users' photos",
-   "source": "BBC",
-   "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "body": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T16:29:48Z",
-   "topic": "World"
   },
   {
    "title": "Fuel crisis and protests pressure Chile's far-right president",
