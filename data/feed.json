@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T14:17:03Z",
+ "updatedAt": "2026-11-14T14:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 66457.9688,
-   "changePct": -2.59,
+   "price": 66188.1094,
+   "changePct": -2.98,
    "prevClose": 68223.0078,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1872.4399,
-   "changePct": -2.85,
+   "price": 1856.9399,
+   "changePct": -3.65,
    "prevClose": 1927.35,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 21.54 · Diesel 90.30",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 4.0371 · Year ago 3.0804",
    "source": "AAA",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.41,
    "note": "Week ago 4.2719 · Year ago 3.1348",
    "source": "AAA",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 6.2075 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.13,
    "note": "Week ago 6.4467 · Year ago 3.9097",
    "source": "AAA",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T14:17:03Z"
+   "asOf": "2026-11-14T14:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Partly Sunny",
-  "temp": 34,
+  "temp": 39,
   "high": 48,
   "low": 32,
-  "humidity": 89,
+  "humidity": 79,
   "wind": 7,
-  "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. Northwest wind 7 to 13 mph, with gusts as high as 23 mph. Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 6 to 9 mph. Sunny. High near 50, with temperatures falling to around 46 in the afternoon.…",
+  "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph. Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 6 to 9 mph. Sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-14T08:00:00-05:00",
-    "temp": 34,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 89
-   },
    {
     "time": "2026-11-14T09:00:00-05:00",
     "temp": 39,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 6,
     "humidity": 89
+   },
+   {
+    "time": "2026-11-15T08:00:00-05:00",
+    "temp": 35,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 8,
+    "humidity": 89
    }
   ],
   "daily": [
@@ -579,8 +579,8 @@
     "conditionText": "Partly Sunny",
     "precipPct": 2,
     "wind": 13,
-    "windText": "NW 7 to 13 mph",
-    "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. Northwest wind 7 to 13 mph, with gusts as high as 23 mph.",
+    "windText": "W 5 to 13 mph",
+    "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph.",
     "low": 32,
     "night": {
      "low": 32,
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "What we know about the ground stop and what to do if you're affected",
+   "source": "BBC",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "body": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-14T14:20:57Z",
+   "topic": "World"
+  },
+  {
+   "title": "Second catch attempt for SpaceX Starship rocket",
+   "source": "BBC",
+   "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+   "body": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-14T14:18:41Z",
+   "topic": "World"
+  },
+  {
    "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
    "source": "NPR",
    "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020",
@@ -790,17 +812,6 @@
    "topic": "News"
   },
   {
-   "title": "What we know about the ground stop and what to do if you're affected",
-   "source": "BBC",
-   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "body": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T07:42:11Z",
-   "topic": "World"
-  },
-  {
    "title": "Microsoft says services fully restored after day-long global outage",
    "source": "BBC",
    "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
@@ -809,17 +820,6 @@
     "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-14T06:42:27Z",
-   "topic": "World"
-  },
-  {
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "source": "BBC",
-   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "body": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T05:52:31Z",
    "topic": "World"
   },
   {
