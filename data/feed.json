@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:47:04Z",
+ "updatedAt": "2026-11-14T11:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 67165.0391,
-   "changePct": -1.55,
+   "price": 67245.3984,
+   "changePct": -1.43,
    "prevClose": 68223.0078,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1906.6801,
-   "changePct": -1.07,
+   "price": 1907.92,
+   "changePct": -1.01,
    "prevClose": 1927.35,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 21.54 · Diesel 90.30",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 4.0371 · Year ago 3.0804",
    "source": "AAA",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.41,
    "note": "Week ago 4.2719 · Year ago 3.1348",
    "source": "AAA",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 6.2075 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.13,
    "note": "Week ago 6.4467 · Year ago 3.9097",
    "source": "AAA",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-14T10:47:04Z"
+   "asOf": "2026-11-14T11:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,25 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "clearNight",
-  "conditionText": "Partly Cloudy",
-  "temp": 32,
+  "condition": "sun",
+  "conditionText": "Mostly Sunny",
+  "temp": 31,
   "high": 48,
   "low": 32,
   "humidity": 85,
-  "wind": 2,
+  "wind": 5,
   "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph. Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 6 to 9 mph. Sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-14T05:00:00-05:00",
-    "temp": 32,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 2,
-    "wind": 2,
-    "humidity": 85
-   },
    {
     "time": "2026-11-14T06:00:00-05:00",
     "temp": 31,
@@ -569,11 +560,27 @@
     "precipPct": 2,
     "wind": 7,
     "humidity": 85
+   },
+   {
+    "time": "2026-11-15T05:00:00-05:00",
+    "temp": 34,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 2,
+    "wind": 7,
+    "humidity": 89
    }
   ],
   "daily": [
    {
     "date": "2026-11-14",
+    "high": 48,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 2,
+    "wind": 13,
+    "windText": "W 5 to 13 mph",
+    "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph.",
     "low": 32,
     "night": {
      "low": 32,
@@ -581,14 +588,7 @@
      "conditionText": "Partly Cloudy",
      "summary": "Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind 6 to 9 mph.",
      "precipPct": 12
-    },
-    "high": 48,
-    "condition": "cloud",
-    "conditionText": "Partly Sunny",
-    "precipPct": 2,
-    "wind": 13,
-    "windText": "W 5 to 13 mph",
-    "summary": "Partly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West wind 5 to 13 mph, with gusts as high as 23 mph."
+    }
    },
    {
     "date": "2026-11-15",
@@ -616,7 +616,7 @@
     "precipPct": 0,
     "wind": 5,
     "windText": "NW 1 to 5 mph",
-    "summary": "Sunny. High near 52, with temperatures falling to around 48 in the afternoon.",
+    "summary": "Sunny. High near 52, with temperatures falling to around 48 in the afternoon. Northwest wind 1 to 5 mph.",
     "low": 29,
     "night": {
      "low": 29,
@@ -689,11 +689,29 @@
     "wind": 2,
     "windText": "NW 2 mph",
     "summary": "Mostly sunny, with a high near 64.",
-    "low": null
+    "low": 38,
+    "night": {
+     "low": 38,
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 38.",
+     "precipPct": 1
+    }
    }
   ]
  },
  "news": [
+  {
+   "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+   "source": "BBC",
+   "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "body": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-14T10:42:20Z",
+   "topic": "World"
+  },
   {
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
    "source": "BBC",
@@ -717,6 +735,17 @@
    "topic": "Independent"
   },
   {
+   "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+   "source": "NPR",
+   "summary": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms",
+   "body": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+   "sources": [
+    "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump"
+   ],
+   "publishedAt": "2026-11-14T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
    "source": "NPR",
    "summary": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
@@ -734,17 +763,6 @@
    "body": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
    "sources": [
     "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics"
-   ],
-   "publishedAt": "2026-11-14T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-   "source": "NPR",
-   "summary": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms",
-   "body": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
-   "sources": [
-    "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump"
    ],
    "publishedAt": "2026-11-14T10:00:00Z",
    "topic": "News"
@@ -803,17 +821,6 @@
    ],
    "publishedAt": "2026-11-14T02:02:27Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Setback for SpaceX Starship rocket's double-catch test",
-   "source": "BBC",
-   "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-   "body": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T00:01:01Z",
-   "topic": "World"
   },
   {
    "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
