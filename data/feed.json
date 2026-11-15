@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T03:17:04Z",
+ "updatedAt": "2026-11-15T03:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 65227.0508,
-   "changePct": 1.74,
+   "price": 64858.5391,
+   "changePct": 1.16,
    "prevClose": 64113.4492,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1824.8101,
-   "changePct": 3.22,
+   "price": 1814.96,
+   "changePct": 2.66,
    "prevClose": 1767.91,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 21.54 · Diesel 90.30",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 4.0371 · Year ago 3.0804",
    "source": "AAA",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.41,
    "note": "Week ago 4.2719 · Year ago 3.1348",
    "source": "AAA",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 6.2075 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.13,
    "note": "Week ago 6.4467 · Year ago 3.9097",
    "source": "AAA",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T03:17:04Z"
+   "asOf": "2026-11-15T03:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 32,
   "humidity": 69,
   "wind": 9,
-  "summary": "Isolated rain showers before 10pm. Partly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%. Isolated rain showers before 10pm. Partly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%. Mostly sunny. High near 50, with temperatures falling to…",
+  "summary": "Isolated rain showers before 10pm. Mostly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%. Isolated rain showers before 10pm. Mostly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%. Mostly sunny. High near 50, with temperatures falling to…",
   "alerts": [],
   "hourly": [
    {
@@ -578,14 +578,14 @@
     "night": {
      "low": 32,
      "condition": "rain",
-     "conditionText": "Isolated Rain Showers then Partly Cloudy",
-     "summary": "Isolated rain showers before 10pm. Partly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%.",
+     "conditionText": "Isolated Rain Showers then Mostly Cloudy",
+     "summary": "Isolated rain showers before 10pm. Mostly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%.",
      "precipPct": 15
     },
     "high": 40,
-    "conditionText": "Isolated Rain Showers then Partly Cloudy",
+    "conditionText": "Isolated Rain Showers then Mostly Cloudy",
     "condition": "rain",
-    "summary": "Isolated rain showers before 10pm. Partly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%.",
+    "summary": "Isolated rain showers before 10pm. Mostly cloudy, with a low around 32. Northwest wind around 10 mph. Chance of precipitation is 20%.",
     "precipPct": 15
    },
    {
@@ -700,6 +700,28 @@
  },
  "news": [
   {
+   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "source": "BBC",
+   "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "body": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-15T03:21:04Z",
+   "topic": "World"
+  },
+  {
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "source": "BBC",
+   "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "body": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-15T02:49:45Z",
+   "topic": "World"
+  },
+  {
    "title": "FAA ground stop disrupts college football",
    "source": "NPR",
    "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday",
@@ -808,28 +830,6 @@
    ],
    "publishedAt": "2026-11-14T18:59:33Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Italy fines Meta €805m over accessing users' photos",
-   "source": "BBC",
-   "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "body": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T18:28:06Z",
-   "topic": "World"
-  },
-  {
-   "title": "Philippines wins first Eurovision Song Contest Asia",
-   "source": "BBC",
-   "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-   "body": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-14T18:17:58Z",
-   "topic": "World"
   },
   {
    "title": "‘Feeding Frenzy’: Trump’s Administration Erupts Over the Nvidia Scandal",
