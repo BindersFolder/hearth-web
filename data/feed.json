@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T23:17:04Z",
+ "updatedAt": "2026-11-15T23:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64941.8984,
-   "changePct": 1.29,
+   "price": 65056.1289,
+   "changePct": 1.47,
    "prevClose": 64113.4492,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1821.84,
-   "changePct": 3.05,
+   "price": 1828.0699,
+   "changePct": 3.4,
    "prevClose": 1767.91,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.56,
-   "changePct": 0.0,
+   "price": 88.43,
+   "changePct": -0.15,
    "prevClose": 88.56,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 95.84,
-   "changePct": 0.0,
+   "price": 95.45,
+   "changePct": -0.41,
    "prevClose": 95.84,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 43.55,
-   "changePct": 0.0,
+   "price": 44.23,
+   "changePct": 1.56,
    "prevClose": 43.55,
-   "note": "Gasoline 20.18 · Diesel 90.30",
+   "note": "Gasoline 20.57 · Diesel 91.54",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.23,
-   "changePct": 0.0,
+   "price": 3.169,
+   "changePct": -1.89,
    "prevClose": 3.23,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5891,
-   "changePct": 0.0,
+   "price": 2.5952,
+   "changePct": 0.24,
    "prevClose": 2.5891,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2585,
-   "changePct": 0.0,
+   "price": 4.285,
+   "changePct": 0.62,
    "prevClose": 4.2585,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.0203 · Year ago 3.0758",
    "source": "AAA",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.2605 · Year ago 3.134",
    "source": "AAA",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.28,
    "note": "Week ago 6.1929 · Year ago 3.7703",
    "source": "AAA",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.18,
    "note": "Week ago 6.4398 · Year ago 3.9156",
    "source": "AAA",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3886.3,
-   "changePct": 0.0,
+   "price": 3882.2,
+   "changePct": -0.11,
    "prevClose": 3886.3,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 49.121,
-   "changePct": 0.0,
+   "price": 48.66,
+   "changePct": -0.94,
    "prevClose": 49.121,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.0905,
-   "changePct": 0.0,
+   "price": 6.073,
+   "changePct": -0.29,
    "prevClose": 6.0905,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.399,
-   "changePct": -0.01,
+   "price": 103.432,
+   "changePct": 0.02,
    "prevClose": 103.411,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T23:17:04Z"
+   "asOf": "2026-11-15T23:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -700,6 +700,17 @@
  },
  "news": [
   {
+   "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+   "source": "BBC",
+   "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday.",
+   "body": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-15T22:57:27Z",
+   "topic": "World"
+  },
+  {
    "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
    "source": "NPR",
    "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week",
@@ -777,17 +788,6 @@
    "topic": "World"
   },
   {
-   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-   "source": "BBC",
-   "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-   "body": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-   "sources": [
-    "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-15T18:38:11Z",
-   "topic": "World"
-  },
-  {
    "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
    "source": "NPR",
    "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week",
@@ -810,12 +810,12 @@
    "topic": "News"
   },
   {
-   "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+   "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
    "source": "NPR",
-   "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-   "body": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+   "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others",
+   "body": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
    "sources": [
-    "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
+    "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
    ],
    "publishedAt": "2026-11-15T10:00:00Z",
    "topic": "News"
