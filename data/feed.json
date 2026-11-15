@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T11:02:03Z",
+ "updatedAt": "2026-11-15T11:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 65453.0898,
-   "changePct": 2.09,
+   "price": 65382.3906,
+   "changePct": 1.98,
    "prevClose": 64113.4492,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1827.73,
-   "changePct": 3.38,
+   "price": 1827.83,
+   "changePct": 3.39,
    "prevClose": 1767.91,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-15T03:10:42Z"
+   "asOf": "2026-11-15T11:11:11Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-15T03:10:42Z"
+   "asOf": "2026-11-15T11:11:11Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 44.92,
    "note": "Gasoline 20.18 · Diesel 90.30",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.26,
-   "changePct": 0.0,
+   "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-15T03:10:42Z"
+   "asOf": "2026-11-15T11:11:11Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-15T03:10:42Z"
+   "asOf": "2026-11-15T11:11:11Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-15T03:10:42Z"
+   "asOf": "2026-11-15T11:11:11Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.0203 · Year ago 3.0758",
    "source": "AAA",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.2605 · Year ago 3.134",
    "source": "AAA",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.28,
    "note": "Week ago 6.1929 · Year ago 3.7703",
    "source": "AAA",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.18,
    "note": "Week ago 6.4398 · Year ago 3.9156",
    "source": "AAA",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-15T11:02:03Z"
+   "asOf": "2026-11-15T11:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-15T03:10:42Z"
+   "asOf": "2026-11-15T11:11:11Z"
   }
  ],
  "weather": {
@@ -695,6 +695,17 @@
  },
  "news": [
   {
+   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "source": "BBC",
+   "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+   "body": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-15T11:06:32Z",
+   "topic": "World"
+  },
+  {
    "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
    "source": "NPR",
    "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others",
@@ -781,17 +792,6 @@
    ],
    "publishedAt": "2026-11-15T04:28:45Z",
    "topic": "News"
-  },
-  {
-   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-   "source": "BBC",
-   "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-   "body": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-15T03:21:04Z",
-   "topic": "World"
   },
   {
    "title": "FAA ground stop disrupts college football",
