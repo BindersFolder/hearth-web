@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T21:02:04Z",
+ "updatedAt": "2026-11-16T21:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,19 +23,19 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 515.73,
-   "changePct": -1.03,
+   "price": 515.68,
+   "changePct": -1.04,
    "prevClose": 521.1,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 65029.8984,
-   "changePct": -0.44,
+   "price": 64939.9805,
+   "changePct": -0.58,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1819.37,
-   "changePct": -0.83,
+   "price": 1818.49,
+   "changePct": -0.88,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.57,
-   "changePct": -3.14,
+   "price": 85.44,
+   "changePct": -3.28,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T20:11:50Z"
+   "asOf": "2026-11-16T21:11:52Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.41,
-   "changePct": -3.0,
+   "price": 92.3,
+   "changePct": -3.12,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T20:11:50Z"
+   "asOf": "2026-11-16T21:11:52Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.63,
-   "changePct": -8.31,
+   "price": 40.65,
+   "changePct": -8.26,
    "prevClose": 44.31,
-   "note": "Gasoline 19.80 · Diesel 82.30",
+   "note": "Gasoline 19.78 · Diesel 82.39",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.133,
-   "changePct": -0.79,
+   "price": 3.135,
+   "changePct": -0.73,
    "prevClose": 3.158,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5087,
-   "changePct": -3.24,
+   "price": 2.5053,
+   "changePct": -3.37,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.997,
-   "changePct": -6.83,
+   "price": 3.9959,
+   "changePct": -6.85,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 4.08,
    "changePct": -5.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T20:11:50Z"
+   "asOf": "2026-11-16T21:11:52Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T20:11:50Z"
+   "asOf": "2026-11-16T21:11:52Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T20:11:50Z"
+   "asOf": "2026-11-16T21:11:52Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,33 +252,33 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3856.6001,
-   "changePct": -0.35,
+   "price": 3852.3999,
+   "changePct": -0.46,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 46.97,
-   "changePct": -0.74,
+   "price": 46.85,
+   "changePct": -0.99,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.581,
-   "changePct": 0.14,
+   "price": 103.612,
+   "changePct": 0.17,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 23.93,
+   "price": 23.28,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T21:02:04Z"
+   "asOf": "2026-11-16T21:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-16T20:11:50Z"
+   "asOf": "2026-11-16T21:11:52Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "ICE Shot Pepper Spray Into a Car in a Traffic Stop, Then Broke a Detainee’s Collarbone",
+   "source": "The Intercept",
+   "summary": "A new federal lawsuit accuses ICE and DHS of a batch of brutal warrantless arrests.",
+   "body": "A new federal lawsuit accuses ICE and DHS of a batch of brutal warrantless arrests.",
+   "sources": [
+    "https://theintercept.com/2026/11/16/ice-violence-warrantless-arrest-lawsuit/"
+   ],
+   "publishedAt": "2026-11-16T21:15:16Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
    "source": "BBC",
    "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
@@ -864,17 +875,6 @@
     "https://theintercept.com/2026/11/16/democrats-whats-next-denver-2028/"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "AIPAC Lost BIG In The Midterms - and Zeteo’s New Documentary Goes Inside the Lobby’s Waning Influence",
-   "source": "Zeteo",
-   "summary": "Watch Zeteo’s investigative documentary, “Night Flower,” which pulls back the curtain on the most powerful pro-Israel lobby in the U.S",
-   "body": "Watch Zeteo’s investigative documentary, “Night Flower,” which pulls back the curtain on the most powerful pro-Israel lobby in the U.S. with a series of astonishing interviews with ex-AIPAC officials.",
-   "sources": [
-    "https://zeteo.com/p/aipac-lost-big-in-the-midterms-and"
-   ],
-   "publishedAt": "2026-11-15T20:27:21Z",
    "topic": "Independent"
   }
  ],
