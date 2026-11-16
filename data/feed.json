@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T12:02:03Z",
+ "updatedAt": "2026-11-16T12:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64317.0586,
-   "changePct": -1.53,
+   "price": 63975.0195,
+   "changePct": -2.05,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1802.41,
-   "changePct": -1.75,
+   "price": 1792.64,
+   "changePct": -2.29,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.87,
-   "changePct": -0.53,
+   "price": 87.84,
+   "changePct": -0.57,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T11:12:56Z"
+   "asOf": "2026-11-16T12:15:16Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 94.9,
-   "changePct": -0.39,
+   "price": 94.98,
+   "changePct": -0.3,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T11:12:56Z"
+   "asOf": "2026-11-16T12:15:16Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 43.27,
-   "changePct": -2.35,
+   "price": 43.44,
+   "changePct": -1.96,
    "prevClose": 44.31,
-   "note": "Gasoline 20.17 · Diesel 89.47",
+   "note": "Gasoline 20.30 · Diesel 89.71",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.157,
-   "changePct": -0.03,
+   "price": 3.153,
+   "changePct": -0.16,
    "prevClose": 3.158,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5725,
-   "changePct": -0.78,
+   "price": 2.5748,
+   "changePct": -0.69,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2225,
-   "changePct": -1.57,
+   "price": 4.2274,
+   "changePct": -1.45,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.25,
+   "price": 4.22,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T11:12:56Z"
+   "asOf": "2026-11-16T12:15:16Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T11:12:56Z"
+   "asOf": "2026-11-16T12:15:16Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T11:12:56Z"
+   "asOf": "2026-11-16T12:15:16Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3878.7,
-   "changePct": 0.22,
+   "price": 3874.6001,
+   "changePct": 0.12,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.705,
-   "changePct": 0.81,
+   "price": 47.565,
+   "changePct": 0.52,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.036,
-   "changePct": 0.46,
+   "price": 6.0245,
+   "changePct": 0.27,
    "prevClose": 6.0085,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.52,
-   "changePct": 0.08,
+   "price": 103.51,
+   "changePct": 0.07,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.04,
+   "price": 20.23,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T12:02:03Z"
+   "asOf": "2026-11-16T12:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-16T11:12:56Z"
+   "asOf": "2026-11-16T12:15:16Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Mostly Sunny",
-  "temp": 31,
+  "temp": 30,
   "high": 52,
   "low": 30,
-  "humidity": 92,
+  "humidity": 100,
   "wind": 0,
   "summary": "Sunny. High near 52, with temperatures falling to around 47 in the afternoon. Northwest wind 0 to 7 mph. Mostly clear, with a low around 30. Northwest wind 0 to 3 mph. Sunny. High near 56, with temperatures falling to around 51 in the afternoon. Northwest wind 0 to 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-16T06:00:00-05:00",
-    "temp": 31,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 92
-   },
    {
     "time": "2026-11-16T07:00:00-05:00",
     "temp": 30,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 96
+   },
+   {
+    "time": "2026-11-17T06:00:00-05:00",
+    "temp": 30,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
    }
   ],
   "daily": [
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+   "source": "NPR",
+   "summary": "U.S",
+   "body": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+   "sources": [
+    "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip"
+   ],
+   "publishedAt": "2026-11-16T12:08:14Z",
+   "topic": "News"
+  },
+  {
    "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
    "source": "BBC",
    "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
@@ -768,6 +779,17 @@
    "topic": "Independent"
   },
   {
+   "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+   "source": "NPR",
+   "summary": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others",
+   "body": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
+   "sources": [
+    "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance"
+   ],
+   "publishedAt": "2026-11-16T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
    "source": "NPR",
    "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
@@ -790,34 +812,12 @@
    "topic": "News"
   },
   {
-   "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
-   "source": "NPR",
-   "summary": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others",
-   "body": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance"
-   ],
-   "publishedAt": "2026-11-16T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "NPR's Student Podcast Challenge is back for 2027",
    "source": "NPR",
    "summary": "The annual audio competition for grades four through 12 returns in January",
    "body": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
    "sources": [
     "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline"
-   ],
-   "publishedAt": "2026-11-16T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Why sleep matters when it comes to weight gain and loss",
-   "source": "NPR",
-   "summary": "Sleep can have a powerful impact on weight",
-   "body": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
    "topic": "News"
