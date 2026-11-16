@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T03:02:04Z",
+ "updatedAt": "2026-11-16T03:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 65140.4492,
-   "changePct": -0.27,
+   "price": 65016.7383,
+   "changePct": -0.46,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1824.74,
-   "changePct": -0.54,
+   "price": 1819.49,
+   "changePct": -0.82,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.93,
-   "changePct": -0.71,
+   "price": 87.7,
+   "changePct": -0.97,
    "prevClose": 88.56,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T02:11:39Z"
+   "asOf": "2026-11-16T03:13:15Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 94.88,
-   "changePct": -1.0,
+   "price": 94.6,
+   "changePct": -1.29,
    "prevClose": 95.84,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T02:11:39Z"
+   "asOf": "2026-11-16T03:13:15Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.06,
-   "changePct": 1.17,
+   "price": 44.0,
+   "changePct": 1.03,
    "prevClose": 43.55,
-   "note": "Gasoline 20.38 · Diesel 91.42",
+   "note": "Gasoline 20.40 · Diesel 91.20",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.153,
-   "changePct": -2.38,
+   "price": 3.156,
+   "changePct": -2.29,
    "prevClose": 3.23,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5789,
-   "changePct": -0.39,
+   "price": 2.5737,
+   "changePct": -0.59,
    "prevClose": 2.5891,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2703,
-   "changePct": 0.28,
+   "price": 4.2595,
+   "changePct": 0.02,
    "prevClose": 4.2585,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 4.27,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T02:11:39Z"
+   "asOf": "2026-11-16T03:13:15Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T02:11:39Z"
+   "asOf": "2026-11-16T03:13:15Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T02:11:39Z"
+   "asOf": "2026-11-16T03:13:15Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.0203 · Year ago 3.0758",
    "source": "AAA",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.2605 · Year ago 3.134",
    "source": "AAA",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.28,
    "note": "Week ago 6.1929 · Year ago 3.7703",
    "source": "AAA",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.18,
    "note": "Week ago 6.4398 · Year ago 3.9156",
    "source": "AAA",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3875.6001,
-   "changePct": -0.28,
+   "price": 3874.5,
+   "changePct": -0.3,
    "prevClose": 3886.3,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.365,
-   "changePct": -3.57,
+   "price": 47.47,
+   "changePct": -3.36,
    "prevClose": 49.121,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.0075,
-   "changePct": -1.36,
+   "price": 6.0035,
+   "changePct": -1.43,
    "prevClose": 6.0905,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.423,
+   "price": 103.425,
    "changePct": 0.01,
    "prevClose": 103.411,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T03:02:04Z"
+   "asOf": "2026-11-16T03:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-16T02:11:39Z"
+   "asOf": "2026-11-16T03:13:15Z"
   }
  ],
  "weather": {
@@ -351,7 +351,7 @@
   "low": 32,
   "humidity": 73,
   "wind": 3,
-  "summary": "Partly cloudy, with a low around 32. West wind around 5 mph. Partly cloudy, with a low around 32. West wind around 5 mph. Mostly sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 2 to 6 mph.",
+  "summary": "Partly cloudy, with a low around 32. West wind around 3 mph. Partly cloudy, with a low around 32. West wind around 3 mph. Mostly sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 2 to 6 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -579,13 +579,13 @@
      "low": 32,
      "condition": "clearNight",
      "conditionText": "Partly Cloudy",
-     "summary": "Partly cloudy, with a low around 32. West wind around 5 mph.",
+     "summary": "Partly cloudy, with a low around 32. West wind around 3 mph.",
      "precipPct": 0
     },
     "high": 40,
     "conditionText": "Partly Cloudy",
     "condition": "clearNight",
-    "summary": "Partly cloudy, with a low around 32. West wind around 5 mph.",
+    "summary": "Partly cloudy, with a low around 32. West wind around 3 mph.",
     "precipPct": 0
    },
    {
@@ -700,14 +700,25 @@
  },
  "news": [
   {
-   "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+   "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
    "source": "BBC",
-   "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
-   "body": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+   "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+   "body": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-16T01:53:19Z",
+   "publishedAt": "2026-11-16T03:09:49Z",
+   "topic": "World"
+  },
+  {
+   "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "source": "BBC",
+   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "body": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-16T03:08:31Z",
    "topic": "World"
   },
   {
@@ -741,17 +752,6 @@
     "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-15T23:52:10Z",
-   "topic": "World"
-  },
-  {
-   "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-   "source": "BBC",
-   "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-   "body": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-15T22:57:27Z",
    "topic": "World"
   },
   {
