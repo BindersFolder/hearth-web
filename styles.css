@@ -147,6 +147,11 @@ button { cursor: pointer; }
 .hl-detail { color: var(--text-2); font-size: 0.94rem; }
 .pk-soon .hl-detail { color: var(--accent); font-weight: 600; }
 .pk-done { opacity: 0.6; }
+.hl-title a { color: inherit; }
+.glp-news { list-style: none; margin: 10px 2px 0; padding: 0; display: flex; flex-direction: column; gap: 8px; font-size: 0.94rem; }
+.glp-news a { color: var(--text); }
+.glp-note { margin: 10px 2px 0; }
+html.kiosk .glp-news { display: none; }
 .list > .card + .card { margin-top: 0; }
 .hl-body { color: var(--text-2); white-space: pre-line; }
 .lock-card h3 { font-size: 1.05rem; margin-bottom: 4px; display: flex; gap: 8px; align-items: center; }

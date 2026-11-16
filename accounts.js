@@ -22,7 +22,7 @@
   const DAY = 864e5;
   // Named columns on purpose: the database refuses select=* on connections.
   const CONN_COLS = 'id,user_id,kind,provider,label,forward_token,status,status_note,last_ok,created_at';
-  const DOC_NAMES = ['highlights', 'packages', 'media', 'alerts'];
+  const DOC_NAMES = ['highlights', 'packages', 'media', 'alerts', 'glp1'];
   const MUSIC = [
     ['apple', 'Apple Music / Apple Podcasts', 'https://music.apple.com'],
     ['spotify', 'Spotify', 'https://open.spotify.com'],
@@ -256,13 +256,14 @@
     if (!session || !user.loaded) return null;
     if (user.personal) return user.personal;
     const d = user.docs;
-    const base = hooks.personalFrom({ highlights: Array.isArray(d.highlights) ? d.highlights : [], media: httpsMedia(d.media), packages: d.packages, alerts: d.alerts });
+    const base = hooks.personalFrom({ highlights: Array.isArray(d.highlights) ? d.highlights : [], media: httpsMedia(d.media), packages: d.packages, alerts: d.alerts, glp1: d.glp1 });
     const docPk = base.packages;
     user.personal = {
       highlights: base.highlights.concat(eventHighlights()),
       media: base.media,
       packages: { items: (docPk && Array.isArray(docPk.items) ? docPk.items : []).concat(user.packages.map(packageItem)), mail: docPk ? docPk.mail : null },
       alerts: base.alerts,
+      glp1: base.glp1,
     };
     return user.personal;
   }

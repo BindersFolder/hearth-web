@@ -61,6 +61,7 @@
     bill: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 3h12v18l-3-2-3 2-3-2-3 2z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 8h6M9 12h6M9 16h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
     news: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 9h8M8 12.5h8M8 16h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
     mail: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3.5" y="5.5" width="17" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>',
+    health: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="8.5" width="18" height="7" rx="3.5" transform="rotate(-45 12 12)" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M9.5 9.5l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
     other: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.5" fill="currentColor"/></svg>',
   };
 
@@ -250,7 +251,7 @@
   function personalFrom(data) {
     if (Array.isArray(data)) return { highlights: data, media: null, packages: null };   // oldest: bare highlights array
     const o = obj(data) || {};
-    return { highlights: arr(o.highlights), media: obj(o.media), packages: obj(o.packages), alerts: obj(o.alerts) };  // media here = pre-friends blob
+    return { highlights: arr(o.highlights), media: obj(o.media), packages: obj(o.packages), alerts: obj(o.alerts), glp1: obj(o.glp1) };  // media here = pre-friends blob
   }
   function friendsFrom(data) {
     const o = obj(data);
@@ -478,7 +479,7 @@
     else if (account && !personalItems.length) list.append(el('p', { class: 'empty', text: 'No events yet. Add a calendar in Settings.' }));
     else if (unlocked && !list.childNodes.length) list.append(el('p', { class: 'empty', text: 'Nothing flagged for today.' }));
     if (list.childNodes.length) out.push(list);
-    if (unlocked) out.push(...renderPackages());
+    if (unlocked) out.push(...renderPackages(), ...renderGlp1());
 
     if (account) {
       // Signed in: the Account card (below) carries Settings and Sign out.
@@ -518,6 +519,48 @@
       : eta.toLocaleDateString([], { weekday: days < 7 ? 'long' : 'short', month: days < 7 ? undefined : 'short', day: days < 7 ? undefined : 'numeric' });
     return (status === 'out' ? 'Out for delivery · ' : '') + word + (str(p.window) ? ' · ' + str(p.window) : '');
   }
+  // GLP-1 watch (personal tier only): FDA approvals the box watcher found, what is still
+  // waiting on the FDA, and the latest headlines. Hidden when the account has no watch.
+  function renderGlp1() {
+    const me = mine();
+    const g = me && obj(me.glp1);
+    if (!g) return [];
+    const linked = (title, u) => {
+      const url = safeUrl(u);
+      return url && url.protocol === 'https:'
+        ? el('a', { href: url.href, target: '_blank', rel: 'noopener noreferrer' }, title, el('span', { class: 'visually-hidden', text: ' (opens in new tab)' }))
+        : title;
+    };
+    const day = (s) => (/^\d{4}-\d{2}-\d{2}/.test(str(s)) ? new Date(str(s).slice(0, 10) + 'T12:00:00').toLocaleDateString([], { month: 'short', day: 'numeric' }) : '');
+    const row = (cls, title, detail) => el('div', { class: 'card hl-item' + cls },
+      el('span', { class: 'hl-icon' }, svg(KIND.health)),
+      el('div', { class: 'exp-main' }, el('div', { class: 'hl-title' }, title), el('div', { class: 'hl-detail', text: detail })));
+    const list = el('div', { class: 'list' });
+    for (const a of arr(g.approvals).map(obj).filter((a) => a && str(a.title)).slice(0, 4)) {
+      list.append(row(' pk-soon', linked(str(a.title), a.url),
+        [a.official ? 'Confirmed by the FDA' : 'News report, not confirmed yet', str(a.source), day(a.date)].filter(Boolean).join(' · ')));
+    }
+    for (const p of arr(g.pending).map(obj).filter((p) => p && str(p.name)).slice(0, 6)) {
+      list.append(row('', str(p.name) + (str(p.maker) ? ` (${str(p.maker)})` : ''), str(p.status) || 'Waiting on the FDA'));
+    }
+    const out = [el('h3', { class: 'section-label', text: 'GLP-1 watch' }), list];
+    const news = arr(g.news).map(obj).filter((n) => n && str(n.title)).slice(0, 3);
+    if (news.length) {
+      out.push(el('ul', { class: 'glp-news' }, news.map((n) => {
+        const when = n.publishedAt ? new Date(n.publishedAt) : null;
+        return el('li', null, linked(str(n.title), n.url),
+          el('span', { class: 'news-meta', text: [str(n.source), when && !isNaN(when) ? relTime(when) : ''].filter(Boolean).join(' · ') }));
+      })));
+    }
+    const checked = g.checkedAt ? new Date(g.checkedAt) : null;
+    const failed = Object.values(obj(g.sources) || {}).includes('failed');
+    out.push(el('p', { class: 'muted small glp-note', text: [
+      checked && !isNaN(checked) ? `Checked ${relTime(checked)}${failed ? ' (one source did not answer)' : ''}` : '',
+      day(g.reviewedAt) ? `Waiting list reviewed ${day(g.reviewedAt)}` : '',
+      'News only, not medical advice'].filter(Boolean).join(' · ') }));
+    return out;
+  }
+
   function renderPackages() {
     const me = mine();
     const pk = me && obj(me.packages);
