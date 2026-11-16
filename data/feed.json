@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-16T15:02:04Z",
+ "updatedAt": "2026-11-16T15:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 746.02,
-   "changePct": -0.46,
+   "price": 744.16,
+   "changePct": -0.71,
    "prevClose": 749.49,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 666.97,
-   "changePct": -1.14,
+   "price": 664.32,
+   "changePct": -1.53,
    "prevClose": 674.64,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.69,
-   "changePct": -0.08,
+   "price": 519.72,
+   "changePct": -0.26,
    "prevClose": 521.1,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 275.11,
-   "changePct": -0.22,
+   "price": 274.28,
+   "changePct": -0.52,
    "prevClose": 275.72,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64909.2109,
-   "changePct": -0.62,
+   "price": 64164.2188,
+   "changePct": -1.76,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1827.54,
-   "changePct": -0.38,
+   "price": 1807.59,
+   "changePct": -1.47,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.88,
-   "changePct": -1.65,
+   "price": 86.53,
+   "changePct": -2.05,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T14:16:03Z"
+   "asOf": "2026-11-16T15:14:44Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.61,
-   "changePct": -1.74,
+   "price": 93.32,
+   "changePct": -2.05,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T14:16:03Z"
+   "asOf": "2026-11-16T15:14:44Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 42.41,
-   "changePct": -4.29,
+   "price": 42.64,
+   "changePct": -3.77,
    "prevClose": 44.31,
-   "note": "Gasoline 19.30 · Diesel 88.65",
+   "note": "Gasoline 19.40 · Diesel 89.11",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.14,
-   "changePct": -0.57,
+   "price": 3.148,
+   "changePct": -0.32,
    "prevClose": 3.158,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.528,
-   "changePct": -2.5,
+   "price": 2.5221,
+   "changePct": -2.72,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1792,
-   "changePct": -2.58,
+   "price": 4.1819,
+   "changePct": -2.52,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.18,
-   "changePct": -2.3,
+   "changePct": -2.8,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T14:16:03Z"
+   "asOf": "2026-11-16T15:14:44Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T14:16:03Z"
+   "asOf": "2026-11-16T15:14:44Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T14:16:03Z"
+   "asOf": "2026-11-16T15:14:44Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3888.3,
-   "changePct": 0.47,
+   "price": 3881.8999,
+   "changePct": 0.3,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.14,
-   "changePct": -0.38,
+   "price": 46.915,
+   "changePct": -0.86,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.06,
-   "changePct": 0.86,
+   "price": 6.0405,
+   "changePct": 0.53,
    "prevClose": 6.0085,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.133,
-   "changePct": -0.41,
+   "price": 5.119,
+   "changePct": -0.68,
    "prevClose": 5.154,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.489,
-   "changePct": 0.05,
+   "price": 103.504,
+   "changePct": 0.07,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.71,
+   "price": 21.34,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:02:04Z"
+   "asOf": "2026-11-16T15:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-16T14:16:03Z"
+   "asOf": "2026-11-16T15:14:44Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 40,
+  "temp": 42,
   "high": 52,
   "low": 30,
-  "humidity": 79,
-  "wind": 3,
+  "humidity": 76,
+  "wind": 6,
   "summary": "Sunny. High near 52, with temperatures falling to around 47 in the afternoon. Northwest wind 0 to 7 mph. Mostly clear, with a low around 30. Northwest wind 0 to 3 mph. Sunny. High near 56, with temperatures falling to around 51 in the afternoon. Northwest wind 0 to 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-16T09:00:00-05:00",
-    "temp": 40,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 1,
-    "wind": 3,
-    "humidity": 79
-   },
    {
     "time": "2026-11-16T10:00:00-05:00",
     "temp": 42,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 1,
     "humidity": 96
+   },
+   {
+    "time": "2026-11-17T09:00:00-05:00",
+    "temp": 39,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 85
    }
   ],
   "daily": [
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+   "source": "BBC",
+   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "body": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-16T14:58:12Z",
+   "topic": "World"
+  },
+  {
    "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
    "source": "BBC",
    "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
@@ -710,17 +721,6 @@
     "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-16T14:48:55Z",
-   "topic": "World"
-  },
-  {
-   "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-   "source": "BBC",
-   "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-   "body": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-16T14:22:36Z",
    "topic": "World"
   },
   {
