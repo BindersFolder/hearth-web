@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-16T18:02:03Z",
+ "updatedAt": "2026-11-16T18:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 742.33,
-   "changePct": -0.96,
+   "price": 742.1,
+   "changePct": -0.99,
    "prevClose": 749.49,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 663.95,
+   "price": 663.986,
    "changePct": -1.58,
    "prevClose": 674.64,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 517.92,
-   "changePct": -0.61,
+   "price": 517.695,
+   "changePct": -0.65,
    "prevClose": 521.1,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 273.66,
-   "changePct": -0.75,
+   "price": 273.365,
+   "changePct": -0.85,
    "prevClose": 275.72,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64707.6914,
-   "changePct": -0.93,
+   "price": 64881.6211,
+   "changePct": -0.67,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1814.98,
-   "changePct": -1.07,
+   "price": 1817.66,
+   "changePct": -0.92,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.15,
-   "changePct": -2.48,
+   "price": 85.88,
+   "changePct": -2.78,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T17:12:28Z"
+   "asOf": "2026-11-16T18:11:07Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.1,
-   "changePct": -2.28,
+   "price": 92.82,
+   "changePct": -2.57,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T17:12:28Z"
+   "asOf": "2026-11-16T18:11:07Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.97,
-   "changePct": -7.54,
+   "price": 40.99,
+   "changePct": -7.49,
    "prevClose": 44.31,
-   "note": "Gasoline 19.66 · Diesel 83.57",
+   "note": "Gasoline 19.80 · Diesel 83.38",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.118,
-   "changePct": -1.27,
+   "price": 3.133,
+   "changePct": -0.79,
    "prevClose": 3.158,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5194,
-   "changePct": -2.83,
+   "price": 2.5161,
+   "changePct": -2.95,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.041,
-   "changePct": -5.8,
+   "price": 4.03,
+   "changePct": -6.06,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 4.13,
    "changePct": -4.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T17:12:28Z"
+   "asOf": "2026-11-16T18:11:07Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T17:12:28Z"
+   "asOf": "2026-11-16T18:11:07Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T17:12:28Z"
+   "asOf": "2026-11-16T18:11:07Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3860.7,
-   "changePct": -0.24,
+   "price": 3849.0,
+   "changePct": -0.55,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.025,
-   "changePct": -0.62,
+   "price": 46.895,
+   "changePct": -0.9,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.015,
-   "changePct": 0.11,
+   "price": 6.007,
+   "changePct": -0.02,
    "prevClose": 6.0085,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.135,
-   "changePct": -0.37,
+   "price": 5.129,
+   "changePct": -0.49,
    "prevClose": 5.154,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.547,
-   "changePct": 0.11,
+   "price": 103.568,
+   "changePct": 0.13,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.95,
+   "price": 22.26,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T18:02:03Z"
+   "asOf": "2026-11-16T18:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-16T17:12:28Z"
+   "asOf": "2026-11-16T18:11:07Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Mostly Sunny",
-  "temp": 47,
+  "temp": 49,
   "high": 52,
   "low": 30,
-  "humidity": 63,
+  "humidity": 58,
   "wind": 7,
   "summary": "Sunny. High near 52, with temperatures falling to around 47 in the afternoon. Northwest wind 0 to 7 mph. Mostly clear, with a low around 30. Northwest wind 0 to 3 mph. Sunny. High near 56, with temperatures falling to around 51 in the afternoon. Northwest wind 0 to 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-16T12:00:00-05:00",
-    "temp": 47,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 63
-   },
    {
     "time": "2026-11-16T13:00:00-05:00",
     "temp": 49,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 5,
     "humidity": 68
+   },
+   {
+    "time": "2026-11-17T12:00:00-05:00",
+    "temp": 51,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 6,
+    "humidity": 59
    }
   ],
   "daily": [
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "source": "BBC",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-16T18:06:26Z",
+   "topic": "World"
+  },
+  {
+   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+   "source": "NPR",
+   "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention",
+   "body": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+   "sources": [
+    "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
+   ],
+   "publishedAt": "2026-11-16T18:04:50Z",
+   "topic": "News"
+  },
+  {
    "title": "Nearly two million people are behind bars in the US. How did we get here?",
    "source": "NPR",
    "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S",
@@ -711,17 +733,6 @@
    ],
    "publishedAt": "2026-11-16T17:34:07Z",
    "topic": "News"
-  },
-  {
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "source": "BBC",
-   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-16T17:07:55Z",
-   "topic": "World"
   },
   {
    "title": "Are Tech Billionaires Finally About to Face Accountability? Kara Swisher on the Blue Tsunami and Big Tech",
@@ -854,17 +865,6 @@
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
    "topic": "Independent"
-  },
-  {
-   "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-   "source": "NPR",
-   "summary": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons",
-   "body": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change"
-   ],
-   "publishedAt": "2026-11-16T10:00:00Z",
-   "topic": "News"
   },
   {
    "title": "AIPAC Lost BIG In The Midterms - and Zeteo’s New Documentary Goes Inside the Lobby’s Waning Influence",
