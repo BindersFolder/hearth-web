@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T10:17:04Z",
+ "updatedAt": "2026-11-16T10:25:22Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64391.1211,
-   "changePct": -1.42,
+   "price": 64463.8984,
+   "changePct": -1.31,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1800.34,
-   "changePct": -1.87,
+   "price": 1802.76,
+   "changePct": -1.73,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.65,
-   "changePct": 0.35,
+   "price": 88.6,
+   "changePct": 0.29,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.92,
-   "changePct": -2.47,
+   "price": 92.73,
+   "changePct": -2.67,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 43.99,
-   "changePct": -0.72,
+   "price": 43.88,
+   "changePct": -0.97,
    "prevClose": 44.31,
-   "note": "Gasoline 20.51 · Diesel 90.93",
+   "note": "Gasoline 20.36 · Diesel 90.90",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.099,
-   "changePct": -1.87,
+   "price": 3.108,
+   "changePct": -1.58,
    "prevClose": 3.158,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5991,
-   "changePct": 0.25,
+   "price": 2.5944,
+   "changePct": 0.07,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2758,
-   "changePct": -0.33,
+   "price": 4.2738,
+   "changePct": -0.37,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3861.6001,
-   "changePct": -0.22,
+   "price": 3865.3999,
+   "changePct": -0.12,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.265,
-   "changePct": -0.12,
+   "price": 47.415,
+   "changePct": 0.2,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.0215,
-   "changePct": 0.22,
+   "price": 6.024,
+   "changePct": 0.26,
    "prevClose": 6.0085,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.523,
-   "changePct": 0.08,
+   "price": 103.498,
+   "changePct": 0.06,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 20.05,
+   "price": 20.03,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T10:17:04Z"
+   "asOf": "2026-11-16T10:25:22Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,7 +346,7 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Partly Cloudy",
-  "temp": 32,
+  "temp": 30,
   "high": 52,
   "low": 30,
   "humidity": 92,
@@ -355,17 +355,8 @@
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-16T04:00:00-05:00",
-    "temp": 32,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 92
-   },
-   {
     "time": "2026-11-16T05:00:00-05:00",
-    "temp": 33,
+    "temp": 30,
     "condition": "clearNight",
     "conditionText": "Partly Cloudy",
     "precipPct": 0,
@@ -374,30 +365,30 @@
    },
    {
     "time": "2026-11-16T06:00:00-05:00",
-    "temp": 33,
+    "temp": 31,
     "condition": "sun",
-    "conditionText": "Sunny",
+    "conditionText": "Mostly Sunny",
     "precipPct": 0,
     "wind": 0,
     "humidity": 92
    },
    {
     "time": "2026-11-16T07:00:00-05:00",
-    "temp": 32,
+    "temp": 30,
     "condition": "sun",
-    "conditionText": "Sunny",
+    "conditionText": "Mostly Sunny",
     "precipPct": 1,
     "wind": 0,
     "humidity": 100
    },
    {
     "time": "2026-11-16T08:00:00-05:00",
-    "temp": 36,
+    "temp": 34,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 1,
     "wind": 1,
-    "humidity": 89
+    "humidity": 92
    },
    {
     "time": "2026-11-16T09:00:00-05:00",
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 96
+   },
+   {
+    "time": "2026-11-17T04:00:00-05:00",
+    "temp": 31,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
    }
   ],
   "daily": [
@@ -695,23 +695,23 @@
  },
  "news": [
   {
-   "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-   "source": "NPR",
-   "summary": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons",
-   "body": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
+   "title": "The Future Is Bright for the Democrats, as Long as They Don’t Have to Interact With the Public",
+   "source": "The Intercept",
+   "summary": "Don’t call them centrists",
+   "body": "Don’t call them centrists. At a strategy conference in Denver, prominent Democrats talked around what they think is next.",
    "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change"
+    "https://theintercept.com/2026/11/16/democrats-whats-next-denver-2028/"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
-   "topic": "News"
+   "topic": "Independent"
   },
   {
-   "title": "Why sleep matters when it comes to weight gain and loss",
+   "title": "NPR's Student Podcast Challenge is back for 2027",
    "source": "NPR",
-   "summary": "Sleep can have a powerful impact on weight",
-   "body": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+   "summary": "The annual audio competition for grades four through 12 returns in January",
+   "body": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
    "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss"
+    "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
    "topic": "News"
@@ -728,12 +728,12 @@
    "topic": "News"
   },
   {
-   "title": "NPR's Student Podcast Challenge is back for 2027",
+   "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
    "source": "NPR",
-   "summary": "The annual audio competition for grades four through 12 returns in January",
-   "body": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+   "summary": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons",
+   "body": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
    "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline"
+    "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
    "topic": "News"
@@ -745,6 +745,17 @@
    "body": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
    "sources": [
     "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance"
+   ],
+   "publishedAt": "2026-11-16T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Why sleep matters when it comes to weight gain and loss",
+   "source": "NPR",
+   "summary": "Sleep can have a powerful impact on weight",
+   "body": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+   "sources": [
+    "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
    "topic": "News"
