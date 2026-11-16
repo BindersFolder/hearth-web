@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T05:02:04Z",
+ "updatedAt": "2026-11-16T05:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64582.6602,
-   "changePct": -1.12,
+   "price": 64617.7305,
+   "changePct": -1.07,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1810.88,
-   "changePct": -1.29,
+   "price": 1813.7,
+   "changePct": -1.14,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.33,
-   "changePct": -0.26,
-   "prevClose": 88.56,
+   "price": 88.35,
+   "changePct": 0.12,
+   "prevClose": 88.24,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -102,12 +102,12 @@
    "group": "Energy",
    "unit": "$/bbl",
    "price": 95.27,
-   "changePct": -0.59,
-   "prevClose": 95.84,
+   "changePct": 0.0,
+   "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 44.38,
-   "changePct": 1.91,
-   "prevClose": 43.55,
-   "note": "Gasoline 20.64 · Diesel 91.87",
+   "price": 44.34,
+   "changePct": 0.93,
+   "prevClose": 43.93,
+   "note": "Gasoline 20.59 · Diesel 91.84",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.159,
-   "changePct": -2.2,
-   "prevClose": 3.23,
+   "price": 3.154,
+   "changePct": 0.0,
+   "prevClose": 3.154,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5945,
-   "changePct": 0.21,
-   "prevClose": 2.5891,
+   "price": 2.5939,
+   "changePct": 0.32,
+   "prevClose": 2.5857,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.2905,
-   "changePct": 0.75,
-   "prevClose": 4.2585,
+   "price": 4.2903,
+   "changePct": 0.49,
+   "prevClose": 4.2692,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.43,
    "note": "Week ago 4.0203 · Year ago 3.0758",
    "source": "AAA",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.2605 · Year ago 3.134",
    "source": "AAA",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.28,
    "note": "Week ago 6.1929 · Year ago 3.7703",
    "source": "AAA",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.18,
    "note": "Week ago 6.4398 · Year ago 3.9156",
    "source": "AAA",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3874.2,
-   "changePct": -0.31,
-   "prevClose": 3886.3,
+   "price": 3869.2,
+   "changePct": -0.45,
+   "prevClose": 3886.5,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.455,
-   "changePct": -3.39,
-   "prevClose": 49.121,
+   "price": 47.37,
+   "changePct": -0.38,
+   "prevClose": 47.55,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.0115,
-   "changePct": -1.3,
-   "prevClose": 6.0905,
+   "price": 6.0145,
+   "changePct": -0.29,
+   "prevClose": 6.032,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.45,
-   "changePct": 0.04,
-   "prevClose": 103.411,
+   "price": 103.419,
+   "changePct": 0.01,
+   "prevClose": 103.407,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T05:02:04Z"
+   "asOf": "2026-11-16T05:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Partly Cloudy",
-  "temp": 38,
-  "high": 38,
+  "temp": 37,
+  "high": 32,
   "low": 32,
   "humidity": 79,
-  "wind": 3,
-  "summary": "Mostly cloudy, with a low around 32. West wind around 3 mph. Mostly cloudy, with a low around 32. West wind around 3 mph. Mostly sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 2 to 6 mph.",
+  "wind": 2,
+  "summary": "Partly cloudy, with a low around 32. West wind around 5 mph. Partly cloudy, with a low around 32. West wind around 5 mph. Mostly sunny. High near 50, with temperatures falling to around 46 in the afternoon. Northwest wind 2 to 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-15T23:00:00-05:00",
-    "temp": 38,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 3,
-    "humidity": 79
-   },
    {
     "time": "2026-11-16T00:00:00-05:00",
     "temp": 37,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 82
+   },
+   {
+    "time": "2026-11-16T23:00:00-05:00",
+    "temp": 37,
+    "condition": "clearNight",
+    "conditionText": "Clear",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 82
    }
   ],
   "daily": [
@@ -577,15 +577,15 @@
     "low": 32,
     "night": {
      "low": 32,
-     "condition": "cloud",
-     "conditionText": "Mostly Cloudy",
-     "summary": "Mostly cloudy, with a low around 32. West wind around 3 mph.",
+     "condition": "clearNight",
+     "conditionText": "Partly Cloudy",
+     "summary": "Partly cloudy, with a low around 32. West wind around 5 mph.",
      "precipPct": 0
     },
-    "high": 38,
-    "conditionText": "Mostly Cloudy",
-    "condition": "cloud",
-    "summary": "Mostly cloudy, with a low around 32. West wind around 3 mph.",
+    "high": 32,
+    "conditionText": "Partly Cloudy",
+    "condition": "clearNight",
+    "summary": "Partly cloudy, with a low around 32. West wind around 5 mph.",
     "precipPct": 0
    },
    {
@@ -700,6 +700,17 @@
  },
  "news": [
   {
+   "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+   "source": "BBC",
+   "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+   "body": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-16T05:06:59Z",
+   "topic": "World"
+  },
+  {
    "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
    "source": "BBC",
    "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
@@ -775,17 +786,6 @@
    ],
    "publishedAt": "2026-11-15T22:07:55Z",
    "topic": "News"
-  },
-  {
-   "title": "Canada bars Russia from Junior World Championships",
-   "source": "BBC",
-   "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-   "body": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-   "sources": [
-    "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-15T22:01:16Z",
-   "topic": "World"
   },
   {
    "title": "AIPAC Lost BIG In The Midterms - and Zeteo’s New Documentary Goes Inside the Lobby’s Waning Influence.",
