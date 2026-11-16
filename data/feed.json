@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-16T16:02:04Z",
+ "updatedAt": "2026-11-16T16:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 746.73,
-   "changePct": -0.37,
+   "price": 745.58,
+   "changePct": -0.52,
    "prevClose": 749.49,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 668.6795,
-   "changePct": -0.88,
+   "price": 667.37,
+   "changePct": -1.08,
    "prevClose": 674.64,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 520.31,
-   "changePct": -0.15,
+   "price": 519.75,
+   "changePct": -0.26,
    "prevClose": 521.1,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 274.95,
-   "changePct": -0.28,
+   "price": 274.57,
+   "changePct": -0.42,
    "prevClose": 275.72,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64476.4492,
-   "changePct": -1.29,
+   "price": 64452.5781,
+   "changePct": -1.32,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1821.74,
-   "changePct": -0.7,
+   "price": 1819.61,
+   "changePct": -0.82,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.97,
-   "changePct": -1.55,
+   "price": 86.61,
+   "changePct": -1.96,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T15:14:44Z"
+   "asOf": "2026-11-16T16:13:58Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.81,
-   "changePct": -1.53,
+   "price": 93.5,
+   "changePct": -1.86,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T15:14:44Z"
+   "asOf": "2026-11-16T16:13:58Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 42.85,
-   "changePct": -3.29,
+   "price": 42.73,
+   "changePct": -3.57,
    "prevClose": 44.31,
-   "note": "Gasoline 19.85 · Diesel 88.84",
+   "note": "Gasoline 19.89 · Diesel 88.41",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5434,
-   "changePct": -1.9,
+   "price": 2.5358,
+   "changePct": -2.19,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1859,
-   "changePct": -2.42,
+   "price": 4.1671,
+   "changePct": -2.86,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -180,9 +180,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 4.18,
-   "changePct": -2.8,
+   "changePct": -2.3,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T15:14:44Z"
+   "asOf": "2026-11-16T16:13:58Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T15:14:44Z"
+   "asOf": "2026-11-16T16:13:58Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-16T15:14:44Z"
+   "asOf": "2026-11-16T16:13:58Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3865.8,
-   "changePct": -0.11,
+   "price": 3861.1001,
+   "changePct": -0.23,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 46.725,
-   "changePct": -1.26,
+   "price": 46.63,
+   "changePct": -1.46,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.052,
-   "changePct": 0.72,
+   "price": 6.041,
+   "changePct": 0.54,
    "prevClose": 6.0085,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.127,
-   "changePct": -0.52,
+   "price": 5.133,
+   "changePct": -0.41,
    "prevClose": 5.154,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.588,
-   "changePct": 0.15,
+   "price": 103.514,
+   "changePct": 0.08,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.23,
+   "price": 20.83,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T16:02:04Z"
+   "asOf": "2026-11-16T16:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 37.8,
+   "price": 35.5,
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-16T15:14:44Z"
+   "asOf": "2026-11-16T16:13:58Z"
   }
  ],
  "weather": {
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Oil tankers burning in Hormuz; Senate leadership battle; Mexican journalist found dead, 6th this year",
+   "source": "Drop Site News",
+   "summary": "Drop Site Daily: November 16, 2026.",
+   "body": "Drop Site Daily: November 16, 2026",
+   "sources": [
+    "https://www.dropsitenews.com/p/oil-tankers-hormuz-senate-leadership-mexican-journalist"
+   ],
+   "publishedAt": "2026-11-16T16:04:50Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Five EU countries announce migrant deportation centre in Rwanda",
+   "source": "BBC",
+   "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "body": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-16T16:03:24Z",
+   "topic": "World"
+  },
+  {
    "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
    "source": "BBC",
    "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
@@ -743,17 +765,6 @@
     "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-16T13:40:56Z",
-   "topic": "World"
-  },
-  {
-   "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-   "source": "BBC",
-   "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-   "body": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-16T12:54:44Z",
    "topic": "World"
   },
   {
@@ -864,17 +875,6 @@
     "https://zeteo.com/p/this-week-in-palestine-israel-kills-5a6"
    ],
    "publishedAt": "2026-11-14T19:30:36Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "The Ceaseless Ceasefire",
-   "source": "The Intercept",
-   "summary": "Gaza, “peace,” and surviving a zombie conflict.",
-   "body": "Gaza, “peace,” and surviving a zombie conflict.",
-   "sources": [
-    "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/"
-   ],
-   "publishedAt": "2026-11-14T18:59:33Z",
    "topic": "Independent"
   }
  ],
