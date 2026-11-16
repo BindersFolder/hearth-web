@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-16T15:17:04Z",
+ "updatedAt": "2026-11-16T15:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 744.16,
-   "changePct": -0.71,
+   "price": 745.04,
+   "changePct": -0.59,
    "prevClose": 749.49,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 664.32,
-   "changePct": -1.53,
+   "price": 665.3999,
+   "changePct": -1.37,
    "prevClose": 674.64,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 519.72,
-   "changePct": -0.26,
+   "price": 520.1,
+   "changePct": -0.19,
    "prevClose": 521.1,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 274.28,
-   "changePct": -0.52,
+   "price": 274.71,
+   "changePct": -0.37,
    "prevClose": 275.72,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64164.2188,
-   "changePct": -1.76,
+   "price": 64315.4219,
+   "changePct": -1.53,
    "prevClose": 65316.6914,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1807.59,
-   "changePct": -1.47,
+   "price": 1810.96,
+   "changePct": -1.29,
    "prevClose": 1834.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.53,
-   "changePct": -2.05,
+   "price": 86.45,
+   "changePct": -2.14,
    "prevClose": 88.34,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.32,
-   "changePct": -2.05,
+   "price": 93.0,
+   "changePct": -2.38,
    "prevClose": 95.27,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 42.64,
-   "changePct": -3.77,
+   "price": 42.37,
+   "changePct": -4.38,
    "prevClose": 44.31,
-   "note": "Gasoline 19.40 · Diesel 89.11",
+   "note": "Gasoline 19.14 · Diesel 88.83",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.148,
-   "changePct": -0.32,
+   "price": 3.147,
+   "changePct": -0.35,
    "prevClose": 3.158,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5221,
-   "changePct": -2.72,
+   "price": 2.5141,
+   "changePct": -3.03,
    "prevClose": 2.5927,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1819,
-   "changePct": -2.52,
+   "price": 4.1734,
+   "changePct": -2.71,
    "prevClose": 4.2898,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.0093 · Year ago 3.0723",
    "source": "AAA",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.19,
    "note": "Week ago 4.2522 · Year ago 3.1353",
    "source": "AAA",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.1723 · Year ago 3.7682",
    "source": "AAA",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,33 +252,33 @@
    "changePct": -0.14,
    "note": "Week ago 6.4303 · Year ago 3.911",
    "source": "AAA",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3881.8999,
-   "changePct": 0.3,
+   "price": 3873.3999,
+   "changePct": 0.09,
    "prevClose": 3870.1001,
    "high52": 5586.2,
    "low52": 3856.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 46.915,
-   "changePct": -0.86,
+   "price": 46.64,
+   "changePct": -1.44,
    "prevClose": 47.32,
    "high52": 121.3,
    "low52": 48.12,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,45 +291,45 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.119,
-   "changePct": -0.68,
+   "price": 5.109,
+   "changePct": -0.87,
    "prevClose": 5.154,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.504,
-   "changePct": 0.07,
+   "price": 103.469,
+   "changePct": 0.03,
    "prevClose": 103.436,
    "high52": 103.44,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 21.34,
+   "price": 21.6,
    "changePct": null,
    "prevClose": 19.28,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-16T15:17:04Z"
+   "asOf": "2026-11-16T15:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+   "source": "BBC",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-16T15:31:20Z",
+   "topic": "World"
+  },
+  {
    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
    "source": "BBC",
    "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
@@ -743,17 +754,6 @@
     "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-16T12:54:44Z",
-   "topic": "World"
-  },
-  {
-   "title": "Man sentenced over 'horrific' attempted murder of three children",
-   "source": "BBC",
-   "summary": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-   "body": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-16T12:27:15Z",
    "topic": "World"
   },
   {
@@ -812,17 +812,6 @@
    "topic": "Independent"
   },
   {
-   "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-   "source": "NPR",
-   "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-   "body": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
-   ],
-   "publishedAt": "2026-11-16T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
    "source": "NPR",
    "summary": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons",
@@ -840,6 +829,17 @@
    "body": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
    "sources": [
     "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline"
+   ],
+   "publishedAt": "2026-11-16T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Why sleep matters when it comes to weight gain and loss",
+   "source": "NPR",
+   "summary": "Sleep can have a powerful impact on weight",
+   "body": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+   "sources": [
+    "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss"
    ],
    "publishedAt": "2026-11-16T10:00:00Z",
    "topic": "News"
