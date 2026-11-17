@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T10:02:04Z",
+ "updatedAt": "2026-11-17T10:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64294.5898,
-   "changePct": -0.81,
+   "price": 64266.0117,
+   "changePct": -0.85,
    "prevClose": 64816.7891,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1809.34,
-   "changePct": -0.53,
+   "price": 1800.12,
+   "changePct": -1.04,
    "prevClose": 1819.02,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.79,
-   "changePct": 0.92,
+   "price": 85.95,
+   "changePct": 1.11,
    "prevClose": 85.01,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.62,
-   "changePct": 0.96,
+   "price": 92.79,
+   "changePct": 1.14,
    "prevClose": 91.74,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.19,
-   "changePct": 0.15,
+   "price": 40.0,
+   "changePct": -0.32,
    "prevClose": 40.13,
-   "note": "Gasoline 19.44 · Diesel 81.71",
+   "note": "Gasoline 19.29 · Diesel 81.42",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.117,
-   "changePct": 0.97,
+   "price": 3.108,
+   "changePct": 0.68,
    "prevClose": 3.087,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5054,
-   "changePct": 0.66,
+   "price": 2.5056,
+   "changePct": 0.67,
    "prevClose": 2.489,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9881,
-   "changePct": 0.69,
+   "price": 3.9851,
+   "changePct": 0.61,
    "prevClose": 3.9609,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.79,
    "note": "Week ago 3.9788 · Year ago 3.0729",
    "source": "AAA",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.2312 · Year ago 3.1344",
    "source": "AAA",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.1572 · Year ago 3.7655",
    "source": "AAA",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.17,
    "note": "Week ago 6.4236 · Year ago 3.9032",
    "source": "AAA",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3869.8999,
-   "changePct": -0.19,
+   "price": 3861.5,
+   "changePct": -0.4,
    "prevClose": 3877.2,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.365,
-   "changePct": -0.25,
+   "price": 47.275,
+   "changePct": -0.44,
    "prevClose": 47.485,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.9815,
-   "changePct": -0.08,
+   "price": 5.971,
+   "changePct": -0.25,
    "prevClose": 5.986,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.47,
-   "changePct": -0.05,
+   "price": 103.543,
+   "changePct": 0.02,
    "prevClose": 103.525,
    "high52": 103.64,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 23.8,
+   "price": 23.69,
    "changePct": null,
    "prevClose": 22.88,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T10:02:04Z"
+   "asOf": "2026-11-17T10:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -349,20 +349,11 @@
   "temp": 31,
   "high": 57,
   "low": 36,
-  "humidity": 96,
+  "humidity": 92,
   "wind": 0,
-  "summary": "Sunny. High near 57, with temperatures falling to around 52 in the afternoon. West wind 0 to 6 mph. Mostly clear, with a low around 36. West wind 1 to 5 mph. Mostly sunny. High near 59, with temperatures falling to around 54 in the afternoon. West wind 0 to 6 mph.",
+  "summary": "Sunny. High near 57, with temperatures falling to around 52 in the afternoon. Northwest wind 0 to 6 mph. Mostly clear, with a low around 36. West wind 1 to 5 mph. Mostly sunny. High near 59, with temperatures falling to around 54 in the afternoon. West wind 0 to 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-17T04:00:00-05:00",
-    "temp": 31,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 96
-   },
    {
     "time": "2026-11-17T05:00:00-05:00",
     "temp": 31,
@@ -370,7 +361,7 @@
     "conditionText": "Mostly Clear",
     "precipPct": 0,
     "wind": 0,
-    "humidity": 96
+    "humidity": 92
    },
    {
     "time": "2026-11-17T06:00:00-05:00",
@@ -379,25 +370,25 @@
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 0,
-    "humidity": 96
+    "humidity": 92
    },
    {
     "time": "2026-11-17T07:00:00-05:00",
-    "temp": 34,
+    "temp": 33,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 0,
-    "humidity": 89
+    "humidity": 92
    },
    {
     "time": "2026-11-17T08:00:00-05:00",
-    "temp": 37,
+    "temp": 36,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 85
+    "humidity": 89
    },
    {
     "time": "2026-11-17T09:00:00-05:00",
@@ -406,7 +397,7 @@
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 2,
-    "humidity": 79
+    "humidity": 85
    },
    {
     "time": "2026-11-17T10:00:00-05:00",
@@ -415,7 +406,7 @@
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 3,
-    "humidity": 68
+    "humidity": 70
    },
    {
     "time": "2026-11-17T11:00:00-05:00",
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 1,
     "humidity": 85
+   },
+   {
+    "time": "2026-11-18T04:00:00-05:00",
+    "temp": 37,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 82
    }
   ],
   "daily": [
@@ -587,8 +587,8 @@
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 6,
-    "windText": "W 0 to 6 mph",
-    "summary": "Sunny. High near 57, with temperatures falling to around 52 in the afternoon. West wind 0 to 6 mph."
+    "windText": "NW 0 to 6 mph",
+    "summary": "Sunny. High near 57, with temperatures falling to around 52 in the afternoon. Northwest wind 0 to 6 mph."
    },
    {
     "date": "2026-11-18",
@@ -695,6 +695,39 @@
  },
  "news": [
   {
+   "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+   "source": "NPR",
+   "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+   "body": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+   "sources": [
+    "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs"
+   ],
+   "publishedAt": "2026-11-17T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+   "source": "NPR",
+   "summary": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
+   "body": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
+   "sources": [
+    "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research"
+   ],
+   "publishedAt": "2026-11-17T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+   "source": "NPR",
+   "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays",
+   "body": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
+   "sources": [
+    "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster"
+   ],
+   "publishedAt": "2026-11-17T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
    "source": "NPR",
    "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day",
@@ -715,6 +748,17 @@
    ],
    "publishedAt": "2026-11-17T09:46:54Z",
    "topic": "News"
+  },
+  {
+   "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+   "source": "BBC",
+   "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+   "body": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-17T09:27:44Z",
+   "topic": "World"
   },
   {
    "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
@@ -750,7 +794,7 @@
    "topic": "World"
   },
   {
-   "title": "Body of Melbourne Cup horse found dumped in Sydney skip bin",
+   "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
    "source": "BBC",
    "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
    "body": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
@@ -758,17 +802,6 @@
     "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-17T07:01:00Z",
-   "topic": "World"
-  },
-  {
-   "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-   "source": "BBC",
-   "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-   "body": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-17T05:59:01Z",
    "topic": "World"
   },
   {
@@ -781,17 +814,6 @@
    ],
    "publishedAt": "2026-11-16T23:06:11Z",
    "topic": "Independent"
-  },
-  {
-   "title": "California sues OpenAI over hacking risks",
-   "source": "NPR",
-   "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-   "body": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
-   ],
-   "publishedAt": "2026-11-16T22:06:22Z",
-   "topic": "News"
   },
   {
    "title": "The Intercept Sues U.S. Military Over Iran Casualty Tally and Blacklist of Journalists",
@@ -814,28 +836,6 @@
    ],
    "publishedAt": "2026-11-16T21:15:16Z",
    "topic": "Independent"
-  },
-  {
-   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-   "source": "NPR",
-   "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S",
-   "body": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
-   ],
-   "publishedAt": "2026-11-16T18:49:26Z",
-   "topic": "News"
-  },
-  {
-   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-   "source": "NPR",
-   "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention",
-   "body": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-   "sources": [
-    "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
-   ],
-   "publishedAt": "2026-11-16T18:04:50Z",
-   "topic": "News"
   },
   {
    "title": "Are Tech Billionaires Finally About to Face Accountability? Kara Swisher on the Blue Tsunami and Big Tech",
