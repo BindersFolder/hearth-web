@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-17T16:02:04Z",
+ "updatedAt": "2026-11-17T16:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 732.05,
-   "changePct": -1.14,
+   "price": 731.73,
+   "changePct": -1.19,
    "prevClose": 740.52,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 654.2899,
-   "changePct": -1.25,
+   "price": 653.48,
+   "changePct": -1.37,
    "prevClose": 662.54,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 508.49,
-   "changePct": -1.43,
+   "price": 508.255,
+   "changePct": -1.48,
    "prevClose": 515.88,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 269.25,
-   "changePct": -1.33,
+   "price": 269.305,
+   "changePct": -1.31,
    "prevClose": 272.87,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64185.3281,
-   "changePct": -0.97,
+   "price": 63961.0586,
+   "changePct": -1.32,
    "prevClose": 64816.7891,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1787.66,
-   "changePct": -1.72,
+   "price": 1780.04,
+   "changePct": -2.14,
    "prevClose": 1819.02,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.33,
-   "changePct": 1.55,
+   "price": 86.9,
+   "changePct": 2.22,
    "prevClose": 85.01,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T15:10:23Z"
+   "asOf": "2026-11-17T16:10:20Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.0,
-   "changePct": 1.37,
+   "price": 93.43,
+   "changePct": 1.84,
    "prevClose": 91.74,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T15:10:23Z"
+   "asOf": "2026-11-17T16:10:20Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.08,
-   "changePct": -0.12,
+   "price": 40.05,
+   "changePct": -0.2,
    "prevClose": 40.13,
-   "note": "Gasoline 19.59 · Diesel 81.06",
+   "note": "Gasoline 19.53 · Diesel 81.09",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.137,
-   "changePct": 1.62,
+   "price": 3.14,
+   "changePct": 1.72,
    "prevClose": 3.087,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5218,
-   "changePct": 1.32,
+   "price": 2.534,
+   "changePct": 1.81,
    "prevClose": 2.489,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9854,
-   "changePct": 0.62,
+   "price": 3.9997,
+   "changePct": 0.98,
    "prevClose": 3.9609,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.1,
+   "price": 4.07,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T15:10:23Z"
+   "asOf": "2026-11-17T16:10:20Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T15:10:23Z"
+   "asOf": "2026-11-17T16:10:20Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T15:10:23Z"
+   "asOf": "2026-11-17T16:10:20Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.79,
    "note": "Week ago 3.9788 · Year ago 3.0729",
    "source": "AAA",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.2312 · Year ago 3.1344",
    "source": "AAA",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.1572 · Year ago 3.7655",
    "source": "AAA",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.17,
    "note": "Week ago 6.4236 · Year ago 3.9032",
    "source": "AAA",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3880.2,
-   "changePct": 0.08,
+   "price": 3874.6001,
+   "changePct": -0.07,
    "prevClose": 3877.2,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.55,
-   "changePct": 0.14,
+   "price": 47.67,
+   "changePct": 0.39,
    "prevClose": 47.485,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.9735,
-   "changePct": -0.21,
+   "price": 5.9915,
+   "changePct": 0.09,
    "prevClose": 5.986,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.105,
-   "changePct": -0.31,
+   "price": 5.119,
+   "changePct": -0.04,
    "prevClose": 5.121,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.478,
-   "changePct": -0.05,
+   "price": 103.51,
+   "changePct": -0.01,
    "prevClose": 103.525,
    "high52": 103.64,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.16,
+   "price": 25.0,
    "changePct": null,
    "prevClose": 22.88,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T16:02:04Z"
+   "asOf": "2026-11-17T16:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-17T15:10:23Z"
+   "asOf": "2026-11-17T16:10:20Z"
   }
  ],
  "weather": {
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "source": "BBC",
+   "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "body": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-17T16:07:41Z",
+   "topic": "World"
+  },
+  {
+   "title": "This Ex-Republican Professor Flipped a Trump Seat Blue – and He Wants to End Aid to Israel",
+   "source": "Zeteo",
+   "summary": "You’ve never met a Democrat like this before",
+   "body": "You’ve never met a Democrat like this before. Incoming Ohio congressman Don Leonard is making ultimatums to Hakeem Jeffries, getting threatened in return, and denouncing genocide in Gaza.",
+   "sources": [
+    "https://zeteo.com/p/don-leonard-israel-jeffries"
+   ],
+   "publishedAt": "2026-11-17T16:03:51Z",
+   "topic": "Independent"
+  },
+  {
    "title": "UK sanctions firms over Israeli West Bank settlements",
    "source": "BBC",
    "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
@@ -757,17 +779,6 @@
    "topic": "World"
   },
   {
-   "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "source": "BBC",
-   "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-   "body": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-17T13:01:11Z",
-   "topic": "World"
-  },
-  {
    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
    "source": "NPR",
    "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced",
@@ -788,6 +799,17 @@
    ],
    "publishedAt": "2026-11-17T12:04:45Z",
    "topic": "Independent"
+  },
+  {
+   "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+   "source": "NPR",
+   "summary": "Sen",
+   "body": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
+   "sources": [
+    "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding"
+   ],
+   "publishedAt": "2026-11-17T11:58:42Z",
+   "topic": "News"
   },
   {
    "title": "Can Google win the AI race without killing its cash cow?",
@@ -821,28 +843,6 @@
    ],
    "publishedAt": "2026-11-17T10:43:55Z",
    "topic": "News"
-  },
-  {
-   "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-   "source": "NPR",
-   "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays",
-   "body": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-   "sources": [
-    "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster"
-   ],
-   "publishedAt": "2026-11-17T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "I Am a Palestinian-American. Israeli Soldiers Occupied My Home for Weeks and Trashed It",
-   "source": "Zeteo",
-   "summary": "The U.S",
-   "body": "The U.S. government has done nothing to help. They told us to confront the soldiers ourselves, and when my husband did, he was pushed, threatened with arrest, and tear gassed.",
-   "sources": [
-    "https://zeteo.com/p/i-am-a-palestinian-american-israeli"
-   ],
-   "publishedAt": "2026-11-16T23:06:11Z",
-   "topic": "Independent"
   },
   {
    "title": "The Intercept Sues U.S. Military Over Iran Casualty Tally and Blacklist of Journalists",
