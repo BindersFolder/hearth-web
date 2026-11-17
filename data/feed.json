@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-17T17:02:04Z",
+ "updatedAt": "2026-11-17T17:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 730.61,
-   "changePct": -1.34,
+   "price": 732.87,
+   "changePct": -1.03,
    "prevClose": 740.52,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 652.5,
-   "changePct": -1.52,
+   "price": 655.0,
+   "changePct": -1.14,
    "prevClose": 662.54,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 507.9,
-   "changePct": -1.55,
+   "price": 509.16,
+   "changePct": -1.3,
    "prevClose": 515.88,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 269.49,
-   "changePct": -1.24,
+   "price": 271.05,
+   "changePct": -0.67,
    "prevClose": 272.87,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 63592.2812,
-   "changePct": -1.89,
+   "price": 63837.75,
+   "changePct": -1.51,
    "prevClose": 64816.7891,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1774.35,
-   "changePct": -2.46,
+   "price": 1785.88,
+   "changePct": -1.82,
    "prevClose": 1819.02,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.44,
-   "changePct": 1.68,
+   "price": 86.59,
+   "changePct": 1.86,
    "prevClose": 85.01,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T16:10:24Z"
+   "asOf": "2026-11-17T17:10:14Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.08,
-   "changePct": 1.46,
+   "price": 93.28,
+   "changePct": 1.68,
    "prevClose": 91.74,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T16:10:24Z"
+   "asOf": "2026-11-17T17:10:14Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 39.8,
-   "changePct": -0.82,
+   "price": 39.82,
+   "changePct": -0.77,
    "prevClose": 40.13,
-   "note": "Gasoline 19.26 · Diesel 80.88",
+   "note": "Gasoline 19.28 · Diesel 80.89",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.148,
-   "changePct": 1.98,
+   "price": 3.15,
+   "changePct": 2.04,
    "prevClose": 3.087,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5167,
-   "changePct": 1.11,
+   "price": 2.5208,
+   "changePct": 1.28,
    "prevClose": 2.489,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9839,
-   "changePct": 0.58,
+   "price": 3.9876,
+   "changePct": 0.67,
    "prevClose": 3.9609,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 4.07,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T16:10:24Z"
+   "asOf": "2026-11-17T17:10:14Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T16:10:24Z"
+   "asOf": "2026-11-17T17:10:14Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T16:10:24Z"
+   "asOf": "2026-11-17T17:10:14Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.79,
    "note": "Week ago 3.9788 · Year ago 3.0729",
    "source": "AAA",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.2312 · Year ago 3.1344",
    "source": "AAA",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.1572 · Year ago 3.7655",
    "source": "AAA",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.17,
    "note": "Week ago 6.4236 · Year ago 3.9032",
    "source": "AAA",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3867.1001,
-   "changePct": -0.26,
+   "price": 3874.6001,
+   "changePct": -0.07,
    "prevClose": 3877.2,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.425,
-   "changePct": -0.13,
+   "price": 47.625,
+   "changePct": 0.29,
    "prevClose": 47.485,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.977,
-   "changePct": -0.15,
+   "price": 5.995,
+   "changePct": 0.15,
    "prevClose": 5.986,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.101,
-   "changePct": -0.39,
+   "price": 5.099,
+   "changePct": -0.43,
    "prevClose": 5.121,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.427,
-   "changePct": -0.09,
+   "price": 103.44,
+   "changePct": -0.08,
    "prevClose": 103.525,
    "high52": 103.64,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.63,
+   "price": 26.28,
    "changePct": null,
    "prevClose": 22.88,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-17T17:02:04Z"
+   "asOf": "2026-11-17T17:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 30.7,
+   "price": 24.7,
    "changePct": null,
-   "note": "Fear",
+   "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-17T16:10:24Z"
+   "asOf": "2026-11-17T17:10:14Z"
   }
  ],
  "weather": {
@@ -702,14 +702,14 @@
  },
  "news": [
   {
-   "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "title": "US loses measles elimination status after 26 years amid record case numbers",
    "source": "BBC",
-   "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-   "body": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+   "body": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-17T16:56:38Z",
+   "publishedAt": "2026-11-17T17:10:03Z",
    "topic": "World"
   },
   {
@@ -720,18 +720,18 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-17T16:39:54Z",
+   "publishedAt": "2026-11-17T17:09:32Z",
    "topic": "World"
   },
   {
-   "title": "US loses measles elimination status after 26 years amid record case numbers",
+   "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
    "source": "BBC",
-   "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-   "body": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+   "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "body": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-17T16:26:22Z",
+   "publishedAt": "2026-11-17T16:56:38Z",
    "topic": "World"
   },
   {
