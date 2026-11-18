@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-18T17:02:04Z",
+ "updatedAt": "2026-11-18T17:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 729.959,
-   "changePct": -1.02,
+   "price": 730.27,
+   "changePct": -0.98,
    "prevClose": 737.5,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 656.85,
-   "changePct": -1.35,
+   "price": 657.47,
+   "changePct": -1.26,
    "prevClose": 665.8583,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 502.57,
-   "changePct": -1.23,
+   "price": 502.495,
+   "changePct": -1.25,
    "prevClose": 508.83,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 270.75,
-   "changePct": 0.21,
+   "price": 270.985,
+   "changePct": 0.29,
    "prevClose": 270.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62776.1094,
-   "changePct": -3.23,
+   "price": 62666.2891,
+   "changePct": -3.4,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1751.54,
-   "changePct": -3.91,
+   "price": 1752.01,
+   "changePct": -3.88,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.96,
-   "changePct": -3.28,
+   "price": 81.44,
+   "changePct": -3.89,
    "prevClose": 84.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T16:10:16Z"
+   "asOf": "2026-11-18T17:10:37Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.52,
-   "changePct": -4.27,
+   "price": 87.87,
+   "changePct": -4.97,
    "prevClose": 92.47,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T16:10:16Z"
+   "asOf": "2026-11-18T17:10:37Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.21,
-   "changePct": 1.21,
+   "price": 40.22,
+   "changePct": 1.23,
    "prevClose": 39.73,
-   "note": "Gasoline 20.02 · Diesel 80.58",
+   "note": "Gasoline 20.21 · Diesel 80.24",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.336,
-   "changePct": 5.5,
+   "price": 3.337,
+   "changePct": 5.53,
    "prevClose": 3.162,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4281,
-   "changePct": -1.96,
+   "price": 2.4203,
+   "changePct": -2.28,
    "prevClose": 2.4767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.87,
-   "changePct": -1.71,
+   "price": 3.8495,
+   "changePct": -2.23,
    "prevClose": 3.9372,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.96,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T16:10:16Z"
+   "asOf": "2026-11-18T17:10:37Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T16:10:16Z"
+   "asOf": "2026-11-18T17:10:37Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T16:10:16Z"
+   "asOf": "2026-11-18T17:10:37Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3745.3,
-   "changePct": -1.1,
+   "price": 3748.8,
+   "changePct": -1.0,
    "prevClose": 3786.8,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 44.945,
-   "changePct": -1.89,
+   "price": 44.98,
+   "changePct": -1.81,
    "prevClose": 45.81,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.626,
-   "changePct": -4.4,
+   "price": 5.6435,
+   "changePct": -4.1,
    "prevClose": 5.885,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.068,
-   "changePct": -0.69,
+   "price": 5.06,
+   "changePct": -0.84,
    "prevClose": 5.103,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.857,
-   "changePct": 0.23,
+   "price": 103.831,
+   "changePct": 0.21,
    "prevClose": 103.618,
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 25.22,
+   "price": 24.93,
    "changePct": null,
    "prevClose": 25.45,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:02:04Z"
+   "asOf": "2026-11-18T17:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 26.2,
+   "price": 24,
    "changePct": null,
-   "note": "Fear",
+   "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-18T16:10:16Z"
+   "asOf": "2026-11-18T17:10:37Z"
   }
  ],
  "weather": {
@@ -702,6 +702,39 @@
  },
  "news": [
   {
+   "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+   "source": "NPR",
+   "summary": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
+   "body": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
+   "sources": [
+    "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast"
+   ],
+   "publishedAt": "2026-11-18T17:10:44Z",
+   "topic": "News"
+  },
+  {
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "source": "BBC",
+   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+   "body": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+   "sources": [
+    "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-18T17:00:40Z",
+   "topic": "World"
+  },
+  {
+   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+   "source": "BBC",
+   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "body": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-18T17:00:04Z",
+   "topic": "World"
+  },
+  {
    "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
    "source": "BBC",
    "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize.",
@@ -710,28 +743,6 @@
     "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-18T16:44:23Z",
-   "topic": "World"
-  },
-  {
-   "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "source": "BBC",
-   "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "body": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-18T16:37:49Z",
-   "topic": "World"
-  },
-  {
-   "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-   "source": "BBC",
-   "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-   "body": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-18T16:33:16Z",
    "topic": "World"
   },
   {
@@ -843,17 +854,6 @@
    ],
    "publishedAt": "2026-11-18T11:00:00Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-   "source": "NPR",
-   "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-   "body": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-   "sources": [
-    "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
-   ],
-   "publishedAt": "2026-11-18T11:00:00Z",
-   "topic": "News"
   },
   {
    "title": "Companies That Helped Gut EU Climate Law Turn Up for COP31",
