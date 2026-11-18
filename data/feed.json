@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T00:02:05Z",
+ "updatedAt": "2026-11-18T00:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64815.5,
-   "changePct": -0.06,
+   "price": 64809.5781,
+   "changePct": -0.07,
    "prevClose": 64856.9805,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1822.79,
-   "changePct": 0.06,
+   "price": 1819.46,
+   "changePct": -0.12,
    "prevClose": 1821.62,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.84,
-   "changePct": 0.98,
+   "price": 85.92,
+   "changePct": 1.07,
    "prevClose": 85.01,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T23:10:57Z"
+   "asOf": "2026-11-18T00:10:49Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 93.33,
-   "changePct": 1.73,
+   "price": 93.31,
+   "changePct": 1.71,
    "prevClose": 91.74,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T23:10:57Z"
+   "asOf": "2026-11-18T00:10:49Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.08,
-   "changePct": -0.12,
+   "price": 40.04,
+   "changePct": -0.22,
    "prevClose": 40.13,
-   "note": "Gasoline 19.44 · Diesel 81.36",
+   "note": "Gasoline 19.35 · Diesel 81.43",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.5066,
-   "changePct": 0.71,
+   "price": 2.5064,
+   "changePct": 0.7,
    "prevClose": 2.489,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.981,
-   "changePct": 0.51,
+   "price": 3.9845,
+   "changePct": 0.6,
    "prevClose": 3.9609,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.05,
+   "price": 4.07,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T23:10:57Z"
+   "asOf": "2026-11-18T00:10:49Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T23:10:57Z"
+   "asOf": "2026-11-18T00:10:49Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-17T23:10:57Z"
+   "asOf": "2026-11-18T00:10:49Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.79,
    "note": "Week ago 3.9788 · Year ago 3.0729",
    "source": "AAA",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.2312 · Year ago 3.1344",
    "source": "AAA",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.1572 · Year ago 3.7655",
    "source": "AAA",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.17,
    "note": "Week ago 6.4236 · Year ago 3.9032",
    "source": "AAA",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3852.7,
-   "changePct": -0.63,
+   "price": 3846.3,
+   "changePct": -0.8,
    "prevClose": 3877.2,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 47.39,
-   "changePct": -0.2,
+   "price": 47.285,
+   "changePct": -0.42,
    "prevClose": 47.485,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 6.0105,
-   "changePct": 0.41,
+   "price": 6.0065,
+   "changePct": 0.34,
    "prevClose": 5.986,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.64,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T00:02:05Z"
+   "asOf": "2026-11-18T00:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-17T23:10:57Z"
+   "asOf": "2026-11-18T00:10:49Z"
   }
  ],
  "weather": {
@@ -713,8 +713,8 @@
   {
    "title": "Thomas Markle charged over child sex abuse material in Philippines",
    "source": "BBC",
-   "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
-   "body": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+   "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+   "body": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
    ],
