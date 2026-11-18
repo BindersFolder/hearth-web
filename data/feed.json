@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-18T16:02:04Z",
+ "updatedAt": "2026-11-18T16:17:05Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 729.86,
-   "changePct": -1.04,
+   "price": 728.442,
+   "changePct": -1.23,
    "prevClose": 737.5,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 657.42,
-   "changePct": -1.27,
+   "price": 655.3001,
+   "changePct": -1.59,
    "prevClose": 665.8583,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 501.59,
-   "changePct": -1.42,
+   "price": 500.91,
+   "changePct": -1.56,
    "prevClose": 508.83,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 270.2001,
-   "changePct": 0.0,
+   "price": 269.3101,
+   "changePct": -0.33,
    "prevClose": 270.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62989.5781,
-   "changePct": -2.9,
+   "price": 62657.4492,
+   "changePct": -3.42,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1764.66,
-   "changePct": -3.19,
+   "price": 1757.7,
+   "changePct": -3.57,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 83.3,
-   "changePct": -1.7,
+   "price": 82.95,
+   "changePct": -2.11,
    "prevClose": 84.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T15:10:35Z"
+   "asOf": "2026-11-18T16:10:12Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.44,
-   "changePct": -3.28,
+   "price": 89.19,
+   "changePct": -3.55,
    "prevClose": 92.47,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T15:10:35Z"
+   "asOf": "2026-11-18T16:10:12Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 39.97,
-   "changePct": 0.6,
+   "price": 40.04,
+   "changePct": 0.78,
    "prevClose": 39.73,
-   "note": "Gasoline 19.94 · Diesel 80.03",
+   "note": "Gasoline 19.98 · Diesel 80.17",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.257,
-   "changePct": 3.0,
+   "price": 3.252,
+   "changePct": 2.85,
    "prevClose": 3.162,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4581,
-   "changePct": -0.75,
+   "price": 2.4506,
+   "changePct": -1.05,
    "prevClose": 2.4767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8889,
-   "changePct": -1.23,
+   "price": 3.8838,
+   "changePct": -1.36,
    "prevClose": 3.9372,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.96,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T15:10:35Z"
+   "asOf": "2026-11-18T16:10:12Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T15:10:35Z"
+   "asOf": "2026-11-18T16:10:12Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T15:10:35Z"
+   "asOf": "2026-11-18T16:10:12Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3754.2,
-   "changePct": -0.86,
+   "price": 3750.5,
+   "changePct": -0.96,
    "prevClose": 3786.8,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 44.915,
-   "changePct": -1.95,
+   "price": 44.93,
+   "changePct": -1.92,
    "prevClose": 45.81,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.6465,
-   "changePct": -4.05,
+   "price": 5.635,
+   "changePct": -4.25,
    "prevClose": 5.885,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.07,
-   "changePct": -0.65,
+   "price": 5.072,
+   "changePct": -0.61,
    "prevClose": 5.103,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.823,
-   "changePct": 0.2,
+   "price": 103.86,
+   "changePct": 0.23,
    "prevClose": 103.618,
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 25.26,
+   "price": 24.83,
    "changePct": null,
    "prevClose": 25.45,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T16:02:04Z"
+   "asOf": "2026-11-18T16:17:05Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Fear",
    "source": "Stocklake",
-   "asOf": "2026-11-18T15:10:35Z"
+   "asOf": "2026-11-18T16:10:12Z"
   }
  ],
  "weather": {
@@ -702,15 +702,15 @@
  },
  "news": [
   {
-   "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-   "source": "NPR",
-   "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S",
-   "body": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "source": "BBC",
+   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+   "body": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
    "sources": [
-    "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+    "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-18T15:56:30Z",
-   "topic": "News"
+   "publishedAt": "2026-11-18T16:10:44Z",
+   "topic": "World"
   },
   {
    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
@@ -720,8 +720,19 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-18T15:56:29Z",
+   "publishedAt": "2026-11-18T16:05:32Z",
    "topic": "World"
+  },
+  {
+   "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+   "source": "NPR",
+   "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S",
+   "body": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+   "sources": [
+    "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+   ],
+   "publishedAt": "2026-11-18T15:56:30Z",
+   "topic": "News"
   },
   {
    "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
@@ -765,17 +776,6 @@
     "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-18T14:30:33Z",
-   "topic": "World"
-  },
-  {
-   "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-   "source": "BBC",
-   "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-   "body": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-18T13:04:48Z",
    "topic": "World"
   },
   {
