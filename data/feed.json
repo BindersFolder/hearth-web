@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T11:02:04Z",
+ "updatedAt": "2026-11-18T11:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64229.1602,
-   "changePct": -0.99,
+   "price": 64132.6719,
+   "changePct": -1.14,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1802.01,
-   "changePct": -1.14,
+   "price": 1797.6,
+   "changePct": -1.38,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 83.19,
-   "changePct": -1.83,
+   "price": 83.73,
+   "changePct": -1.19,
    "prevClose": 84.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T03:10:52Z"
+   "asOf": "2026-11-18T11:10:25Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.35,
-   "changePct": -3.37,
+   "price": 89.85,
+   "changePct": -2.83,
    "prevClose": 92.47,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T03:10:52Z"
+   "asOf": "2026-11-18T11:10:25Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.66,
-   "changePct": 2.34,
+   "price": 40.83,
+   "changePct": 2.77,
    "prevClose": 39.73,
-   "note": "Gasoline 20.30 · Diesel 81.38",
+   "note": "Gasoline 20.27 · Diesel 81.95",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.192,
-   "changePct": 0.95,
+   "price": 3.202,
+   "changePct": 1.27,
    "prevClose": 3.162,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.464,
-   "changePct": -0.51,
+   "price": 2.4763,
+   "changePct": -0.02,
    "prevClose": 2.4767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9183,
-   "changePct": -0.48,
+   "price": 3.9447,
+   "changePct": 0.19,
    "prevClose": 3.9372,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.04,
-   "changePct": -0.7,
+   "price": 4.0,
+   "changePct": -1.7,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T03:10:52Z"
+   "asOf": "2026-11-18T11:10:25Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T03:10:52Z"
+   "asOf": "2026-11-18T11:10:25Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T03:10:52Z"
+   "asOf": "2026-11-18T11:10:25Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3771.8999,
-   "changePct": -0.39,
+   "price": 3770.6001,
+   "changePct": -0.43,
    "prevClose": 3786.8,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 45.71,
-   "changePct": -0.22,
+   "price": 45.685,
+   "changePct": -0.27,
    "prevClose": 45.81,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.753,
-   "changePct": -2.24,
+   "price": 5.7445,
+   "changePct": -2.39,
    "prevClose": 5.885,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.753,
-   "changePct": 0.13,
+   "price": 103.785,
+   "changePct": 0.16,
    "prevClose": 103.618,
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 23.64,
+   "price": 23.75,
    "changePct": null,
    "prevClose": 25.45,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T11:02:04Z"
+   "asOf": "2026-11-18T11:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-18T03:10:52Z"
+   "asOf": "2026-11-18T11:10:25Z"
   }
  ],
  "weather": {
@@ -713,23 +713,23 @@
    "topic": "Independent"
   },
   {
-   "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-   "source": "NPR",
-   "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-   "body": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-   "sources": [
-    "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
-   ],
-   "publishedAt": "2026-11-18T11:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
    "source": "NPR",
    "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
    "body": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
    "sources": [
     "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue"
+   ],
+   "publishedAt": "2026-11-18T11:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+   "source": "NPR",
+   "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+   "body": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+   "sources": [
+    "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
    ],
    "publishedAt": "2026-11-18T11:00:00Z",
    "topic": "News"
@@ -768,12 +768,12 @@
    "topic": "News"
   },
   {
-   "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+   "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
    "source": "NPR",
-   "summary": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
-   "body": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
+   "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety",
+   "body": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
    "sources": [
-    "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety"
+    "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics"
    ],
    "publishedAt": "2026-11-18T10:00:00Z",
    "topic": "News"
