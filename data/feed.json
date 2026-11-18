@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-18T21:02:04Z",
+ "updatedAt": "2026-11-18T21:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 730.25,
-   "changePct": -0.98,
+   "price": 730.2,
+   "changePct": -0.99,
    "prevClose": 737.5,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,79 +35,79 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 270.13,
-   "changePct": -0.02,
+   "price": 270.11,
+   "changePct": -0.03,
    "prevClose": 270.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62552.6719,
-   "changePct": -3.58,
+   "price": 62363.9883,
+   "changePct": -3.87,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1754.45,
-   "changePct": -3.75,
+   "price": 1752.8199,
+   "changePct": -3.84,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 82.03,
-   "changePct": -3.2,
+   "price": 81.89,
+   "changePct": -3.36,
    "prevClose": 84.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
    "name": "WTI spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.62,
+   "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T20:10:49Z"
+   "asOf": "2026-11-18T21:10:59Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.87,
-   "changePct": -3.89,
+   "price": 88.76,
+   "changePct": -4.01,
    "prevClose": 92.47,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T20:10:49Z"
+   "asOf": "2026-11-18T21:10:59Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.63,
-   "changePct": 2.27,
+   "price": 40.58,
+   "changePct": 2.14,
    "prevClose": 39.73,
-   "note": "Gasoline 20.55 · Diesel 80.78",
+   "note": "Gasoline 20.54 · Diesel 80.68",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.413,
-   "changePct": 7.94,
+   "price": 3.403,
+   "changePct": 7.62,
    "prevClose": 3.162,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4424,
-   "changePct": -1.38,
+   "price": 2.4388,
+   "changePct": -1.53,
    "prevClose": 2.4767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8764,
-   "changePct": -1.54,
+   "price": 3.8706,
+   "changePct": -1.69,
    "prevClose": 3.9372,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.98,
+   "price": 3.96,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T20:10:49Z"
+   "asOf": "2026-11-18T21:10:59Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T20:10:49Z"
+   "asOf": "2026-11-18T21:10:59Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T20:10:49Z"
+   "asOf": "2026-11-18T21:10:59Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3731.8999,
-   "changePct": -1.45,
+   "price": 3728.7,
+   "changePct": -1.53,
    "prevClose": 3786.8,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 44.96,
-   "changePct": -1.86,
+   "price": 44.955,
+   "changePct": -1.87,
    "prevClose": 45.81,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.6655,
-   "changePct": -3.73,
+   "price": 5.673,
+   "changePct": -3.6,
    "prevClose": 5.885,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.79,
-   "changePct": 0.17,
+   "price": 103.771,
+   "changePct": 0.15,
    "prevClose": 103.618,
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.57,
+   "price": 24.64,
    "changePct": null,
    "prevClose": 25.45,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T21:02:04Z"
+   "asOf": "2026-11-18T21:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,65 +339,56 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-18T20:10:49Z"
+   "asOf": "2026-11-18T21:10:59Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 61,
+  "temp": 58,
   "high": 62,
   "low": 33,
-  "humidity": 39,
-  "wind": 6,
+  "humidity": 42,
+  "wind": 5,
   "summary": "Sunny. High near 62, with temperatures falling to around 55 in the afternoon. West wind around 5 mph. Patchy fog after 11pm. Mostly clear, with a low around 33. Northwest wind around 2 mph. Patchy fog before 9am. Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West wind 1 to 5 mph.",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-18T15:00:00-05:00",
-    "temp": 61,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 6,
-    "humidity": 39
-   },
-   {
     "time": "2026-11-18T16:00:00-05:00",
-    "temp": 59,
+    "temp": 58,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 5,
-    "humidity": 40
+    "humidity": 42
    },
    {
     "time": "2026-11-18T17:00:00-05:00",
-    "temp": 57,
+    "temp": 55,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
     "wind": 3,
-    "humidity": 42
+    "humidity": 47
    },
    {
     "time": "2026-11-18T18:00:00-05:00",
-    "temp": 54,
+    "temp": 53,
     "condition": "clearNight",
     "conditionText": "Clear",
     "precipPct": 0,
     "wind": 2,
-    "humidity": 45
+    "humidity": 52
    },
    {
     "time": "2026-11-18T19:00:00-05:00",
-    "temp": 51,
+    "temp": 50,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 48
+    "humidity": 61
    },
    {
     "time": "2026-11-18T20:00:00-05:00",
@@ -406,58 +397,58 @@
     "conditionText": "Mostly Clear",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 54
+    "humidity": 63
    },
    {
     "time": "2026-11-18T21:00:00-05:00",
-    "temp": 45,
+    "temp": 46,
     "condition": "clearNight",
     "conditionText": "Clear",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 62
+    "humidity": 68
    },
    {
     "time": "2026-11-18T22:00:00-05:00",
-    "temp": 43,
+    "temp": 44,
     "condition": "clearNight",
     "conditionText": "Mostly Clear",
     "precipPct": 0,
     "wind": 1,
-    "humidity": 67
-   },
-   {
-    "time": "2026-11-18T23:00:00-05:00",
-    "temp": 41,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 0,
     "humidity": 73
    },
    {
-    "time": "2026-11-19T00:00:00-05:00",
-    "temp": 40,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
+    "time": "2026-11-18T23:00:00-05:00",
+    "temp": 42,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
     "precipPct": 0,
-    "wind": 0,
+    "wind": 1,
+    "humidity": 76
+   },
+   {
+    "time": "2026-11-19T00:00:00-05:00",
+    "temp": 41,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
+    "precipPct": 0,
+    "wind": 1,
     "humidity": 79
    },
    {
     "time": "2026-11-19T01:00:00-05:00",
-    "temp": 39,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
+    "temp": 40,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
     "precipPct": 0,
-    "wind": 0,
+    "wind": 1,
     "humidity": 82
    },
    {
     "time": "2026-11-19T02:00:00-05:00",
     "temp": 38,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
     "precipPct": 0,
     "wind": 0,
     "humidity": 85
@@ -465,56 +456,56 @@
    {
     "time": "2026-11-19T03:00:00-05:00",
     "temp": 36,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 89
-   },
-   {
-    "time": "2026-11-19T04:00:00-05:00",
-    "temp": 36,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 89
-   },
-   {
-    "time": "2026-11-19T05:00:00-05:00",
-    "temp": 36,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 85
-   },
-   {
-    "time": "2026-11-19T06:00:00-05:00",
-    "temp": 34,
-    "condition": "sun",
-    "conditionText": "Sunny",
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
     "precipPct": 0,
     "wind": 0,
     "humidity": 92
+   },
+   {
+    "time": "2026-11-19T04:00:00-05:00",
+    "temp": 34,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
+   },
+   {
+    "time": "2026-11-19T05:00:00-05:00",
+    "temp": 33,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
+   },
+   {
+    "time": "2026-11-19T06:00:00-05:00",
+    "temp": 33,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 96
    },
    {
     "time": "2026-11-19T07:00:00-05:00",
     "temp": 34,
-    "condition": "sun",
-    "conditionText": "Sunny",
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
     "precipPct": 0,
-    "wind": 0,
+    "wind": 1,
     "humidity": 92
    },
    {
     "time": "2026-11-19T08:00:00-05:00",
-    "temp": 37,
-    "condition": "sun",
-    "conditionText": "Sunny",
+    "temp": 38,
+    "condition": "fog",
+    "conditionText": "Patchy Fog",
     "precipPct": 0,
-    "wind": 0,
-    "humidity": 92
+    "wind": 2,
+    "humidity": 79
    },
    {
     "time": "2026-11-19T09:00:00-05:00",
@@ -522,53 +513,62 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 0,
-    "humidity": 79
+    "wind": 2,
+    "humidity": 67
    },
    {
     "time": "2026-11-19T10:00:00-05:00",
-    "temp": 47,
+    "temp": 49,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
-    "humidity": 68
+    "wind": 3,
+    "humidity": 56
    },
    {
     "time": "2026-11-19T11:00:00-05:00",
-    "temp": 51,
+    "temp": 54,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
-    "humidity": 61
+    "wind": 3,
+    "humidity": 47
    },
    {
     "time": "2026-11-19T12:00:00-05:00",
-    "temp": 56,
+    "temp": 58,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
-    "humidity": 49
+    "wind": 3,
+    "humidity": 39
    },
    {
     "time": "2026-11-19T13:00:00-05:00",
-    "temp": 59,
+    "temp": 61,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
-    "humidity": 44
+    "wind": 3,
+    "humidity": 35
    },
    {
     "time": "2026-11-19T14:00:00-05:00",
-    "temp": 60,
+    "temp": 62,
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 1,
-    "humidity": 42
+    "wind": 5,
+    "humidity": 32
+   },
+   {
+    "time": "2026-11-19T15:00:00-05:00",
+    "temp": 62,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 32
    }
   ],
   "daily": [
