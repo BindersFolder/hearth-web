@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:02:04Z",
+ "updatedAt": "2026-11-18T13:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64011.3906,
-   "changePct": -1.33,
+   "price": 63967.5703,
+   "changePct": -1.4,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1794.3,
+   "price": 1794.36,
    "changePct": -1.56,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 84.29,
-   "changePct": -0.53,
+   "price": 84.27,
+   "changePct": -0.55,
    "prevClose": 84.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T12:11:06Z"
+   "asOf": "2026-11-18T13:10:20Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.36,
-   "changePct": -2.28,
+   "price": 90.33,
+   "changePct": -2.31,
    "prevClose": 92.47,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T12:11:06Z"
+   "asOf": "2026-11-18T13:10:20Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.79,
-   "changePct": 2.67,
+   "price": 40.89,
+   "changePct": 2.92,
    "prevClose": 39.73,
-   "note": "Gasoline 20.07 · Diesel 82.22",
+   "note": "Gasoline 20.09 · Diesel 82.50",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.258,
-   "changePct": 3.04,
+   "price": 3.259,
+   "changePct": 3.07,
    "prevClose": 3.162,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4848,
-   "changePct": 0.33,
+   "price": 2.4847,
+   "changePct": 0.32,
    "prevClose": 2.4767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9646,
-   "changePct": 0.7,
+   "price": 3.9706,
+   "changePct": 0.85,
    "prevClose": 3.9372,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.03,
-   "changePct": -1.2,
+   "price": 4.05,
+   "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T12:11:06Z"
+   "asOf": "2026-11-18T13:10:20Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T12:11:06Z"
+   "asOf": "2026-11-18T13:10:20Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T12:11:06Z"
+   "asOf": "2026-11-18T13:10:20Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3748.8999,
-   "changePct": -1.0,
+   "price": 3760.1001,
+   "changePct": -0.71,
    "prevClose": 3786.8,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 45.15,
-   "changePct": -1.44,
+   "price": 45.44,
+   "changePct": -0.81,
    "prevClose": 45.81,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.752,
-   "changePct": -2.26,
+   "price": 5.731,
+   "changePct": -2.62,
    "prevClose": 5.885,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.885,
-   "changePct": 0.26,
+   "price": 103.806,
+   "changePct": 0.18,
    "prevClose": 103.618,
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.73,
+   "price": 24.66,
    "changePct": null,
    "prevClose": 25.45,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T13:02:04Z"
+   "asOf": "2026-11-18T13:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-18T12:11:06Z"
+   "asOf": "2026-11-18T13:10:20Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+   "source": "NPR",
+   "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid",
+   "body": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+   "sources": [
+    "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe"
+   ],
+   "publishedAt": "2026-11-18T13:03:38Z",
+   "topic": "News"
+  },
+  {
    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
    "source": "BBC",
    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
@@ -799,17 +810,6 @@
    ],
    "publishedAt": "2026-11-18T10:23:57Z",
    "topic": "World"
-  },
-  {
-   "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
-   "source": "NPR",
-   "summary": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational.",
-   "body": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational.",
-   "sources": [
-    "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it"
-   ],
-   "publishedAt": "2026-11-18T10:02:00Z",
-   "topic": "News"
   },
   {
    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
