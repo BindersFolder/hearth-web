@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T22:32:04Z",
+ "updatedAt": "2026-11-18T22:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62506.3008,
-   "changePct": -3.65,
+   "price": 62378.9609,
+   "changePct": -3.84,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1762.55,
-   "changePct": -3.3,
+   "price": 1760.9399,
+   "changePct": -3.39,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 39.73,
    "note": "Gasoline 20.38 · Diesel 80.28",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T22:32:04Z"
+   "asOf": "2026-11-18T22:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "source": "BBC",
+   "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "body": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-18T22:34:56Z",
+   "topic": "World"
+  },
+  {
    "title": "Anthropic’s IPO and the Danger to All of Us",
    "source": "Zeteo",
    "summary": "What they’re not telling you about this week’s stock market debut – the AI company, its founders and the investment bankers are guaranteed a payday, while the risks are borne by everyone else.",
@@ -722,17 +733,6 @@
    ],
    "publishedAt": "2026-11-18T20:38:23Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "source": "BBC",
-   "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "body": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-18T20:14:57Z",
-   "topic": "World"
   },
   {
    "title": "William and Kate meet PM Modi as they wrap up India tour",
