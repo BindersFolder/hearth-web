@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-18T17:32:04Z",
+ "updatedAt": "2026-11-18T17:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 733.77,
-   "changePct": -0.51,
+   "price": 731.805,
+   "changePct": -0.77,
    "prevClose": 737.5,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 662.55,
-   "changePct": -0.5,
+   "price": 659.59,
+   "changePct": -0.94,
    "prevClose": 665.8583,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 504.135,
-   "changePct": -0.92,
+   "price": 503.1,
+   "changePct": -1.13,
    "prevClose": 508.83,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 272.28,
-   "changePct": 0.77,
+   "price": 271.91,
+   "changePct": 0.64,
    "prevClose": 270.19,
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 63260.4492,
-   "changePct": -2.49,
+   "price": 63150.9414,
+   "changePct": -2.65,
    "prevClose": 64873.1797,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1776.45,
-   "changePct": -2.54,
+   "price": 1770.9,
+   "changePct": -2.85,
    "prevClose": 1822.77,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.39,
-   "changePct": -3.95,
+   "price": 81.69,
+   "changePct": -3.6,
    "prevClose": 84.74,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.02,
-   "changePct": -4.81,
+   "price": 88.45,
+   "changePct": -4.35,
    "prevClose": 92.47,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.57,
-   "changePct": 2.11,
+   "price": 40.78,
+   "changePct": 2.64,
    "prevClose": 39.73,
-   "note": "Gasoline 20.45 · Diesel 80.81",
+   "note": "Gasoline 20.61 · Diesel 81.14",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.331,
-   "changePct": 5.34,
+   "price": 3.34,
+   "changePct": 5.63,
    "prevClose": 3.162,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4247,
-   "changePct": -2.1,
+   "price": 2.4356,
+   "changePct": -1.66,
    "prevClose": 2.4767,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8619,
-   "changePct": -1.91,
+   "price": 3.8768,
+   "changePct": -1.53,
    "prevClose": 3.9372,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.9429 · Year ago 3.0769",
    "source": "AAA",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.51,
    "note": "Week ago 4.2087 · Year ago 3.1382",
    "source": "AAA",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.42,
    "note": "Week ago 6.1306 · Year ago 3.7723",
    "source": "AAA",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.26,
    "note": "Week ago 6.4034 · Year ago 3.9107",
    "source": "AAA",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3747.2,
-   "changePct": -1.05,
+   "price": 3745.6001,
+   "changePct": -1.09,
    "prevClose": 3786.8,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 44.975,
-   "changePct": -1.82,
+   "price": 45.03,
+   "changePct": -1.7,
    "prevClose": 45.81,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.6515,
-   "changePct": -3.97,
+   "price": 5.6565,
+   "changePct": -3.88,
    "prevClose": 5.885,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 5.056,
-   "changePct": -0.92,
+   "price": 5.07,
+   "changePct": -0.65,
    "prevClose": 5.103,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.793,
+   "price": 103.79,
    "changePct": 0.17,
    "prevClose": 103.618,
    "high52": 103.78,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.51,
+   "price": 23.57,
    "changePct": null,
    "prevClose": 25.45,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T17:32:04Z"
+   "asOf": "2026-11-18T17:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+   "source": "BBC",
+   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+   "body": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-18T17:34:25Z",
+   "topic": "World"
+  },
+  {
    "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
    "source": "NPR",
    "summary": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
@@ -788,17 +799,6 @@
    ],
    "publishedAt": "2026-11-18T15:56:30Z",
    "topic": "News"
-  },
-  {
-   "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-   "source": "BBC",
-   "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-   "body": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-18T15:39:57Z",
-   "topic": "World"
   },
   {
    "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
