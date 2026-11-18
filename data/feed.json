@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T02:02:04Z",
+ "updatedAt": "2026-11-18T02:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 64205.6289,
-   "changePct": -1.0,
+   "price": 64231.1914,
+   "changePct": -0.96,
    "prevClose": 64856.9805,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1798.37,
-   "changePct": -1.28,
+   "price": 1799.61,
+   "changePct": -1.21,
    "prevClose": 1821.62,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.45,
-   "changePct": 0.52,
+   "price": 85.07,
+   "changePct": 0.07,
    "prevClose": 85.01,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.62,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T01:11:01Z"
+   "asOf": "2026-11-18T02:11:10Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.85,
-   "changePct": 1.21,
+   "price": 92.57,
+   "changePct": 0.9,
    "prevClose": 91.74,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.14,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T01:11:01Z"
+   "asOf": "2026-11-18T02:11:10Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.15,
-   "changePct": 0.05,
+   "price": 40.12,
+   "changePct": -0.02,
    "prevClose": 40.13,
-   "note": "Gasoline 19.52 · Diesel 81.42",
+   "note": "Gasoline 19.56 · Diesel 81.25",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.178,
-   "changePct": 2.95,
+   "price": 3.176,
+   "changePct": 2.88,
    "prevClose": 3.087,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4992,
-   "changePct": 0.41,
+   "price": 2.4913,
+   "changePct": 0.09,
    "prevClose": 2.489,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9732,
-   "changePct": 0.31,
+   "price": 3.9599,
+   "changePct": -0.03,
    "prevClose": 3.9609,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 4.06,
-   "changePct": -0.3,
+   "price": 4.05,
+   "changePct": -0.5,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T01:11:01Z"
+   "asOf": "2026-11-18T02:11:10Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 4.04,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T01:11:01Z"
+   "asOf": "2026-11-18T02:11:10Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.06,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-18T01:11:01Z"
+   "asOf": "2026-11-18T02:11:10Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.79,
    "note": "Week ago 3.9788 · Year ago 3.0729",
    "source": "AAA",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.42,
    "note": "Week ago 4.2312 · Year ago 3.1344",
    "source": "AAA",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.24,
    "note": "Week ago 6.1572 · Year ago 3.7655",
    "source": "AAA",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.17,
    "note": "Week ago 6.4236 · Year ago 3.9032",
    "source": "AAA",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3808.5,
-   "changePct": -1.77,
+   "price": 3795.1001,
+   "changePct": -2.12,
    "prevClose": 3877.2,
    "high52": 5586.2,
    "low52": 3835.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 46.665,
-   "changePct": -1.73,
+   "price": 46.065,
+   "changePct": -2.99,
    "prevClose": 47.485,
    "high52": 121.3,
    "low52": 46.47,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.9885,
-   "changePct": 0.04,
+   "price": 5.958,
+   "changePct": -0.47,
    "prevClose": 5.986,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.624,
-   "changePct": 0.1,
+   "price": 103.606,
+   "changePct": 0.08,
    "prevClose": 103.525,
    "high52": 103.64,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-18T02:02:04Z"
+   "asOf": "2026-11-18T02:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-18T01:11:01Z"
+   "asOf": "2026-11-18T02:11:10Z"
   }
  ],
  "weather": {
@@ -700,6 +700,17 @@
  },
  "news": [
   {
+   "title": "Companies That Helped Gut EU Climate Law Turn Up for COP31",
+   "source": "Drop Site News",
+   "summary": "The Trump administration boycotted the UN’s annual climate talks but members of the “Competitiveness Roundtable,” a secretive coalition of fossil fuel companies, showed up in force.",
+   "body": "The Trump administration boycotted the UN’s annual climate talks but members of the “Competitiveness Roundtable,” a secretive coalition of fossil fuel companies, showed up in force.",
+   "sources": [
+    "https://www.dropsitenews.com/p/climate-cop31-competitiveness-roundtable"
+   ],
+   "publishedAt": "2026-11-18T02:15:26Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
    "source": "BBC",
    "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
@@ -863,17 +874,6 @@
    ],
    "publishedAt": "2026-11-17T15:52:35Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-   "source": "NPR",
-   "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced",
-   "body": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-   "sources": [
-    "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
-   ],
-   "publishedAt": "2026-11-17T12:20:57Z",
-   "topic": "News"
   }
  ],
  "highlights": []
