@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T23:17:04Z",
+ "updatedAt": "2026-11-19T23:32:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 228.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62032.0781,
-   "changePct": -1.51,
+   "price": 61742.4492,
+   "changePct": -1.97,
    "prevClose": 62981.7109,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1757.26,
-   "changePct": -0.98,
+   "price": 1747.12,
+   "changePct": -1.55,
    "prevClose": 1774.58,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 83.08,
-   "changePct": 1.05,
+   "price": 83.02,
+   "changePct": 0.97,
    "prevClose": 82.22,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.05,
-   "changePct": 0.82,
+   "price": 90.01,
+   "changePct": 0.77,
    "prevClose": 89.32,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 40.56,
-   "changePct": -0.05,
+   "price": 40.75,
+   "changePct": 0.42,
    "prevClose": 40.58,
-   "note": "Gasoline 20.79 · Diesel 80.12",
+   "note": "Gasoline 20.99 · Diesel 80.27",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.249,
-   "changePct": -4.02,
+   "price": 3.247,
+   "changePct": -4.08,
    "prevClose": 3.385,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.473,
-   "changePct": 0.77,
+   "price": 2.4764,
+   "changePct": 0.91,
    "prevClose": 2.4541,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8857,
-   "changePct": 0.57,
+   "price": 3.8879,
+   "changePct": 0.63,
    "prevClose": 3.8635,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.77,
    "note": "Week ago 3.9081 · Year ago 3.0936",
    "source": "AAA",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.48,
    "note": "Week ago 4.1894 · Year ago 3.1425",
    "source": "AAA",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.5,
    "note": "Week ago 6.0977 · Year ago 3.7833",
    "source": "AAA",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.35,
    "note": "Week ago 6.3879 · Year ago 3.9159",
    "source": "AAA",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3634.2,
-   "changePct": -2.42,
+   "price": 3627.8999,
+   "changePct": -2.59,
    "prevClose": 3724.2,
    "high52": 5586.2,
    "low52": 3721.8,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 43.055,
-   "changePct": -4.5,
+   "price": 42.87,
+   "changePct": -4.91,
    "prevClose": 45.085,
    "high52": 121.3,
    "low52": 44.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.577,
-   "changePct": -1.69,
+   "price": 5.574,
+   "changePct": -1.75,
    "prevClose": 5.673,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.91,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-19T23:17:04Z"
+   "asOf": "2026-11-19T23:32:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Trump posthumously pardons US baseball legend Pete Rose",
+   "source": "BBC",
+   "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+   "body": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-19T23:18:43Z",
+   "topic": "World"
+  },
+  {
    "title": "California probing whether China improperly acquired Nvidia technology",
    "source": "BBC",
    "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
@@ -765,17 +776,6 @@
     "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-19T21:38:42Z",
-   "topic": "World"
-  },
-  {
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "source": "BBC",
-   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "body": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-19T21:21:43Z",
    "topic": "World"
   },
   {
