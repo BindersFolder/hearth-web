@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T10:47:04Z",
+ "updatedAt": "2026-11-20T11:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 229.58,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62143.7305,
-   "changePct": 0.38,
+   "price": 61949.3594,
+   "changePct": 0.06,
    "prevClose": 61911.1719,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1758.01,
-   "changePct": 0.15,
+   "price": 1754.45,
+   "changePct": -0.05,
    "prevClose": 1755.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.33,
-   "changePct": -2.0,
+   "price": 81.38,
+   "changePct": -1.94,
    "prevClose": 82.99,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.1,
-   "changePct": -2.17,
+   "price": 88.14,
+   "changePct": -2.12,
    "prevClose": 90.05,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 41.08,
-   "changePct": 0.17,
+   "price": 41.28,
+   "changePct": 0.66,
    "prevClose": 41.01,
-   "note": "Gasoline 21.48 · Diesel 80.27",
+   "note": "Gasoline 21.50 · Diesel 80.84",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.593,
-   "changePct": 11.2,
+   "price": 3.582,
+   "changePct": 10.86,
    "prevClose": 3.231,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4479,
-   "changePct": -1.46,
+   "price": 2.4496,
+   "changePct": -1.39,
    "prevClose": 2.4841,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8475,
-   "changePct": -1.07,
+   "price": 3.8624,
+   "changePct": -0.69,
    "prevClose": 3.8891,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.8724 · Year ago 3.1003",
    "source": "AAA",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.52,
    "note": "Week ago 4.1694 · Year ago 3.148",
    "source": "AAA",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.53,
    "note": "Week ago 6.064 · Year ago 3.7929",
    "source": "AAA",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.32,
    "note": "Week ago 6.3758 · Year ago 3.9231",
    "source": "AAA",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3592.3,
-   "changePct": 1.68,
+   "price": 3588.3999,
+   "changePct": 1.57,
    "prevClose": 3533.0,
    "high52": 5586.2,
    "low52": 3620.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 42.67,
-   "changePct": 3.17,
+   "price": 42.57,
+   "changePct": 2.93,
    "prevClose": 41.36,
    "high52": 121.3,
    "low52": 44.32,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.5725,
-   "changePct": 1.41,
+   "price": 5.5645,
+   "changePct": 1.26,
    "prevClose": 5.495,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.848,
-   "changePct": 0.06,
+   "price": 103.87,
+   "changePct": 0.08,
    "prevClose": 103.788,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 29.19,
+   "price": 28.64,
    "changePct": null,
    "prevClose": 28.47,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T10:47:04Z"
+   "asOf": "2026-11-20T11:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,25 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "cloud",
-  "conditionText": "Mostly Cloudy",
-  "temp": 40,
+  "condition": "clearNight",
+  "conditionText": "Partly Cloudy",
+  "temp": 39,
   "high": 65,
   "low": 37,
-  "humidity": 70,
+  "humidity": 73,
   "wind": 2,
   "summary": "Sunny. High near 65, with temperatures falling to around 59 in the afternoon. West wind around 5 mph. Mostly clear, with a low around 37. Northwest wind around 2 mph. Mostly sunny. High near 61, with temperatures falling to around 56 in the afternoon. Southeast wind around 2 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-20T04:00:00-05:00",
-    "temp": 40,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 0,
-    "wind": 2,
-    "humidity": 70
-   },
    {
     "time": "2026-11-20T05:00:00-05:00",
     "temp": 39,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 96
+   },
+   {
+    "time": "2026-11-21T04:00:00-05:00",
+    "temp": 38,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 0,
+    "wind": 0,
+    "humidity": 96
    }
   ],
   "daily": [
@@ -694,6 +694,17 @@
   ]
  },
  "news": [
+  {
+   "title": "Sean Duffy’s FAA Fiasco",
+   "source": "The Intercept",
+   "summary": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop.",
+   "body": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop.",
+   "sources": [
+    "https://theintercept.com/2026/11/20/faa-ground-stop-flights-duffy/"
+   ],
+   "publishedAt": "2026-11-20T11:00:00Z",
+   "topic": "Independent"
+  },
   {
    "title": "Three Kyiv bridges hit during major Russian missile attack",
    "source": "BBC",
@@ -846,17 +857,6 @@
     "https://zeteo.com/p/the-genocide-ruling-against-myanmar"
    ],
    "publishedAt": "2026-11-19T19:47:38Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
-   "source": "The Intercept",
-   "summary": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant.",
-   "body": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant.",
-   "sources": [
-    "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/"
-   ],
-   "publishedAt": "2026-11-19T19:37:59Z",
    "topic": "Independent"
   },
   {
