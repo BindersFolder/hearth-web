@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T11:17:04Z",
+ "updatedAt": "2026-11-20T11:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 229.58,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 61762.3086,
-   "changePct": -0.24,
+   "price": 61735.2812,
+   "changePct": -0.28,
    "prevClose": 61911.1719,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1749.3,
-   "changePct": -0.34,
+   "price": 1750.21,
+   "changePct": -0.29,
    "prevClose": 1755.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.64,
-   "changePct": -1.63,
+   "price": 82.23,
+   "changePct": -0.92,
    "prevClose": 82.99,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.46,
-   "changePct": -1.77,
+   "price": 89.05,
+   "changePct": -1.11,
    "prevClose": 90.05,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 41.38,
-   "changePct": 0.9,
+   "price": 41.39,
+   "changePct": 0.93,
    "prevClose": 41.01,
-   "note": "Gasoline 21.63 · Diesel 80.90",
+   "note": "Gasoline 21.54 · Diesel 81.09",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.585,
-   "changePct": 10.96,
+   "price": 3.57,
+   "changePct": 10.49,
    "prevClose": 3.231,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4587,
-   "changePct": -1.02,
+   "price": 2.4708,
+   "changePct": -0.54,
    "prevClose": 2.4841,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8701,
-   "changePct": -0.49,
+   "price": 3.8886,
+   "changePct": -0.01,
    "prevClose": 3.8891,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.8724 · Year ago 3.1003",
    "source": "AAA",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.52,
    "note": "Week ago 4.1694 · Year ago 3.148",
    "source": "AAA",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.53,
    "note": "Week ago 6.064 · Year ago 3.7929",
    "source": "AAA",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.32,
    "note": "Week ago 6.3758 · Year ago 3.9231",
    "source": "AAA",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3588.8999,
-   "changePct": 1.58,
+   "price": 3586.7,
+   "changePct": 1.52,
    "prevClose": 3533.0,
    "high52": 5586.2,
    "low52": 3620.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 42.51,
-   "changePct": 2.78,
+   "price": 42.395,
+   "changePct": 2.5,
    "prevClose": 41.36,
    "high52": 121.3,
    "low52": 44.32,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.5665,
-   "changePct": 1.3,
+   "price": 5.544,
+   "changePct": 0.89,
    "prevClose": 5.495,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.878,
-   "changePct": 0.09,
+   "price": 103.84,
+   "changePct": 0.05,
    "prevClose": 103.788,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 28.89,
+   "price": 29.32,
    "changePct": null,
    "prevClose": 28.47,
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T11:17:04Z"
+   "asOf": "2026-11-20T11:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,8 +344,8 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "sun",
-  "conditionText": "Sunny",
+  "condition": "clearNight",
+  "conditionText": "Partly Cloudy",
   "temp": 39,
   "high": 65,
   "low": 37,
@@ -354,6 +354,15 @@
   "summary": "Sunny. High near 65, with temperatures falling to around 59 in the afternoon. West wind around 5 mph. Mostly clear, with a low around 37. Northwest wind around 2 mph. Mostly sunny. High near 61, with temperatures falling to around 56 in the afternoon. Southeast wind around 2 mph.",
   "alerts": [],
   "hourly": [
+   {
+    "time": "2026-11-20T05:00:00-05:00",
+    "temp": 39,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 73
+   },
    {
     "time": "2026-11-20T06:00:00-05:00",
     "temp": 39,
@@ -560,27 +569,11 @@
     "precipPct": 0,
     "wind": 0,
     "humidity": 96
-   },
-   {
-    "time": "2026-11-21T05:00:00-05:00",
-    "temp": 38,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 96
    }
   ],
   "daily": [
    {
     "date": "2026-11-20",
-    "high": 65,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 5,
-    "windText": "W 5 mph",
-    "summary": "Sunny. High near 65, with temperatures falling to around 59 in the afternoon. West wind around 5 mph.",
     "low": 37,
     "night": {
      "low": 37,
@@ -588,7 +581,14 @@
      "conditionText": "Mostly Clear",
      "summary": "Mostly clear, with a low around 37. Northwest wind around 2 mph.",
      "precipPct": 0
-    }
+    },
+    "high": 65,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 5,
+    "windText": "W 5 mph",
+    "summary": "Sunny. High near 65, with temperatures falling to around 59 in the afternoon. West wind around 5 mph."
    },
    {
     "date": "2026-11-21",
@@ -616,13 +616,13 @@
     "precipPct": 67,
     "wind": 2,
     "windText": "NE 2 mph",
-    "summary": "Rain likely after 7am. Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. Northeast wind around 2 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
+    "summary": "Rain likely after 7am. Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
     "low": 51,
     "night": {
      "low": 51,
      "condition": "rain",
      "conditionText": "Light Rain",
-     "summary": "Rain. Cloudy. Low around 51, with temperatures rising to around 53 overnight. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible.",
+     "summary": "Rain. Cloudy, with a low around 51. Chance of precipitation is 90%.",
      "precipPct": 87
     }
    },
@@ -688,15 +688,8 @@
     "precipPct": 57,
     "wind": 13,
     "windText": "NE 13 mph",
-    "summary": "Rain and snow likely. Mostly cloudy, with a high near 46. Chance of precipitation is 60%.",
-    "low": 34,
-    "night": {
-     "low": 34,
-     "condition": "rain",
-     "conditionText": "Chance Light Rain",
-     "summary": "A chance of rain before 1am. Mostly cloudy, with a low around 34.",
-     "precipPct": 53
-    }
+    "summary": "Rain and snow likely. Mostly cloudy, with a high near 46.",
+    "low": null
    }
   ]
  },
@@ -735,6 +728,28 @@
    "topic": "Independent"
   },
   {
+   "title": "Nearly 600 women killed in South Africa within three months",
+   "source": "BBC",
+   "summary": "Police officials called for \"greater efforts to prevent..",
+   "body": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-20T10:56:02Z",
+   "topic": "World"
+  },
+  {
+   "title": "How exactly did Trump get so rich on crypto? We explain",
+   "source": "NPR",
+   "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies",
+   "body": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+   "sources": [
+    "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer"
+   ],
+   "publishedAt": "2026-11-20T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "New York City unveils a bold plan to move its jails off Rikers Island",
    "source": "NPR",
    "summary": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion",
@@ -752,17 +767,6 @@
    "body": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
    "sources": [
     "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz"
-   ],
-   "publishedAt": "2026-11-20T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "How exactly did Trump get so rich on crypto? We explain",
-   "source": "NPR",
-   "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies",
-   "body": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-   "sources": [
-    "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer"
    ],
    "publishedAt": "2026-11-20T10:00:00Z",
    "topic": "News"
@@ -809,17 +813,6 @@
     "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-20T00:50:24Z",
-   "topic": "World"
-  },
-  {
-   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-   "source": "BBC",
-   "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-   "body": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-20T00:13:21Z",
    "topic": "World"
   },
   {
