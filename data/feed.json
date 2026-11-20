@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T22:17:03Z",
+ "updatedAt": "2026-11-20T22:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 229.58,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59081.3086,
-   "changePct": -4.57,
+   "price": 58915.8086,
+   "changePct": -4.84,
    "prevClose": 61911.1719,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1621.6801,
-   "changePct": -7.61,
+   "price": 1616.09,
+   "changePct": -7.93,
    "prevClose": 1755.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 20.59 · Diesel 78.79",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.8724 · Year ago 3.1003",
    "source": "AAA",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.52,
    "note": "Week ago 4.1694 · Year ago 3.148",
    "source": "AAA",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.53,
    "note": "Week ago 6.064 · Year ago 3.7929",
    "source": "AAA",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.32,
    "note": "Week ago 6.3758 · Year ago 3.9231",
    "source": "AAA",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3620.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 44.32,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:17:03Z"
+   "asOf": "2026-11-20T22:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 63,
+  "temp": 60,
   "high": 68,
   "low": 37,
-  "humidity": 35,
-  "wind": 6,
+  "humidity": 41,
+  "wind": 5,
   "summary": "Sunny. High near 68, with temperatures falling to around 60 in the afternoon. West wind around 6 mph. Patchy frost after 4am. Mostly clear, with a low around 37. North wind around 5 mph. Patchy frost before 9am. Mostly sunny. High near 63, with temperatures falling to around 55 in the afternoon. Southeast wind around 2 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-20T16:00:00-05:00",
-    "temp": 63,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 6,
-    "humidity": 35
-   },
    {
     "time": "2026-11-20T17:00:00-05:00",
     "temp": 60,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 52
+   },
+   {
+    "time": "2026-11-21T16:00:00-05:00",
+    "temp": 60,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 58
    }
   ],
   "daily": [
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+   "source": "NPR",
+   "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction",
+   "body": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+   "sources": [
+    "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+   ],
+   "publishedAt": "2026-11-20T22:11:29Z",
+   "topic": "News"
+  },
+  {
    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
    "source": "BBC",
    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
@@ -821,17 +832,6 @@
    ],
    "publishedAt": "2026-11-20T18:02:02Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-   "source": "NPR",
-   "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-   "body": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-   "sources": [
-    "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
-   ],
-   "publishedAt": "2026-11-20T17:00:00Z",
-   "topic": "News"
   },
   {
    "title": "Did the Blue Tsunami Drown AIPAC? This Former Congressman Says No",
