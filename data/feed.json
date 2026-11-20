@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T22:02:03Z",
+ "updatedAt": "2026-11-20T22:17:03Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 229.58,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 58890.0312,
-   "changePct": -4.88,
+   "price": 59081.3086,
+   "changePct": -4.57,
    "prevClose": 61911.1719,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1614.8,
-   "changePct": -8.0,
+   "price": 1621.6801,
+   "changePct": -7.61,
    "prevClose": 1755.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 83.61,
-   "changePct": 0.75,
+   "price": 83.62,
+   "changePct": 0.76,
    "prevClose": 82.99,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.53,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-20T21:11:01Z"
+   "asOf": "2026-11-20T22:10:45Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.84,
-   "changePct": -0.23,
+   "price": 89.87,
+   "changePct": -0.2,
    "prevClose": 90.05,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-20T21:11:01Z"
+   "asOf": "2026-11-20T22:10:45Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 39.96,
-   "changePct": -2.56,
+   "price": 39.99,
+   "changePct": -2.49,
    "prevClose": 41.01,
-   "note": "Gasoline 20.61 · Diesel 78.67",
+   "note": "Gasoline 20.59 · Diesel 78.79",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.786,
-   "changePct": 17.18,
+   "price": 3.791,
+   "changePct": 17.33,
    "prevClose": 3.231,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4814,
+   "price": 2.4813,
    "changePct": -0.11,
    "prevClose": 2.4841,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8637,
-   "changePct": -0.65,
+   "price": 3.8668,
+   "changePct": -0.57,
    "prevClose": 3.8891,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.95,
-   "changePct": 0.3,
+   "price": 3.94,
+   "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-20T21:11:01Z"
+   "asOf": "2026-11-20T22:10:45Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-20T21:11:01Z"
+   "asOf": "2026-11-20T22:10:45Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-20T21:11:01Z"
+   "asOf": "2026-11-20T22:10:45Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.8724 · Year ago 3.1003",
    "source": "AAA",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.52,
    "note": "Week ago 4.1694 · Year ago 3.148",
    "source": "AAA",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.53,
    "note": "Week ago 6.064 · Year ago 3.7929",
    "source": "AAA",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.32,
    "note": "Week ago 6.3758 · Year ago 3.9231",
    "source": "AAA",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3533.6001,
-   "changePct": 0.02,
+   "price": 3539.0,
+   "changePct": 0.17,
    "prevClose": 3533.0,
    "high52": 5586.2,
    "low52": 3620.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 41.05,
-   "changePct": -0.75,
+   "price": 41.08,
+   "changePct": -0.68,
    "prevClose": 41.36,
    "high52": 121.3,
    "low52": 44.32,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.4635,
-   "changePct": -0.57,
+   "price": 5.465,
+   "changePct": -0.55,
    "prevClose": 5.495,
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.879,
-   "changePct": 0.09,
+   "price": 103.84,
+   "changePct": 0.05,
    "prevClose": 103.788,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-20T22:02:03Z"
+   "asOf": "2026-11-20T22:17:03Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-20T21:11:01Z"
+   "asOf": "2026-11-20T22:10:45Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "source": "BBC",
+   "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "body": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-20T21:57:07Z",
+   "topic": "World"
+  },
+  {
    "title": "The latest from Trump's press conference",
    "source": "NPR",
    "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
@@ -810,17 +821,6 @@
    ],
    "publishedAt": "2026-11-20T18:02:02Z",
    "topic": "Independent"
-  },
-  {
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "source": "BBC",
-   "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-   "body": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-20T17:49:48Z",
-   "topic": "World"
   },
   {
    "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
