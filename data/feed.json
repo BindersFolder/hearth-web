@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T10:02:04Z",
+ "updatedAt": "2026-11-21T10:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 57919.2305,
-   "changePct": -1.52,
+   "price": 57854.1211,
+   "changePct": -1.63,
    "prevClose": 58811.7695,
    "high52": 97860.6,
    "low52": 57708.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1636.1801,
-   "changePct": 1.04,
+   "price": 1633.8,
+   "changePct": 0.9,
    "prevClose": 1619.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 21.13 · Diesel 80.73",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 3.8406 · Year ago 3.0935",
    "source": "AAA",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1524 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.56,
    "note": "Week ago 6.0366 · Year ago 3.7978",
    "source": "AAA",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.27,
    "note": "Week ago 6.3676 · Year ago 3.935",
    "source": "AAA",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T10:02:04Z"
+   "asOf": "2026-11-21T10:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -695,6 +695,50 @@
  },
  "news": [
   {
+   "title": "5 ways to turn off your 'work brain' after the day ends",
+   "source": "NPR",
+   "summary": "Don't let your work troubles follow you home",
+   "body": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
+   "sources": [
+    "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work"
+   ],
+   "publishedAt": "2026-11-21T10:01:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+   "source": "NPR",
+   "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+   "body": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+   "sources": [
+    "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety"
+   ],
+   "publishedAt": "2026-11-21T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "The AI boom had a really bad week — and it's raising loud alarms",
+   "source": "NPR",
+   "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy",
+   "body": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+   "sources": [
+    "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia"
+   ],
+   "publishedAt": "2026-11-21T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+   "source": "NPR",
+   "summary": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+   "body": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+   "sources": [
+    "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact"
+   ],
+   "publishedAt": "2026-11-21T10:00:00Z",
+   "topic": "News"
+  },
+  {
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "source": "BBC",
    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
@@ -770,50 +814,6 @@
    ],
    "publishedAt": "2026-11-21T02:01:49Z",
    "topic": "Independent"
-  },
-  {
-   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-   "source": "NPR",
-   "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction",
-   "body": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
-   "sources": [
-    "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
-   ],
-   "publishedAt": "2026-11-20T22:11:29Z",
-   "topic": "News"
-  },
-  {
-   "title": "The latest from Trump's press conference",
-   "source": "NPR",
-   "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-   "body": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-   "sources": [
-    "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
-   ],
-   "publishedAt": "2026-11-20T21:38:21Z",
-   "topic": "News"
-  },
-  {
-   "title": "Rising seas have forced this Quinault village to relocate",
-   "source": "NPR",
-   "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis.",
-   "body": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-   "sources": [
-    "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate"
-   ],
-   "publishedAt": "2026-11-20T21:38:13Z",
-   "topic": "News"
-  },
-  {
-   "title": "Trump's impact on an Ohio steel plant",
-   "source": "NPR",
-   "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal.",
-   "body": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
-   "sources": [
-    "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant"
-   ],
-   "publishedAt": "2026-11-20T21:38:11Z",
-   "topic": "News"
   },
   {
    "title": "Will Democrats Exempt Trump From a Stock-Trading Ban – and Make It ‘Worthless’?",
