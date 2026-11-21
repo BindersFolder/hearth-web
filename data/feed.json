@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T15:02:04Z",
+ "updatedAt": "2026-11-21T15:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60212.6914,
-   "changePct": 2.38,
+   "price": 59905.3398,
+   "changePct": 1.86,
    "prevClose": 58811.7695,
    "high52": 97860.6,
    "low52": 57708.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1687.0601,
-   "changePct": 4.19,
+   "price": 1679.03,
+   "changePct": 3.69,
    "prevClose": 1619.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-21T14:10:11Z"
+   "asOf": "2026-11-21T15:10:13Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 92.94,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-21T14:10:11Z"
+   "asOf": "2026-11-21T15:10:13Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 21.13 · Diesel 80.73",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.92,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-21T14:10:11Z"
+   "asOf": "2026-11-21T15:10:13Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-21T14:10:11Z"
+   "asOf": "2026-11-21T15:10:13Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-21T14:10:11Z"
+   "asOf": "2026-11-21T15:10:13Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 3.8406 · Year ago 3.0935",
    "source": "AAA",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1524 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.56,
    "note": "Week ago 6.0366 · Year ago 3.7978",
    "source": "AAA",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.27,
    "note": "Week ago 6.3676 · Year ago 3.935",
    "source": "AAA",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T15:02:04Z"
+   "asOf": "2026-11-21T15:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-21T14:10:11Z"
+   "asOf": "2026-11-21T15:10:13Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Mostly Sunny",
-  "temp": 44,
+  "temp": 51,
   "high": 64,
   "low": 43,
-  "humidity": 89,
+  "humidity": 68,
   "wind": 0,
   "summary": "Mostly sunny. High near 64, with temperatures falling to around 58 in the afternoon. South wind 0 to 3 mph. Mostly cloudy. Low around 43, with temperatures rising to around 45 overnight. Southeast wind around 1 mph. Rain after 1pm. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Northeast wind…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-21T09:00:00-05:00",
-    "temp": 44,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 0,
-    "wind": 0,
-    "humidity": 89
-   },
    {
     "time": "2026-11-21T10:00:00-05:00",
     "temp": 51,
@@ -569,6 +560,15 @@
     "precipPct": 2,
     "wind": 0,
     "humidity": 100
+   },
+   {
+    "time": "2026-11-22T09:00:00-05:00",
+    "temp": 50,
+    "condition": "cloud",
+    "conditionText": "Cloudy",
+    "precipPct": 2,
+    "wind": 0,
+    "humidity": 100
    }
   ],
   "daily": [
@@ -701,6 +701,17 @@
   ]
  },
  "news": [
+  {
+   "title": "What Steps Must the U.S. Take to Repair Democracy?",
+   "source": "Zeteo",
+   "summary": "Journalist and historian Anne Applebaum joins John Harwood to unpack the midterm results and the reforms needed to clean up the Trump administration’s mess.",
+   "body": "Journalist and historian Anne Applebaum joins John Harwood to unpack the midterm results and the reforms needed to clean up the Trump administration’s mess.",
+   "sources": [
+    "https://zeteo.com/p/what-steps-must-the-us-take-to-repair"
+   ],
+   "publishedAt": "2026-11-21T15:02:12Z",
+   "topic": "Independent"
+  },
   {
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "source": "BBC",
@@ -864,17 +875,6 @@
     "https://www.dropsitenews.com/p/pentagon-iran-war-saudi-yemen-port-haiti-gangs"
    ],
    "publishedAt": "2026-11-20T15:57:46Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "First Draft: Donald Trump’s New and Corrupt Gift to Elon Musk",
-   "source": "Zeteo",
-   "summary": "Trump’s latest nominee embarrassed himself this week – but you have to hear from us about the Musk angle",
-   "body": "Trump’s latest nominee embarrassed himself this week – but you have to hear from us about the Musk angle. Also, Mayor Zohran Mamdani is making a big push to close New York’s most notorious jail.",
-   "sources": [
-    "https://zeteo.com/p/donald-trumps-new-and-corrupt-gift"
-   ],
-   "publishedAt": "2026-11-20T12:18:07Z",
    "topic": "Independent"
   }
  ],
