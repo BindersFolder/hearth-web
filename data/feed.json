@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T00:47:04Z",
+ "updatedAt": "2026-11-21T01:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 229.58,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 58979.7891,
-   "changePct": 0.19,
+   "price": 58843.1797,
+   "changePct": -0.04,
    "prevClose": 58868.4883,
    "high52": 97860.6,
    "low52": 57747.77,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1622.3101,
-   "changePct": 0.39,
+   "price": 1617.08,
+   "changePct": 0.06,
    "prevClose": 1616.05,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 20.59 · Diesel 78.79",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.84,
    "note": "Week ago 3.8724 · Year ago 3.1003",
    "source": "AAA",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.52,
    "note": "Week ago 4.1694 · Year ago 3.148",
    "source": "AAA",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.53,
    "note": "Week ago 6.064 · Year ago 3.7929",
    "source": "AAA",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.32,
    "note": "Week ago 6.3758 · Year ago 3.9231",
    "source": "AAA",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3620.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 44.32,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.92,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 35.3,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T00:47:04Z"
+   "asOf": "2026-11-21T01:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,14 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Clear",
-  "temp": 53,
-  "high": 53,
+  "temp": 50,
+  "high": 50,
   "low": 37,
-  "humidity": 59,
+  "humidity": 71,
   "wind": 2,
   "summary": "Patchy frost after 4am. Mostly clear, with a low around 37. North wind around 5 mph. Patchy frost after 4am. Mostly clear, with a low around 37. North wind around 5 mph. Patchy frost before 9am. Mostly sunny. High near 63, with temperatures falling to around 55 in the afternoon. Southeast wind around 2 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-20T19:00:00-05:00",
-    "temp": 53,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 2,
-    "humidity": 59
-   },
    {
     "time": "2026-11-20T20:00:00-05:00",
     "temp": 50,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 74
+   },
+   {
+    "time": "2026-11-21T19:00:00-05:00",
+    "temp": 50,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 83
    }
   ],
   "daily": [
@@ -582,7 +582,7 @@
      "summary": "Patchy frost after 4am. Mostly clear, with a low around 37. North wind around 5 mph.",
      "precipPct": 0
     },
-    "high": 53,
+    "high": 50,
     "conditionText": "Mostly Clear then Patchy Frost",
     "condition": "clearNight",
     "summary": "Patchy frost after 4am. Mostly clear, with a low around 37. North wind around 5 mph.",
@@ -788,6 +788,17 @@
    "topic": "News"
   },
   {
+   "title": "MLK's handwritten draft of iconic speech on display for the first time",
+   "source": "NPR",
+   "summary": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown",
+   "body": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+   "sources": [
+    "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display"
+   ],
+   "publishedAt": "2026-11-20T21:38:05Z",
+   "topic": "News"
+  },
+  {
    "title": "Gérard Depardieu and French author investigated over sexual allegations",
    "source": "BBC",
    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
@@ -808,17 +819,6 @@
    ],
    "publishedAt": "2026-11-20T19:11:09Z",
    "topic": "Independent"
-  },
-  {
-   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-   "source": "NPR",
-   "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C",
-   "body": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-   "sources": [
-    "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
-   ],
-   "publishedAt": "2026-11-20T18:25:09Z",
-   "topic": "News"
   },
   {
    "title": "Sudan’s Power Grid on Brink of Collapse Following Wave of Strikes Targeting Electricity Stations",
