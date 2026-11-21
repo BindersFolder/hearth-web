@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T14:17:04Z",
+ "updatedAt": "2026-11-21T14:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60211.3281,
-   "changePct": 2.38,
+   "price": 60283.7617,
+   "changePct": 2.5,
    "prevClose": 58811.7695,
    "high52": 97860.6,
    "low52": 57708.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1686.58,
-   "changePct": 4.16,
+   "price": 1690.77,
+   "changePct": 4.41,
    "prevClose": 1619.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 21.13 · Diesel 80.73",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 3.8406 · Year ago 3.0935",
    "source": "AAA",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1524 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.56,
    "note": "Week ago 6.0366 · Year ago 3.7978",
    "source": "AAA",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.27,
    "note": "Week ago 6.3676 · Year ago 3.935",
    "source": "AAA",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T14:17:04Z"
+   "asOf": "2026-11-21T14:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "source": "NPR",
+   "summary": "U.N",
+   "body": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+   "sources": [
+    "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+   ],
+   "publishedAt": "2026-11-21T14:18:17Z",
+   "topic": "News"
+  },
+  {
    "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
    "source": "NPR",
    "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
@@ -754,17 +765,6 @@
     "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
    ],
    "publishedAt": "2026-11-21T12:30:16Z",
-   "topic": "News"
-  },
-  {
-   "title": "5 ways to turn off your 'work brain' after the day ends",
-   "source": "NPR",
-   "summary": "Don't let your work troubles follow you home",
-   "body": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
-   "sources": [
-    "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work"
-   ],
-   "publishedAt": "2026-11-21T10:01:00Z",
    "topic": "News"
   },
   {
