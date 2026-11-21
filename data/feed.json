@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T22:17:04Z",
+ "updatedAt": "2026-11-21T22:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60181.9297,
-   "changePct": 2.33,
+   "price": 60172.3711,
+   "changePct": 2.31,
    "prevClose": 58811.7695,
    "high52": 97860.6,
    "low52": 57708.7,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1680.7,
-   "changePct": 3.79,
+   "price": 1680.08,
+   "changePct": 3.75,
    "prevClose": 1619.29,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 21.13 · Diesel 80.73",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.82,
    "note": "Week ago 3.8406 · Year ago 3.0935",
    "source": "AAA",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1524 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.56,
    "note": "Week ago 6.0366 · Year ago 3.7978",
    "source": "AAA",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.27,
    "note": "Week ago 6.3676 · Year ago 3.935",
    "source": "AAA",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-21T22:17:04Z"
+   "asOf": "2026-11-21T22:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "source": "BBC",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "body": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-21T22:19:43Z",
+   "topic": "World"
+  },
+  {
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "source": "BBC",
+   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "body": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-21T22:01:19Z",
+   "topic": "World"
+  },
+  {
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "source": "BBC",
    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
@@ -722,17 +744,6 @@
    ],
    "publishedAt": "2026-11-21T20:37:35Z",
    "topic": "News"
-  },
-  {
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "source": "BBC",
-   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "body": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-21T19:33:49Z",
-   "topic": "World"
   },
   {
    "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -821,17 +832,6 @@
    ],
    "publishedAt": "2026-11-21T13:58:33Z",
    "topic": "News"
-  },
-  {
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "source": "BBC",
-   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "body": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-21T13:17:38Z",
-   "topic": "World"
   },
   {
    "title": "This Week in Democracy – Week 96: Trump Lays Groundwork to Fight Oversight Investigations",
