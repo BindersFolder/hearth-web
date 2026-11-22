@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T20:02:04Z",
+ "updatedAt": "2026-11-22T20:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60657.1484,
-   "changePct": 0.95,
+   "price": 60570.4414,
+   "changePct": 0.81,
    "prevClose": 60086.0,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1712.98,
-   "changePct": 1.82,
+   "price": 1710.47,
+   "changePct": 1.67,
    "prevClose": 1682.3,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T19:10:31Z"
+   "asOf": "2026-11-22T20:10:16Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T19:10:31Z"
+   "asOf": "2026-11-22T20:10:16Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 20.70 · Diesel 78.18",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.92,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T19:10:31Z"
+   "asOf": "2026-11-22T20:10:16Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T19:10:31Z"
+   "asOf": "2026-11-22T20:10:16Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T19:10:31Z"
+   "asOf": "2026-11-22T20:10:16Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.4,
    "note": "Week ago 3.8242 · Year ago 3.0789",
    "source": "AAA",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.1427 · Year ago 3.1504",
    "source": "AAA",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.0198 · Year ago 3.7957",
    "source": "AAA",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.1,
    "note": "Week ago 6.3564 · Year ago 3.9458",
    "source": "AAA",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.62,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T20:02:04Z"
+   "asOf": "2026-11-22T20:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,30 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-22T19:10:31Z"
+   "asOf": "2026-11-22T20:10:16Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Cloudy",
-  "temp": 62,
+  "temp": 61,
   "high": 62,
   "low": 51,
-  "humidity": 75,
+  "humidity": 78,
   "wind": 6,
   "summary": "A slight chance of rain after 4pm. Cloudy. High near 62, with temperatures falling to around 59 in the afternoon. East wind around 6 mph. Chance of precipitation is 20%. A slight chance of rain before 4am. Cloudy. Low around 51, with temperatures rising to around 53 overnight. Northwest wind around 3 mph. Chance of…",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-22T14:00:00-05:00",
-    "temp": 62,
-    "condition": "cloud",
-    "conditionText": "Cloudy",
-    "precipPct": 13,
-    "wind": 6,
-    "humidity": 75
-   },
    {
     "time": "2026-11-22T15:00:00-05:00",
     "temp": 61,
@@ -569,6 +560,15 @@
     "precipPct": 7,
     "wind": 8,
     "humidity": 52
+   },
+   {
+    "time": "2026-11-23T14:00:00-05:00",
+    "temp": 65,
+    "condition": "sun",
+    "conditionText": "Mostly Sunny",
+    "precipPct": 7,
+    "wind": 10,
+    "humidity": 52
    }
   ],
   "daily": [
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "These 7 Progressives Flipped Red Seats – and Deserve Your Attention",
+   "source": "Zeteo",
+   "summary": "The blue midterm tsunami delivered wins for progressives all over - despite centrists in our legacy media claiming otherwise",
+   "body": "The blue midterm tsunami delivered wins for progressives all over - despite centrists in our legacy media claiming otherwise. Here are seven progressive wins you may have missed – and why they matter.",
+   "sources": [
+    "https://zeteo.com/p/these-7-progressives-flipped-red"
+   ],
+   "publishedAt": "2026-11-22T20:01:07Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "source": "BBC",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
@@ -812,12 +823,12 @@
    "topic": "News"
   },
   {
-   "title": "NPR's Senior Podcast Challenge: Early entries we love",
+   "title": "He expected a small-business loan. He got a 7-year nightmare",
    "source": "NPR",
-   "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition .",
-   "body": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+   "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated",
+   "body": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
    "sources": [
-    "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
+    "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance"
    ],
    "publishedAt": "2026-11-22T10:00:00Z",
    "topic": "News"
