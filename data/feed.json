@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T15:47:04Z",
+ "updatedAt": "2026-11-22T16:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60719.2109,
-   "changePct": 1.05,
+   "price": 60818.8516,
+   "changePct": 1.22,
    "prevClose": 60086.0,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1717.35,
-   "changePct": 2.08,
+   "price": 1716.09,
+   "changePct": 2.01,
    "prevClose": 1682.3,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 20.70 · Diesel 78.18",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.4,
    "note": "Week ago 3.8242 · Year ago 3.0789",
    "source": "AAA",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.1427 · Year ago 3.1504",
    "source": "AAA",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.0198 · Year ago 3.7957",
    "source": "AAA",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.1,
    "note": "Week ago 6.3564 · Year ago 3.9458",
    "source": "AAA",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.62,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T15:47:04Z"
+   "asOf": "2026-11-22T16:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,40 +344,31 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "rain",
-  "conditionText": "Slight Chance Light Rain",
-  "temp": 53,
-  "high": 62,
+  "condition": "cloud",
+  "conditionText": "Mostly Cloudy",
+  "temp": 54,
+  "high": 61,
   "low": 52,
   "humidity": 93,
   "wind": 1,
-  "summary": "Areas of fog before 10am, then a chance of rain. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. East wind 0 to 3 mph. Chance of precipitation is 50%. Rain likely and patchy fog before 4am, then patchy fog and a slight chance of rain. Cloudy. Low around 52, with temperatures rising to…",
+  "summary": "A chance of rain after 1pm. Mostly cloudy. High near 61, with temperatures falling to around 59 in the afternoon. East wind around 3 mph. Chance of precipitation is 50%. Rain likely and patchy fog before 4am, then patchy fog and a slight chance of rain. Cloudy. Low around 52, with temperatures rising to around 54 overnight.…",
   "alerts": [],
   "hourly": [
    {
-    "time": "2026-11-22T10:00:00-05:00",
-    "temp": 53,
-    "condition": "rain",
-    "conditionText": "Slight Chance Light Rain",
-    "precipPct": 18,
+    "time": "2026-11-22T11:00:00-05:00",
+    "temp": 54,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 3,
     "wind": 1,
     "humidity": 93
    },
    {
-    "time": "2026-11-22T11:00:00-05:00",
-    "temp": 56,
-    "condition": "rain",
-    "conditionText": "Slight Chance Light Rain",
-    "precipPct": 18,
-    "wind": 1,
-    "humidity": 90
-   },
-   {
     "time": "2026-11-22T12:00:00-05:00",
-    "temp": 59,
-    "condition": "rain",
-    "conditionText": "Slight Chance Light Rain",
-    "precipPct": 18,
+    "temp": 57,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 3,
     "wind": 2,
     "humidity": 83
    },
@@ -388,7 +379,7 @@
     "conditionText": "Chance Light Rain",
     "precipPct": 28,
     "wind": 2,
-    "humidity": 81
+    "humidity": 78
    },
    {
     "time": "2026-11-22T14:00:00-05:00",
@@ -397,11 +388,11 @@
     "conditionText": "Chance Light Rain",
     "precipPct": 28,
     "wind": 2,
-    "humidity": 81
+    "humidity": 78
    },
    {
     "time": "2026-11-22T15:00:00-05:00",
-    "temp": 62,
+    "temp": 61,
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 28,
@@ -415,20 +406,20 @@
     "conditionText": "Chance Light Rain",
     "precipPct": 53,
     "wind": 2,
-    "humidity": 84
+    "humidity": 81
    },
    {
     "time": "2026-11-22T17:00:00-05:00",
-    "temp": 60,
+    "temp": 59,
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 53,
     "wind": 2,
-    "humidity": 84
+    "humidity": 83
    },
    {
     "time": "2026-11-22T18:00:00-05:00",
-    "temp": 58,
+    "temp": 57,
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 53,
@@ -437,16 +428,16 @@
    },
    {
     "time": "2026-11-22T19:00:00-05:00",
-    "temp": 57,
+    "temp": 56,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 74,
     "wind": 2,
-    "humidity": 90
+    "humidity": 93
    },
    {
     "time": "2026-11-22T20:00:00-05:00",
-    "temp": 56,
+    "temp": 55,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 74,
@@ -455,48 +446,48 @@
    },
    {
     "time": "2026-11-22T21:00:00-05:00",
-    "temp": 56,
+    "temp": 54,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 74,
     "wind": 2,
-    "humidity": 93
+    "humidity": 100
    },
    {
     "time": "2026-11-22T22:00:00-05:00",
-    "temp": 56,
+    "temp": 54,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 66,
     "wind": 2,
-    "humidity": 93
+    "humidity": 100
    },
    {
     "time": "2026-11-22T23:00:00-05:00",
-    "temp": 56,
+    "temp": 54,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 66,
     "wind": 2,
-    "humidity": 93
+    "humidity": 100
    },
    {
     "time": "2026-11-23T00:00:00-05:00",
-    "temp": 56,
+    "temp": 54,
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 66,
     "wind": 2,
-    "humidity": 93
+    "humidity": 100
    },
    {
     "time": "2026-11-23T01:00:00-05:00",
-    "temp": 56,
+    "temp": 55,
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 32,
     "wind": 2,
-    "humidity": 93
+    "humidity": 96
    },
    {
     "time": "2026-11-23T02:00:00-05:00",
@@ -505,7 +496,7 @@
     "conditionText": "Chance Light Rain",
     "precipPct": 32,
     "wind": 2,
-    "humidity": 96
+    "humidity": 93
    },
    {
     "time": "2026-11-23T03:00:00-05:00",
@@ -514,7 +505,7 @@
     "conditionText": "Chance Light Rain",
     "precipPct": 32,
     "wind": 2,
-    "humidity": 96
+    "humidity": 93
    },
    {
     "time": "2026-11-23T04:00:00-05:00",
@@ -569,24 +560,33 @@
     "precipPct": 5,
     "wind": 6,
     "humidity": 93
+   },
+   {
+    "time": "2026-11-23T10:00:00-05:00",
+    "temp": 61,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 7,
+    "humidity": 81
    }
   ],
   "daily": [
    {
     "date": "2026-11-22",
-    "high": 62,
+    "high": 61,
     "condition": "rain",
-    "conditionText": "Chance Light Rain",
+    "conditionText": "Mostly Cloudy then Chance Light Rain",
     "precipPct": 53,
     "wind": 3,
-    "windText": "E 0 to 3 mph",
-    "summary": "Areas of fog before 10am, then a chance of rain. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. East wind 0 to 3 mph. Chance of precipitation is 50%.",
+    "windText": "E 3 mph",
+    "summary": "A chance of rain after 1pm. Mostly cloudy. High near 61, with temperatures falling to around 59 in the afternoon. East wind around 3 mph. Chance of precipitation is 50%.",
     "low": 52,
     "night": {
      "low": 52,
      "condition": "rain",
      "conditionText": "Light Rain Likely",
-     "summary": "Rain likely and patchy fog before 4am, then patchy fog and a slight chance of rain. Cloudy. Low around 52, with temperatures rising to around 54 overnight. North wind around 2 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
+     "summary": "Rain likely and patchy fog before 4am, then patchy fog and a slight chance of rain. Cloudy. Low around 52, with temperatures rising to around 54 overnight. North wind around 2 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
      "precipPct": 74
     }
    },
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+   "source": "BBC",
+   "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+   "body": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-22T15:50:13Z",
+   "topic": "World"
+  },
+  {
    "title": "Three killed and dozens missing after fire at Indonesian factory",
    "source": "BBC",
    "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
@@ -713,7 +724,7 @@
    "topic": "World"
   },
   {
-   "title": "It's Medicare open enrollment time. Here's what you need to know",
+   "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
    "source": "NPR",
    "summary": "Open enrollment for Medicare runs through Dec",
    "body": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
@@ -776,17 +787,6 @@
     "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-22T07:12:41Z",
-   "topic": "World"
-  },
-  {
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "source": "BBC",
-   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "body": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-22T01:25:03Z",
    "topic": "World"
   },
   {
@@ -856,6 +856,17 @@
    "topic": "Independent"
   },
   {
+   "title": "Will Democrats Exempt Trump From a Stock-Trading Ban – and Make It ‘Worthless’?",
+   "source": "Zeteo",
+   "summary": "Let Zeteo take you inside Democrats’ maddening debate over what their signature ethics reform bill should look like next year.",
+   "body": "Let Zeteo take you inside Democrats’ maddening debate over what their signature ethics reform bill should look like next year.",
+   "sources": [
+    "https://zeteo.com/p/will-democrats-exempt-trump-from-stock-trading-ban"
+   ],
+   "publishedAt": "2026-11-20T19:11:09Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Sudan’s Power Grid on Brink of Collapse Following Wave of Strikes Targeting Electricity Stations",
    "source": "Drop Site News",
    "summary": "Blackouts are disrupting the economy, including hospitals and farming, with little hope the grid will be repaired soon following an intense wave of attacks on Sudan’s electricity infrastructure.",
@@ -864,17 +875,6 @@
     "https://www.dropsitenews.com/p/sudan-power-grid-electricity-blackouts"
    ],
    "publishedAt": "2026-11-20T18:02:02Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Pentagon’s Iran war costs top $48 billion; Saudi strikes Hodeidah port, Ansarallah vows response; Haitian police kill 34 gang members",
-   "source": "Drop Site News",
-   "summary": "Drop Site Daily: November 20, 2026.",
-   "body": "Drop Site Daily: November 20, 2026",
-   "sources": [
-    "https://www.dropsitenews.com/p/pentagon-iran-war-saudi-yemen-port-haiti-gangs"
-   ],
-   "publishedAt": "2026-11-20T15:57:46Z",
    "topic": "Independent"
   }
  ],
