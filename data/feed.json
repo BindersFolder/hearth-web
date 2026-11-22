@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T22:32:04Z",
+ "updatedAt": "2026-11-22T22:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60698.3398,
-   "changePct": 1.02,
+   "price": 60745.8203,
+   "changePct": 1.1,
    "prevClose": 60086.0,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1709.29,
-   "changePct": 1.6,
+   "price": 1710.9399,
+   "changePct": 1.7,
    "prevClose": 1682.3,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 20.70 · Diesel 78.18",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.4,
    "note": "Week ago 3.8242 · Year ago 3.0789",
    "source": "AAA",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.1427 · Year ago 3.1504",
    "source": "AAA",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.0198 · Year ago 3.7957",
    "source": "AAA",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.1,
    "note": "Week ago 6.3564 · Year ago 3.9458",
    "source": "AAA",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.62,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T22:32:04Z"
+   "asOf": "2026-11-22T22:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 51,
   "humidity": 83,
   "wind": 3,
-  "summary": "A slight chance of rain after 4pm. Cloudy. High near 62, with temperatures falling to around 59 in the afternoon. East wind around 6 mph. Chance of precipitation is 20%. A slight chance of rain before 4am. Cloudy. Low around 51, with temperatures rising to around 53 overnight. Northwest wind around 3 mph. Chance of…",
+  "summary": "A slight chance of rain. Cloudy. High near 62, with temperatures falling to around 59 in the afternoon. East wind around 3 mph. Chance of precipitation is 20%. A slight chance of rain before 4am. Cloudy. Low around 51, with temperatures rising to around 53 overnight. Northwest wind around 3 mph. Chance of precipitation is…",
   "alerts": [],
   "hourly": [
    {
@@ -578,9 +578,9 @@
     "condition": "rain",
     "conditionText": "Slight Chance Light Rain",
     "precipPct": 22,
-    "wind": 6,
-    "windText": "E 6 mph",
-    "summary": "A slight chance of rain after 4pm. Cloudy. High near 62, with temperatures falling to around 59 in the afternoon. East wind around 6 mph. Chance of precipitation is 20%.",
+    "wind": 3,
+    "windText": "E 3 mph",
+    "summary": "A slight chance of rain. Cloudy. High near 62, with temperatures falling to around 59 in the afternoon. East wind around 3 mph. Chance of precipitation is 20%.",
     "low": 51,
     "night": {
      "low": 51,
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "source": "BBC",
+   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "body": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "sources": [
+    "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-22T22:37:43Z",
+   "topic": "World"
+  },
+  {
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "source": "BBC",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
@@ -754,17 +765,6 @@
     "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-22T18:17:59Z",
-   "topic": "World"
-  },
-  {
-   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "source": "BBC",
-   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-   "body": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-   "sources": [
-    "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-22T17:57:43Z",
    "topic": "World"
   },
   {
