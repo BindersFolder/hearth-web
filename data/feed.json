@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T13:02:04Z",
+ "updatedAt": "2026-11-22T13:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60654.1797,
-   "changePct": 0.95,
+   "price": 60700.8711,
+   "changePct": 1.02,
    "prevClose": 60086.0,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1702.3,
-   "changePct": 1.19,
+   "price": 1702.42,
+   "changePct": 1.2,
    "prevClose": 1682.3,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T12:10:28Z"
+   "asOf": "2026-11-22T13:10:26Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T12:10:28Z"
+   "asOf": "2026-11-22T13:10:26Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 41.01,
    "note": "Gasoline 20.70 · Diesel 78.18",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.92,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T12:10:28Z"
+   "asOf": "2026-11-22T13:10:26Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T12:10:28Z"
+   "asOf": "2026-11-22T13:10:26Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-22T12:10:28Z"
+   "asOf": "2026-11-22T13:10:26Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.4,
    "note": "Week ago 3.8242 · Year ago 3.0789",
    "source": "AAA",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.32,
    "note": "Week ago 4.1427 · Year ago 3.1504",
    "source": "AAA",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 6.0198 · Year ago 3.7957",
    "source": "AAA",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.1,
    "note": "Week ago 6.3564 · Year ago 3.9458",
    "source": "AAA",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.62,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-22T13:02:04Z"
+   "asOf": "2026-11-22T13:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-22T12:10:28Z"
+   "asOf": "2026-11-22T13:10:26Z"
   }
  ],
  "weather": {
@@ -702,6 +702,17 @@
  },
  "news": [
   {
+   "title": "It's Medicare open enrollment time. Here's what you need to know",
+   "source": "NPR",
+   "summary": "Open enrollment for Medicare runs through Dec",
+   "body": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+   "sources": [
+    "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027"
+   ],
+   "publishedAt": "2026-11-22T13:11:04Z",
+   "topic": "News"
+  },
+  {
    "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
    "source": "BBC",
    "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
@@ -713,23 +724,23 @@
    "topic": "World"
   },
   {
-   "title": "NPR's Senior Podcast Challenge: Early entries we love",
-   "source": "NPR",
-   "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition .",
-   "body": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
-   "sources": [
-    "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
-   ],
-   "publishedAt": "2026-11-22T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "He expected a small-business loan. It turned out to be a trap",
    "source": "NPR",
    "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated",
    "body": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
    "sources": [
     "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance"
+   ],
+   "publishedAt": "2026-11-22T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "NPR's Senior Podcast Challenge: Early entries we love",
+   "source": "NPR",
+   "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition .",
+   "body": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+   "sources": [
+    "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
    ],
    "publishedAt": "2026-11-22T10:00:00Z",
    "topic": "News"
@@ -798,17 +809,6 @@
     "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
    ],
    "publishedAt": "2026-11-21T22:01:40Z",
-   "topic": "News"
-  },
-  {
-   "title": "Highlights and challenges from covering an historic month in South America",
-   "source": "NPR",
-   "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-   "body": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-   "sources": [
-    "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america"
-   ],
-   "publishedAt": "2026-11-21T22:01:35Z",
    "topic": "News"
   },
   {
