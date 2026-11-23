@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-23T15:02:05Z",
+ "updatedAt": "2026-11-23T15:17:05Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 722.045,
-   "changePct": 3.63,
+   "price": 723.16,
+   "changePct": 3.79,
    "prevClose": 696.73,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 650.93,
-   "changePct": 5.58,
+   "price": 652.21,
+   "changePct": 5.78,
    "prevClose": 616.55,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 494.15,
-   "changePct": 1.81,
+   "price": 494.99,
+   "changePct": 1.98,
    "prevClose": 485.38,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 264.095,
-   "changePct": 2.26,
+   "price": 264.355,
+   "changePct": 2.36,
    "prevClose": 258.26,
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 63054.6211,
-   "changePct": 3.1,
+   "price": 62916.8906,
+   "changePct": 2.87,
    "prevClose": 61160.6992,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1783.4399,
-   "changePct": 3.61,
+   "price": 1778.98,
+   "changePct": 3.35,
    "prevClose": 1721.28,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.81,
-   "changePct": -1.99,
+   "price": 81.06,
+   "changePct": -2.89,
    "prevClose": 83.47,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T14:11:21Z"
+   "asOf": "2026-11-23T15:10:49Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 87.92,
-   "changePct": -2.31,
+   "price": 87.09,
+   "changePct": -3.23,
    "prevClose": 90.0,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T14:11:21Z"
+   "asOf": "2026-11-23T15:10:49Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 38.84,
-   "changePct": -2.9,
+   "price": 38.56,
+   "changePct": -3.6,
    "prevClose": 40.0,
-   "note": "Gasoline 20.58 · Diesel 75.38",
+   "note": "Gasoline 20.74 · Diesel 74.21",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.493,
-   "changePct": -3.48,
+   "price": 3.484,
+   "changePct": -3.73,
    "prevClose": 3.619,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4378,
-   "changePct": -1.86,
+   "price": 2.4238,
+   "changePct": -2.42,
    "prevClose": 2.484,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.7425,
-   "changePct": -2.83,
+   "price": 3.697,
+   "changePct": -4.01,
    "prevClose": 3.8514,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.82,
+   "price": 3.83,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T14:11:21Z"
+   "asOf": "2026-11-23T15:10:49Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T14:11:21Z"
+   "asOf": "2026-11-23T15:10:49Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T14:11:21Z"
+   "asOf": "2026-11-23T15:10:49Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.8118 · Year ago 3.0717",
    "source": "AAA",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.1347 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 5.9989 · Year ago 3.7928",
    "source": "AAA",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.12,
    "note": "Week ago 6.3477 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3666.5,
-   "changePct": 1.62,
+   "price": 3667.1001,
+   "changePct": 1.64,
    "prevClose": 3607.8999,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 43.525,
-   "changePct": 3.46,
+   "price": 43.495,
+   "changePct": 3.39,
    "prevClose": 42.07,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.73,
-   "changePct": 3.7,
+   "price": 5.725,
+   "changePct": 3.61,
    "prevClose": 5.5255,
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.948,
-   "changePct": 0.73,
+   "price": 4.95,
+   "changePct": 0.77,
    "prevClose": 4.912,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 104.163,
-   "changePct": 0.38,
+   "price": 104.259,
+   "changePct": 0.47,
    "prevClose": 103.771,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 28.65,
+   "price": 27.65,
    "changePct": null,
    "prevClose": 35.89,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T15:02:05Z"
+   "asOf": "2026-11-23T15:17:05Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-23T14:11:21Z"
+   "asOf": "2026-11-23T15:10:49Z"
   }
  ],
  "weather": {
@@ -351,7 +351,7 @@
   "low": 36,
   "humidity": 90,
   "wind": 6,
-  "summary": "Mostly sunny. High near 66, with temperatures falling to around 57 in the afternoon. West wind 3 to 12 mph. Mostly clear. Low around 36, with temperatures rising to around 38 overnight. Northwest wind 2 to 7 mph. Sunny. High near 48, with temperatures falling to around 44 in the afternoon. Northwest wind 3 to 9 mph.",
+  "summary": "Mostly sunny. High near 66, with temperatures falling to around 57 in the afternoon. West wind 2 to 12 mph. Mostly clear. Low around 36, with temperatures rising to around 38 overnight. Northwest wind 2 to 7 mph. Sunny. High near 48, with temperatures falling to around 44 in the afternoon. Northwest wind 3 to 9 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -579,8 +579,8 @@
     "conditionText": "Mostly Sunny",
     "precipPct": 9,
     "wind": 12,
-    "windText": "W 3 to 12 mph",
-    "summary": "Mostly sunny. High near 66, with temperatures falling to around 57 in the afternoon. West wind 3 to 12 mph.",
+    "windText": "W 2 to 12 mph",
+    "summary": "Mostly sunny. High near 66, with temperatures falling to around 57 in the afternoon. West wind 2 to 12 mph.",
     "low": 36,
     "night": {
      "low": 36,
@@ -853,17 +853,6 @@
     "https://zeteo.com/p/this-week-in-palestine-israeli-settlers-661"
    ],
    "publishedAt": "2026-11-21T18:01:22Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "What Steps Must the U.S. Take to Repair Democracy?",
-   "source": "Zeteo",
-   "summary": "Journalist and historian Anne Applebaum joins John Harwood to unpack the midterm results and the reforms needed to clean up the Trump administration’s mess.",
-   "body": "Journalist and historian Anne Applebaum joins John Harwood to unpack the midterm results and the reforms needed to clean up the Trump administration’s mess.",
-   "sources": [
-    "https://zeteo.com/p/what-steps-must-the-us-take-to-repair"
-   ],
-   "publishedAt": "2026-11-21T15:02:12Z",
    "topic": "Independent"
   }
  ],
