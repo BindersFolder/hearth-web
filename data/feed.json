@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T12:02:04Z",
+ "updatedAt": "2026-11-23T12:17:05Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 61281.6992,
-   "changePct": 0.2,
+   "price": 61241.1914,
+   "changePct": 0.13,
    "prevClose": 61160.6992,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1721.6899,
-   "changePct": 0.02,
+   "price": 1719.91,
+   "changePct": -0.08,
    "prevClose": 1721.28,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 82.15,
-   "changePct": -1.58,
+   "price": 82.39,
+   "changePct": -1.29,
    "prevClose": 83.47,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T11:10:23Z"
+   "asOf": "2026-11-23T12:10:54Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.49,
-   "changePct": -1.68,
+   "price": 88.82,
+   "changePct": -1.31,
    "prevClose": 90.0,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T11:10:23Z"
+   "asOf": "2026-11-23T12:10:54Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 39.26,
-   "changePct": -1.85,
+   "price": 39.49,
+   "changePct": -1.27,
    "prevClose": 40.0,
-   "note": "Gasoline 20.22 · Diesel 77.32",
+   "note": "Gasoline 20.27 · Diesel 77.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.53,
-   "changePct": -2.46,
+   "price": 3.528,
+   "changePct": -2.51,
    "prevClose": 3.619,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4375,
-   "changePct": -1.87,
+   "price": 2.4444,
+   "changePct": -1.59,
    "prevClose": 2.484,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.7968,
-   "changePct": -1.42,
+   "price": 3.8171,
+   "changePct": -0.89,
    "prevClose": 3.8514,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.9,
+   "price": 3.88,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T11:10:23Z"
+   "asOf": "2026-11-23T12:10:54Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T11:10:23Z"
+   "asOf": "2026-11-23T12:10:54Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T11:10:23Z"
+   "asOf": "2026-11-23T12:10:54Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.8118 · Year ago 3.0717",
    "source": "AAA",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.1347 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 5.9989 · Year ago 3.7928",
    "source": "AAA",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.12,
    "note": "Week ago 6.3477 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3621.0,
-   "changePct": 0.36,
+   "price": 3620.3,
+   "changePct": 0.34,
    "prevClose": 3607.8999,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 42.4,
-   "changePct": 0.78,
+   "price": 42.325,
+   "changePct": 0.61,
    "prevClose": 42.07,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.523,
-   "changePct": -0.05,
+   "price": 5.5205,
+   "changePct": -0.09,
    "prevClose": 5.5255,
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.937,
-   "changePct": 0.16,
+   "price": 103.921,
+   "changePct": 0.14,
    "prevClose": 103.771,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 29.96,
+   "price": 30.18,
    "changePct": null,
    "prevClose": 35.89,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T12:02:04Z"
+   "asOf": "2026-11-23T12:17:05Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-23T11:10:23Z"
+   "asOf": "2026-11-23T12:10:54Z"
   }
  ],
  "weather": {
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "Could Calling Medicare for All ‘TrumpCare’ Actually... Work?",
+   "source": "Zeteo",
+   "summary": "Michigan Senator-elect Abdul El-Sayed baited a hook and the president bit",
+   "body": "Michigan Senator-elect Abdul El-Sayed baited a hook and the president bit. Fellow progressives back El-Sayed but Republicans are furious. Elsewhere, ICE brutality reared its head in Seattle.",
+   "sources": [
+    "https://zeteo.com/p/could-calling-medicare-for-all-trumpcare"
+   ],
+   "publishedAt": "2026-11-23T12:10:27Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "source": "BBC",
+   "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+   "body": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-23T11:57:33Z",
+   "topic": "World"
+  },
+  {
    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
    "source": "BBC",
    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
@@ -721,6 +743,17 @@
     "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-23T11:26:12Z",
+   "topic": "World"
+  },
+  {
+   "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+   "source": "BBC",
+   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "body": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-23T11:15:16Z",
    "topic": "World"
   },
   {
@@ -757,23 +790,23 @@
    "topic": "News"
   },
   {
-   "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
-   "source": "NPR",
-   "summary": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year",
-   "body": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
-   "sources": [
-    "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs"
-   ],
-   "publishedAt": "2026-11-23T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "Mushroom supplements promise health benefits. What does the science say?",
    "source": "NPR",
    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system",
    "body": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
    "sources": [
     "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research"
+   ],
+   "publishedAt": "2026-11-23T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+   "source": "NPR",
+   "summary": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year",
+   "body": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
+   "sources": [
+    "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs"
    ],
    "publishedAt": "2026-11-23T10:00:00Z",
    "topic": "News"
@@ -787,28 +820,6 @@
     "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-23T08:53:01Z",
-   "topic": "World"
-  },
-  {
-   "title": "Five takeaways from the failed climate talks COP31",
-   "source": "BBC",
-   "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-   "body": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-23T06:33:50Z",
-   "topic": "World"
-  },
-  {
-   "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-   "source": "BBC",
-   "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-   "body": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-23T05:33:17Z",
    "topic": "World"
   },
   {
