@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T10:17:04Z",
+ "updatedAt": "2026-11-23T10:25:38Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 61339.0508,
-   "changePct": 0.29,
-   "prevClose": 61160.6992,
+   "price": 61276.6211,
+   "changePct": 0.19,
+   "prevClose": 61163.0195,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1721.99,
-   "changePct": 0.04,
+   "price": 1719.99,
+   "changePct": -0.07,
    "prevClose": 1721.28,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 83.11,
-   "changePct": -0.43,
+   "price": 83.06,
+   "changePct": -0.49,
    "prevClose": 83.47,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.32,
-   "changePct": -0.76,
+   "price": 89.26,
+   "changePct": -0.82,
    "prevClose": 90.0,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 39.82,
-   "changePct": -0.45,
+   "price": 39.77,
+   "changePct": -0.57,
    "prevClose": 40.0,
-   "note": "Gasoline 20.44 · Diesel 78.57",
+   "note": "Gasoline 20.41 · Diesel 78.50",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.486,
-   "changePct": -3.68,
+   "price": 3.498,
+   "changePct": -3.34,
    "prevClose": 3.619,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4655,
-   "changePct": -0.74,
-   "prevClose": 2.484,
+   "price": 2.4635,
+   "changePct": -0.82,
+   "prevClose": 2.4838,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.8495,
-   "changePct": -0.05,
+   "price": 3.8467,
+   "changePct": -0.12,
    "prevClose": 3.8514,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.8118 · Year ago 3.0717",
    "source": "AAA",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.1347 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 5.9989 · Year ago 3.7928",
    "source": "AAA",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.12,
    "note": "Week ago 6.3477 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3620.0,
-   "changePct": 0.34,
+   "price": 3619.5,
+   "changePct": 0.32,
    "prevClose": 3607.8999,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 42.475,
-   "changePct": 0.96,
+   "price": 42.455,
+   "changePct": 0.92,
    "prevClose": 42.07,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.533,
-   "changePct": 0.14,
+   "price": 5.5305,
+   "changePct": 0.09,
    "prevClose": 5.5255,
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.809,
-   "changePct": 0.04,
+   "price": 103.837,
+   "changePct": 0.06,
    "prevClose": 103.771,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 30.34,
+   "price": 30.18,
    "changePct": null,
    "prevClose": 35.89,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T10:17:04Z"
+   "asOf": "2026-11-23T10:25:38Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -354,15 +354,6 @@
   "summary": "Mostly sunny. High near 66, with temperatures falling to around 57 in the afternoon. West wind 2 to 12 mph. Mostly clear. Low around 36, with temperatures rising to around 38 overnight. Northwest wind 2 to 7 mph. Sunny. High near 48, with temperatures falling to around 44 in the afternoon. Northwest wind 3 to 9 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-23T04:00:00-05:00",
-    "temp": 53,
-    "condition": "cloud",
-    "conditionText": "Cloudy",
-    "precipPct": 1,
-    "wind": 1,
-    "humidity": 96
-   },
    {
     "time": "2026-11-23T05:00:00-05:00",
     "temp": 53,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 3,
     "humidity": 67
+   },
+   {
+    "time": "2026-11-24T04:00:00-05:00",
+    "temp": 38,
+    "condition": "clearNight",
+    "conditionText": "Mostly Clear",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 70
    }
   ],
   "daily": [
@@ -695,6 +695,28 @@
  },
  "news": [
   {
+   "title": "Zelenskyy says Ukrainian drone attack hit Russian warship at naval base in Libya",
+   "source": "NPR",
+   "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+   "body": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+   "sources": [
+    "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+   ],
+   "publishedAt": "2026-11-23T10:16:33Z",
+   "topic": "News"
+  },
+  {
+   "title": "Losing to the Mud: Feds Drag Their Feet as an Alaskan Village Sinks",
+   "source": "The Intercept",
+   "summary": "As communities seek relocation spurred by climate change, the Yup’ik people in the remote village of Nunapitchuk have struggled to get help moving a mile uphill.",
+   "body": "As communities seek relocation spurred by climate change, the Yup’ik people in the remote village of Nunapitchuk have struggled to get help moving a mile uphill.",
+   "sources": [
+    "https://theintercept.com/2026/11/23/alaska-sinking-village-climate-change-relocation/"
+   ],
+   "publishedAt": "2026-11-23T10:00:00Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
    "source": "NPR",
    "summary": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year",
@@ -736,17 +758,6 @@
     "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
    ],
    "publishedAt": "2026-11-23T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Morning news brief",
-   "source": "NPR",
-   "summary": "A look at how artificial intelligence is affecting the economy, NATO to meet after Russian missiles hit Poland, negotiators fail to reach a deal as COP31 comes to an end.",
-   "body": "A look at how artificial intelligence is affecting the economy, NATO to meet after Russian missiles hit Poland, negotiators fail to reach a deal as COP31 comes to an end.",
-   "sources": [
-    "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief"
-   ],
-   "publishedAt": "2026-11-23T09:45:21Z",
    "topic": "News"
   },
   {
