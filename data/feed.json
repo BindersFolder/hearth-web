@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-23T16:02:05Z",
+ "updatedAt": "2026-11-23T16:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 723.615,
-   "changePct": 3.86,
+   "price": 723.56,
+   "changePct": 3.85,
    "prevClose": 696.73,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 651.22,
-   "changePct": 5.62,
+   "price": 651.7,
+   "changePct": 5.7,
    "prevClose": 616.55,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 496.33,
-   "changePct": 2.26,
+   "price": 496.06,
+   "changePct": 2.2,
    "prevClose": 485.38,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 264.5,
-   "changePct": 2.42,
+   "price": 264.965,
+   "changePct": 2.6,
    "prevClose": 258.26,
    "high52": 305.18,
    "low52": 235.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 62655.1211,
-   "changePct": 2.44,
+   "price": 62562.9492,
+   "changePct": 2.29,
    "prevClose": 61160.6992,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1766.1,
+   "price": 1766.04,
    "changePct": 2.6,
    "prevClose": 1721.28,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 80.05,
-   "changePct": -4.1,
+   "price": 80.11,
+   "changePct": -4.03,
    "prevClose": 83.47,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T15:10:49Z"
+   "asOf": "2026-11-23T16:11:30Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.26,
-   "changePct": -4.16,
+   "price": 86.34,
+   "changePct": -4.07,
    "prevClose": 90.0,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T15:10:49Z"
+   "asOf": "2026-11-23T16:11:30Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 38.63,
-   "changePct": -3.42,
+   "price": 38.58,
+   "changePct": -3.55,
    "prevClose": 40.0,
-   "note": "Gasoline 20.85 · Diesel 74.18",
+   "note": "Gasoline 20.86 · Diesel 74.03",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.459,
-   "changePct": -4.42,
+   "price": 3.457,
+   "changePct": -4.48,
    "prevClose": 3.619,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4024,
-   "changePct": -3.29,
+   "price": 2.404,
+   "changePct": -3.22,
    "prevClose": 2.484,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6722,
-   "changePct": -4.65,
+   "price": 3.6701,
+   "changePct": -4.71,
    "prevClose": 3.8514,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.83,
+   "price": 3.74,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T15:10:49Z"
+   "asOf": "2026-11-23T16:11:30Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T15:10:49Z"
+   "asOf": "2026-11-23T16:11:30Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-23T15:10:49Z"
+   "asOf": "2026-11-23T16:11:30Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.8118 · Year ago 3.0717",
    "source": "AAA",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.23,
    "note": "Week ago 4.1347 · Year ago 3.1489",
    "source": "AAA",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.45,
    "note": "Week ago 5.9989 · Year ago 3.7928",
    "source": "AAA",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.12,
    "note": "Week ago 6.3477 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3670.8,
-   "changePct": 1.74,
+   "price": 3666.8,
+   "changePct": 1.63,
    "prevClose": 3607.8999,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 43.395,
-   "changePct": 3.15,
+   "price": 43.41,
+   "changePct": 3.19,
    "prevClose": 42.07,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.6575,
-   "changePct": 2.39,
+   "price": 5.6485,
+   "changePct": 2.23,
    "prevClose": 5.5255,
    "high52": 6.83,
    "low52": 4.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.948,
-   "changePct": 0.73,
+   "price": 4.942,
+   "changePct": 0.61,
    "prevClose": 4.912,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 104.349,
-   "changePct": 0.56,
+   "price": 104.436,
+   "changePct": 0.64,
    "prevClose": 103.771,
    "high52": 103.97,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 27.59,
+   "price": 27.38,
    "changePct": null,
    "prevClose": 35.89,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-23T16:02:05Z"
+   "asOf": "2026-11-23T16:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 11.1,
+   "price": 18,
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-23T15:10:49Z"
+   "asOf": "2026-11-23T16:11:30Z"
   }
  ],
  "weather": {
@@ -702,6 +702,28 @@
  },
  "news": [
   {
+   "title": "BREAKING: Trump ‘Made It A Priority’ to Get Nvidia’s Jensen Huang Reinstated",
+   "source": "Zeteo",
+   "summary": "As the Nvidia board welcomes back Jensen Huang as CEO, Zeteo can reveal that the president led a pressure campaign to get Huang his job back – despite his alleged affair with a suspected Chinese spy.",
+   "body": "As the Nvidia board welcomes back Jensen Huang as CEO, Zeteo can reveal that the president led a pressure campaign to get Huang his job back – despite his alleged affair with a suspected Chinese spy.",
+   "sources": [
+    "https://zeteo.com/p/trump-nvidia-jensen-huang-job-back"
+   ],
+   "publishedAt": "2026-11-23T16:06:05Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+   "source": "NPR",
+   "summary": "Several newly elected Democratic U.S.",
+   "body": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+   "sources": [
+    "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances"
+   ],
+   "publishedAt": "2026-11-23T16:00:49Z",
+   "topic": "News"
+  },
+  {
    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
    "source": "BBC",
    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
@@ -796,17 +818,6 @@
    "body": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
    "sources": [
     "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
-   ],
-   "publishedAt": "2026-11-23T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Mushroom supplements promise health benefits. What does the science say?",
-   "source": "NPR",
-   "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system",
-   "body": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
-   "sources": [
-    "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research"
    ],
    "publishedAt": "2026-11-23T10:00:00Z",
    "topic": "News"
