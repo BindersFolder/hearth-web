@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-24T21:02:04Z",
+ "updatedAt": "2026-11-24T21:17:05Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 718.19,
-   "changePct": -0.52,
+   "price": 718.58,
+   "changePct": -0.47,
    "prevClose": 721.9802,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "QQQ",
@@ -23,68 +23,68 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 499.4,
-   "changePct": 0.93,
+   "price": 499.64,
+   "changePct": 0.98,
    "prevClose": 494.8,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 267.045,
-   "changePct": 0.68,
+   "price": 267.14,
+   "changePct": 0.72,
    "prevClose": 265.24,
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59657.0508,
-   "changePct": -2.53,
+   "price": 59719.1914,
+   "changePct": -2.43,
    "prevClose": 61206.75,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1671.9301,
-   "changePct": -2.15,
+   "price": 1673.34,
+   "changePct": -2.06,
    "prevClose": 1708.62,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.46,
-   "changePct": 2.35,
+   "price": 81.43,
+   "changePct": 2.31,
    "prevClose": 79.59,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T20:10:33Z"
+   "asOf": "2026-11-24T21:10:13Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.27,
-   "changePct": 2.47,
+   "price": 88.29,
+   "changePct": 2.5,
    "prevClose": 86.14,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T20:10:33Z"
+   "asOf": "2026-11-24T21:10:13Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 37.71,
-   "changePct": -0.08,
+   "price": 37.7,
+   "changePct": -0.11,
    "prevClose": 37.74,
-   "note": "Gasoline 20.62 · Diesel 71.89",
+   "note": "Gasoline 20.65 · Diesel 71.80",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.683,
-   "changePct": 3.98,
+   "price": 3.685,
+   "changePct": 4.04,
    "prevClose": 3.542,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4304,
+   "price": 2.4305,
    "changePct": 2.28,
    "prevClose": 2.3763,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6511,
-   "changePct": 0.63,
+   "price": 3.6483,
+   "changePct": 0.55,
    "prevClose": 3.6282,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.71,
+   "price": 3.69,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T20:10:33Z"
+   "asOf": "2026-11-24T21:10:13Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T20:10:33Z"
+   "asOf": "2026-11-24T21:10:13Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T20:10:33Z"
+   "asOf": "2026-11-24T21:10:13Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.6,
    "note": "Week ago 3.7818 · Year ago 3.0689",
    "source": "AAA",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1173 · Year ago 3.1473",
    "source": "AAA",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.34,
    "note": "Week ago 5.9848 · Year ago 3.7849",
    "source": "AAA",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.37,
    "note": "Week ago 6.3367 · Year ago 3.9386",
    "source": "AAA",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3555.3999,
-   "changePct": -2.07,
+   "price": 3550.2,
+   "changePct": -2.22,
    "prevClose": 3630.7,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 40.695,
-   "changePct": -4.13,
+   "price": 40.55,
+   "changePct": -4.48,
    "prevClose": 42.45,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.488,
-   "changePct": -0.21,
+   "price": 5.484,
+   "changePct": -0.28,
    "prevClose": 5.4995,
    "high52": 6.83,
    "low52": 4.99,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.833,
-   "changePct": -0.42,
+   "price": 103.828,
+   "changePct": -0.43,
    "prevClose": 104.273,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.72,
+   "price": 26.2,
    "changePct": null,
    "prevClose": 26.61,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:02:04Z"
+   "asOf": "2026-11-24T21:17:05Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-24T20:10:33Z"
+   "asOf": "2026-11-24T21:10:13Z"
   }
  ],
  "weather": {
@@ -709,8 +709,52 @@
    "sources": [
     "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
    ],
-   "publishedAt": "2026-11-24T20:59:21Z",
+   "publishedAt": "2026-11-24T21:16:41Z",
    "topic": "World"
+  },
+  {
+   "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+   "source": "NPR",
+   "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples",
+   "body": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+   "sources": [
+    "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers"
+   ],
+   "publishedAt": "2026-11-24T21:09:29Z",
+   "topic": "News"
+  },
+  {
+   "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+   "source": "NPR",
+   "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+   "body": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+   "sources": [
+    "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
+   ],
+   "publishedAt": "2026-11-24T21:04:50Z",
+   "topic": "News"
+  },
+  {
+   "title": "Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work",
+   "source": "The Intercept",
+   "summary": "A judge extended First Amendment protections to all Americans helping the ICC",
+   "body": "A judge extended First Amendment protections to all Americans helping the ICC. Previous rulings only protected the plaintiffs.",
+   "sources": [
+    "https://theintercept.com/2026/11/24/icc-sanctions-palestine-israel-human-rights/"
+   ],
+   "publishedAt": "2026-11-24T21:04:06Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Democrats Can Do Better Than Chuck Schumer",
+   "source": "Zeteo",
+   "summary": "James Zogby, a longtime DNC member, shares a story about Chuck Schumer’s ‘penchant for self-serving, misleading exaggeration.’.",
+   "body": "James Zogby, a longtime DNC member, shares a story about Chuck Schumer’s ‘penchant for self-serving, misleading exaggeration.’",
+   "sources": [
+    "https://zeteo.com/p/democrats-can-do-better-than-chuck-schumer"
+   ],
+   "publishedAt": "2026-11-24T21:01:43Z",
+   "topic": "Independent"
   },
   {
    "title": "Nigerian monarch, 92, suspended after sexual assault claims",
@@ -831,50 +875,6 @@
     "https://theintercept.com/2026/11/24/hakeem-jeffries-democrats-medicare-for-all/"
    ],
    "publishedAt": "2026-11-24T11:00:00Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Doctors struggle to save babies after parents refuse vitamin K",
-   "source": "NPR",
-   "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital",
-   "body": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
-   "sources": [
-    "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding"
-   ],
-   "publishedAt": "2026-11-24T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "They attended Trump's meme coin dinner. It didn't go well",
-   "source": "NPR",
-   "summary": "Trump's meme coin dinners have sparked intense controversy",
-   "body": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
-   "sources": [
-    "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner"
-   ],
-   "publishedAt": "2026-11-24T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "When Nvidia’s Stock Price Trumps National Security, What Happens?",
-   "source": "Zeteo",
-   "summary": "After Trump’s push to reinstate beleaguered CEO Jensen Huang, ex-commerce secretary Gina Raimondo reacts.",
-   "body": "After Trump’s push to reinstate beleaguered CEO Jensen Huang, ex-commerce secretary Gina Raimondo reacts. Plus, how big a threat does China pose if it gets hold of America’s most powerful chips?",
-   "sources": [
-    "https://zeteo.com/p/when-nvidias-stock-price-trumps-national"
-   ],
-   "publishedAt": "2026-11-23T21:00:38Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Private Prison Told ICE Its Jail Was Worth $67 Million. ICE Bought It for Nearly Half a Billion.",
-   "source": "The Intercept",
-   "summary": "GEO Group made a windfall after ICE bought a jail for nearly seven times the private prison giant’s own appraisal, documents reveal.",
-   "body": "GEO Group made a windfall after ICE bought a jail for nearly seven times the private prison giant’s own appraisal, documents reveal.",
-   "sources": [
-    "https://theintercept.com/2026/11/23/geo-group-private-prison-ice-sale-contract/"
-   ],
-   "publishedAt": "2026-11-23T18:57:05Z",
    "topic": "Independent"
   }
  ],
