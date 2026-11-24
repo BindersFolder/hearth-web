@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T10:17:04Z",
+ "updatedAt": "2026-11-24T10:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59920.6602,
-   "changePct": -2.1,
+   "price": 59758.5195,
+   "changePct": -2.37,
    "prevClose": 61206.75,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1684.75,
-   "changePct": -1.4,
+   "price": 1683.35,
+   "changePct": -1.48,
    "prevClose": 1708.62,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 79.99,
-   "changePct": 0.5,
+   "price": 80.04,
+   "changePct": 0.57,
    "prevClose": 79.59,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.61,
-   "changePct": 0.55,
+   "price": 86.7,
+   "changePct": 0.65,
    "prevClose": 86.14,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 38.6,
-   "changePct": 2.28,
+   "price": 38.67,
+   "changePct": 2.46,
    "prevClose": 37.74,
-   "note": "Gasoline 20.94 · Diesel 73.91",
+   "note": "Gasoline 20.94 · Diesel 74.13",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.601,
-   "changePct": 1.67,
+   "price": 3.603,
+   "changePct": 1.72,
    "prevClose": 3.542,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4031,
-   "changePct": 1.13,
+   "price": 2.4044,
+   "changePct": 1.18,
    "prevClose": 2.3763,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6643,
-   "changePct": 0.99,
+   "price": 3.6706,
+   "changePct": 1.17,
    "prevClose": 3.6282,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.6,
    "note": "Week ago 3.7818 · Year ago 3.0689",
    "source": "AAA",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1173 · Year ago 3.1473",
    "source": "AAA",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.34,
    "note": "Week ago 5.9848 · Year ago 3.7849",
    "source": "AAA",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.37,
    "note": "Week ago 6.3367 · Year ago 3.9386",
    "source": "AAA",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3619.8999,
-   "changePct": -0.3,
+   "price": 3620.7,
+   "changePct": -0.28,
    "prevClose": 3630.7,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 41.76,
-   "changePct": -1.63,
+   "price": 41.825,
+   "changePct": -1.47,
    "prevClose": 42.45,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.541,
-   "changePct": 0.75,
+   "price": 5.5245,
+   "changePct": 0.45,
    "prevClose": 5.4995,
    "high52": 6.83,
    "low52": 4.99,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 104.168,
+   "price": 104.172,
    "changePct": -0.1,
    "prevClose": 104.273,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 27.79,
+   "price": 27.59,
    "changePct": null,
    "prevClose": 26.61,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T10:17:04Z"
+   "asOf": "2026-11-24T10:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,7 +346,7 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Mostly Clear",
-  "temp": 38,
+  "temp": 37,
   "high": 47,
   "low": 25,
   "humidity": 67,
@@ -354,15 +354,6 @@
   "summary": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. Northwest wind 3 to 9 mph. Mostly clear, with a low around 25. North wind around 2 mph. Sunny. High near 46, with temperatures falling to around 43 in the afternoon. Northeast wind around 3 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-24T04:00:00-05:00",
-    "temp": 38,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 5,
-    "humidity": 67
-   },
    {
     "time": "2026-11-24T05:00:00-05:00",
     "temp": 37,
@@ -569,6 +560,15 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 71
+   },
+   {
+    "time": "2026-11-25T04:00:00-05:00",
+    "temp": 27,
+    "condition": "clearNight",
+    "conditionText": "Partly Cloudy",
+    "precipPct": 0,
+    "wind": 2,
+    "humidity": 74
    }
   ],
   "daily": [
@@ -695,12 +695,23 @@
  },
  "news": [
   {
-   "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+   "title": "Doctors struggle to save babies after parents refuse vitamin K",
    "source": "NPR",
-   "summary": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66",
-   "body": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
+   "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital",
+   "body": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
    "sources": [
-    "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66"
+    "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding"
+   ],
+   "publishedAt": "2026-11-24T10:00:00Z",
+   "topic": "News"
+  },
+  {
+   "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+   "source": "NPR",
+   "summary": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+   "body": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+   "sources": [
+    "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation"
    ],
    "publishedAt": "2026-11-24T10:00:00Z",
    "topic": "News"
@@ -717,23 +728,12 @@
    "topic": "News"
   },
   {
-   "title": "Meet Colombia's fuzzy 'water guardians'",
+   "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
    "source": "NPR",
-   "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-   "body": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+   "summary": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+   "body": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
    "sources": [
-    "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons"
-   ],
-   "publishedAt": "2026-11-24T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Doctors struggle to save babies after parents refuse vitamin K",
-   "source": "NPR",
-   "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital",
-   "body": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
-   "sources": [
-    "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding"
+    "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women"
    ],
    "publishedAt": "2026-11-24T10:00:00Z",
    "topic": "News"
