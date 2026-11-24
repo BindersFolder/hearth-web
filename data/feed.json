@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-24T21:17:05Z",
+ "updatedAt": "2026-11-24T21:32:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 718.58,
-   "changePct": -0.47,
+   "price": 718.78,
+   "changePct": -0.44,
    "prevClose": 721.9802,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,19 +23,19 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 499.64,
-   "changePct": 0.98,
+   "price": 499.74,
+   "changePct": 1.0,
    "prevClose": 494.8,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59719.1914,
-   "changePct": -2.43,
+   "price": 59875.8984,
+   "changePct": -2.17,
    "prevClose": 61206.75,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1673.34,
-   "changePct": -2.06,
+   "price": 1679.76,
+   "changePct": -1.69,
    "prevClose": 1708.62,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.43,
-   "changePct": 2.31,
+   "price": 81.47,
+   "changePct": 2.36,
    "prevClose": 79.59,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 37.7,
-   "changePct": -0.11,
+   "price": 37.66,
+   "changePct": -0.21,
    "prevClose": 37.74,
-   "note": "Gasoline 20.65 · Diesel 71.80",
+   "note": "Gasoline 20.59 · Diesel 71.81",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4305,
-   "changePct": 2.28,
+   "price": 2.43,
+   "changePct": 2.26,
    "prevClose": 2.3763,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6483,
-   "changePct": 0.55,
+   "price": 3.6496,
+   "changePct": 0.59,
    "prevClose": 3.6282,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.6,
    "note": "Week ago 3.7818 · Year ago 3.0689",
    "source": "AAA",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1173 · Year ago 3.1473",
    "source": "AAA",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.34,
    "note": "Week ago 5.9848 · Year ago 3.7849",
    "source": "AAA",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.37,
    "note": "Week ago 6.3367 · Year ago 3.9386",
    "source": "AAA",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3550.2,
-   "changePct": -2.22,
+   "price": 3554.1001,
+   "changePct": -2.11,
    "prevClose": 3630.7,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 40.55,
-   "changePct": -4.48,
+   "price": 40.64,
+   "changePct": -4.26,
    "prevClose": 42.45,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.484,
-   "changePct": -0.28,
+   "price": 5.4845,
+   "changePct": -0.27,
    "prevClose": 5.4995,
    "high52": 6.83,
    "low52": 4.99,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.828,
-   "changePct": -0.43,
+   "price": 103.814,
+   "changePct": -0.44,
    "prevClose": 104.273,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.2,
+   "price": 26.36,
    "changePct": null,
    "prevClose": 26.61,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T21:17:05Z"
+   "asOf": "2026-11-24T21:32:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,23 +346,31 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "sun",
   "conditionText": "Sunny",
-  "temp": 46,
+  "temp": 45,
   "high": 47,
   "low": 26,
-  "humidity": 35,
-  "wind": 7,
-  "summary": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind 3 to 8 mph. Mostly clear, with a low around 26. Northwest wind around 2 mph. Mostly sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind around 3 mph.",
-  "alerts": [],
-  "hourly": [
+  "humidity": 36,
+  "wind": 5,
+  "summary": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind around 5 mph. Mostly clear, with a low around 26. Northwest wind around 2 mph. Mostly sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind around 3 mph.",
+  "alerts": [
    {
-    "time": "2026-11-24T15:00:00-05:00",
-    "temp": 46,
-    "condition": "sun",
-    "conditionText": "Sunny",
-    "precipPct": 0,
-    "wind": 7,
-    "humidity": 35
-   },
+    "title": "Flood Advisory",
+    "severity": "Minor",
+    "detail": "Flood Advisory issued November 24 at 4:29PM EST until November 27 at 1:15PM EST by NWS Upton NY",
+    "body": "* WHAT...Minor to locally moderate tidal flooding is expected around\nthe times of high tide from Thursday morning through Friday\nmorning.\n\n* WHERE...The Hudson River in Westchester, Rockland, Orange, and\nPutnam counties in southeastern New York.\n\n* WHEN...Until 115 PM EST Friday.\n\n* IMPACTS...Minor to locally moderate tidal flooding is expected\nalong the river around the times of high tide.\n\n* ADDITIONAL DETAILS...\n- At 416 PM EST, Water levels along the Hudson River will increase\nto minor and locally moderate thresholds during the times of high\ntide Thursday morning through Friday morning.\n- http://www.weather.gov/safety/flood\n\n* INSTRUCTIONS...Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.",
+    "areas": [
+     "Orange, NY",
+     "Putnam, NY",
+     "Rockland, NY",
+     "Westchester, NY"
+    ],
+    "starts": "2026-11-24T16:29:00-05:00",
+    "ends": "2026-11-27T13:15:00-05:00",
+    "source": "NWS Upton NY",
+    "emergency": false
+   }
+  ],
+  "hourly": [
    {
     "time": "2026-11-24T16:00:00-05:00",
     "temp": 45,
@@ -569,6 +577,15 @@
     "precipPct": 0,
     "wind": 3,
     "humidity": 37
+   },
+   {
+    "time": "2026-11-25T15:00:00-05:00",
+    "temp": 47,
+    "condition": "cloud",
+    "conditionText": "Partly Sunny",
+    "precipPct": 0,
+    "wind": 3,
+    "humidity": 35
    }
   ],
   "daily": [
@@ -578,9 +595,9 @@
     "condition": "sun",
     "conditionText": "Sunny",
     "precipPct": 0,
-    "wind": 8,
-    "windText": "N 3 to 8 mph",
-    "summary": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind 3 to 8 mph.",
+    "wind": 5,
+    "windText": "N 5 mph",
+    "summary": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind around 5 mph.",
     "low": 26,
     "night": {
      "low": 26,
@@ -702,6 +719,17 @@
  },
  "news": [
   {
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "source": "BBC",
+   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "body": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-24T21:19:42Z",
+   "topic": "World"
+  },
+  {
    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
    "source": "BBC",
    "summary": "The verdict follows a months-long trial in New York.",
@@ -765,17 +793,6 @@
     "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-24T19:10:31Z",
-   "topic": "World"
-  },
-  {
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "source": "BBC",
-   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "body": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-24T18:55:59Z",
    "topic": "World"
   },
   {
