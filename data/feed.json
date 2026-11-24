@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T12:02:04Z",
+ "updatedAt": "2026-11-24T12:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60217.3984,
-   "changePct": -1.62,
+   "price": 60169.8281,
+   "changePct": -1.69,
    "prevClose": 61206.75,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1697.08,
-   "changePct": -0.68,
+   "price": 1695.12,
+   "changePct": -0.79,
    "prevClose": 1708.62,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 80.19,
-   "changePct": 0.75,
+   "price": 80.39,
+   "changePct": 1.01,
    "prevClose": 79.59,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T11:10:20Z"
+   "asOf": "2026-11-24T12:10:45Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 86.99,
-   "changePct": 0.99,
+   "price": 87.18,
+   "changePct": 1.21,
    "prevClose": 86.14,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T11:10:20Z"
+   "asOf": "2026-11-24T12:10:45Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 38.58,
-   "changePct": 2.23,
+   "price": 38.53,
+   "changePct": 2.09,
    "prevClose": 37.74,
-   "note": "Gasoline 20.94 · Diesel 73.88",
+   "note": "Gasoline 20.88 · Diesel 73.85",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.578,
-   "changePct": 1.02,
+   "price": 3.597,
+   "changePct": 1.55,
    "prevClose": 3.542,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4078,
-   "changePct": 1.33,
+   "price": 2.4111,
+   "changePct": 1.46,
    "prevClose": 2.3763,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6683,
-   "changePct": 1.11,
+   "price": 3.6723,
+   "changePct": 1.22,
    "prevClose": 3.6282,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.72,
-   "changePct": 0.3,
+   "price": 3.73,
+   "changePct": 0.5,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T11:10:20Z"
+   "asOf": "2026-11-24T12:10:45Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T11:10:20Z"
+   "asOf": "2026-11-24T12:10:45Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-24T11:10:20Z"
+   "asOf": "2026-11-24T12:10:45Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.6,
    "note": "Week ago 3.7818 · Year ago 3.0689",
    "source": "AAA",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1173 · Year ago 3.1473",
    "source": "AAA",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.34,
    "note": "Week ago 5.9848 · Year ago 3.7849",
    "source": "AAA",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.37,
    "note": "Week ago 6.3367 · Year ago 3.9386",
    "source": "AAA",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3633.0,
-   "changePct": 0.06,
+   "price": 3623.8999,
+   "changePct": -0.19,
    "prevClose": 3630.7,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 42.19,
-   "changePct": -0.61,
+   "price": 42.065,
+   "changePct": -0.91,
    "prevClose": 42.45,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.5165,
-   "changePct": 0.31,
+   "price": 5.519,
+   "changePct": 0.35,
    "prevClose": 5.4995,
    "high52": 6.83,
    "low52": 4.99,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.979,
+   "price": 103.983,
    "changePct": -0.28,
    "prevClose": 104.273,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 28.35,
+   "price": 28.66,
    "changePct": null,
    "prevClose": 26.61,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-24T12:02:04Z"
+   "asOf": "2026-11-24T12:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-24T11:10:20Z"
+   "asOf": "2026-11-24T12:10:45Z"
   }
  ],
  "weather": {
@@ -349,11 +349,20 @@
   "temp": 36,
   "high": 47,
   "low": 25,
-  "humidity": 67,
+  "humidity": 69,
   "wind": 6,
   "summary": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. Northwest wind 3 to 9 mph. Mostly clear, with a low around 25. North wind around 2 mph. Sunny. High near 46, with temperatures falling to around 43 in the afternoon. Northeast wind around 3 mph.",
   "alerts": [],
   "hourly": [
+   {
+    "time": "2026-11-24T06:00:00-05:00",
+    "temp": 36,
+    "condition": "sun",
+    "conditionText": "Sunny",
+    "precipPct": 0,
+    "wind": 6,
+    "humidity": 69
+   },
    {
     "time": "2026-11-24T07:00:00-05:00",
     "temp": 36,
@@ -560,15 +569,6 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 74
-   },
-   {
-    "time": "2026-11-25T06:00:00-05:00",
-    "temp": 26,
-    "condition": "sun",
-    "conditionText": "Mostly Sunny",
-    "precipPct": 0,
-    "wind": 1,
-    "humidity": 74
    }
   ],
   "daily": [
@@ -702,10 +702,32 @@
  },
  "news": [
   {
+   "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+   "source": "NPR",
+   "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia",
+   "body": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+   "sources": [
+    "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+   ],
+   "publishedAt": "2026-11-24T12:12:25Z",
+   "topic": "News"
+  },
+  {
+   "title": "Jensen Huang and the AI Industry Now Own Trump – and Us Too",
+   "source": "Zeteo",
+   "summary": "Trump believes his presidency rests on propping up the Big Tech bosses, while the Democrats have confused a new primary pledge represents with real action on stopping dark money in our politics.",
+   "body": "Trump believes his presidency rests on propping up the Big Tech bosses, while the Democrats have confused a new primary pledge represents with real action on stopping dark money in our politics.",
+   "sources": [
+    "https://zeteo.com/p/jensen-huang-and-the-ai-industry"
+   ],
+   "publishedAt": "2026-11-24T12:07:35Z",
+   "topic": "Independent"
+  },
+  {
    "title": "Car bomb tears through Colombian city wounding more than 20",
    "source": "BBC",
-   "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
-   "body": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
+   "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+   "body": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
    ],
@@ -722,6 +744,17 @@
    ],
    "publishedAt": "2026-11-24T11:30:00Z",
    "topic": "News"
+  },
+  {
+   "title": "Pope Francis' diary reveals claims he saw the devil three times",
+   "source": "BBC",
+   "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+   "body": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-24T11:10:57Z",
+   "topic": "World"
   },
   {
    "title": "Hakeem Jeffries Can Live With “Medicare for More”",
@@ -757,17 +790,6 @@
    "topic": "World"
   },
   {
-   "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-   "source": "BBC",
-   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-   "body": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-24T10:48:27Z",
-   "topic": "World"
-  },
-  {
    "title": "Doctors struggle to save babies after parents refuse vitamin K",
    "source": "NPR",
    "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital",
@@ -796,17 +818,6 @@
    "body": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
    "sources": [
     "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner"
-   ],
-   "publishedAt": "2026-11-24T10:00:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
-   "source": "NPR",
-   "summary": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66",
-   "body": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
-   "sources": [
-    "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66"
    ],
    "publishedAt": "2026-11-24T10:00:00Z",
    "topic": "News"
@@ -864,17 +875,6 @@
     "https://zeteo.com/p/could-calling-medicare-for-all-trumpcare"
    ],
    "publishedAt": "2026-11-23T12:10:27Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "Losing to the Mud: Feds Drag Their Feet as an Alaskan Village Sinks",
-   "source": "The Intercept",
-   "summary": "As communities seek relocation spurred by climate change, the Yup’ik people in the remote village of Nunapitchuk have struggled to get help moving a mile uphill.",
-   "body": "As communities seek relocation spurred by climate change, the Yup’ik people in the remote village of Nunapitchuk have struggled to get help moving a mile uphill.",
-   "sources": [
-    "https://theintercept.com/2026/11/23/alaska-sinking-village-climate-change-relocation/"
-   ],
-   "publishedAt": "2026-11-23T10:00:00Z",
    "topic": "Independent"
   }
  ],
