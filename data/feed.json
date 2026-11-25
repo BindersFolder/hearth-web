@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T22:17:07Z",
+ "updatedAt": "2026-11-25T22:27:28Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60064.7305,
-   "changePct": 0.54,
+   "price": 60015.9219,
+   "changePct": 0.46,
    "prevClose": 59740.8711,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1682.34,
-   "changePct": 0.28,
+   "price": 1681.91,
+   "changePct": 0.26,
    "prevClose": 1677.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 37.21,
    "note": "Gasoline 17.48 · Diesel 68.78",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.78,
    "note": "Week ago 3.7502 · Year ago 3.0549",
    "source": "AAA",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.6,
    "note": "Week ago 4.0964 · Year ago 3.1471",
    "source": "AAA",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.58,
    "note": "Week ago 5.9594 · Year ago 3.7854",
    "source": "AAA",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.55,
    "note": "Week ago 6.3202 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.02,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.704,
+   "price": 103.705,
    "changePct": -0.28,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T22:17:07Z"
+   "asOf": "2026-11-25T22:27:28Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 32,
   "humidity": 49,
   "wind": 3,
-  "summary": "Mostly cloudy. High near 46, with temperatures falling to around 44 in the afternoon. Northeast wind around 3 mph. Cloudy. Low around 32, with temperatures rising to around 35 overnight. Northeast wind 2 to 13 mph. Rain after 7am. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Northeast wind…",
+  "summary": "Mostly cloudy. High near 46, with temperatures falling to around 44 in the afternoon. East wind around 3 mph. Cloudy. Low around 32, with temperatures rising to around 35 overnight. Northeast wind 2 to 13 mph. Rain after 7am. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Northeast wind 14 to…",
   "alerts": [
    {
     "title": "Wind Advisory",
@@ -610,8 +610,8 @@
     "conditionText": "Mostly Cloudy",
     "precipPct": 0,
     "wind": 3,
-    "windText": "NE 3 mph",
-    "summary": "Mostly cloudy. High near 46, with temperatures falling to around 44 in the afternoon. Northeast wind around 3 mph.",
+    "windText": "E 3 mph",
+    "summary": "Mostly cloudy. High near 46, with temperatures falling to around 44 in the afternoon. East wind around 3 mph.",
     "low": 32,
     "night": {
      "low": 32,
@@ -733,6 +733,17 @@
  },
  "news": [
   {
+   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "source": "BBC",
+   "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "body": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-25T22:18:06Z",
+   "topic": "World"
+  },
+  {
    "title": "North Korea expels Swiss diplomat in sanctions row",
    "source": "BBC",
    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
@@ -755,23 +766,12 @@
    "topic": "World"
   },
   {
-   "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-   "source": "BBC",
-   "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-   "body": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-25T21:25:14Z",
-   "topic": "World"
-  },
-  {
    "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
    "source": "NPR",
-   "summary": "Little Free Bakeries are popping up across the country",
-   "body": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community. We focus on Sarah Mason, who started Little Free Bakery North Loop in her Austin neighborhood and Lanne Rosebrook Stauffer, who founded the first Little Free Bakery in Seattle and just celebrated five years of weekly bakes.",
+   "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+   "body": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
    "sources": [
-    "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection"
+    "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"
    ],
    "publishedAt": "2026-11-25T21:02:58Z",
    "topic": "News"
