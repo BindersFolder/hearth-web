@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-25T21:02:04Z",
+ "updatedAt": "2026-11-25T21:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 716.8,
-   "changePct": 0.01,
+   "price": 716.7,
+   "changePct": -0.0,
    "prevClose": 716.72,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,113 +23,113 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 501.43,
-   "changePct": 0.53,
+   "price": 501.27,
+   "changePct": 0.5,
    "prevClose": 498.79,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 268.92,
-   "changePct": 0.87,
+   "price": 268.85,
+   "changePct": 0.85,
    "prevClose": 266.59,
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60172.6914,
-   "changePct": 0.72,
+   "price": 60155.6094,
+   "changePct": 0.69,
    "prevClose": 59740.8711,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1688.24,
-   "changePct": 0.63,
+   "price": 1685.47,
+   "changePct": 0.47,
    "prevClose": 1677.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 84.08,
-   "changePct": 4.15,
+   "price": 84.2,
+   "changePct": 4.3,
    "prevClose": 80.73,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
    "name": "WTI spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 89.53,
+   "price": 82.24,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T20:10:11Z"
+   "asOf": "2026-11-25T21:10:33Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.69,
-   "changePct": 3.66,
+   "price": 90.83,
+   "changePct": 3.82,
    "prevClose": 87.49,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
    "name": "Brent spot",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 92.94,
+   "price": 91.8,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T20:10:11Z"
+   "asOf": "2026-11-25T21:10:33Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 34.78,
-   "changePct": -6.53,
+   "price": 34.69,
+   "changePct": -6.77,
    "prevClose": 37.21,
-   "note": "Gasoline 17.60 · Diesel 69.15",
+   "note": "Gasoline 17.56 · Diesel 68.94",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.676,
-   "changePct": -1.21,
+   "price": 3.684,
+   "changePct": -0.99,
    "prevClose": 3.721,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.421,
-   "changePct": 0.62,
+   "price": 2.4229,
+   "changePct": 0.7,
    "prevClose": 2.4061,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6483,
-   "changePct": 1.0,
+   "price": 3.6461,
+   "changePct": 0.94,
    "prevClose": 3.612,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.7,
+   "price": 3.69,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T20:10:11Z"
+   "asOf": "2026-11-25T21:10:33Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T20:10:11Z"
+   "asOf": "2026-11-25T21:10:33Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T20:10:11Z"
+   "asOf": "2026-11-25T21:10:33Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.78,
    "note": "Week ago 3.7502 · Year ago 3.0549",
    "source": "AAA",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.6,
    "note": "Week ago 4.0964 · Year ago 3.1471",
    "source": "AAA",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.58,
    "note": "Week ago 5.9594 · Year ago 3.7854",
    "source": "AAA",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,20 +252,20 @@
    "changePct": -0.55,
    "note": "Week ago 6.3202 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3603.6001,
-   "changePct": 1.54,
+   "price": 3602.8999,
+   "changePct": 1.52,
    "prevClose": 3549.0,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,20 +278,20 @@
    "high52": 121.3,
    "low52": 40.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.486,
-   "changePct": 0.67,
+   "price": 5.4845,
+   "changePct": 0.64,
    "prevClose": 5.4495,
    "high52": 6.83,
    "low52": 5.02,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.687,
-   "changePct": -0.29,
+   "price": 103.699,
+   "changePct": -0.28,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 28.22,
+   "price": 28.15,
    "changePct": null,
    "prevClose": 26.36,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T21:02:04Z"
+   "asOf": "2026-11-25T21:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-25T20:10:11Z"
+   "asOf": "2026-11-25T21:10:33Z"
   }
  ],
  "weather": {
@@ -733,6 +733,17 @@
  },
  "news": [
   {
+   "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+   "source": "NPR",
+   "summary": "Little Free Bakeries are popping up across the country",
+   "body": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community. We focus on Sarah Mason, who started Little Free Bakery North Loop in her Austin neighborhood and Lanne Rosebrook Stauffer, who founded the first Little Free Bakery in Seattle and just celebrated five years of weekly bakes.",
+   "sources": [
+    "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection"
+   ],
+   "publishedAt": "2026-11-25T21:02:58Z",
+   "topic": "News"
+  },
+  {
    "title": "After Pentagon Official Took Office, His Family Firm’s Clients Won Up to $3.5 Billion in Military Contracts",
    "source": "Drop Site News",
    "summary": "Michael Dodd and his family own a defense consulting company whose clients have won up to $3.5 billion in contracts since he joined the War Department as assistant secretary for critical technologies.",
@@ -873,17 +884,6 @@
     "https://theintercept.com/2026/11/25/senate-democrats-kirsten-gillibrand-dscc/"
    ],
    "publishedAt": "2026-11-25T12:13:00Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "First Draft: 🤑 Trump’s Advisers Want a Scapegoat for the Nvidia Scandal. He Keeps Ruining Their Plans",
-   "source": "Zeteo",
-   "summary": "As the awful self-owns continue, officials voice frustration that the president won’t just fire Howard Lutnick and move on",
-   "body": "As the awful self-owns continue, officials voice frustration that the president won’t just fire Howard Lutnick and move on. Kilmar Ábrego Garcia, meanwhile, agreed to leave the U.S. a free man.",
-   "sources": [
-    "https://zeteo.com/p/trumps-advisers-want-a-scapegoat"
-   ],
-   "publishedAt": "2026-11-25T12:01:38Z",
    "topic": "Independent"
   },
   {
