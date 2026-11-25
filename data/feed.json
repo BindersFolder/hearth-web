@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T01:02:04Z",
+ "updatedAt": "2026-11-25T01:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59568.4297,
-   "changePct": -0.29,
+   "price": 59418.5195,
+   "changePct": -0.54,
    "prevClose": 59740.8711,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1670.33,
-   "changePct": -0.43,
+   "price": 1666.51,
+   "changePct": -0.66,
    "prevClose": 1677.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.85,
-   "changePct": 2.84,
+   "price": 81.77,
+   "changePct": 2.74,
    "prevClose": 79.59,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 89.53,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T00:10:24Z"
+   "asOf": "2026-11-25T01:10:09Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 92.94,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T00:10:24Z"
+   "asOf": "2026-11-25T01:10:09Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 37.62,
-   "changePct": -0.32,
+   "price": 37.6,
+   "changePct": -0.37,
    "prevClose": 37.74,
-   "note": "Gasoline 20.51 · Diesel 71.83",
+   "note": "Gasoline 20.47 · Diesel 71.87",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.681,
-   "changePct": 3.92,
+   "price": 3.678,
+   "changePct": 3.84,
    "prevClose": 3.542,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4371,
-   "changePct": 2.56,
+   "price": 2.4343,
+   "changePct": 2.44,
    "prevClose": 2.3763,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6591,
-   "changePct": 0.85,
+   "price": 3.658,
+   "changePct": 0.82,
    "prevClose": 3.6282,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.69,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T00:10:24Z"
+   "asOf": "2026-11-25T01:10:09Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.76,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T00:10:24Z"
+   "asOf": "2026-11-25T01:10:09Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 1.02,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-25T00:10:24Z"
+   "asOf": "2026-11-25T01:10:09Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.6,
    "note": "Week ago 3.7818 · Year ago 3.0689",
    "source": "AAA",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.49,
    "note": "Week ago 4.1173 · Year ago 3.1473",
    "source": "AAA",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.34,
    "note": "Week ago 5.9848 · Year ago 3.7849",
    "source": "AAA",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.37,
    "note": "Week ago 6.3367 · Year ago 3.9386",
    "source": "AAA",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3554.5,
-   "changePct": -2.1,
+   "price": 3543.3,
+   "changePct": -2.41,
    "prevClose": 3630.7,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 40.85,
-   "changePct": -3.77,
+   "price": 40.665,
+   "changePct": -4.2,
    "prevClose": 42.45,
    "high52": 121.3,
    "low52": 40.93,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.4635,
-   "changePct": -0.65,
+   "price": 5.437,
+   "changePct": -1.14,
    "prevClose": 5.4995,
    "high52": 6.83,
    "low52": 4.99,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.866,
-   "changePct": -0.39,
+   "price": 103.859,
+   "changePct": -0.4,
    "prevClose": 104.273,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T01:02:04Z"
+   "asOf": "2026-11-25T01:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,18 +339,18 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-25T00:10:24Z"
+   "asOf": "2026-11-25T01:10:09Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "clearNight",
   "conditionText": "Clear",
-  "temp": 37,
-  "high": 37,
+  "temp": 36,
+  "high": 36,
   "low": 26,
-  "humidity": 52,
-  "wind": 2,
+  "humidity": 56,
+  "wind": 1,
   "summary": "Mostly clear, with a low around 26. Northwest wind around 2 mph. Mostly clear, with a low around 26. Northwest wind around 2 mph. Mostly sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind around 3 mph.",
   "alerts": [
    {
@@ -371,15 +371,6 @@
    }
   ],
   "hourly": [
-   {
-    "time": "2026-11-24T19:00:00-05:00",
-    "temp": 37,
-    "condition": "clearNight",
-    "conditionText": "Clear",
-    "precipPct": 0,
-    "wind": 2,
-    "humidity": 52
-   },
    {
     "time": "2026-11-24T20:00:00-05:00",
     "temp": 36,
@@ -586,6 +577,15 @@
     "precipPct": 0,
     "wind": 2,
     "humidity": 48
+   },
+   {
+    "time": "2026-11-25T19:00:00-05:00",
+    "temp": 37,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 1,
+    "humidity": 56
    }
   ],
   "daily": [
@@ -599,7 +599,7 @@
      "summary": "Mostly clear, with a low around 26. Northwest wind around 2 mph.",
      "precipPct": 0
     },
-    "high": 37,
+    "high": 36,
     "conditionText": "Mostly Clear",
     "condition": "clearNight",
     "summary": "Mostly clear, with a low around 26. Northwest wind around 2 mph.",
@@ -717,6 +717,17 @@
  },
  "news": [
   {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "source": "BBC",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "body": "The verdict follows a months-long trial in New York.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-25T01:11:57Z",
+   "topic": "World"
+  },
+  {
    "title": "Court Orders Trump Media to Hand Over Truth Social Records in The Intercept Lawsuit",
    "source": "The Intercept",
    "summary": "A federal judge opened the discovery phase in The Intercept’s lawsuit over the president’s scheme to enrich himself by selling early access to his posts.",
@@ -726,17 +737,6 @@
    ],
    "publishedAt": "2026-11-24T22:26:37Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "source": "BBC",
-   "summary": "The verdict follows a months-long trial in New York.",
-   "body": "The verdict follows a months-long trial in New York.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-24T22:24:23Z",
-   "topic": "World"
   },
   {
    "title": "US attorney general dodges questions about Nvidia investigation",
