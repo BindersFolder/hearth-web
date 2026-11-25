@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T10:32:04Z",
+ "updatedAt": "2026-11-25T10:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 58914.5117,
-   "changePct": -1.38,
+   "price": 58851.6406,
+   "changePct": -1.49,
    "prevClose": 59740.8711,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1644.27,
-   "changePct": -1.99,
+   "price": 1643.3101,
+   "changePct": -2.04,
    "prevClose": 1677.59,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 81.79,
-   "changePct": 1.31,
+   "price": 81.42,
+   "changePct": 0.85,
    "prevClose": 80.73,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 88.4,
-   "changePct": 1.04,
+   "price": 88.05,
+   "changePct": 0.64,
    "prevClose": 87.49,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 37.16,
-   "changePct": -0.13,
+   "price": 36.8,
+   "changePct": -1.1,
    "prevClose": 37.21,
-   "note": "Gasoline 19.91 · Diesel 71.67",
+   "note": "Gasoline 19.90 · Diesel 70.60",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.645,
-   "changePct": -2.04,
+   "price": 3.663,
+   "changePct": -1.56,
    "prevClose": 3.721,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4214,
-   "changePct": 0.64,
+   "price": 2.4123,
+   "changePct": 0.26,
    "prevClose": 2.4061,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6537,
-   "changePct": 1.15,
+   "price": 3.6195,
+   "changePct": 0.21,
    "prevClose": 3.612,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.78,
    "note": "Week ago 3.7502 · Year ago 3.0549",
    "source": "AAA",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.6,
    "note": "Week ago 4.0964 · Year ago 3.1471",
    "source": "AAA",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.58,
    "note": "Week ago 5.9594 · Year ago 3.7854",
    "source": "AAA",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,20 +252,20 @@
    "changePct": -0.55,
    "note": "Week ago 6.3202 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3557.6001,
-   "changePct": 0.24,
+   "price": 3556.2,
+   "changePct": 0.2,
    "prevClose": 3549.0,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.02,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 104.012,
-   "changePct": 0.02,
+   "price": 103.99,
+   "changePct": -0.0,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 29.14,
+   "price": 29.43,
    "changePct": null,
    "prevClose": 26.36,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-25T10:32:04Z"
+   "asOf": "2026-11-25T10:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -371,15 +371,6 @@
    }
   ],
   "hourly": [
-   {
-    "time": "2026-11-25T04:00:00-05:00",
-    "temp": 24,
-    "condition": "clearNight",
-    "conditionText": "Mostly Clear",
-    "precipPct": 0,
-    "wind": 2,
-    "humidity": 81
-   },
    {
     "time": "2026-11-25T05:00:00-05:00",
     "temp": 24,
@@ -586,6 +577,15 @@
     "precipPct": 0,
     "wind": 9,
     "humidity": 78
+   },
+   {
+    "time": "2026-11-26T04:00:00-05:00",
+    "temp": 34,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 10,
+    "humidity": 78
    }
   ],
   "daily": [
@@ -745,6 +745,17 @@
    "topic": "News"
   },
   {
+   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+   "source": "BBC",
+   "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+   "body": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-25T09:56:19Z",
+   "topic": "World"
+  },
+  {
    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
    "source": "NPR",
    "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
@@ -765,17 +776,6 @@
    ],
    "publishedAt": "2026-11-25T09:19:50Z",
    "topic": "News"
-  },
-  {
-   "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-   "source": "BBC",
-   "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-   "body": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-25T06:36:00Z",
-   "topic": "World"
   },
   {
    "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
