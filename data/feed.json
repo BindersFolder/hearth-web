@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T22:47:04Z",
+ "updatedAt": "2026-11-26T23:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60570.3789,
-   "changePct": 0.31,
+   "price": 60427.5586,
+   "changePct": 0.07,
    "prevClose": 60384.1406,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1696.15,
-   "changePct": 0.34,
+   "price": 1690.14,
+   "changePct": -0.01,
    "prevClose": 1690.38,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 37.21,
    "note": "Gasoline 17.75 · Diesel 70.52",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.87,
    "note": "Week ago 3.7212 · Year ago 3.0416",
    "source": "AAA",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.62,
    "note": "Week ago 4.0769 · Year ago 3.1454",
    "source": "AAA",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.69,
    "note": "Week ago 5.9298 · Year ago 3.7778",
    "source": "AAA",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.4,
    "note": "Week ago 6.2979 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.775,
-   "changePct": -0.21,
+   "price": 103.751,
+   "changePct": -0.23,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T22:47:04Z"
+   "asOf": "2026-11-26T23:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -734,6 +734,17 @@
  },
  "news": [
   {
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "source": "BBC",
+   "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "body": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-26T22:49:27Z",
+   "topic": "World"
+  },
+  {
    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
    "source": "BBC",
    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
@@ -797,17 +808,6 @@
     "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-26T14:44:26Z",
-   "topic": "World"
-  },
-  {
-   "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-   "source": "BBC",
-   "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-   "body": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-26T14:35:22Z",
    "topic": "World"
   },
   {
