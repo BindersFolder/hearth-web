@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T17:32:06Z",
+ "updatedAt": "2026-11-26T17:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60392.9414,
-   "changePct": 0.01,
+   "price": 60373.0117,
+   "changePct": -0.02,
    "prevClose": 60384.1406,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1690.09,
-   "changePct": -0.02,
+   "price": 1688.86,
+   "changePct": -0.09,
    "prevClose": 1690.38,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 84.68,
-   "changePct": 4.89,
+   "price": 84.83,
+   "changePct": 5.08,
    "prevClose": 80.73,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.39,
-   "changePct": 4.46,
+   "price": 91.61,
+   "changePct": 4.71,
    "prevClose": 87.49,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 35.05,
-   "changePct": -5.8,
+   "price": 35.25,
+   "changePct": -5.27,
    "prevClose": 37.21,
-   "note": "Gasoline 17.53 · Diesel 70.07",
+   "note": "Gasoline 17.69 · Diesel 70.36",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.606,
-   "changePct": -3.09,
+   "price": 3.601,
+   "changePct": -3.22,
    "prevClose": 3.721,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4336,
-   "changePct": 1.14,
+   "price": 2.4409,
+   "changePct": 1.45,
    "prevClose": 2.4061,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6846,
-   "changePct": 2.01,
+   "price": 3.6951,
+   "changePct": 2.3,
    "prevClose": 3.612,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.87,
    "note": "Week ago 3.7212 · Year ago 3.0416",
    "source": "AAA",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.62,
    "note": "Week ago 4.0769 · Year ago 3.1454",
    "source": "AAA",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.69,
    "note": "Week ago 5.9298 · Year ago 3.7778",
    "source": "AAA",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.4,
    "note": "Week ago 6.2979 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3596.6001,
-   "changePct": 1.34,
+   "price": 3594.3,
+   "changePct": 1.28,
    "prevClose": 3549.0,
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 41.78,
-   "changePct": 2.94,
+   "price": 41.755,
+   "changePct": 2.88,
    "prevClose": 40.585,
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.4335,
-   "changePct": -0.29,
+   "price": 5.4365,
+   "changePct": -0.24,
    "prevClose": 5.4495,
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.783,
+   "price": 103.782,
    "changePct": -0.2,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T17:32:06Z"
+   "asOf": "2026-11-26T17:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -734,6 +734,17 @@
  },
  "news": [
   {
+   "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+   "source": "BBC",
+   "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+   "body": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-26T17:38:56Z",
+   "topic": "World"
+  },
+  {
    "title": "Italy says two citizens killed in Iranian strike in Kuwait",
    "source": "BBC",
    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
@@ -742,17 +753,6 @@
     "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
    ],
    "publishedAt": "2026-11-26T16:39:30Z",
-   "topic": "World"
-  },
-  {
-   "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-   "source": "BBC",
-   "summary": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
-   "body": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-26T15:57:26Z",
    "topic": "World"
   },
   {
