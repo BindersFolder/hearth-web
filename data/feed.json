@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T13:32:04Z",
+ "updatedAt": "2026-11-26T13:47:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60807.3008,
-   "changePct": 0.7,
+   "price": 60831.5898,
+   "changePct": 0.74,
    "prevClose": 60384.1406,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1703.64,
-   "changePct": 0.78,
+   "price": 1702.8,
+   "changePct": 0.73,
    "prevClose": 1690.38,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 84.37,
-   "changePct": 4.51,
+   "price": 84.64,
+   "changePct": 4.84,
    "prevClose": 80.73,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 91.02,
-   "changePct": 4.03,
+   "price": 91.33,
+   "changePct": 4.39,
    "prevClose": 87.49,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 35.39,
-   "changePct": -4.89,
+   "price": 35.46,
+   "changePct": -4.7,
    "prevClose": 37.21,
-   "note": "Gasoline 18.07 · Diesel 70.02",
+   "note": "Gasoline 18.16 · Diesel 70.06",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.609,
-   "changePct": -3.01,
+   "price": 3.619,
+   "changePct": -2.74,
    "prevClose": 3.721,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4391,
-   "changePct": 1.37,
+   "price": 2.4477,
+   "changePct": 1.73,
    "prevClose": 2.4061,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.676,
-   "changePct": 1.77,
+   "price": 3.6834,
+   "changePct": 1.98,
    "prevClose": 3.612,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.87,
    "note": "Week ago 3.7212 · Year ago 3.0416",
    "source": "AAA",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.62,
    "note": "Week ago 4.0769 · Year ago 3.1454",
    "source": "AAA",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.69,
    "note": "Week ago 5.9298 · Year ago 3.7778",
    "source": "AAA",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.4,
    "note": "Week ago 6.2979 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3595.0,
-   "changePct": 1.3,
+   "price": 3597.8999,
+   "changePct": 1.38,
    "prevClose": 3549.0,
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 41.62,
-   "changePct": 2.55,
+   "price": 41.715,
+   "changePct": 2.78,
    "prevClose": 40.585,
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.4645,
-   "changePct": 0.28,
+   "price": 5.466,
+   "changePct": 0.3,
    "prevClose": 5.4495,
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.725,
-   "changePct": -0.26,
+   "price": 103.714,
+   "changePct": -0.27,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 26.79,
+   "price": 26.97,
    "changePct": null,
    "prevClose": 28.32,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T13:32:04Z"
+   "asOf": "2026-11-26T13:47:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -734,6 +734,17 @@
  },
  "news": [
   {
+   "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+   "source": "NPR",
+   "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S",
+   "body": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+   "sources": [
+    "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+   ],
+   "publishedAt": "2026-11-26T13:31:28Z",
+   "topic": "News"
+  },
+  {
    "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
    "source": "BBC",
    "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
@@ -769,8 +780,8 @@
   {
    "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
    "source": "BBC",
-   "summary": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
-   "body": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
+   "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+   "body": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
    ],
@@ -830,17 +841,6 @@
     "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid"
    ],
    "publishedAt": "2026-11-26T09:44:20Z",
-   "topic": "News"
-  },
-  {
-   "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
-   "source": "NPR",
-   "summary": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the United States.",
-   "body": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the United States.",
-   "sources": [
-    "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving"
-   ],
-   "publishedAt": "2026-11-26T09:43:27Z",
    "topic": "News"
   },
   {
