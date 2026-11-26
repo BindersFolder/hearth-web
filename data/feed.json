@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T00:47:04Z",
+ "updatedAt": "2026-11-26T01:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60470.1992,
-   "changePct": 0.39,
+   "price": 60523.0781,
+   "changePct": 0.48,
    "prevClose": 60234.8281,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1693.47,
-   "changePct": 0.43,
+   "price": 1697.99,
+   "changePct": 0.7,
    "prevClose": 1686.2,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 84.06,
-   "changePct": 4.12,
+   "price": 84.0,
+   "changePct": 4.05,
    "prevClose": 80.73,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -101,13 +101,13 @@
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.66,
-   "changePct": 3.62,
+   "price": 90.67,
+   "changePct": 3.63,
    "prevClose": 87.49,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 34.8,
-   "changePct": -6.48,
+   "price": 34.97,
+   "changePct": -6.02,
    "prevClose": 37.21,
-   "note": "Gasoline 17.65 · Diesel 69.11",
+   "note": "Gasoline 17.74 · Diesel 69.43",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.691,
-   "changePct": -0.81,
+   "price": 3.681,
+   "changePct": -1.07,
    "prevClose": 3.721,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4217,
-   "changePct": 0.65,
+   "price": 2.4223,
+   "changePct": 0.67,
    "prevClose": 2.4061,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6469,
-   "changePct": 0.97,
+   "price": 3.6531,
+   "changePct": 1.14,
    "prevClose": 3.612,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.78,
    "note": "Week ago 3.7502 · Year ago 3.0549",
    "source": "AAA",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.6,
    "note": "Week ago 4.0964 · Year ago 3.1471",
    "source": "AAA",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.58,
    "note": "Week ago 5.9594 · Year ago 3.7854",
    "source": "AAA",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.55,
    "note": "Week ago 6.3202 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3605.1001,
-   "changePct": 1.58,
+   "price": 3592.5,
+   "changePct": 1.23,
    "prevClose": 3549.0,
    "high52": 5586.2,
    "low52": 3502.9,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 41.755,
-   "changePct": 2.88,
+   "price": 41.54,
+   "changePct": 2.35,
    "prevClose": 40.585,
    "high52": 121.3,
    "low52": 40.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.4885,
-   "changePct": 0.72,
+   "price": 5.486,
+   "changePct": 0.67,
    "prevClose": 5.4495,
    "high52": 6.83,
    "low52": 5.02,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.696,
-   "changePct": -0.28,
+   "price": 103.732,
+   "changePct": -0.25,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T00:47:04Z"
+   "asOf": "2026-11-26T01:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -346,19 +346,20 @@
   "location": "Cornwall-on-Hudson, NY",
   "condition": "cloud",
   "conditionText": "Mostly Cloudy",
-  "temp": 38,
-  "high": 38,
-  "low": 32,
-  "humidity": 59,
+  "temp": 34,
+  "high": 34,
+  "low": 31,
+  "humidity": 64,
   "wind": 2,
-  "summary": "Cloudy. Low around 32, with temperatures rising to around 35 overnight. Northeast wind 2 to 13 mph. Cloudy. Low around 32, with temperatures rising to around 35 overnight. Northeast wind 2 to 13 mph. Rain after 7am. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Northeast wind 14 to 20 mph,…",
+  "summary": "Cloudy, with a low around 31. Wind chill values as low as 23. Northeast wind 2 to 12 mph. Cloudy, with a low around 31. Wind chill values as low as 23. Northeast wind 2 to 12 mph. Rain after 7am. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Wind chill values as low as 24. Northeast wind 13…",
   "alerts": [
    {
     "title": "Wind Advisory",
     "severity": "Moderate",
-    "detail": "Wind Advisory issued November 25 at 1:50PM EST until November 27 at 5:00AM EST by NWS Upton NY",
-    "body": "* WHAT...Northeast winds 20 to 25 mph with gusts up to around 45 mph\nexpected.\n\n* WHERE...Orange and Putnam Counties.\n\n* WHEN...From 10 AM Thursday to 5 AM EST Friday.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.\n\n* INSTRUCTIONS...Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution.\n\nSecure outdoor objects.",
+    "detail": "Wind Advisory issued November 25 at 7:46PM EST until November 27 at 5:00AM EST by NWS Upton NY",
+    "body": "* WHAT...Northeast winds 20 to 25 mph with gusts up to 50 mph\nexpected.\n\n* WHERE...In New Jersey, Western Passaic County. In New York, Orange\nand Putnam Counties.\n\n* WHEN...From 10 AM Thursday to 5 AM EST Friday.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.\n\n* INSTRUCTIONS...Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution.\n\nSecure outdoor objects.",
     "areas": [
+     "Western Passaic",
      "Orange",
      "Putnam"
     ],
@@ -386,35 +387,17 @@
   ],
   "hourly": [
    {
-    "time": "2026-11-25T19:00:00-05:00",
-    "temp": 38,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 0,
-    "wind": 2,
-    "humidity": 59
-   },
-   {
     "time": "2026-11-25T20:00:00-05:00",
-    "temp": 37,
+    "temp": 34,
     "condition": "cloud",
     "conditionText": "Mostly Cloudy",
     "precipPct": 0,
     "wind": 2,
-    "humidity": 61
-   },
-   {
-    "time": "2026-11-25T21:00:00-05:00",
-    "temp": 36,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 0,
-    "wind": 3,
     "humidity": 64
    },
    {
-    "time": "2026-11-25T22:00:00-05:00",
-    "temp": 35,
+    "time": "2026-11-25T21:00:00-05:00",
+    "temp": 33,
     "condition": "cloud",
     "conditionText": "Mostly Cloudy",
     "precipPct": 0,
@@ -422,85 +405,94 @@
     "humidity": 66
    },
    {
+    "time": "2026-11-25T22:00:00-05:00",
+    "temp": 33,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 5,
+    "humidity": 66
+   },
+   {
     "time": "2026-11-25T23:00:00-05:00",
-    "temp": 35,
+    "temp": 32,
     "condition": "cloud",
     "conditionText": "Cloudy",
     "precipPct": 0,
-    "wind": 3,
-    "humidity": 69
+    "wind": 5,
+    "humidity": 72
    },
    {
     "time": "2026-11-26T00:00:00-05:00",
-    "temp": 33,
+    "temp": 32,
     "condition": "cloud",
     "conditionText": "Cloudy",
     "precipPct": 0,
     "wind": 3,
-    "humidity": 72
+    "humidity": 75
    },
    {
     "time": "2026-11-26T01:00:00-05:00",
-    "temp": 34,
+    "temp": 31,
     "condition": "cloud",
     "conditionText": "Cloudy",
     "precipPct": 0,
-    "wind": 6,
-    "humidity": 72
+    "wind": 5,
+    "humidity": 81
    },
    {
     "time": "2026-11-26T02:00:00-05:00",
-    "temp": 34,
+    "temp": 31,
     "condition": "cloud",
     "conditionText": "Cloudy",
     "precipPct": 0,
     "wind": 8,
-    "humidity": 75
+    "humidity": 85
    },
    {
     "time": "2026-11-26T03:00:00-05:00",
-    "temp": 34,
+    "temp": 32,
     "condition": "cloud",
     "conditionText": "Mostly Cloudy",
     "precipPct": 0,
-    "wind": 9,
-    "humidity": 75
+    "wind": 7,
+    "humidity": 81
    },
    {
     "time": "2026-11-26T04:00:00-05:00",
-    "temp": 35,
+    "temp": 32,
     "condition": "cloud",
     "conditionText": "Cloudy",
     "precipPct": 7,
     "wind": 10,
-    "humidity": 72
+    "humidity": 81
    },
    {
     "time": "2026-11-26T05:00:00-05:00",
-    "temp": 35,
+    "temp": 32,
     "condition": "cloud",
     "conditionText": "Cloudy",
     "precipPct": 7,
-    "wind": 13,
-    "humidity": 75
+    "wind": 12,
+    "humidity": 85
    },
    {
     "time": "2026-11-26T06:00:00-05:00",
-    "temp": 36,
+    "temp": 33,
     "condition": "cloud",
     "conditionText": "Mostly Cloudy",
     "precipPct": 7,
-    "wind": 14,
-    "humidity": 72
+    "wind": 13,
+    "humidity": 82
    },
    {
     "time": "2026-11-26T07:00:00-05:00",
-    "temp": 36,
+    "temp": 34,
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 39,
-    "wind": 15,
-    "humidity": 75
+    "wind": 14,
+    "humidity": 82
    },
    {
     "time": "2026-11-26T08:00:00-05:00",
@@ -508,7 +500,7 @@
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 39,
-    "wind": 16,
+    "wind": 14,
     "humidity": 82
    },
    {
@@ -517,7 +509,7 @@
     "condition": "rain",
     "conditionText": "Chance Light Rain",
     "precipPct": 39,
-    "wind": 16,
+    "wind": 15,
     "humidity": 85
    },
    {
@@ -535,7 +527,7 @@
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 64,
-    "wind": 18,
+    "wind": 17,
     "humidity": 76
    },
    {
@@ -544,7 +536,7 @@
     "condition": "rain",
     "conditionText": "Light Rain Likely",
     "precipPct": 64,
-    "wind": 18,
+    "wind": 20,
     "humidity": 76
    },
    {
@@ -553,7 +545,7 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 18,
+    "wind": 21,
     "humidity": 76
    },
    {
@@ -562,7 +554,7 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 20,
+    "wind": 22,
     "humidity": 76
    },
    {
@@ -571,7 +563,7 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 20,
+    "wind": 23,
     "humidity": 77
    },
    {
@@ -580,7 +572,7 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 20,
+    "wind": 23,
     "humidity": 77
    },
    {
@@ -589,7 +581,7 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 18,
+    "wind": 23,
     "humidity": 77
    },
    {
@@ -598,25 +590,34 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 18,
+    "wind": 22,
     "humidity": 86
+   },
+   {
+    "time": "2026-11-26T19:00:00-05:00",
+    "temp": 46,
+    "condition": "rain",
+    "conditionText": "Light Rain",
+    "precipPct": 100,
+    "wind": 21,
+    "humidity": 89
    }
   ],
   "daily": [
    {
     "date": "2026-11-25",
-    "low": 32,
+    "low": 31,
     "night": {
-     "low": 32,
+     "low": 31,
      "condition": "cloud",
      "conditionText": "Cloudy",
-     "summary": "Cloudy. Low around 32, with temperatures rising to around 35 overnight. Northeast wind 2 to 13 mph.",
+     "summary": "Cloudy, with a low around 31. Wind chill values as low as 23. Northeast wind 2 to 12 mph.",
      "precipPct": 7
     },
-    "high": 38,
+    "high": 34,
     "conditionText": "Cloudy",
     "condition": "cloud",
-    "summary": "Cloudy. Low around 32, with temperatures rising to around 35 overnight. Northeast wind 2 to 13 mph.",
+    "summary": "Cloudy, with a low around 31. Wind chill values as low as 23. Northeast wind 2 to 12 mph.",
     "precipPct": 7
    },
    {
@@ -625,15 +626,15 @@
     "condition": "rain",
     "conditionText": "Light Rain",
     "precipPct": 98,
-    "wind": 20,
-    "windText": "NE 14 to 20 mph",
-    "summary": "Rain after 7am. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Northeast wind 14 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+    "wind": 23,
+    "windText": "NE 13 to 23 mph",
+    "summary": "Rain after 7am. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Wind chill values as low as 24. Northeast wind 13 to 23 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
     "low": 44,
     "night": {
      "low": 44,
      "condition": "rain",
      "conditionText": "Light Rain",
-     "summary": "Rain. Cloudy. Low around 44, with temperatures rising to around 52 overnight. Northeast wind 8 to 18 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible.",
+     "summary": "Rain. Cloudy. Low around 44, with temperatures rising to around 52 overnight. Northeast wind 8 to 22 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible.",
      "precipPct": 100
     }
    },
@@ -731,6 +732,17 @@
  },
  "news": [
   {
+   "title": "US announces new tariffs on host of countries including China",
+   "source": "BBC",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "body": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-26T01:00:06Z",
+   "topic": "World"
+  },
+  {
    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
    "source": "BBC",
    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
@@ -806,17 +818,6 @@
    ],
    "publishedAt": "2026-11-25T20:01:34Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-   "source": "BBC",
-   "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-   "body": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-   "sources": [
-    "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-25T19:47:39Z",
-   "topic": "World"
   },
   {
    "title": "Group of Senate Democrats push to add freshman to leadership",
