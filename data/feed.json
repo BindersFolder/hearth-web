@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T20:47:04Z",
+ "updatedAt": "2026-11-26T21:02:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 60701.8008,
-   "changePct": 0.53,
+   "price": 60710.1016,
+   "changePct": 0.54,
    "prevClose": 60384.1406,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1702.97,
+   "price": 1702.88,
    "changePct": 0.74,
    "prevClose": 1690.38,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 37.21,
    "note": "Gasoline 17.75 · Diesel 70.52",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.87,
    "note": "Week ago 3.7212 · Year ago 3.0416",
    "source": "AAA",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.62,
    "note": "Week ago 4.0769 · Year ago 3.1454",
    "source": "AAA",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.69,
    "note": "Week ago 5.9298 · Year ago 3.7778",
    "source": "AAA",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.4,
    "note": "Week ago 6.2979 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,20 +304,20 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.767,
-   "changePct": -0.22,
+   "price": 103.773,
+   "changePct": -0.21,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-26T20:47:04Z"
+   "asOf": "2026-11-26T21:02:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -345,14 +345,30 @@
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Light Rain",
+  "conditionText": "Rain",
   "temp": 42,
   "high": 45,
   "low": 44,
-  "humidity": 65,
-  "wind": 18,
+  "humidity": 70,
+  "wind": 20,
   "summary": "Rain. Cloudy. High near 45, with temperatures falling to around 43 in the afternoon. Northeast wind around 21 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. Rain. Cloudy. Low around 44, with temperatures rising to around 50 overnight.…",
   "alerts": [
+   {
+    "title": "Flood Advisory",
+    "severity": "Minor",
+    "detail": "Flood Advisory issued November 26 at 3:48PM EST until November 27 at 1:15PM EST by NWS Upton NY",
+    "body": "* WHAT...Minor to locally moderate tidal flooding is expected around\nthe times of high tide from Thursday morning through Friday\nmorning.\n\n* WHERE...The Hudson River in Westchester, Rockland, Orange, and\nPutnam counties in southeastern New York.\n\n* WHEN...Until 115 PM EST Friday.\n\n* IMPACTS...Minor to locally moderate tidal flooding is expected\nalong the river around the times of high tide.\n\n* ADDITIONAL DETAILS...\n- At 340 PM EST, Water levels along the Hudson River will rise to\nminor and locally moderate thresholds during the times of high\ntide through Friday morning.\n- The most significant impacts are expected during the times of\nhigh tide tonight.\n- http://www.weather.gov/safety/flood\n\n* INSTRUCTIONS...Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.",
+    "areas": [
+     "Orange, NY",
+     "Putnam, NY",
+     "Rockland, NY",
+     "Westchester, NY"
+    ],
+    "starts": "2026-11-26T15:48:00-05:00",
+    "ends": "2026-11-27T13:15:00-05:00",
+    "source": "NWS Upton NY",
+    "emergency": false
+   },
    {
     "title": "Wind Advisory",
     "severity": "Moderate",
@@ -367,34 +383,9 @@
     "ends": "2026-11-27T01:00:00-05:00",
     "source": "NWS Upton NY",
     "emergency": false
-   },
-   {
-    "title": "Flood Advisory",
-    "severity": "Minor",
-    "detail": "Flood Advisory issued November 24 at 4:29PM EST until November 27 at 1:15PM EST by NWS Upton NY",
-    "body": "* WHAT...Minor to locally moderate tidal flooding is expected around\nthe times of high tide from Thursday morning through Friday\nmorning.\n\n* WHERE...The Hudson River in Westchester, Rockland, Orange, and\nPutnam counties in southeastern New York.\n\n* WHEN...Until 115 PM EST Friday.\n\n* IMPACTS...Minor to locally moderate tidal flooding is expected\nalong the river around the times of high tide.\n\n* ADDITIONAL DETAILS...\n- At 416 PM EST, Water levels along the Hudson River will increase\nto minor and locally moderate thresholds during the times of high\ntide Thursday morning through Friday morning.\n- http://www.weather.gov/safety/flood\n\n* INSTRUCTIONS...Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.",
-    "areas": [
-     "Orange, NY",
-     "Putnam, NY",
-     "Rockland, NY",
-     "Westchester, NY"
-    ],
-    "starts": "2026-11-24T16:29:00-05:00",
-    "ends": "2026-11-27T13:15:00-05:00",
-    "source": "NWS Upton NY",
-    "emergency": false
    }
   ],
   "hourly": [
-   {
-    "time": "2026-11-26T15:00:00-05:00",
-    "temp": 42,
-    "condition": "rain",
-    "conditionText": "Light Rain",
-    "precipPct": 82,
-    "wind": 18,
-    "humidity": 65
-   },
    {
     "time": "2026-11-26T16:00:00-05:00",
     "temp": 42,
@@ -601,6 +592,15 @@
     "precipPct": 80,
     "wind": 12,
     "humidity": 83
+   },
+   {
+    "time": "2026-11-27T15:00:00-05:00",
+    "temp": 51,
+    "condition": "rain",
+    "conditionText": "Rain Showers",
+    "precipPct": 80,
+    "wind": 10,
+    "humidity": 89
    }
   ],
   "daily": [
