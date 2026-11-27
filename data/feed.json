@@ -1,90 +1,90 @@
 {
- "updatedAt": "2026-11-27T16:02:04Z",
+ "updatedAt": "2026-11-27T16:17:05Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 725.0,
-   "changePct": 0.86,
+   "price": 724.75,
+   "changePct": 0.82,
    "prevClose": 718.83,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "QQQ",
    "name": "Nasdaq 100",
    "group": "Indexes",
-   "price": 644.705,
-   "changePct": 1.64,
+   "price": 644.48,
+   "changePct": 1.6,
    "prevClose": 634.319,
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 506.25,
-   "changePct": 0.61,
+   "price": 506.13,
+   "changePct": 0.59,
    "prevClose": 503.16,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 272.33,
-   "changePct": 0.98,
+   "price": 272.52,
+   "changePct": 1.05,
    "prevClose": 269.68,
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59982.8203,
-   "changePct": -0.85,
+   "price": 59955.0312,
+   "changePct": -0.89,
    "prevClose": 60495.5703,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1671.15,
-   "changePct": -0.98,
+   "price": 1671.52,
+   "changePct": -0.95,
    "prevClose": 1687.61,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 83.56,
-   "changePct": -1.02,
+   "price": 83.37,
+   "changePct": -1.24,
    "prevClose": 84.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 82.24,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-27T15:10:47Z"
+   "asOf": "2026-11-27T16:11:04Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.79,
-   "changePct": -0.42,
+   "price": 90.47,
+   "changePct": -0.77,
    "prevClose": 91.17,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 91.8,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-27T15:10:47Z"
+   "asOf": "2026-11-27T16:11:04Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 36.94,
-   "changePct": 5.27,
+   "price": 36.69,
+   "changePct": 4.56,
    "prevClose": 35.09,
-   "note": "Gasoline 19.39 · Diesel 72.05",
+   "note": "Gasoline 19.14 · Diesel 71.81",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.507,
-   "changePct": -4.7,
+   "price": 3.499,
+   "changePct": -4.92,
    "prevClose": 3.68,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4511,
-   "changePct": 0.85,
+   "price": 2.4406,
+   "changePct": 0.42,
    "prevClose": 2.4305,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.7051,
-   "changePct": 0.82,
+   "price": 3.6948,
+   "changePct": 0.54,
    "prevClose": 3.6751,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.75,
+   "price": 3.74,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-27T15:10:47Z"
+   "asOf": "2026-11-27T16:11:04Z"
   },
   {
    "symbol": "JET",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,94 +252,94 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3657.1001,
-   "changePct": 1.01,
+   "price": 3649.1001,
+   "changePct": 0.79,
    "prevClose": 3620.3999,
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 43.81,
-   "changePct": 4.1,
+   "price": 43.54,
+   "changePct": 3.46,
    "prevClose": 42.085,
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.6065,
-   "changePct": 2.08,
+   "price": 5.59,
+   "changePct": 1.78,
    "prevClose": 5.4925,
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.914,
-   "changePct": 1.36,
+   "price": 4.912,
+   "changePct": 1.32,
    "prevClose": 4.848,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 104.009,
-   "changePct": 0.19,
+   "price": 104.03,
+   "changePct": 0.21,
    "prevClose": 103.81,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 25.23,
+   "price": 25.36,
    "changePct": null,
    "prevClose": 26.8,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T16:02:04Z"
+   "asOf": "2026-11-27T16:17:05Z"
   },
   {
    "symbol": "FEAR_GREED",
    "name": "Fear & Greed",
    "group": "Macro",
-   "price": 19.9,
+   "price": 24.5,
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-27T15:10:47Z"
+   "asOf": "2026-11-27T16:11:04Z"
   }
  ],
  "weather": {
@@ -349,9 +349,9 @@
   "temp": 54,
   "high": 57,
   "low": 41,
-  "humidity": 83,
+  "humidity": 80,
   "wind": 13,
-  "summary": "Rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. Southwest wind around 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. Rain showers likely before 7pm. Mostly cloudy. Low around 41, with…",
+  "summary": "Rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. South wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. Rain showers likely before 7pm. Mostly cloudy. Low around 41, with…",
   "alerts": [
    {
     "title": "Flood Advisory",
@@ -371,15 +371,6 @@
    }
   ],
   "hourly": [
-   {
-    "time": "2026-11-27T10:00:00-05:00",
-    "temp": 54,
-    "condition": "rain",
-    "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 18,
-    "wind": 13,
-    "humidity": 83
-   },
    {
     "time": "2026-11-27T11:00:00-05:00",
     "temp": 54,
@@ -586,6 +577,15 @@
     "precipPct": 0,
     "wind": 10,
     "humidity": 76
+   },
+   {
+    "time": "2026-11-28T10:00:00-05:00",
+    "temp": 49,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 12,
+    "humidity": 74
    }
   ],
   "daily": [
@@ -594,10 +594,10 @@
     "high": 57,
     "condition": "rain",
     "conditionText": "Rain Showers Likely",
-    "precipPct": 57,
+    "precipPct": 62,
     "wind": 13,
-    "windText": "SW 13 mph",
-    "summary": "Rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. Southwest wind around 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "windText": "S 9 to 13 mph",
+    "summary": "Rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. South wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "low": 41,
     "night": {
      "low": 41,
@@ -719,6 +719,28 @@
  },
  "news": [
   {
+   "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
+   "source": "Zeteo",
+   "summary": "Yoav Litvin and Ilan Pappé talk to Mehdi about how Zionism manipulates fear, and whether anything will change for Palestinians even if Israel forms a new government.",
+   "body": "Yoav Litvin and Ilan Pappé talk to Mehdi about how Zionism manipulates fear, and whether anything will change for Palestinians even if Israel forms a new government.",
+   "sources": [
+    "https://zeteo.com/p/wired-to-steal-how-neuroscience-can"
+   ],
+   "publishedAt": "2026-11-27T16:03:05Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "Brazil pushes back on Macron calling its meat 'doped'",
+   "source": "BBC",
+   "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+   "body": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+   "sources": [
+    "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+   ],
+   "publishedAt": "2026-11-27T15:54:15Z",
+   "topic": "World"
+  },
+  {
    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
    "source": "BBC",
    "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
@@ -818,17 +840,6 @@
    "topic": "News"
   },
   {
-   "title": "Clashes mar European games as Macron condemns violence",
-   "source": "BBC",
-   "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "body": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "sources": [
-    "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss"
-   ],
-   "publishedAt": "2026-11-27T10:24:24Z",
-   "topic": "World"
-  },
-  {
    "title": "Can luxury save Macy's?",
    "source": "NPR",
    "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point",
@@ -840,12 +851,12 @@
    "topic": "News"
   },
   {
-   "title": "Screen free tweens try their hand at Dungeons & Dragons",
+   "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
    "source": "NPR",
-   "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-   "body": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+   "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health",
+   "body": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
    "sources": [
-    "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons"
+    "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn"
    ],
    "publishedAt": "2026-11-27T10:00:00Z",
    "topic": "News"
@@ -870,17 +881,6 @@
     "https://zeteo.com/p/5-things-you-didnt-know-about-thanksgiving"
    ],
    "publishedAt": "2026-11-26T15:01:18Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "How to Actually Talk About Politics at Thanksgiving",
-   "source": "Zeteo",
-   "summary": "We should all stop mimicking the same political class that’s made us feel so polarized in the first place.",
-   "body": "We should all stop mimicking the same political class that’s made us feel so polarized in the first place.",
-   "sources": [
-    "https://zeteo.com/p/how-to-actually-talk-about-politics-at-thanksgiving-2026"
-   ],
-   "publishedAt": "2026-11-26T01:01:22Z",
    "topic": "Independent"
   },
   {
