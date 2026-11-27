@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T09:17:04Z",
+ "updatedAt": "2026-11-27T09:25:25Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "IWM",
@@ -47,44 +47,44 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 61661.2305,
-   "changePct": 1.93,
-   "prevClose": 60495.5703,
+   "price": 61627.7188,
+   "changePct": 1.87,
+   "prevClose": 60493.5,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1729.42,
+   "price": 1729.46,
    "changePct": 2.48,
-   "prevClose": 1687.61,
+   "prevClose": 1687.54,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 85.71,
-   "changePct": 6.17,
+   "price": 85.73,
+   "changePct": 6.19,
    "prevClose": 80.73,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -124,12 +124,12 @@
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 34.91,
-   "changePct": -6.18,
+   "price": 34.7,
+   "changePct": -6.75,
    "prevClose": 37.21,
-   "note": "Gasoline 17.59 · Diesel 69.55",
+   "note": "Gasoline 17.53 · Diesel 69.04",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.588,
-   "changePct": -3.57,
+   "price": 3.586,
+   "changePct": -3.63,
    "prevClose": 3.721,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.4596,
-   "changePct": 2.22,
+   "price": 2.4585,
+   "changePct": 2.18,
    "prevClose": 2.4061,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6967,
-   "changePct": 2.34,
+   "price": 3.6849,
+   "changePct": 2.02,
    "prevClose": 3.612,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,46 +252,46 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3709.8,
-   "changePct": 4.53,
+   "price": 3709.1001,
+   "changePct": 4.51,
    "prevClose": 3549.0,
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 44.79,
-   "changePct": 10.36,
+   "price": 44.75,
+   "changePct": 10.26,
    "prevClose": 40.585,
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.7,
-   "changePct": 4.6,
+   "price": 5.703,
+   "changePct": 4.65,
    "prevClose": 5.4495,
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "US10Y",
@@ -304,32 +304,32 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 103.799,
-   "changePct": -0.19,
+   "price": 103.831,
+   "changePct": -0.15,
    "prevClose": 103.992,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.61,
+   "price": 24.62,
    "changePct": null,
    "prevClose": 26.8,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T09:17:04Z"
+   "asOf": "2026-11-27T09:25:25Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -356,15 +356,15 @@
    {
     "title": "Flood Advisory",
     "severity": "Minor",
-    "detail": "Flood Advisory issued November 26 at 3:48PM EST until November 27 at 1:15PM EST by NWS Upton NY",
-    "body": "* WHAT...Minor to locally moderate tidal flooding is expected around\nthe times of high tide from Thursday morning through Friday\nmorning.\n\n* WHERE...The Hudson River in Westchester, Rockland, Orange, and\nPutnam counties in southeastern New York.\n\n* WHEN...Until 115 PM EST Friday.\n\n* IMPACTS...Minor to locally moderate tidal flooding is expected\nalong the river around the times of high tide.\n\n* ADDITIONAL DETAILS...\n- At 340 PM EST, Water levels along the Hudson River will rise to\nminor and locally moderate thresholds during the times of high\ntide through Friday morning.\n- The most significant impacts are expected during the times of\nhigh tide tonight.\n- http://www.weather.gov/safety/flood\n\n* INSTRUCTIONS...Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.",
+    "detail": "Flood Advisory issued November 27 at 4:23AM EST until November 27 at 1:15PM EST by NWS Upton NY",
+    "body": "* WHAT...Minor tidal flooding is possible around the times of high\ntide this morning.\n\n* WHERE...The Hudson River in Westchester, Rockland, Orange, and\nPutnam counties in southeastern New York.\n\n* WHEN...Until 115 PM EST Friday.\n\n* IMPACTS...Minor tidal flooding is possible along the river around\nthe times of high tide.\n\n* ADDITIONAL DETAILS...\n- At 422 AM EST, Water levels along the Hudson River could rise to\nminor thresholds during the times of high tide this morning.\n- http://www.weather.gov/safety/flood\n\n* INSTRUCTIONS...Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.",
     "areas": [
      "Orange, NY",
      "Putnam, NY",
      "Rockland, NY",
      "Westchester, NY"
     ],
-    "starts": "2026-11-26T15:48:00-05:00",
+    "starts": "2026-11-27T04:23:00-05:00",
     "ends": "2026-11-27T13:15:00-05:00",
     "source": "NWS Upton NY",
     "emergency": false
