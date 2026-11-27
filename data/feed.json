@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-27T18:02:05Z",
+ "updatedAt": "2026-11-27T18:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
    "name": "S&P 500",
    "group": "Indexes",
-   "price": 728.68,
-   "changePct": 1.37,
+   "price": 728.32,
+   "changePct": 1.32,
    "prevClose": 718.83,
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,68 +23,68 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "DIA",
    "name": "Dow Jones",
    "group": "Indexes",
-   "price": 507.75,
-   "changePct": 0.91,
+   "price": 507.6,
+   "changePct": 0.88,
    "prevClose": 503.16,
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "IWM",
    "name": "Russell 2000",
    "group": "Indexes",
-   "price": 273.62,
-   "changePct": 1.46,
+   "price": 273.79,
+   "changePct": 1.52,
    "prevClose": 269.68,
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59819.0703,
-   "changePct": -1.12,
+   "price": 59802.9492,
+   "changePct": -1.14,
    "prevClose": 60495.5703,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1669.2,
-   "changePct": -1.09,
+   "price": 1668.5699,
+   "changePct": -1.13,
    "prevClose": 1687.61,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "WTI",
    "name": "WTI futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 82.68,
-   "changePct": -2.06,
+   "price": 82.86,
+   "changePct": -1.85,
    "prevClose": 84.42,
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,20 +94,20 @@
    "price": 82.24,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-27T17:10:26Z"
+   "asOf": "2026-11-27T18:10:27Z"
   },
   {
    "symbol": "BRENT",
    "name": "Brent futures",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 90.02,
-   "changePct": -1.26,
+   "price": 90.14,
+   "changePct": -1.13,
    "prevClose": 91.17,
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,19 +117,19 @@
    "price": 91.8,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-27T17:10:26Z"
+   "asOf": "2026-11-27T18:10:27Z"
   },
   {
    "symbol": "CRACK",
    "name": "3-2-1 crack spread",
    "group": "Energy",
    "unit": "$/bbl",
-   "price": 36.65,
-   "changePct": 4.45,
+   "price": 36.61,
+   "changePct": 4.33,
    "prevClose": 35.09,
-   "note": "Gasoline 19.34 · Diesel 71.28",
+   "note": "Gasoline 19.27 · Diesel 71.28",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -137,13 +137,13 @@
    "group": "Energy",
    "unit": "$/MMBtu",
    "decimals": 3,
-   "price": 3.503,
-   "changePct": -4.81,
+   "price": 3.506,
+   "changePct": -4.73,
    "prevClose": 3.68,
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -151,13 +151,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 2.429,
-   "changePct": -0.06,
+   "price": 2.4317,
+   "changePct": 0.05,
    "prevClose": 2.4305,
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -165,13 +165,13 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.6656,
-   "changePct": -0.26,
+   "price": 3.67,
+   "changePct": -0.14,
    "prevClose": 3.6751,
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -179,10 +179,10 @@
    "group": "Fuel",
    "unit": "$/gal",
    "decimals": 3,
-   "price": 3.72,
+   "price": 3.7,
    "changePct": 0.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-27T17:10:26Z"
+   "asOf": "2026-11-27T18:10:27Z"
   },
   {
    "symbol": "JET",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,84 +252,84 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "GOLD",
    "name": "Gold",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 3662.5,
-   "changePct": 1.16,
+   "price": 3678.1001,
+   "changePct": 1.59,
    "prevClose": 3620.3999,
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "SILVER",
    "name": "Silver",
    "group": "Metals",
    "unit": "$/oz",
-   "price": 43.56,
-   "changePct": 3.5,
+   "price": 44.005,
+   "changePct": 4.56,
    "prevClose": 42.085,
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "COPPER",
    "name": "Copper",
    "group": "Metals",
    "unit": "$/lb",
-   "price": 5.5905,
-   "changePct": 1.78,
+   "price": 5.614,
+   "changePct": 2.21,
    "prevClose": 5.4925,
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "US10Y",
    "name": "10-year yield",
    "group": "Macro",
    "unit": "%",
-   "price": 4.926,
-   "changePct": 1.61,
+   "price": 4.932,
+   "changePct": 1.73,
    "prevClose": 4.848,
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "DXY",
    "name": "Dollar index",
    "group": "Macro",
    "unit": "pts",
-   "price": 104.025,
+   "price": 104.026,
    "changePct": 0.21,
    "prevClose": 103.81,
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "VIX",
    "name": "Volatility",
    "group": "Macro",
-   "price": 24.84,
+   "price": 24.01,
    "changePct": null,
    "prevClose": 26.8,
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-27T18:02:05Z"
+   "asOf": "2026-11-27T18:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,47 +339,21 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-27T17:10:26Z"
+   "asOf": "2026-11-27T18:10:27Z"
   }
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
   "condition": "rain",
-  "conditionText": "Slight Chance Rain Showers",
-  "temp": 53,
+  "conditionText": "Rain Showers Likely",
+  "temp": 52,
   "high": 57,
   "low": 41,
   "humidity": 80,
   "wind": 13,
-  "summary": "Rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. South wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. Rain showers likely before 7pm. Mostly cloudy. Low around 41, with…",
-  "alerts": [
-   {
-    "title": "Flood Advisory",
-    "severity": "Minor",
-    "detail": "Flood Advisory issued November 27 at 4:23AM EST until November 27 at 1:15PM EST by NWS Upton NY",
-    "body": "* WHAT...Minor tidal flooding is possible around the times of high\ntide this morning.\n\n* WHERE...The Hudson River in Westchester, Rockland, Orange, and\nPutnam counties in southeastern New York.\n\n* WHEN...Until 115 PM EST Friday.\n\n* IMPACTS...Minor tidal flooding is possible along the river around\nthe times of high tide.\n\n* ADDITIONAL DETAILS...\n- At 422 AM EST, Water levels along the Hudson River could rise to\nminor thresholds during the times of high tide this morning.\n- http://www.weather.gov/safety/flood\n\n* INSTRUCTIONS...Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.",
-    "areas": [
-     "Orange, NY",
-     "Putnam, NY",
-     "Rockland, NY",
-     "Westchester, NY"
-    ],
-    "starts": "2026-11-27T04:23:00-05:00",
-    "ends": "2026-11-27T13:15:00-05:00",
-    "source": "NWS Upton NY",
-    "emergency": false
-   }
-  ],
+  "summary": "Rain before 7am, then rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. South wind 8 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. Rain showers likely before 7pm. Mostly…",
+  "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-27T12:00:00-05:00",
-    "temp": 53,
-    "condition": "rain",
-    "conditionText": "Slight Chance Rain Showers",
-    "precipPct": 18,
-    "wind": 13,
-    "humidity": 80
-   },
    {
     "time": "2026-11-27T13:00:00-05:00",
     "temp": 52,
@@ -586,6 +560,15 @@
     "precipPct": 0,
     "wind": 13,
     "humidity": 71
+   },
+   {
+    "time": "2026-11-28T12:00:00-05:00",
+    "temp": 51,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 0,
+    "wind": 13,
+    "humidity": 68
    }
   ],
   "daily": [
@@ -593,11 +576,11 @@
     "date": "2026-11-27",
     "high": 57,
     "condition": "rain",
-    "conditionText": "Rain Showers Likely",
-    "precipPct": 62,
+    "conditionText": "Light Rain then Rain Showers Likely",
+    "precipPct": 76,
     "wind": 13,
-    "windText": "S 9 to 13 mph",
-    "summary": "Rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. South wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "windText": "S 8 to 13 mph",
+    "summary": "Rain before 7am, then rain showers likely. Mostly cloudy. High near 57, with temperatures falling to around 48 in the afternoon. South wind 8 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "low": 41,
     "night": {
      "low": 41,
@@ -743,8 +726,8 @@
   {
    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
    "source": "BBC",
-   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
-   "body": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+   "body": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
    "sources": [
     "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
    ],
@@ -851,12 +834,12 @@
    "topic": "News"
   },
   {
-   "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+   "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
    "source": "NPR",
-   "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-   "body": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+   "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum",
+   "body": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
    "sources": [
-    "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons"
+    "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
    ],
    "publishedAt": "2026-11-27T10:00:00Z",
    "topic": "News"
