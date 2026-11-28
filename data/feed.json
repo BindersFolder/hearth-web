@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T05:02:04Z",
+ "updatedAt": "2026-11-28T05:17:06Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59880.9297,
-   "changePct": 0.04,
+   "price": 59734.5312,
+   "changePct": -0.21,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1659.37,
-   "changePct": -0.09,
+   "price": 1656.17,
+   "changePct": -0.28,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.56 · Diesel 72.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.15,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T05:02:04Z"
+   "asOf": "2026-11-28T05:17:06Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -347,11 +347,11 @@
   "condition": "cloud",
   "conditionText": "Mostly Cloudy",
   "temp": 42,
-  "high": 51,
-  "low": 34,
+  "high": 41,
+  "low": 41,
   "humidity": 86,
   "wind": 9,
-  "summary": "Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph. Partly cloudy, with a low around 34. West wind 6 to 12 mph. Mostly sunny. High near 54, with temperatures falling to around 50 in the afternoon. Southwest wind around 6 mph.",
+  "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph. Mostly cloudy, with a low around 41. Southwest wind around 10 mph. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -573,7 +573,30 @@
   ],
   "daily": [
    {
+    "date": "2026-11-27",
+    "low": 41,
+    "night": {
+     "low": 41,
+     "condition": "cloud",
+     "conditionText": "Mostly Cloudy",
+     "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph.",
+     "precipPct": 6
+    },
+    "high": 41,
+    "conditionText": "Mostly Cloudy",
+    "condition": "cloud",
+    "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph.",
+    "precipPct": 6
+   },
+   {
     "date": "2026-11-28",
+    "high": 51,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 4,
+    "wind": 14,
+    "windText": "W 9 to 14 mph",
+    "summary": "Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
     "low": 34,
     "night": {
      "low": 34,
@@ -581,14 +604,7 @@
      "conditionText": "Partly Cloudy",
      "summary": "Partly cloudy, with a low around 34. West wind 6 to 12 mph.",
      "precipPct": 3
-    },
-    "high": 51,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 4,
-    "wind": 14,
-    "windText": "W 9 to 14 mph",
-    "summary": "Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph."
+    }
    },
    {
     "date": "2026-11-29",
@@ -679,21 +695,24 @@
      "summary": "Partly cloudy, with a low around 40.",
      "precipPct": 6
     }
-   },
-   {
-    "date": "2026-12-04",
-    "high": 60,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 36,
-    "wind": 5,
-    "windText": "SW 0 to 5 mph",
-    "summary": "A chance of rain after 7am. Partly sunny, with a high near 60.",
-    "low": null
    }
   ]
  },
  "news": [
+  {
+   "title": "Bill Arnold reminded everyone",
+   "source": "Balloon-Juice.com",
+   "summary": "But, as a Ukrainian military source says, Starlink would make things much easier: \"It's like running in iron sneakers.",
+   "body": "But, as a Ukrainian military source says, Starlink would make things much easier: \"It's like running in iron sneakers. We've proven that we're good athletes, but a reliable Starlink would definitely make things easier,\" source says. POLITICO: Trump unilaterally amended a joint statement with NATO chief Mark Rutte, adding Ukraine alongside Russia in a warning against expanding the war. The original statement referred only to Russia. The move came days after Ukraine struck a Russian warship in Libya. Trump: \"I think Putin would like to see the war end. It takes two to tango.\" Trump whines that Putin \"had to go through a fake Russia Russia Russia investigation\" Trump claims he put…",
+   "sources": [
+    "https://balloon-juice.com/2026/11/26/war-for-ukraine-day-1736-a-brief-thursday-night-update/#comment-10076030"
+   ],
+   "publishedAt": "2026-11-28T04:38:37Z",
+   "topic": "World",
+   "id": "7A15B01FFE9202E4200D0B7D93D12D3C",
+   "provider": "Bigdata.com",
+   "sentiment": -0.7
+  },
   {
    "title": "Two Truths And Three Conceptual Errors: Towards A European Civil War? - OpEd",
    "source": "EUROPE SAYS",
@@ -856,20 +875,6 @@
    "id": "5B7089115C612CCB2E9763A38AD63BD7",
    "provider": "Bigdata.com",
    "sentiment": 0.15
-  },
-  {
-   "title": "Top Midday Stories: US October Advance Trade Gap Widens; Nvidia Chips Found Installed at Chinese Data Center Tied to Megaspeed",
-   "source": "Yahoo! Finance",
-   "summary": "All three major US stock indexes were up in late-morning trading Friday, as technology stocks reboun Keep reading this article with Yahoo Finance Plus Silver",
-   "body": "All three major US stock indexes were up in late-morning trading Friday, as technology stocks reboun Keep reading this article with Yahoo Finance Plus Silver",
-   "sources": [
-    "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-us-october-164220958.html"
-   ],
-   "publishedAt": "2026-11-27T16:48:01Z",
-   "topic": "Markets",
-   "id": "590ED8F78B7DC8B4F78CC954C0BF4E85",
-   "provider": "Bigdata.com",
-   "sentiment": 0.21
   },
   {
    "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
