@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T06:02:04Z",
+ "updatedAt": "2026-11-28T06:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59700.4805,
-   "changePct": -0.26,
+   "price": 59662.3281,
+   "changePct": -0.33,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1654.96,
-   "changePct": -0.35,
+   "price": 1655.9399,
+   "changePct": -0.3,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.56 · Diesel 72.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.15,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T06:02:04Z"
+   "asOf": "2026-11-28T06:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -347,11 +347,11 @@
   "condition": "cloud",
   "conditionText": "Mostly Cloudy",
   "temp": 42,
-  "high": 51,
-  "low": 34,
+  "high": 41,
+  "low": 41,
   "humidity": 86,
   "wind": 9,
-  "summary": "Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph. Partly cloudy, with a low around 34. West wind 6 to 12 mph. Mostly sunny. High near 54, with temperatures falling to around 50 in the afternoon. Southwest wind around 6 mph.",
+  "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -573,7 +573,30 @@
   ],
   "daily": [
    {
+    "date": "2026-11-27",
+    "low": 41,
+    "night": {
+     "low": 41,
+     "condition": "rain",
+     "conditionText": "Chance Rain Showers then Mostly Cloudy",
+     "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph.",
+     "precipPct": 6
+    },
+    "high": 41,
+    "conditionText": "Chance Rain Showers then Mostly Cloudy",
+    "condition": "rain",
+    "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph.",
+    "precipPct": 6
+   },
+   {
     "date": "2026-11-28",
+    "high": 51,
+    "condition": "cloud",
+    "conditionText": "Mostly Cloudy",
+    "precipPct": 4,
+    "wind": 14,
+    "windText": "W 9 to 14 mph",
+    "summary": "Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
     "low": 34,
     "night": {
      "low": 34,
@@ -581,14 +604,7 @@
      "conditionText": "Partly Cloudy",
      "summary": "Partly cloudy, with a low around 34. West wind 6 to 12 mph.",
      "precipPct": 3
-    },
-    "high": 51,
-    "condition": "cloud",
-    "conditionText": "Mostly Cloudy",
-    "precipPct": 4,
-    "wind": 14,
-    "windText": "W 9 to 14 mph",
-    "summary": "Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph."
+    }
    },
    {
     "date": "2026-11-29",
@@ -679,21 +695,24 @@
      "summary": "Partly cloudy, with a low around 40.",
      "precipPct": 6
     }
-   },
-   {
-    "date": "2026-12-04",
-    "high": 60,
-    "condition": "rain",
-    "conditionText": "Chance Light Rain",
-    "precipPct": 36,
-    "wind": 5,
-    "windText": "SW 0 to 5 mph",
-    "summary": "A chance of rain after 7am. Partly sunny, with a high near 60.",
-    "low": null
    }
   ]
  },
  "news": [
+  {
+   "title": "Midterms didn't stop America's decline",
+   "source": "The Express",
+   "summary": "America is drowning in gossipy irrelevance while the ship of state sinks in the harbor as we watch.",
+   "body": "America is drowning in gossipy irrelevance while the ship of state sinks in the harbor as we watch. We should be thinking about how and when to impeach public officials who support the executive branch usurping Congress' constitutional powers. Instead, we are doting on gossip floated up by the media, like \"Lauren Boebert looks so different with blond hair,\" and \"Is Robert Pattinson the best guy for the new James Bond?\" What about the three most violent and repressive autocratic leaders in the world sitting down at a big table and writing out a \"peace\" declaration for the world to swoon over? Putin said his war would be over in three days and it's still going after five years. Trump said…",
+   "sources": [
+    "https://www.lockhaven.com/opinion/columns/2026/11/midterms-didnt-stop-americas-decline/"
+   ],
+   "publishedAt": "2026-11-28T05:49:59Z",
+   "topic": "World",
+   "id": "8671F52C3BF8E3B32CC7D9A48E42B972",
+   "provider": "Bigdata.com",
+   "sentiment": -0.3
+  },
   {
    "title": "Bill Arnold reminded everyone",
    "source": "Balloon-Juice.com",
@@ -774,20 +793,6 @@
    ],
    "publishedAt": "2026-11-28T00:29:27Z",
    "topic": "Independent"
-  },
-  {
-   "title": "Chávez's Venezuelas: Divesting Myth From Reality",
-   "source": "The New Hampshire Gazette",
-   "summary": "Chávez was hardly shy about confronting American imperialism.",
-   "body": "Chávez was hardly shy about confronting American imperialism. He called George W. Bush the devil at the United Nations and complained of sulfurous odors lingering at the podium, he regularly denounced American imperialism; and he spoke up for Palestinians. This didn't earn him friends in Washington, but Chávez outlasted a U.S.-backed coup attempt, subversion, sabotage, diplomatic and economic hostility, and a relentless propaganda campaign to become one of the most villainized figures in the American political imaginary. American television pundits openly called for his extrajudicial execution-back when that still qualified as a shocking breach of etiquette, before the current lapse in…",
-   "sources": [
-    "https://www.nhgazette.com/2026/11/27/chavezs-venezuelas-divesting-myth-from-reality/"
-   ],
-   "publishedAt": "2026-11-27T23:17:01Z",
-   "topic": "World",
-   "id": "3EEDF8A79F0AAEDB6094A88F8DD67C05",
-   "provider": "Bigdata.com",
-   "sentiment": -0.39
   },
   {
    "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
