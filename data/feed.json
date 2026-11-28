@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T11:02:05Z",
+ "updatedAt": "2026-11-28T11:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59186.9414,
-   "changePct": -1.12,
+   "price": 59210.1484,
+   "changePct": -1.08,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1644.6899,
-   "changePct": -0.97,
+   "price": 1646.86,
+   "changePct": -0.84,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 82.24,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:11:00Z"
+   "asOf": "2026-11-28T11:10:36Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 91.8,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:11:00Z"
+   "asOf": "2026-11-28T11:10:36Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.56 · Diesel 72.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.64,
    "changePct": -1.9,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:11:00Z"
+   "asOf": "2026-11-28T11:10:36Z"
   },
   {
    "symbol": "JET",
@@ -191,9 +191,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 3.4,
-   "changePct": null,
+   "changePct": -7.1,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:11:00Z"
+   "asOf": "2026-11-28T11:10:36Z"
   },
   {
    "symbol": "PROPANE",
@@ -202,9 +202,9 @@
    "unit": "$/gal",
    "decimals": 3,
    "price": 0.97,
-   "changePct": null,
+   "changePct": -4.0,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:11:00Z"
+   "asOf": "2026-11-28T11:10:36Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 3.6594 · Year ago 3.0222",
    "source": "AAA",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.37,
    "note": "Week ago 4.0357 · Year ago 3.1403",
    "source": "AAA",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.67,
    "note": "Week ago 5.8649 · Year ago 3.7673",
    "source": "AAA",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.23,
    "note": "Week ago 6.261 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.15,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T11:02:05Z"
+   "asOf": "2026-11-28T11:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-28T03:11:00Z"
+   "asOf": "2026-11-28T11:10:36Z"
   }
  ],
  "weather": {
@@ -702,6 +702,59 @@
  },
  "news": [
   {
+   "title": "Journalists Could Be Forced to Out Their Sources Unless the Supreme Court Steps In",
+   "source": "The Intercept",
+   "summary": "A private citizen subpoenaed a journalist for her sources",
+   "body": "A private citizen subpoenaed a journalist for her sources. If SCOTUS doesn’t take up the case, it will endanger the very nature of investigative reporting.",
+   "sources": [
+    "https://theintercept.com/2026/11/28/journalist-source-subpoena-herridge/"
+   ],
+   "publishedAt": "2026-11-28T11:12:00Z",
+   "topic": "Independent"
+  },
+  {
+   "title": "14 chicken dinners on the nights the lunch boxes come home empty",
+   "source": "Yahoo Lifestyle",
+   "summary": "A young tree grown from a 400-year-old London plane is planted in a neighbouring county.",
+   "body": "A young tree grown from a 400-year-old London plane is planted in a neighbouring county. By Ben Blanchard and Yimou Lee TAIPEI, Nov 28 (Reuters) - Taiwan's ruling party looked set to make gains in local elections on Saturday closely watched by China, though the opposition would probably A Pan-Am jumbo jet came down over the south Scotland town in December 1988, killing 270. Plans for thousands of homes between Stoney Stanton and the M69 have been sent for approval. The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization. The route was shut shortly after 04:00 GMT on Saturday after a crash between two cars. Unlike…",
+   "sources": [
+    "https://creators.yahoo.com/lifestyle/story/14-chicken-dinners-on-the-nights-the-lunch-boxes-come-home-empty-110000632.html"
+   ],
+   "publishedAt": "2026-11-28T11:04:31Z",
+   "topic": "World",
+   "id": "EE10730507F091CF850846C70CDBD5AB",
+   "provider": "Bigdata.com",
+   "sentiment": -0.62
+  },
+  {
+   "title": "Amendment 3 will put local governments on a diet | Opinion letters",
+   "source": "AOL.com",
+   "summary": "A vicious cycle Over the past few years, Donald Trump has been a monopolist who has claimed our attention in the press by waging a destabilizing war by vacating affordability with tariffs, by delivering Ukraine to…",
+   "body": "A vicious cycle Over the past few years, Donald Trump has been a monopolist who has claimed our attention in the press by waging a destabilizing war by vacating affordability with tariffs, by delivering Ukraine to Russia, by allowing tech oligarchs free reign over our property and over our economy and by controlling the Justice department as a political and personal weapon for retribution. Trump captured the 4th branch of our government, the press, as he operated in kingly fashion. During that same period, House Speaker Mike Johnson delivered the legislative branch of government to Donald Trump as he said \"I have no intention of getting in the way of President Trump and his…",
+   "sources": [
+    "https://www.aol.com/articles/amendment-3-put-local-governments-100400000.html"
+   ],
+   "publishedAt": "2026-11-28T10:17:31Z",
+   "topic": "World",
+   "id": "06E5BC3591957617D4AB605699E12AB1",
+   "provider": "Bigdata.com",
+   "sentiment": -0.55
+  },
+  {
+   "title": "The battle over Trump's legacy is already underway",
+   "source": "MS NOW",
+   "summary": "This is an adapted excerpt from the Nov.",
+   "body": "This is an adapted excerpt from the Nov. 22 episode of \"Connect with Jacob Soboroff.\" There are fewer than 800 days left in Donald Trump's presidential term, Democrats just secured a historic midterm upset, and already conversations about who might throw their hat into the ring for 2028 have begun. People are starting to think about what America looks like after Trump. What shape will this country be in? What will become of the Republican Party? Will we be able to return to a politics that is less consumed by division and more focused on governing? Will our government once again prioritize the interests of ordinary Americans over those of billionaires and corporate power? Those are all…",
+   "sources": [
+    "https://www.ms.now/news/news-analysis/trump-battle-legacy-monuments-confederacy"
+   ],
+   "publishedAt": "2026-11-28T10:11:56Z",
+   "topic": "World",
+   "id": "B88B5A2848FABE7CEA0EFC5EB4DFBF04",
+   "provider": "Bigdata.com",
+   "sentiment": -0.09
+  },
+  {
    "title": "Don't put too much hope on a Democratic Congress ending Trump's tariffs",
    "source": "Yahoo! News",
    "summary": "WASHINGTON, D.C.",
@@ -714,20 +767,6 @@
    "id": "DD623CD9C43DAF183F21F0B411337BBA",
    "provider": "Bigdata.com",
    "sentiment": -0.1
-  },
-  {
-   "title": "Oil Prices Rise as Supply Concerns and Geopolitical Tensions Mount",
-   "source": "EUROPE SAYS",
-   "summary": "Australia has also made headlines with its new legislation mandating liquefied natural gas (LNG) exporters to reserve a percentage of their output for domestic needs, aiming to address rising energy prices at home.",
-   "body": "Australia has also made headlines with its new legislation mandating liquefied natural gas (LNG) exporters to reserve a percentage of their output for domestic needs, aiming to address rising energy prices at home. In a related context, further unsettling news comes from Yemen, where Houthi militias reported attacks on Saudi oil facilities, initiating concerns regarding long-term production impacts. Satellite imaging has confirmed damage, although Saudi authorities have yet to elucidate on the scale of the impact. Moreover, as tensions rise in the Gulf region, other developments, such as the damage inflicted on a Russian refining facility by Ukrainian forces, underscore the complexities…",
-   "sources": [
-    "https://www.europesays.com/3406574/"
-   ],
-   "publishedAt": "2026-11-28T09:27:52Z",
-   "topic": "Energy",
-   "id": "8EDA07AE6146DD675E0E53D881290736",
-   "provider": "Bigdata.com",
-   "sentiment": -0.53
   },
   {
    "title": "You Said It: Nov. 28, 2026",
@@ -758,20 +797,6 @@
    "sentiment": 0.06
   },
   {
-   "title": "On This Day: 'Grand Ole Opry' radio show debuts",
-   "source": "UPI",
-   "summary": "In 2010, reaction around the world was swift and mostly negative to a new batch of more than 200,000 confidential U.S.",
-   "body": "In 2010, reaction around the world was swift and mostly negative to a new batch of more than 200,000 confidential U.S. diplomatic documents published on the WikiLeaks whistle-blower website. U.S. officials denounced the release, which included many items classified as secret, and branded them a threat to global security. In 2012, seven expatriate Egyptians, all Coptic Christians who were involved in making an anti-Islam film, Innocence of Muslims, were sentenced to death in absentia by the Cairo Criminal Court. In 2016, LaMia Flight 2933 crashed in Colombia, killing 71 of the 77 people on board. The aircraft was carrying Brazil's Chapecoense soccer team, coaching staff and journalists.…",
-   "sources": [
-    "https://www.upi.com/Top_News/2026/11/28/On-This-Day-Grand-Ole-Opry-radio-show-debuts/8751795836797/"
-   ],
-   "publishedAt": "2026-11-28T08:03:28Z",
-   "topic": "World",
-   "id": "4413F89D82A7EA562A9264EF06869ED3",
-   "provider": "Bigdata.com",
-   "sentiment": -0.73
-  },
-  {
    "title": "Up to P3/liter diesel, gasoline rollback expected next week",
    "source": "GMA News Online",
    "summary": "Another round of price reduction in pump prices will greet motorists in the coming week, according to an oil industry source.",
@@ -798,20 +823,6 @@
    "id": "A77FBF91F698233372AE15FEB191C3DC",
    "provider": "Bigdata.com",
    "sentiment": -0.49
-  },
-  {
-   "title": "Midterms didn't stop America's decline",
-   "source": "The Express",
-   "summary": "America is drowning in gossipy irrelevance while the ship of state sinks in the harbor as we watch.",
-   "body": "America is drowning in gossipy irrelevance while the ship of state sinks in the harbor as we watch. We should be thinking about how and when to impeach public officials who support the executive branch usurping Congress' constitutional powers. Instead, we are doting on gossip floated up by the media, like \"Lauren Boebert looks so different with blond hair,\" and \"Is Robert Pattinson the best guy for the new James Bond?\" What about the three most violent and repressive autocratic leaders in the world sitting down at a big table and writing out a \"peace\" declaration for the world to swoon over? Putin said his war would be over in three days and it's still going after five years. Trump said…",
-   "sources": [
-    "https://www.lockhaven.com/opinion/columns/2026/11/midterms-didnt-stop-americas-decline/"
-   ],
-   "publishedAt": "2026-11-28T05:49:59Z",
-   "topic": "World",
-   "id": "8671F52C3BF8E3B32CC7D9A48E42B972",
-   "provider": "Bigdata.com",
-   "sentiment": -0.3
   },
   {
    "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
@@ -842,20 +853,6 @@
    "sentiment": 0.02
   },
   {
-   "title": "The explosion of extreme wealth is the major problem of our time",
-   "source": "MSN",
-   "summary": "We see it in America today, where the top 1% now owns more wealth than the bottom 93% and one man, Elon Musk, owns more wealth than the bottom 53% of American households.",
-   "body": "We see it in America today, where the top 1% now owns more wealth than the bottom 93% and one man, Elon Musk, owns more wealth than the bottom 53% of American households. We see it in Russia, where the latest figures indicate that the wealthiest 500 people in that country control more wealth than the bottom 99.8% of their people. We see it in France, where more than one out of five children live in poverty, while 53 billionaires own more wealth than the bottom half of the population. We see it in Africa, where in recent years, nearly 850 million people have struggled with food insecurity, while just four men own more wealth than the bottom 50% of the people on that continent. Yes. Four…",
-   "sources": [
-    "https://www.msn.com/en-gb/money/general/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time/ar-AA2inP68?ocid=finance-verthp-feeds"
-   ],
-   "publishedAt": "2026-11-28T00:49:13Z",
-   "topic": "World",
-   "id": "9E1A35A947102D8574EFDFA235FCEBBE",
-   "provider": "Bigdata.com",
-   "sentiment": -0.45
-  },
-  {
    "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
    "source": "The Intercept",
    "summary": "Duncan, who protects Palestinian civilians as a nonviolent organizer, faces deportation after settlers targeted the bus he was riding.",
@@ -881,6 +878,20 @@
    "sentiment": -0.22
   },
   {
+   "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
+   "source": "The Economic Times",
+   "summary": "US Bond market: 10-year Treasury yield rose 8.6 basis points to 4.93 per cent and the 2-year yield, more sensitive to expectations for Federal Reserve policy, rose 7.3 bps to 4.71 per cent.",
+   "body": "US Bond market: 10-year Treasury yield rose 8.6 basis points to 4.93 per cent and the 2-year yield, more sensitive to expectations for Federal Reserve policy, rose 7.3 bps to 4.71 per cent.",
+   "sources": [
+    "https://economictimes.indiatimes.com/world/business/us-dollar-rises-bond-treasury-yields-jump-but-thanksgiving-holiday-fails-to-cheer-bitcoin/articleshow/136235420.cms"
+   ],
+   "publishedAt": "2026-11-27T22:59:02Z",
+   "topic": "Markets",
+   "id": "7A4692B819FE22A83039345A9A659C2F",
+   "provider": "Bigdata.com",
+   "sentiment": 0.04
+  },
+  {
    "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
    "source": "Zeteo",
    "summary": "Yoav Litvin and Ilan Pappé talk to Mehdi about how Zionism manipulates fear, and whether anything will change for Palestinians even if Israel forms a new government.",
@@ -889,17 +900,6 @@
     "https://zeteo.com/p/wired-to-steal-how-neuroscience-can"
    ],
    "publishedAt": "2026-11-27T16:03:05Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "How the Gaza Encampments Unleashed the Blue Tsunami and Helped Spark a Worldwide Movement",
-   "source": "The Intercept",
-   "summary": "Student protesters were told that their anger was a liability",
-   "body": "Student protesters were told that their anger was a liability. In the end, their righteous rage won.",
-   "sources": [
-    "https://theintercept.com/2026/11/27/midterms-columbia-palestine-student-protests/"
-   ],
-   "publishedAt": "2026-11-27T13:00:00Z",
    "topic": "Independent"
   },
   {
