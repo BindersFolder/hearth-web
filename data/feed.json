@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T08:02:04Z",
+ "updatedAt": "2026-11-28T08:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59740.0195,
-   "changePct": -0.2,
+   "price": 59515.6602,
+   "changePct": -0.57,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1655.58,
-   "changePct": -0.32,
+   "price": 1650.87,
+   "changePct": -0.6,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.56 · Diesel 72.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.15,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T08:02:04Z"
+   "asOf": "2026-11-28T08:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -695,6 +695,34 @@
  },
  "news": [
   {
+   "title": "On This Day: 'Grand Ole Opry' radio show debuts",
+   "source": "UPI",
+   "summary": "In 2010, reaction around the world was swift and mostly negative to a new batch of more than 200,000 confidential U.S.",
+   "body": "In 2010, reaction around the world was swift and mostly negative to a new batch of more than 200,000 confidential U.S. diplomatic documents published on the WikiLeaks whistle-blower website. U.S. officials denounced the release, which included many items classified as secret, and branded them a threat to global security. In 2012, seven expatriate Egyptians, all Coptic Christians who were involved in making an anti-Islam film, Innocence of Muslims, were sentenced to death in absentia by the Cairo Criminal Court. In 2016, LaMia Flight 2933 crashed in Colombia, killing 71 of the 77 people on board. The aircraft was carrying Brazil's Chapecoense soccer team, coaching staff and journalists.…",
+   "sources": [
+    "https://www.upi.com/Top_News/2026/11/28/On-This-Day-Grand-Ole-Opry-radio-show-debuts/8751795836797/"
+   ],
+   "publishedAt": "2026-11-28T08:03:28Z",
+   "topic": "World",
+   "id": "4413F89D82A7EA562A9264EF06869ED3",
+   "provider": "Bigdata.com",
+   "sentiment": -0.73
+  },
+  {
+   "title": "Up to P3/liter diesel, gasoline rollback expected next week",
+   "source": "GMA News Online",
+   "summary": "Another round of price reduction in pump prices will greet motorists in the coming week, according to an oil industry source.",
+   "body": "Another round of price reduction in pump prices will greet motorists in the coming week, according to an oil industry source. Citing the Mean of Platts Singapore trading and foreign exchange averages from November 23 to 27, an oil industry source said price rollbacks could be as follows: Diesel - P2.00 to P3.00 per liter Gasoline - P2.00 to P3.00 per liter The source noted that ocean freight, insurance, and biofuel costs are not included in the estimated price adjustments next week. \"Diesel remained lower this week as improving replacement supply prospects helped reduce near-term supply concerns, despite the recent rally following attacks on Saudi Arabia's largest oil refineries and…",
+   "sources": [
+    "https://www.gmanetwork.com/news/money/economy/1011052/up-to-p3-liter-diesel-gasoline-rollback-expected-next-week/story/"
+   ],
+   "publishedAt": "2026-11-28T07:41:13Z",
+   "topic": "Energy",
+   "id": "08C4B6B29E4A8750BF93278EBB7B86B7",
+   "provider": "Bigdata.com",
+   "sentiment": -0.39
+  },
+  {
    "title": "Trump's tariffs have become America's new normal",
    "source": "Al Jazeera",
    "summary": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump's tax cuts.",
@@ -721,20 +749,6 @@
    "id": "8671F52C3BF8E3B32CC7D9A48E42B972",
    "provider": "Bigdata.com",
    "sentiment": -0.3
-  },
-  {
-   "title": "You Decide: Is There Any Good News?",
-   "source": "EUROPE SAYS",
-   "summary": "By Mike Walden We've seen and heard a lot of bad news in the headlines recently, with much of it being economic in nature.",
-   "body": "By Mike Walden We've seen and heard a lot of bad news in the headlines recently, with much of it being economic in nature. Necessities like gasoline, food and electricity have experienced price hikes, resulting in what many call the affordability crisis. The US conflict with Iran has raised questions about the reliability of oil supplies and several other commodities. Growth in the job market has been inconsistent, creating concerns among new and existing workers seeking a job change. And, to top off the situation, interest rates have trended up, making it more difficult for buyers - particularly first-time buyers - to purchase big-ticket items like homes where borrowing is often a…",
-   "sources": [
-    "https://www.europesays.com/3406152/"
-   ],
-   "publishedAt": "2026-11-28T04:58:56Z",
-   "topic": "Energy",
-   "id": "0ABBBFB869B9C9FF6FB9108207AFB4D5",
-   "provider": "Bigdata.com",
-   "sentiment": -0.61
   },
   {
    "title": "Bill Arnold reminded everyone",
@@ -858,20 +872,6 @@
    "id": "8209C05EEE674D46E629563A10568149",
    "provider": "Bigdata.com",
    "sentiment": -0.26
-  },
-  {
-   "title": "Energy Fuels gains 11% as peers and the broader market rise",
-   "source": "Seeking Alpha",
-   "summary": "Energy Fuels gains 11% as peers and the broader market rise",
-   "body": "Energy Fuels gains 11% as peers and the broader market rise",
-   "sources": [
-    "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise&feed_item_type=news"
-   ],
-   "publishedAt": "2026-11-27T19:11:54Z",
-   "topic": "Energy",
-   "id": "D5CFBE61F33EF632A244A7435354F3A9",
-   "provider": "Bigdata.com",
-   "sentiment": 0.64
   },
   {
    "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
