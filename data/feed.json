@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T03:47:04Z",
+ "updatedAt": "2026-11-28T03:52:06Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59876.0117,
+   "price": 59874.9883,
    "changePct": 0.03,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1662.45,
-   "changePct": 0.1,
+   "price": 1662.89,
+   "changePct": 0.12,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -94,7 +94,7 @@
    "price": 82.24,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:10:56Z"
+   "asOf": "2026-11-28T03:11:00Z"
   },
   {
    "symbol": "BRENT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -117,7 +117,7 @@
    "price": 91.8,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:10:56Z"
+   "asOf": "2026-11-28T03:11:00Z"
   },
   {
    "symbol": "CRACK",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.53 · Diesel 71.28",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "DIESEL",
@@ -182,7 +182,7 @@
    "price": 3.64,
    "changePct": -1.9,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:10:56Z"
+   "asOf": "2026-11-28T03:11:00Z"
   },
   {
    "symbol": "JET",
@@ -193,7 +193,7 @@
    "price": 3.4,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:10:56Z"
+   "asOf": "2026-11-28T03:11:00Z"
   },
   {
    "symbol": "PROPANE",
@@ -204,7 +204,7 @@
    "price": 0.97,
    "changePct": null,
    "source": "OilPriceAPI",
-   "asOf": "2026-11-28T03:10:56Z"
+   "asOf": "2026-11-28T03:11:00Z"
   },
   {
    "symbol": "US-REG",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:47:04Z"
+   "asOf": "2026-11-28T03:52:06Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -339,7 +339,7 @@
    "changePct": null,
    "note": "Extreme fear",
    "source": "Stocklake",
-   "asOf": "2026-11-28T03:10:56Z"
+   "asOf": "2026-11-28T03:11:00Z"
   }
  ],
  "weather": {
@@ -351,7 +351,7 @@
   "low": 41,
   "humidity": 82,
   "wind": 10,
-  "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
+  "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph. Mostly cloudy, with a low around 41. Southwest wind around 10 mph. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -577,16 +577,16 @@
     "low": 41,
     "night": {
      "low": 41,
-     "condition": "rain",
-     "conditionText": "Chance Rain Showers then Mostly Cloudy",
-     "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph.",
-     "precipPct": 6
+     "condition": "cloud",
+     "conditionText": "Mostly Cloudy",
+     "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph.",
+     "precipPct": 4
     },
     "high": 43,
-    "conditionText": "Chance Rain Showers then Mostly Cloudy",
-    "condition": "rain",
-    "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph.",
-    "precipPct": 6
+    "conditionText": "Mostly Cloudy",
+    "condition": "cloud",
+    "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph.",
+    "precipPct": 4
    },
    {
     "date": "2026-11-28",
@@ -700,15 +700,60 @@
  },
  "news": [
   {
-   "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-   "source": "BBC",
-   "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
-   "body": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+   "title": "Report: Pentagon Delays Release of Europe Troop Review",
+   "source": "NewsMax.com",
+   "summary": "The review is part of a broader vision that Hegseth dubbed \"NATO 3.0,\" under which European allies would assume greater responsibility for the continent's conventional defense.",
+   "body": "The review is part of a broader vision that Hegseth dubbed \"NATO 3.0,\" under which European allies would assume greater responsibility for the continent's conventional defense. The U.S., meanwhile, would shift more of its military focus toward the Indo-Pacific. \"We're still hopeful to meet the Dec. 1 deadline - at least for [Hegseth] to have the final review,\" Under Secretary of War for Policy Elbridge Colby told reporters in Brussels last week, according to Politico. Colby noted \"enormous progress\" by Germany, Poland, the Netherlands, and Scandinavian countries in \"stepping up\" and spending more on their own defense. The NATO diplomats told Politico that the U.S. did not provide a new…",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+    "https://www.newsmax.com/world/globaltalk/pentagon-europe-troops/2026/11/27/id/1277745"
    ],
-   "publishedAt": "2026-11-28T00:56:55Z",
-   "topic": "World"
+   "publishedAt": "2026-11-28T03:28:17Z",
+   "topic": "World",
+   "id": "8A28DC77FB2BD0C7C2B8F0FDA092BDE7",
+   "provider": "Bigdata.com",
+   "sentiment": -0.46
+  },
+  {
+   "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
+   "source": "Yahoo! Finance",
+   "summary": "January WTI crude oil (CLF27) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27) closed up +0.0066 (+0.27%).",
+   "body": "January WTI crude oil (CLF27) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early advance on Friday and settled mixed. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher OPEC crude production is weighing on prices after Iraq's oil minister said his country is negotiating with OPEC to raise the country's crude production ceiling. Crude prices initially moved higher Friday as escalating attacks on energy infrastructure and tankers in the Middle East raised supply concerns. Crude oil prices fell from a 1.5-week high Friday and moved lower after Iraq's oil minister…",
+   "sources": [
+    "https://finance.yahoo.com/energy/articles/crude-prices-retreat-possible-increase-201114789.html"
+   ],
+   "publishedAt": "2026-11-28T02:26:03Z",
+   "topic": "Energy",
+   "id": "9DB581763AB35C8725B0FFD003C8ABB7",
+   "provider": "Bigdata.com",
+   "sentiment": -0.65
+  },
+  {
+   "title": "Argentine Peso Slips to 1,605 per Dollar",
+   "source": "The Rio Times",
+   "summary": "The global dollar is a smaller factor.",
+   "body": "The global dollar is a smaller factor. The US dollar index rose 0.36% to 104.035 and the US 10-year Treasury yield rose 8 basis points to 4.939%, but those moves did not pull the neighbours down. The Brazilian real, the Chilean peso and the Colombian peso all gained on the dollar, so the peso's slide is mostly home-grown (confidence: medium). Other markets were calm and cheerful. The S&P 500, Wall Street's main index, rose 1.60% and the VIX fear gauge fell 11.16% to 23.81. 04 The day's movers Grupo Galicia (GGAL, largest private bank) $12m turnover +1.5% Most traded name on the board YPF (YPFD, oil and gas) $9m turnover -1.6% Oil fund USO fell 1.52% the same day Banco Macro (BMA) $5m…",
+   "sources": [
+    "https://www.riotimesonline.com/argentina-markets-merval-peso-friday-november-27-2026/"
+   ],
+   "publishedAt": "2026-11-28T01:09:23Z",
+   "topic": "Markets",
+   "id": "40DDB14A89AAE709442DC49F7AA91276",
+   "provider": "Bigdata.com",
+   "sentiment": 0.02
+  },
+  {
+   "title": "The explosion of extreme wealth is the major problem of our time",
+   "source": "MSN",
+   "summary": "We see it in America today, where the top 1% now owns more wealth than the bottom 93% and one man, Elon Musk, owns more wealth than the bottom 53% of American households.",
+   "body": "We see it in America today, where the top 1% now owns more wealth than the bottom 93% and one man, Elon Musk, owns more wealth than the bottom 53% of American households. We see it in Russia, where the latest figures indicate that the wealthiest 500 people in that country control more wealth than the bottom 99.8% of their people. We see it in France, where more than one out of five children live in poverty, while 53 billionaires own more wealth than the bottom half of the population. We see it in Africa, where in recent years, nearly 850 million people have struggled with food insecurity, while just four men own more wealth than the bottom 50% of the people on that continent. Yes. Four…",
+   "sources": [
+    "https://www.msn.com/en-gb/money/general/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time/ar-AA2inP68?ocid=finance-verthp-feeds"
+   ],
+   "publishedAt": "2026-11-28T00:49:13Z",
+   "topic": "World",
+   "id": "9E1A35A947102D8574EFDFA235FCEBBE",
+   "provider": "Bigdata.com",
+   "sentiment": -0.45
   },
   {
    "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
@@ -722,48 +767,114 @@
    "topic": "Independent"
   },
   {
-   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-   "source": "BBC",
-   "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-   "body": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+   "title": "Chávez's Venezuelas: Divesting Myth From Reality",
+   "source": "The New Hampshire Gazette",
+   "summary": "Chávez was hardly shy about confronting American imperialism.",
+   "body": "Chávez was hardly shy about confronting American imperialism. He called George W. Bush the devil at the United Nations and complained of sulfurous odors lingering at the podium, he regularly denounced American imperialism; and he spoke up for Palestinians. This didn't earn him friends in Washington, but Chávez outlasted a U.S.-backed coup attempt, subversion, sabotage, diplomatic and economic hostility, and a relentless propaganda campaign to become one of the most villainized figures in the American political imaginary. American television pundits openly called for his extrajudicial execution-back when that still qualified as a shocking breach of etiquette, before the current lapse in…",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+    "https://www.nhgazette.com/2026/11/27/chavezs-venezuelas-divesting-myth-from-reality/"
    ],
-   "publishedAt": "2026-11-27T21:55:53Z",
-   "topic": "World"
+   "publishedAt": "2026-11-27T23:17:01Z",
+   "topic": "World",
+   "id": "3EEDF8A79F0AAEDB6094A88F8DD67C05",
+   "provider": "Bigdata.com",
+   "sentiment": -0.39
   },
   {
-   "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-   "source": "BBC",
-   "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-   "body": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
+   "source": "The Economic Times",
+   "summary": "US Bond market: 10-year Treasury yield rose 8.6 basis points to 4.93 per cent and the 2-year yield, more sensitive to expectations for Federal Reserve policy, rose 7.3 bps to 4.71 per cent.",
+   "body": "US Bond market: 10-year Treasury yield rose 8.6 basis points to 4.93 per cent and the 2-year yield, more sensitive to expectations for Federal Reserve policy, rose 7.3 bps to 4.71 per cent.",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
+    "https://economictimes.indiatimes.com/world/business/us-dollar-rises-bond-treasury-yields-jump-but-thanksgiving-holiday-fails-to-cheer-bitcoin/articleshow/136235420.cms"
    ],
-   "publishedAt": "2026-11-27T20:34:45Z",
-   "topic": "World"
+   "publishedAt": "2026-11-27T22:59:02Z",
+   "topic": "Markets",
+   "id": "7A4692B819FE22A83039345A9A659C2F",
+   "provider": "Bigdata.com",
+   "sentiment": 0.04
   },
   {
-   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-   "source": "BBC",
-   "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-   "body": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+   "title": "Wesley Clark to Newsmax: US Must Rebalance Russia Diplomacy",
+   "source": "NewsMax.com",
+   "summary": "Clark said Putin is trying to weaken European and U.S.",
+   "body": "Clark said Putin is trying to weaken European and U.S. support for Ukraine, and he noted the Trump administration has not yet released previously appropriated military assistance and shipments of Patriot missiles to Kyiv. \"So we're not actually doing much for Ukraine except intel,\" Clark said. He said Ukraine increasingly has turned to developing its own weapons, including ballistic missiles, to defend its independence. Clark also suggested Russia's reported ambitions to deploy nuclear weapons in space reflect Putin's weakened position. \"I think there's a role for President Trump in here and for the administration, for diplomacy. But you've got to get it rebalanced,\" he said. \"It's not…",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+    "https://www.newsmax.com/world/globaltalk/wesley-clark-donald-trump-vladimir-putin/2026/11/27/id/1277721"
    ],
-   "publishedAt": "2026-11-27T20:06:31Z",
-   "topic": "World"
+   "publishedAt": "2026-11-27T21:41:09Z",
+   "topic": "World",
+   "id": "1B29B905208BC4923C6F76E815E6C37D",
+   "provider": "Bigdata.com",
+   "sentiment": -0.27
   },
   {
-   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-   "source": "BBC",
-   "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?.",
-   "body": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+   "title": "Dollar Moves Higher With T-Note Yields",
+   "source": "Nasdaq",
+   "summary": "The dollar index (DXY00) today is up by +0.26% on strength in T-note yields.",
+   "body": "The dollar index (DXY00) today is up by +0.26% on strength in T-note yields. Also, reduced expectations of aggressive Fed rate cuts are boosting the dollar on positive carryover from Monday when Chicago Fed President Goolsbee said last month's job numbers \"came in weaker than expected but are not looking yet like a recession.\" US trade news today was bearish for the dollar after the US June trade deficit shrank to -$73.1 billion from a revised -$75.1 billion in May, a larger deficit than expectations of -$72.5 billion. The markets are discounting the chances at 100% for a -25 bp rate cut at the Sep 17-18 FOMC meeting and at 87% for a -50 bp rate cut at that meeting. EUR/USD (^EURUSD)…",
    "sources": [
-    "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+    "https://www.nasdaq.com/articles/dollar-moves-higher-t-note-yields"
    ],
-   "publishedAt": "2026-11-27T18:42:50Z",
-   "topic": "World"
+   "publishedAt": "2026-11-27T21:18:13Z",
+   "topic": "Markets",
+   "id": "8209C05EEE674D46E629563A10568149",
+   "provider": "Bigdata.com",
+   "sentiment": -0.26
+  },
+  {
+   "title": "Diesel Margins Keep Refiners Running as Gasoline Glut Builds, Vortexa Says",
+   "source": "MT Newswires - Global Energy",
+   "summary": "02:09 PM EST, 11/27/2026 (MT Newswires) -- Strong diesel and jet fuel margins have kept refinery runs high in India and Europe, even as surplus gasoline in the Atlantic Basin struggles to find buyers, said Mick…",
+   "body": "02:09 PM EST, 11/27/2026 (MT Newswires) -- Strong diesel and jet fuel margins have kept refinery runs high in India and Europe, even as surplus gasoline in the Atlantic Basin struggles to find buyers, said Mick Strautmann, market analyst at Vortexa, in a note on Friday. India's implied refinery runs averaged 6.1 million barrels per day in the Nov. 1-25 window, up 7% over the year and 15% above the 2021-2025 average, while Europe's rose 3% to 10.9 million b/d. Indian refiners have tilted output toward diesel, with seaborne diesel exports from Sikka, Gujarat hitting 550,000 b/d in October, the most since March 2022. Gasoline export outlets are shrinking, with European shipments to West…",
+   "sources": [],
+   "publishedAt": "2026-11-27T19:09:10Z",
+   "topic": "Energy",
+   "id": "B40B717FF6949B454148B17914B5DF0B",
+   "provider": "Bigdata.com",
+   "sentiment": -0.59
+  },
+  {
+   "title": "Update: US Equity Indexes Jump With Treasury Yields as Consumer Discretionary, Technology Top Sector Charts",
+   "source": "Fidelity",
+   "summary": "US consumers' online spending exceeded $7 billion on Thanksgiving Day , 63.2% of which came via mobile shopping, according to a report from Adobe (ADBE) Digital Insights.",
+   "body": "US consumers' online spending exceeded $7 billion on Thanksgiving Day , 63.2% of which came via mobile shopping, according to a report from Adobe (ADBE) Digital Insights. Spending rose to $12.9 billion on Black Friday and is estimated to reach $15.1 billion on Cyber Monday, Adobe Digital Insights said, noting electronics and apparel as top online shopping categories. The advance US goods trade deficit widened to $149.48 billion in October from $135.08 billion in September, according to data released by the US Census Bureau . The gap was wider than the $136.0 billion shortfall expected in a Bloomberg -compiled survey. Exports rose by 3.2% in the month, while imports rose by 6.1%. Gold…",
+   "sources": [
+    "https://www.fidelity.com/news/article/us-markets/202611271322MIDNIGHTUSEQUITY_A3761690"
+   ],
+   "publishedAt": "2026-11-27T18:43:26Z",
+   "topic": "Markets",
+   "id": "8A9F81277321D2CFA7C8FDCBB376DA78",
+   "provider": "Bigdata.com",
+   "sentiment": -0.11
+  },
+  {
+   "title": "New Zealand's Election Deadlock",
+   "source": "Philadelphia Trumpet",
+   "summary": "Negotiations could produce a more unwieldy coalition.",
+   "body": "Negotiations could produce a more unwieldy coalition. Negotiations could fall apart. The government could demand a recount, which could award it two seats that the National Party lost by small margins and restore its majority. New Zealand could head into a second round of elections. New Zealand's political paralysis comes as its fellow English-speaking nations deal with similar problems. The energized Democratic Party in the United States is threatening to oppose President Donald Trump, while the United Kingdom is on its sixth prime minister in 10 years. Canada faced an independence referendum in Alberta last month while a pro-independence party won election in Quebec, and South Africa's…",
+   "sources": [
+    "https://www.thetrumpet.com/36120-new-zealands-election-deadlock"
+   ],
+   "publishedAt": "2026-11-27T18:16:57Z",
+   "topic": "World",
+   "id": "3497B9E41BA1CC3ADFB4ADC47481B2E5",
+   "provider": "Bigdata.com",
+   "sentiment": -0.53
+  },
+  {
+   "title": "US stocks set for weekly advance as battered AI shares hold their ground",
+   "source": "Kitco News",
+   "summary": "On the S&P 500 (.SPX), all but one sector was trading higher, with information technology stocks (.SPLRCT), providing the biggest boost.",
+   "body": "On the S&P 500 (.SPX), all but one sector was trading higher, with information technology stocks (.SPLRCT), providing the biggest boost. At 9:43 a.m. ET, the Dow Jones Industrial Average (.DJI), rose 361.11 points, or 0.72%, to 50,544.06, the S&P 500 (.SPX), gained 51.78 points, or 0.74%, to 7,235.66 and the Nasdaq Composite (.IXIC), gained 204.05 points, &#8288;or 0.87%, to 23,789.86. However, the gains have done little to erase November's losses. The S&P 500 and the Nasdaq are on course for their worst November since 2008, pressured by concerns over tougher AI regulation following the Democrats' midterm election victory and expectations that monetary policy will remain restrictive.…",
+   "sources": [
+    "https://www.kitco.com/news/off-the-wire/2026-11-27/us-stocks-set-weekly-advance-battered-ai-shares-hold-their-ground"
+   ],
+   "publishedAt": "2026-11-27T17:12:35Z",
+   "topic": "Markets",
+   "id": "5B7089115C612CCB2E9763A38AD63BD7",
+   "provider": "Bigdata.com",
+   "sentiment": 0.15
   },
   {
    "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
@@ -788,72 +899,6 @@
    "topic": "Independent"
   },
   {
-   "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-   "source": "NPR",
-   "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets.",
-   "body": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
-   "sources": [
-    "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
-   ],
-   "publishedAt": "2026-11-27T11:59:02Z",
-   "topic": "News"
-  },
-  {
-   "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-   "source": "NPR",
-   "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-   "body": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-   "sources": [
-    "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
-   ],
-   "publishedAt": "2026-11-27T11:49:50Z",
-   "topic": "News"
-  },
-  {
-   "title": "The Far Right Wants to Kill Wolves Whenever and However They Please",
-   "source": "The Intercept",
-   "summary": "Ryan Devereaux on ground zero in the political war over wolves: Yellowstone National Park.",
-   "body": "Ryan Devereaux on ground zero in the political war over wolves: Yellowstone National Park.",
-   "sources": [
-    "https://theintercept.com/2026/11/27/yellowstone-wolf-hunt-montana/"
-   ],
-   "publishedAt": "2026-11-27T11:00:00Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-   "source": "NPR",
-   "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel",
-   "body": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade.",
-   "sources": [
-    "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday"
-   ],
-   "publishedAt": "2026-11-27T10:59:36Z",
-   "topic": "News"
-  },
-  {
-   "title": "Can luxury save Macy's?",
-   "source": "NPR",
-   "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point",
-   "body": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
-   "sources": [
-    "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
-   ],
-   "publishedAt": "2026-11-27T10:01:00Z",
-   "topic": "News"
-  },
-  {
-   "title": "Screen-free tweens try their hand at Dungeons & Dragons",
-   "source": "NPR",
-   "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-   "body": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-   "sources": [
-    "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons"
-   ],
-   "publishedAt": "2026-11-27T10:00:00Z",
-   "topic": "News"
-  },
-  {
    "title": "Mehdi and Owen on Their Russell Brand Interviews",
    "source": "Zeteo",
    "summary": "Mehdi Hasan and Owen Jones also debate whether Britain should rejoin the EU – and take very different sides",
@@ -862,17 +907,6 @@
     "https://zeteo.com/p/mehdi-and-owen-on-their-russell-brand"
    ],
    "publishedAt": "2026-11-26T19:01:41Z",
-   "topic": "Independent"
-  },
-  {
-   "title": "5 Things You Didn’t Know About Thanksgiving",
-   "source": "Zeteo",
-   "summary": "From the inconvenient truth about the ‘First Thanksgiving’ to the immigrant origins of the iconic Macy’s Thanksgiving Parade, Zeteo sets the record straight about this particular U.S",
-   "body": "From the inconvenient truth about the ‘First Thanksgiving’ to the immigrant origins of the iconic Macy’s Thanksgiving Parade, Zeteo sets the record straight about this particular U.S. holiday.",
-   "sources": [
-    "https://zeteo.com/p/5-things-you-didnt-know-about-thanksgiving"
-   ],
-   "publishedAt": "2026-11-26T15:01:18Z",
    "topic": "Independent"
   }
  ],
