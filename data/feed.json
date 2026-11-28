@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T10:02:03Z",
+ "updatedAt": "2026-11-28T10:17:04Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59450.1289,
-   "changePct": -0.68,
+   "price": 59411.7891,
+   "changePct": -0.75,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1650.4,
-   "changePct": -0.63,
+   "price": 1652.36,
+   "changePct": -0.51,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.56 · Diesel 72.93",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.48,
    "note": "Week ago 3.6594 · Year ago 3.0222",
    "source": "AAA",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.37,
    "note": "Week ago 4.0357 · Year ago 3.1403",
    "source": "AAA",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.67,
    "note": "Week ago 5.8649 · Year ago 3.7673",
    "source": "AAA",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.23,
    "note": "Week ago 6.261 · Year ago 3.9419",
    "source": "AAA",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.15,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T10:02:03Z"
+   "asOf": "2026-11-28T10:17:04Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -344,25 +344,16 @@
  ],
  "weather": {
   "location": "Cornwall-on-Hudson, NY",
-  "condition": "clearNight",
-  "conditionText": "Partly Cloudy",
-  "temp": 41,
+  "condition": "cloud",
+  "conditionText": "Mostly Cloudy",
+  "temp": 40,
   "high": 51,
   "low": 35,
-  "humidity": 76,
+  "humidity": 79,
   "wind": 7,
   "summary": "Mostly cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Southwest wind 7 to 10 mph, with gusts as high as 23 mph. Partly cloudy, with a low around 35. West wind around 7 mph. Mostly sunny. High near 55, with temperatures falling to around 50 in the afternoon. Southwest wind around 6 mph.",
   "alerts": [],
   "hourly": [
-   {
-    "time": "2026-11-28T04:00:00-05:00",
-    "temp": 41,
-    "condition": "clearNight",
-    "conditionText": "Partly Cloudy",
-    "precipPct": 1,
-    "wind": 7,
-    "humidity": 76
-   },
    {
     "time": "2026-11-28T05:00:00-05:00",
     "temp": 40,
@@ -569,6 +560,15 @@
     "precipPct": 2,
     "wind": 6,
     "humidity": 73
+   },
+   {
+    "time": "2026-11-29T04:00:00-05:00",
+    "temp": 37,
+    "condition": "clearNight",
+    "conditionText": "Clear",
+    "precipPct": 1,
+    "wind": 6,
+    "humidity": 75
    }
   ],
   "daily": [
@@ -695,6 +695,48 @@
  },
  "news": [
   {
+   "title": "Don't put too much hope on a Democratic Congress ending Trump's tariffs",
+   "source": "Yahoo! News",
+   "summary": "WASHINGTON, D.C.",
+   "body": "WASHINGTON, D.C. - With the seating of a new, Democratic-controlled U.S. Congress looming, there's renewed talk of a possible Canada-U.S. trade deal. Speculation is rife over the American president's desire to avoid risking his own party turning against him with a possible vote on repealing the Canadian tariffs. But how much power will the new Congress really have to affect change? National Post reached out to Bill Reinsch, senior adviser at the Center for Strategic and International Studies, for his thoughts on the likelihood of Congress repealing the tariffs on Canada and on the likelihood of an interim trade deal. This Q&A has been edited for length and clarity. How much hope should…",
+   "sources": [
+    "https://ca.news.yahoo.com/don-t-put-too-much-090000604.html"
+   ],
+   "publishedAt": "2026-11-28T09:36:34Z",
+   "topic": "World",
+   "id": "DD623CD9C43DAF183F21F0B411337BBA",
+   "provider": "Bigdata.com",
+   "sentiment": -0.1
+  },
+  {
+   "title": "Oil Prices Rise as Supply Concerns and Geopolitical Tensions Mount",
+   "source": "EUROPE SAYS",
+   "summary": "Australia has also made headlines with its new legislation mandating liquefied natural gas (LNG) exporters to reserve a percentage of their output for domestic needs, aiming to address rising energy prices at home.",
+   "body": "Australia has also made headlines with its new legislation mandating liquefied natural gas (LNG) exporters to reserve a percentage of their output for domestic needs, aiming to address rising energy prices at home. In a related context, further unsettling news comes from Yemen, where Houthi militias reported attacks on Saudi oil facilities, initiating concerns regarding long-term production impacts. Satellite imaging has confirmed damage, although Saudi authorities have yet to elucidate on the scale of the impact. Moreover, as tensions rise in the Gulf region, other developments, such as the damage inflicted on a Russian refining facility by Ukrainian forces, underscore the complexities…",
+   "sources": [
+    "https://www.europesays.com/3406574/"
+   ],
+   "publishedAt": "2026-11-28T09:27:52Z",
+   "topic": "Energy",
+   "id": "8EDA07AE6146DD675E0E53D881290736",
+   "provider": "Bigdata.com",
+   "sentiment": -0.53
+  },
+  {
+   "title": "You Said It: Nov. 28, 2026",
+   "source": "Grand Junction Daily Sentinel",
+   "summary": "All it takes to convert a First World country into a Third World country is enough Third World people voting their ideology.",
+   "body": "All it takes to convert a First World country into a Third World country is enough Third World people voting their ideology. Trump is an embarrassment and needs to resign. In China at a meeting with leaders of China, Russia and the U.S., Trump was sound asleep. This was after he snuggled up to Putin and praised him at every opportunity. Oh, Grand Junction City Council - the council for those with money, the elite, the rich. They even considered closing the senior center. I guess this elite bunch forget that most citizens are not as wealthy as they on that council are rich! So they want to further cut off the Orchard Community part of the city. And this elite council wants to reduce…",
+   "sources": [
+    "https://www.gjsentinel.com/opinion/you_said_it/you-said-it-nov-28-2026/article_be8415e9-b3d2-4238-b5e3-4040cc61e6da.html"
+   ],
+   "publishedAt": "2026-11-28T09:08:33Z",
+   "topic": "World",
+   "id": "5B2E261F0DCB4182760979C30E15D88F",
+   "provider": "Bigdata.com",
+   "sentiment": -0.39
+  },
+  {
    "title": "Gas prices drop ahead of Thanksgiving but remain above last year",
    "source": "MSN",
    "summary": "Gas prices drop ahead of Thanksgiving but remain above last year",
@@ -765,20 +807,6 @@
    "sentiment": -0.3
   },
   {
-   "title": "Bill Arnold reminded everyone",
-   "source": "Balloon-Juice.com",
-   "summary": "But, as a Ukrainian military source says, Starlink would make things much easier: \"It's like running in iron sneakers.",
-   "body": "But, as a Ukrainian military source says, Starlink would make things much easier: \"It's like running in iron sneakers. We've proven that we're good athletes, but a reliable Starlink would definitely make things easier,\" source says. POLITICO: Trump unilaterally amended a joint statement with NATO chief Mark Rutte, adding Ukraine alongside Russia in a warning against expanding the war. The original statement referred only to Russia. The move came days after Ukraine struck a Russian warship in Libya. Trump: \"I think Putin would like to see the war end. It takes two to tango.\" Trump whines that Putin \"had to go through a fake Russia Russia Russia investigation\" Trump claims he put…",
-   "sources": [
-    "https://balloon-juice.com/2026/11/26/war-for-ukraine-day-1736-a-brief-thursday-night-update/#comment-10076030"
-   ],
-   "publishedAt": "2026-11-28T04:38:37Z",
-   "topic": "World",
-   "id": "7A15B01FFE9202E4200D0B7D93D12D3C",
-   "provider": "Bigdata.com",
-   "sentiment": -0.7
-  },
-  {
    "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
    "source": "Yahoo! Finance",
    "summary": "January WTI crude oil (CLF27) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27) closed up +0.0066 (+0.27%).",
@@ -844,34 +872,6 @@
    "id": "B3EFAED06116C2B2829148BE7E11123A",
    "provider": "Bigdata.com",
    "sentiment": -0.22
-  },
-  {
-   "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
-   "source": "The Economic Times",
-   "summary": "US Bond market: 10-year Treasury yield rose 8.6 basis points to 4.93 per cent and the 2-year yield, more sensitive to expectations for Federal Reserve policy, rose 7.3 bps to 4.71 per cent.",
-   "body": "US Bond market: 10-year Treasury yield rose 8.6 basis points to 4.93 per cent and the 2-year yield, more sensitive to expectations for Federal Reserve policy, rose 7.3 bps to 4.71 per cent.",
-   "sources": [
-    "https://economictimes.indiatimes.com/world/business/us-dollar-rises-bond-treasury-yields-jump-but-thanksgiving-holiday-fails-to-cheer-bitcoin/articleshow/136235420.cms"
-   ],
-   "publishedAt": "2026-11-27T22:59:02Z",
-   "topic": "Markets",
-   "id": "7A4692B819FE22A83039345A9A659C2F",
-   "provider": "Bigdata.com",
-   "sentiment": 0.04
-  },
-  {
-   "title": "Dollar Moves Higher With T-Note Yields",
-   "source": "Nasdaq",
-   "summary": "The dollar index (DXY00) today is up by +0.26% on strength in T-note yields.",
-   "body": "The dollar index (DXY00) today is up by +0.26% on strength in T-note yields. Also, reduced expectations of aggressive Fed rate cuts are boosting the dollar on positive carryover from Monday when Chicago Fed President Goolsbee said last month's job numbers \"came in weaker than expected but are not looking yet like a recession.\" US trade news today was bearish for the dollar after the US June trade deficit shrank to -$73.1 billion from a revised -$75.1 billion in May, a larger deficit than expectations of -$72.5 billion. The markets are discounting the chances at 100% for a -25 bp rate cut at the Sep 17-18 FOMC meeting and at 87% for a -50 bp rate cut at that meeting. EUR/USD (^EURUSD)…",
-   "sources": [
-    "https://www.nasdaq.com/articles/dollar-moves-higher-t-note-yields"
-   ],
-   "publishedAt": "2026-11-27T21:18:13Z",
-   "topic": "Markets",
-   "id": "8209C05EEE674D46E629563A10568149",
-   "provider": "Bigdata.com",
-   "sentiment": -0.26
   },
   {
    "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
