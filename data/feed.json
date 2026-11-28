@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T03:52:06Z",
+ "updatedAt": "2026-11-28T04:02:05Z",
  "ticker": [
   {
    "symbol": "SPY",
@@ -11,7 +11,7 @@
    "high52": 781.62,
    "low52": 629.28,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "QQQ",
@@ -23,7 +23,7 @@
    "high52": 762.86,
    "low52": 555.6,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "DIA",
@@ -35,7 +35,7 @@
    "high52": 546.75,
    "low52": 450.44,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "IWM",
@@ -47,31 +47,31 @@
    "high52": 305.18,
    "low52": 238.69,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Crypto",
-   "price": 59874.9883,
-   "changePct": 0.03,
+   "price": 59988.5312,
+   "changePct": 0.22,
    "prevClose": 59858.4883,
    "high52": 97860.6,
    "low52": 55149.57,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "group": "Crypto",
-   "price": 1662.89,
-   "changePct": 0.12,
+   "price": 1665.46,
+   "changePct": 0.28,
    "prevClose": 1660.84,
    "high52": 3446.62,
    "low52": 1506.51,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "WTI",
@@ -84,7 +84,7 @@
    "high52": 119.48,
    "low52": 54.98,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "WTI-SPOT",
@@ -107,7 +107,7 @@
    "high52": 126.1,
    "low52": 58.72,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "BRENT-SPOT",
@@ -129,7 +129,7 @@
    "prevClose": 35.09,
    "note": "Gasoline 19.53 · Diesel 71.28",
    "source": "Yahoo Finance (computed)",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "NATGAS",
@@ -143,7 +143,7 @@
    "high52": 7.83,
    "low52": 2.48,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "RBOB",
@@ -157,7 +157,7 @@
    "high52": 3.82,
    "low52": 1.67,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "ULSD",
@@ -171,7 +171,7 @@
    "high52": 5.43,
    "low52": 2.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "DIESEL",
@@ -216,7 +216,7 @@
    "changePct": -0.22,
    "note": "Week ago 3.6898 · Year ago 3.0255",
    "source": "AAA",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "NY-REG",
@@ -228,7 +228,7 @@
    "changePct": -0.11,
    "note": "Week ago 4.0556 · Year ago 3.141",
    "source": "AAA",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "US-DSL",
@@ -240,7 +240,7 @@
    "changePct": -0.35,
    "note": "Week ago 5.8982 · Year ago 3.769",
    "source": "AAA",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "NY-DSL",
@@ -252,7 +252,7 @@
    "changePct": -0.09,
    "note": "Week ago 6.2777 · Year ago 3.9437",
    "source": "AAA",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "GOLD",
@@ -265,7 +265,7 @@
    "high52": 5586.2,
    "low52": 3425.2,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "SILVER",
@@ -278,7 +278,7 @@
    "high52": 121.3,
    "low52": 40.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "COPPER",
@@ -291,7 +291,7 @@
    "high52": 6.83,
    "low52": 5.05,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "US10Y",
@@ -304,7 +304,7 @@
    "high52": 5.36,
    "low52": 3.96,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "DXY",
@@ -317,7 +317,7 @@
    "high52": 104.53,
    "low52": 95.55,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "VIX",
@@ -329,7 +329,7 @@
    "high52": 40.03,
    "low52": 13.38,
    "source": "Yahoo Finance",
-   "asOf": "2026-11-28T03:52:06Z"
+   "asOf": "2026-11-28T04:02:05Z"
   },
   {
    "symbol": "FEAR_GREED",
@@ -351,7 +351,7 @@
   "low": 41,
   "humidity": 82,
   "wind": 10,
-  "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph. Mostly cloudy, with a low around 41. Southwest wind around 10 mph. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
+  "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. West wind 9 to 14 mph.",
   "alerts": [],
   "hourly": [
    {
@@ -577,16 +577,16 @@
     "low": 41,
     "night": {
      "low": 41,
-     "condition": "cloud",
-     "conditionText": "Mostly Cloudy",
-     "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph.",
-     "precipPct": 4
+     "condition": "rain",
+     "conditionText": "Chance Rain Showers then Mostly Cloudy",
+     "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph.",
+     "precipPct": 6
     },
     "high": 43,
-    "conditionText": "Mostly Cloudy",
-    "condition": "cloud",
-    "summary": "Mostly cloudy, with a low around 41. Southwest wind around 10 mph.",
-    "precipPct": 4
+    "conditionText": "Chance Rain Showers then Mostly Cloudy",
+    "condition": "rain",
+    "summary": "A chance of rain showers before 7pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph.",
+    "precipPct": 6
    },
    {
     "date": "2026-11-28",
@@ -700,18 +700,18 @@
  },
  "news": [
   {
-   "title": "Report: Pentagon Delays Release of Europe Troop Review",
-   "source": "NewsMax.com",
-   "summary": "The review is part of a broader vision that Hegseth dubbed \"NATO 3.0,\" under which European allies would assume greater responsibility for the continent's conventional defense.",
-   "body": "The review is part of a broader vision that Hegseth dubbed \"NATO 3.0,\" under which European allies would assume greater responsibility for the continent's conventional defense. The U.S., meanwhile, would shift more of its military focus toward the Indo-Pacific. \"We're still hopeful to meet the Dec. 1 deadline - at least for [Hegseth] to have the final review,\" Under Secretary of War for Policy Elbridge Colby told reporters in Brussels last week, according to Politico. Colby noted \"enormous progress\" by Germany, Poland, the Netherlands, and Scandinavian countries in \"stepping up\" and spending more on their own defense. The NATO diplomats told Politico that the U.S. did not provide a new…",
+   "title": "Two Truths And Three Conceptual Errors: Towards A European Civil War? - OpEd",
+   "source": "EUROPE SAYS",
+   "summary": "But to return to Trump's undeniable merit-for which it is more appropriate to use the singular, as it is most likely his only one-Russia and the USA are the two nuclear superpowers between whom the game of chicken…",
+   "body": "But to return to Trump's undeniable merit-for which it is more appropriate to use the singular, as it is most likely his only one-Russia and the USA are the two nuclear superpowers between whom the game of chicken must absolutely be avoided. And he is doing just that. Is a European Civil War Coming? However, there is a danger that must be pointed out in advance, as it concerns us directly and comes as the price of Trump's courageous and intelligent reduction of tensions between Russia and the USA: the possibility that the war in Ukraine will turn into a European civil war between Russia and the rest of Europe. This danger arises from two unjustly contested truths and three conceptual…",
    "sources": [
-    "https://www.newsmax.com/world/globaltalk/pentagon-europe-troops/2026/11/27/id/1277745"
+    "https://www.europesays.com/europe/192408/"
    ],
-   "publishedAt": "2026-11-28T03:28:17Z",
+   "publishedAt": "2026-11-28T02:47:20Z",
    "topic": "World",
-   "id": "8A28DC77FB2BD0C7C2B8F0FDA092BDE7",
+   "id": "22C327184488FB266567CDA2FB9EAD5E",
    "provider": "Bigdata.com",
-   "sentiment": -0.46
+   "sentiment": -0.63
   },
   {
    "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
@@ -795,20 +795,6 @@
    "sentiment": 0.04
   },
   {
-   "title": "Wesley Clark to Newsmax: US Must Rebalance Russia Diplomacy",
-   "source": "NewsMax.com",
-   "summary": "Clark said Putin is trying to weaken European and U.S.",
-   "body": "Clark said Putin is trying to weaken European and U.S. support for Ukraine, and he noted the Trump administration has not yet released previously appropriated military assistance and shipments of Patriot missiles to Kyiv. \"So we're not actually doing much for Ukraine except intel,\" Clark said. He said Ukraine increasingly has turned to developing its own weapons, including ballistic missiles, to defend its independence. Clark also suggested Russia's reported ambitions to deploy nuclear weapons in space reflect Putin's weakened position. \"I think there's a role for President Trump in here and for the administration, for diplomacy. But you've got to get it rebalanced,\" he said. \"It's not…",
-   "sources": [
-    "https://www.newsmax.com/world/globaltalk/wesley-clark-donald-trump-vladimir-putin/2026/11/27/id/1277721"
-   ],
-   "publishedAt": "2026-11-27T21:41:09Z",
-   "topic": "World",
-   "id": "1B29B905208BC4923C6F76E815E6C37D",
-   "provider": "Bigdata.com",
-   "sentiment": -0.27
-  },
-  {
    "title": "Dollar Moves Higher With T-Note Yields",
    "source": "Nasdaq",
    "summary": "The dollar index (DXY00) today is up by +0.26% on strength in T-note yields.",
@@ -821,6 +807,20 @@
    "id": "8209C05EEE674D46E629563A10568149",
    "provider": "Bigdata.com",
    "sentiment": -0.26
+  },
+  {
+   "title": "Energy Fuels gains 11% as peers and the broader market rise",
+   "source": "Seeking Alpha",
+   "summary": "Energy Fuels gains 11% as peers and the broader market rise",
+   "body": "Energy Fuels gains 11% as peers and the broader market rise",
+   "sources": [
+    "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise&feed_item_type=news"
+   ],
+   "publishedAt": "2026-11-27T19:11:54Z",
+   "topic": "Energy",
+   "id": "D5CFBE61F33EF632A244A7435354F3A9",
+   "provider": "Bigdata.com",
+   "sentiment": 0.64
   },
   {
    "title": "Diesel Margins Keep Refiners Running as Gasoline Glut Builds, Vortexa Says",
@@ -849,20 +849,6 @@
    "sentiment": -0.11
   },
   {
-   "title": "New Zealand's Election Deadlock",
-   "source": "Philadelphia Trumpet",
-   "summary": "Negotiations could produce a more unwieldy coalition.",
-   "body": "Negotiations could produce a more unwieldy coalition. Negotiations could fall apart. The government could demand a recount, which could award it two seats that the National Party lost by small margins and restore its majority. New Zealand could head into a second round of elections. New Zealand's political paralysis comes as its fellow English-speaking nations deal with similar problems. The energized Democratic Party in the United States is threatening to oppose President Donald Trump, while the United Kingdom is on its sixth prime minister in 10 years. Canada faced an independence referendum in Alberta last month while a pro-independence party won election in Quebec, and South Africa's…",
-   "sources": [
-    "https://www.thetrumpet.com/36120-new-zealands-election-deadlock"
-   ],
-   "publishedAt": "2026-11-27T18:16:57Z",
-   "topic": "World",
-   "id": "3497B9E41BA1CC3ADFB4ADC47481B2E5",
-   "provider": "Bigdata.com",
-   "sentiment": -0.53
-  },
-  {
    "title": "US stocks set for weekly advance as battered AI shares hold their ground",
    "source": "Kitco News",
    "summary": "On the S&P 500 (.SPX), all but one sector was trading higher, with information technology stocks (.SPLRCT), providing the biggest boost.",
@@ -875,6 +861,20 @@
    "id": "5B7089115C612CCB2E9763A38AD63BD7",
    "provider": "Bigdata.com",
    "sentiment": 0.15
+  },
+  {
+   "title": "Pump prices dropping, but we're paying more than last year",
+   "source": "TheWorldlink.com",
+   "summary": "Crude prices are determined in international markets, based on global supply and demand, and are impacted by economic news as well as geopolitical events around the world including the conflict with Iran and…",
+   "body": "Crude prices are determined in international markets, based on global supply and demand, and are impacted by economic news as well as geopolitical events around the world including the conflict with Iran and disruptions in the Strait of Hormuz and the Red Sea, economic uncertainty, the situation in Venezuela, tensions over Greenland, sanctions on Iran's oil, the conflict between Israel and Hamas, and the war between Russia and Ukraine. Russia is a top global oil producer, behind the U.S. and Saudi Arabia. Crude oil is the main ingredient in gasoline and diesel, so pump prices are impacted by crude prices on the global markets. On average, about 50% of what we pay for in a gallon of…",
+   "sources": [
+    "http://theworldlink.com/news/pump-prices-dropping-but-were-paying-more-than-last-year/article_658576eb-23fb-5018-8a0a-6c9398652fca.html"
+   ],
+   "publishedAt": "2026-11-27T16:44:23Z",
+   "topic": "Energy",
+   "id": "DA6FCC59181B930B01E0A8E706341B2F",
+   "provider": "Bigdata.com",
+   "sentiment": -0.48
   },
   {
    "title": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
